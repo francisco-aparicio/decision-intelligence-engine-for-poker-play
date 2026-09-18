@@ -1,0 +1,2948 @@
+Transcrito último 1 hora de jogo requerido por osorio211 (faparicio.lopes@gmail.com)
+
+*********** # 1 **************
+Mão #261900159976 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:45:01 UTC [2026/08/28 18:45:01 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: gunariki (1.50 € em fichas)
+Lugar 2: Fisgas (4.16 € em fichas)
+Lugar 3: Armas1989 (0.78 € em fichas)
+Lugar 4: Xicoazul87 (2.15 € em fichas)
+Lugar 5: osorio211 (2.25 € em fichas)
+Lugar 6: dparentee (0.78 € em fichas)
+Armas1989: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 8h]
+osorio211: desiste
+dparentee: iguala 0.02 €
+gunariki: iguala 0.02 €
+Fisgas: desiste
+Armas1989: desiste
+Xicoazul87: passa
+*** FLOP *** [5c Ks 4d]
+Xicoazul87: passa
+dparentee: aposta 0.07 €
+gunariki: sobe 0.21 € para 0.28 €
+Xicoazul87: desiste
+osorio211 abandona a mesa
+dparentee: sobe 0.48 € para 0.76 € e está all-in
+gunariki: iguala 0.48 €
+*** TURN *** [5c Ks 4d] [9d]
+*** RIVER *** [5c Ks 4d 9d] [8s]
+*** SHOW DOWN ***
+dparentee: mostra [Kc 8d] (dois pares, Reis e Oitos)
+gunariki: mostra [Kh 9c] (dois pares, Reis e Noves)
+gunariki recebeu 1.51 € do pote
+D4rkEntity junta-se à mesa no lugar #5
+*** SUMÁRIO ***
+Total pote 1.59 € | comissão 0.08 €
+Mesa [5c Ks 4d 9d 8s]
+Lugar 1: gunariki mostrou [Kh 9c] e ganhou (1.51 €) com dois pares, Reis e Noves
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Armas1989 (small blind) desistiu antes Flop
+Lugar 4: Xicoazul87 (big blind) desistiu no Flop
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee mostrou [Kc 8d] e perdeu com dois pares, Reis e Oitos
+
+
+*********** # 2 **************
+Mão #261900154367 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:44:30 UTC [2026/08/28 18:44:30 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: gunariki (1.50 € em fichas)
+Lugar 2: Fisgas (4.07 € em fichas)
+Lugar 3: Armas1989 (0.80 € em fichas)
+Lugar 4: Xicoazul87 (2.15 € em fichas)
+Lugar 5: osorio211 (2.25 € em fichas)
+Lugar 6: dparentee (0.86 € em fichas)
+Fisgas: é small blind 0.01 €
+Armas1989: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d 6s]
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: sobe 0.06 € para 0.08 €
+gunariki: desiste
+Fisgas: iguala 0.07 €
+Armas1989: desiste
+*** FLOP *** [3s 7c 5s]
+Fisgas: aposta 0.13 €
+dparentee: desiste
+Aposta não-igualada (0.13 €) voltou para Fisgas
+Fisgas recebeu 0.17 € do pote
+Fisgas: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0.01 €
+Mesa [3s 7c 5s]
+Lugar 1: gunariki (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (small blind) recebeu (0.17 €)
+Lugar 3: Armas1989 (big blind) desistiu antes Flop
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee desistiu no Flop
+
+
+*********** # 3 **************
+Mão #261900154242 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:44:29 UTC [2026/08/28 18:44:29 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #2 é o botão
+Lugar 2: RealHurley101 (3.16 € em fichas)
+Lugar 3: osorio211 (2.09 € em fichas)
+Lugar 5: micax82 (1.29 € em fichas)
+Lugar 6: ValeraGiraff (1.91 € em fichas)
+osorio211: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s Tc]
+ValeraGiraff: sobe 0.04 € para 0.06 €
+RealHurley101: iguala 0.06 €
+osorio211: desiste
+micax82: iguala 0.04 €
+*** FLOP *** [Ks Kd 4s]
+micax82: passa
+ValeraGiraff: aposta 0.08 €
+RealHurley101: iguala 0.08 €
+micax82: iguala 0.08 €
+*** TURN *** [Ks Kd 4s] [7h]
+micax82: passa
+00ALLYN00 junta-se à mesa no lugar #4
+ValeraGiraff: passa
+osorio211 abandona a mesa
+RealHurley101: aposta 0.41 €
+micax82: desiste
+ValeraGiraff: desiste
+Aposta não-igualada (0.41 €) voltou para RealHurley101
+RealHurley101 recebeu 0.41 € do pote
+RealHurley101: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.43 € | comissão 0.02 €
+Mesa [Ks Kd 4s 7h]
+Lugar 2: RealHurley101 (Botão) recebeu (0.41 €)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 5: micax82 (big blind) desistiu no Turn
+Lugar 6: ValeraGiraff desistiu no Turn
+
+
+*********** # 4 **************
+Mão #261900144820 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:43:38 UTC [2026/08/28 18:43:38 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 1: gunariki (1.56 € em fichas)
+Lugar 2: Fisgas (4.09 € em fichas)
+Lugar 4: Xicoazul87 (2.15 € em fichas)
+Lugar 5: osorio211 (2.25 € em fichas)
+Lugar 6: dparentee (0.79 € em fichas)
+gunariki: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c 8s]
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: sobe 0.04 € para 0.06 €
+gunariki: iguala 0.05 €
+Fisgas: desiste
+*** FLOP *** [Tc Ah 2s]
+gunariki: passa
+dparentee: aposta 0.09 €
+gunariki: desiste
+Aposta não-igualada (0.09 €) voltou para dparentee
+dparentee recebeu 0.13 € do pote
+dparentee: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [Tc Ah 2s]
+Lugar 1: gunariki (small blind) desistiu no Flop
+Lugar 2: Fisgas (big blind) desistiu antes Flop
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee (Botão) recebeu (0.13 €)
+
+
+*********** # 5 **************
+Mão #261900143272 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:43:29 UTC [2026/08/28 18:43:29 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #6 é o botão
+Lugar 2: RealHurley101 (2.86 € em fichas)
+Lugar 3: osorio211 (2.11 € em fichas)
+Lugar 4: jffbarros (3.34 € em fichas)
+Lugar 5: micax82 (1.29 € em fichas)
+Lugar 6: ValeraGiraff (2.16 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d 2c]
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: desiste
+ValeraGiraff: iguala 0.06 €
+RealHurley101: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [4h 5d 3h]
+RealHurley101: passa
+jffbarros: desiste
+jffbarros abandona a mesa
+ValeraGiraff: passa
+*** TURN *** [4h 5d 3h] [5h]
+RealHurley101: passa
+ValeraGiraff: aposta 0.19 €
+RealHurley101: iguala 0.19 €
+*** RIVER *** [4h 5d 3h 5h] [9s]
+RealHurley101: passa
+ValeraGiraff: passa
+*** SHOW DOWN ***
+RealHurley101: mostra [4s Ah] (dois pares, Cincos e Quatros)
+ValeraGiraff: esconde a mão
+RealHurley101 recebeu 0.55 € do pote
+*** SUMÁRIO ***
+Total pote 0.58 € | comissão 0.03 €
+Mesa [4h 5d 3h 5h 9s]
+Lugar 2: RealHurley101 (small blind) mostrou [4s Ah] e ganhou (0.55 €) com dois pares, Cincos e Quatros
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: jffbarros desistiu no Flop
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: ValeraGiraff (Botão) escondeu as cartas [Kh Jd]
+
+
+*********** # 6 **************
+Mão #261900137624 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:42:59 UTC [2026/08/28 18:42:59 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: gunariki (1.58 € em fichas)
+Lugar 2: Fisgas (4.09 € em fichas)
+Lugar 4: Xicoazul87 (1.94 € em fichas)
+Lugar 5: osorio211 (2.43 € em fichas)
+Lugar 6: dparentee (0.80 € em fichas)
+dparentee: é small blind 0.01 €
+gunariki: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh Qh]
+Fisgas: desiste
+Xicoazul87: sobe 0.02 € para 0.04 €
+Armas1989 junta-se à mesa no lugar #3
+osorio211: sobe 0.14 € para 0.18 €
+dparentee: desiste
+gunariki: desiste
+Xicoazul87: sobe 1.76 € para 1.94 € e está all-in
+osorio211: desiste
+Aposta não-igualada (1.76 €) voltou para Xicoazul87
+Xicoazul87 recebeu 0.39 € do pote
+Xicoazul87: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.39 € | comissão 0 €
+Lugar 1: gunariki (big blind) desistiu antes Flop
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 recebeu (0.39 €)
+Lugar 5: osorio211 (Botão) desistiu antes Flop
+Lugar 6: dparentee (small blind) desistiu antes Flop
+
+
+*********** # 7 **************
+Mão #261900133029 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:42:33 UTC [2026/08/28 18:42:33 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 2: RealHurley101 (2.92 € em fichas)
+Lugar 3: osorio211 (2.11 € em fichas)
+Lugar 4: jffbarros (3.34 € em fichas)
+Lugar 5: micax82 (1.52 € em fichas)
+Lugar 6: ValeraGiraff (1.90 € em fichas)
+ValeraGiraff: é small blind 0.01 €
+RealHurley101: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d Ad]
+JacNor81 abandona a mesa
+osorio211: desiste
+jffbarros: desiste
+micax82: iguala 0.02 €
+ValeraGiraff: sobe 0.04 € para 0.06 €
+RealHurley101: iguala 0.04 €
+micax82: iguala 0.04 €
+*** FLOP *** [Qc Kd Ts]
+ValeraGiraff: aposta 0.17 €
+RealHurley101: desiste
+micax82: iguala 0.17 €
+*** TURN *** [Qc Kd Ts] [4d]
+ValeraGiraff: aposta 0.49 €
+micax82: desiste
+Aposta não-igualada (0.49 €) voltou para ValeraGiraff
+ValeraGiraff recebeu 0.49 € do pote
+ValeraGiraff: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.52 € | comissão 0.03 €
+Mesa [Qc Kd Ts 4d]
+Lugar 2: RealHurley101 (big blind) desistiu no Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: micax82 (Botão) desistiu no Turn
+Lugar 6: ValeraGiraff (small blind) recebeu (0.49 €)
+
+
+*********** # 8 **************
+Mão #261900132607 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:42:31 UTC [2026/08/28 18:42:31 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: gunariki (1.64 € em fichas)
+Lugar 2: Fisgas (4.09 € em fichas)
+Lugar 4: Xicoazul87 (1.94 € em fichas)
+Lugar 5: osorio211 (2.44 € em fichas)
+Lugar 6: dparentee (0.74 € em fichas)
+osorio211: é small blind 0.01 €
+dparentee: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2c Td]
+gunariki: iguala 0.02 €
+Fisgas: desiste
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: sobe 0.04 € para 0.06 €
+gunariki: iguala 0.04 €
+*** FLOP *** [9h Kd 6h]
+dparentee: aposta 0.06 €
+gunariki: desiste
+Aposta não-igualada (0.06 €) voltou para dparentee
+dparentee recebeu 0.12 € do pote
+dparentee: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [9h Kd 6h]
+Lugar 1: gunariki desistiu no Flop
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+Lugar 6: dparentee (big blind) recebeu (0.12 €)
+
+
+*********** # 9 **************
+Mão #261900127834 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:42:05 UTC [2026/08/28 18:42:05 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: gunariki (1.61 € em fichas)
+Lugar 2: Fisgas (4.09 € em fichas)
+Lugar 4: Xicoazul87 (1.95 € em fichas)
+Lugar 5: osorio211 (2.46 € em fichas)
+Lugar 6: dparentee (0.74 € em fichas)
+Xicoazul87: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c Th]
+dparentee: desiste
+gunariki: iguala 0.02 €
+Fisgas: desiste
+Xicoazul87: desiste
+osorio211: passa
+*** FLOP *** [Ac 2c 6s]
+osorio211: passa
+gunariki: passa
+*** TURN *** [Ac 2c 6s] [8d]
+osorio211: passa
+gunariki: aposta 0.03 €
+osorio211: desiste
+Aposta não-igualada (0.03 €) voltou para gunariki
+gunariki recebeu 0.05 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [Ac 2c 6s 8d]
+Lugar 1: gunariki recebeu (0.05 €)
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (small blind) desistiu antes Flop
+Lugar 5: osorio211 (big blind) desistiu no Turn
+Lugar 6: dparentee desistiu antes Flop (não apostou)
+
+
+*********** # 10 **************
+Mão #261900122462 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:41:36 UTC [2026/08/28 18:41:36 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: gunariki (1.57 € em fichas)
+Lugar 2: Fisgas (4.11 € em fichas)
+Lugar 4: Xicoazul87 (1.97 € em fichas)
+Lugar 5: osorio211 (2.46 € em fichas)
+Lugar 6: dparentee (0.74 € em fichas)
+Fisgas: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d 7h]
+osorio211: desiste
+JacNor81 abandona a mesa
+dparentee: desiste
+gunariki: iguala 0.02 €
+Fisgas: iguala 0.01 €
+Xicoazul87: passa
+*** FLOP *** [3c Ac Ah]
+Fisgas: passa
+Xicoazul87: passa
+gunariki: aposta 0.06 €
+Fisgas: desiste
+Xicoazul87: desiste
+Aposta não-igualada (0.06 €) voltou para gunariki
+gunariki recebeu 0.06 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [3c Ac Ah]
+Lugar 1: gunariki (Botão) recebeu (0.06 €)
+Lugar 2: Fisgas (small blind) desistiu no Flop
+Lugar 4: Xicoazul87 (big blind) desistiu no Flop
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee desistiu antes Flop (não apostou)
+
+
+*********** # 11 **************
+Mão #261900115189 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:40:57 UTC [2026/08/28 18:40:57 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2.25 € em fichas)
+Lugar 2: RealHurley101 (2.98 € em fichas)
+Lugar 3: osorio211 (2.11 € em fichas)
+Lugar 4: jffbarros (3.50 € em fichas)
+Lugar 5: micax82 (1.30 € em fichas)
+Lugar 6: ValeraGiraff (1.92 € em fichas)
+micax82: é small blind 0.01 €
+ValeraGiraff: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ks 4d]
+JacNor81: desiste
+RealHurley101: iguala 0.02 €
+osorio211: desiste
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: iguala 0.05 €
+ValeraGiraff: desiste
+RealHurley101: iguala 0.04 €
+*** FLOP *** [Jh 3c 2c]
+micax82: passa
+RealHurley101: passa
+jffbarros: passa
+*** TURN *** [Jh 3c 2c] [9c]
+micax82: passa
+RealHurley101: passa
+jffbarros: passa
+*** RIVER *** [Jh 3c 2c 9c] [6s]
+micax82: aposta 0.10 €
+RealHurley101: desiste
+jffbarros: iguala 0.10 €
+*** SHOW DOWN ***
+micax82: mostra [Tc 8c] (Cor, Dez carta mais alta)
+jffbarros: esconde a mão
+micax82 recebeu 0.38 € do pote
+*** SUMÁRIO ***
+Total pote 0.40 € | comissão 0.02 €
+Mesa [Jh 3c 2c 9c 6s]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 desistiu no River
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) escondeu as cartas [As 6c]
+Lugar 5: micax82 (small blind) mostrou [Tc 8c] e ganhou (0.38 €) com Cor, Dez carta mais alta
+Lugar 6: ValeraGiraff (big blind) desistiu antes Flop
+
+
+*********** # 12 **************
+Mão #261900113816 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:40:49 UTC [2026/08/28 18:40:49 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 1: gunariki (1.50 € em fichas)
+Lugar 2: Fisgas (4.13 € em fichas)
+Lugar 3: JacNor81 (2.44 € em fichas)
+Lugar 4: Xicoazul87 (1.97 € em fichas)
+Lugar 5: osorio211 (2.46 € em fichas)
+Lugar 6: dparentee (0.80 € em fichas)
+gunariki: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 6d]
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: iguala 0.02 €
+gunariki: iguala 0.01 €
+Fisgas: passa
+*** FLOP *** [Jd Tc 4d]
+gunariki: aposta 0.02 €
+Fisgas: desiste
+dparentee: iguala 0.02 €
+*** TURN *** [Jd Tc 4d] [Kc]
+gunariki: aposta 0.02 €
+dparentee: iguala 0.02 €
+*** RIVER *** [Jd Tc 4d Kc] [3d]
+gunariki: aposta 0.02 €
+dparentee: desiste
+Aposta não-igualada (0.02 €) voltou para gunariki
+gunariki recebeu 0.13 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [Jd Tc 4d Kc 3d]
+Lugar 1: gunariki (small blind) recebeu (0.13 €)
+Lugar 2: Fisgas (big blind) desistiu no Flop
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee (Botão) desistiu no River
+
+
+*********** # 13 **************
+Mão #261900109404 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:40:25 UTC [2026/08/28 18:40:25 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: gunariki (1.46 € em fichas)
+Lugar 2: Fisgas (4.15 € em fichas)
+Lugar 3: JacNor81 (2.44 € em fichas)
+Lugar 4: Xicoazul87 (1.97 € em fichas)
+Lugar 5: osorio211 (2.46 € em fichas)
+Lugar 6: dparentee (0.82 € em fichas)
+dparentee: é small blind 0.01 €
+gunariki: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Kd]
+Fisgas: iguala 0.02 €
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: iguala 0.01 €
+gunariki: passa
+*** FLOP *** [Qs Tc 6h]
+dparentee: passa
+gunariki: aposta 0.02 €
+Fisgas: desiste
+dparentee: desiste
+Aposta não-igualada (0.02 €) voltou para gunariki
+gunariki recebeu 0.06 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [Qs Tc 6h]
+Lugar 1: gunariki (big blind) recebeu (0.06 €)
+Lugar 2: Fisgas desistiu no Flop
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: dparentee (small blind) desistiu no Flop
+
+
+*********** # 14 **************
+Mão #261900106673 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:40:10 UTC [2026/08/28 18:40:10 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2.25 € em fichas)
+Lugar 2: RealHurley101 (3.02 € em fichas)
+Lugar 3: osorio211 (2.15 € em fichas)
+Lugar 4: jffbarros (3.51 € em fichas)
+Lugar 5: micax82 (1.34 € em fichas)
+Lugar 6: ValeraGiraff (1.80 € em fichas)
+jffbarros: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 7h]
+ValeraGiraff: sobe 0.02 € para 0.04 €
+JacNor81: desiste
+RealHurley101: iguala 0.04 €
+osorio211: iguala 0.04 €
+jffbarros: desiste
+micax82: iguala 0.02 €
+*** FLOP *** [2s 9d As]
+micax82: passa
+ValeraGiraff: aposta 0.16 €
+RealHurley101: desiste
+osorio211: desiste
+micax82: desiste
+Aposta não-igualada (0.16 €) voltou para ValeraGiraff
+ValeraGiraff recebeu 0.16 € do pote
+ValeraGiraff: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.17 € | comissão 0.01 €
+Mesa [2s 9d As]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 desistiu no Flop
+Lugar 3: osorio211 (Botão) desistiu no Flop
+Lugar 4: jffbarros (small blind) desistiu antes Flop
+Lugar 5: micax82 (big blind) desistiu no Flop
+Lugar 6: ValeraGiraff recebeu (0.16 €)
+
+
+*********** # 15 **************
+Mão #261900100839 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:39:39 UTC [2026/08/28 18:39:39 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: gunariki (1.56 € em fichas)
+Lugar 2: Fisgas (4.15 € em fichas)
+Lugar 3: JacNor81 (2.44 € em fichas)
+Lugar 4: Xicoazul87 (1.46 € em fichas)
+Lugar 5: osorio211 (2.28 € em fichas)
+Lugar 6: dparentee (0.92 € em fichas)
+osorio211: é small blind 0.01 €
+dparentee: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 9c]
+gunariki: iguala 0.02 €
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: sobe 0.08 € para 0.10 €
+dparentee: iguala 0.08 €
+gunariki: iguala 0.08 €
+*** FLOP *** [3d Ks 7s]
+osorio211: aposta 0.09 €
+dparentee: desiste
+gunariki: desiste
+Aposta não-igualada (0.09 €) voltou para osorio211
+osorio211 recebeu 0.28 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.30 € | comissão 0.02 €
+Mesa [3d Ks 7s]
+Lugar 1: gunariki desistiu no Flop
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) recebeu (0.28 €)
+Lugar 6: dparentee (big blind) desistiu no Flop
+
+
+*********** # 16 **************
+Mão #261900093883 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:39:01 UTC [2026/08/28 18:39:01 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #2 é o botão
+Lugar 1: JacNor81 (2.25 € em fichas)
+Lugar 2: RealHurley101 (3.02 € em fichas)
+Lugar 3: osorio211 (2.01 € em fichas)
+Lugar 4: jffbarros (3.67 € em fichas)
+Lugar 5: micax82 (1.34 € em fichas)
+Lugar 6: ValeraGiraff (1.80 € em fichas)
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Ah]
+micax82: desiste
+ValeraGiraff gastou o tempo
+ValeraGiraff: desiste
+JacNor81: desiste
+RealHurley101: desiste
+osorio211: sobe 0.06 € para 0.08 €
+jffbarros: iguala 0.06 €
+*** FLOP *** [4d 6s 5d]
+osorio211: aposta 0.08 €
+jffbarros: iguala 0.08 €
+*** TURN *** [4d 6s 5d] [6c]
+osorio211: passa
+jffbarros: passa
+*** RIVER *** [4d 6s 5d 6c] [2c]
+osorio211: passa
+jffbarros: passa
+*** SHOW DOWN ***
+osorio211: mostra [4h Ah] (dois pares, Seis e Quatros)
+jffbarros: esconde a mão
+osorio211 recebeu 0.30 € do pote
+*** SUMÁRIO ***
+Total pote 0.32 € | comissão 0.02 €
+Mesa [4d 6s 5d 6c 2c]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) mostrou [4h Ah] e ganhou (0.30 €) com dois pares, Seis e Quatros
+Lugar 4: jffbarros (big blind) escondeu as cartas [8s 4s]
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: ValeraGiraff desistiu antes Flop (não apostou)
+
+
+*********** # 17 **************
+Mão #261900092211 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:38:52 UTC [2026/08/28 18:38:52 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 1: gunariki (1.58 € em fichas)
+Lugar 2: Fisgas (4.15 € em fichas)
+Lugar 3: JacNor81 (2.44 € em fichas)
+Lugar 4: Xicoazul87 (1.60 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: dparentee (1.06 € em fichas)
+Xicoazul87: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+dparentee: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh Ts]
+dparentee: passa
+gunariki: iguala 0.02 €
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: iguala 0.01 €
+osorio211: sobe 0.12 € para 0.14 €
+dparentee: iguala 0.12 €
+gunariki: desiste
+Xicoazul87: iguala 0.12 €
+*** FLOP *** [5s 2d Kd]
+Xicoazul87: passa
+osorio211: aposta 0.17 €
+dparentee: desiste
+Xicoazul87: desiste
+Aposta não-igualada (0.17 €) voltou para osorio211
+osorio211 recebeu 0.42 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.44 € | comissão 0.02 €
+Mesa [5s 2d Kd]
+Lugar 1: gunariki desistiu antes Flop
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (small blind) desistiu no Flop
+Lugar 5: osorio211 (big blind) recebeu (0.42 €)
+Lugar 6: dparentee desistiu no Flop
+
+
+*********** # 18 **************
+Mão #261900091824 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:38:50 UTC [2026/08/28 18:38:50 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2.25 € em fichas)
+Lugar 2: RealHurley101 (3.03 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.67 € em fichas)
+Lugar 5: micax82 (1.34 € em fichas)
+Lugar 6: ValeraGiraff (1.80 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc Tc]
+jffbarros: desiste
+micax82: desiste
+ValeraGiraff: desiste
+JacNor81: desiste
+RealHurley101: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) recebeu (0.02 €)
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: ValeraGiraff desistiu antes Flop (não apostou)
+
+
+*********** # 19 **************
+Mão #261900084693 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:38:12 UTC [2026/08/28 18:38:12 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: gunariki (1.55 € em fichas)
+Lugar 2: Fisgas (4.15 € em fichas)
+Lugar 3: JacNor81 (2.45 € em fichas)
+Lugar 4: Xicoazul87 (1.62 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+JacNor81: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts 4s]
+osorio211: desiste
+gunariki: iguala 0.02 €
+dparentee junta-se à mesa no lugar #6
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: passa
+*** FLOP *** [2h Ah Kh]
+Xicoazul87: passa
+gunariki: aposta 0.02 €
+Xicoazul87: desiste
+Aposta não-igualada (0.02 €) voltou para gunariki
+gunariki recebeu 0.05 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [2h Ah Kh]
+Lugar 1: gunariki recebeu (0.05 €)
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 4: Xicoazul87 (big blind) desistiu no Flop
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 20 **************
+Mão #261900076575 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:37:29 UTC [2026/08/28 18:37:29 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: gunariki (1.51 € em fichas)
+Lugar 2: Fisgas (4.17 € em fichas)
+Lugar 3: JacNor81 (2.47 € em fichas)
+Lugar 4: Xicoazul87 (1.62 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Fisgas: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h Qh]
+Xicoazul87: desiste
+osorio211: desiste
+gunariki: iguala 0.02 €
+Fisgas: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [7s 5s Ad]
+Fisgas: passa
+JacNor81: passa
+gunariki: aposta 0.03 €
+Fisgas: desiste
+JacNor81: desiste
+Aposta não-igualada (0.03 €) voltou para gunariki
+gunariki recebeu 0.06 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [7s 5s Ad]
+Lugar 1: gunariki (Botão) recebeu (0.06 €)
+Lugar 2: Fisgas (small blind) desistiu no Flop
+Lugar 3: JacNor81 (big blind) desistiu no Flop
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 21 **************
+Mão #261900074933 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:37:20 UTC [2026/08/28 18:37:20 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #6 é o botão
+Lugar 1: JacNor81 (2.26 € em fichas)
+Lugar 2: RealHurley101 (3.09 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.85 € em fichas)
+Lugar 5: micax82 (1.40 € em fichas)
+Lugar 6: ValeraGiraff (1.51 € em fichas)
+JacNor81: é small blind 0.01 €
+RealHurley101: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 2d]
+osorio211: desiste
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: iguala 0.06 €
+ValeraGiraff: iguala 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.04 €
+*** FLOP *** [4h 9d 8d]
+RealHurley101: passa
+jffbarros: passa
+micax82: passa
+ValeraGiraff: aposta 0.12 €
+RealHurley101: desiste
+jffbarros: iguala 0.12 €
+micax82: desiste
+*** TURN *** [4h 9d 8d] [3h]
+jffbarros: passa
+ValeraGiraff: passa
+*** RIVER *** [4h 9d 8d 3h] [Jh]
+jffbarros: passa
+ValeraGiraff: passa
+*** SHOW DOWN ***
+jffbarros: mostra [Ks As] (Carta alta Ás)
+ValeraGiraff: mostra [Ah 4s] (par de Quatros)
+ValeraGiraff recebeu 0.47 € do pote
+*** SUMÁRIO ***
+Total pote 0.49 € | comissão 0.02 €
+Mesa [4h 9d 8d 3h Jh]
+Lugar 1: JacNor81 (small blind) desistiu antes Flop
+Lugar 2: RealHurley101 (big blind) desistiu no Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros mostrou [Ks As] e perdeu com Carta alta Ás
+Lugar 5: micax82 desistiu no Flop
+Lugar 6: ValeraGiraff (Botão) mostrou [Ah 4s] e ganhou (0.47 €) com par de Quatros
+
+
+*********** # 22 **************
+Mão #261900070127 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:36:55 UTC [2026/08/28 18:36:55 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: gunariki (1.58 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.39 € em fichas)
+Lugar 4: Xicoazul87 (1.62 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+gunariki: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 6c]
+JacNor81: sobe 0.03 € para 0.05 €
+Xicoazul87: desiste
+osorio211: desiste
+gunariki: iguala 0.04 €
+Fisgas: desiste
+*** FLOP *** [Js Qc Ac]
+gunariki: aposta 0.02 €
+JacNor81: sobe 0.06 € para 0.08 €
+gunariki: desiste
+Aposta não-igualada (0.06 €) voltou para JacNor81
+JacNor81 recebeu 0.15 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [Js Qc Ac]
+Lugar 1: gunariki (small blind) desistiu no Flop
+Lugar 2: Fisgas (big blind) desistiu antes Flop
+Lugar 3: JacNor81 recebeu (0.15 €)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 23 **************
+Mão #261900067575 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:36:41 UTC [2026/08/28 18:36:41 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: gunariki (1.60 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.36 € em fichas)
+Lugar 4: Xicoazul87 (1.62 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+gunariki: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h 5d]
+Fisgas: desiste
+JacNor81: sobe 0.03 € para 0.05 €
+Xicoazul87: desiste
+osorio211: desiste
+gunariki: desiste
+Aposta não-igualada (0.03 €) voltou para JacNor81
+JacNor81 recebeu 0.05 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: gunariki (big blind) desistiu antes Flop
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 recebeu (0.05 €)
+Lugar 4: Xicoazul87 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 24 **************
+Mão #261900062074 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:36:12 UTC [2026/08/28 18:36:12 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 1: JacNor81 (2.28 € em fichas)
+Lugar 2: RealHurley101 (3.09 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.85 € em fichas)
+Lugar 5: micax82 (1.45 € em fichas)
+Lugar 6: ValeraGiraff (1.56 € em fichas)
+ValeraGiraff: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d Kd]
+RealHurley101: desiste
+osorio211: desiste
+jffbarros: desiste
+micax82: iguala 0.02 €
+ValeraGiraff: sobe 0.06 € para 0.08 €
+JacNor81: desiste
+micax82: iguala 0.06 €
+*** FLOP *** [As Js Jd]
+ValeraGiraff: aposta 0.17 €
+micax82: iguala 0.17 €
+*** TURN *** [As Js Jd] [4h]
+ValeraGiraff: aposta 0.49 €
+micax82: iguala 0.49 €
+*** RIVER *** [As Js Jd 4h] [7s]
+ValeraGiraff: aposta 0.50 €
+micax82: iguala 0.50 €
+*** SHOW DOWN ***
+ValeraGiraff: mostra [7d Ac] (dois pares, Ases e Valetes)
+micax82: mostra [3c Ah] (dois pares, Ases e Valetes)
+ValeraGiraff recebeu 1.19 € do pote
+micax82 recebeu 1.19 € do pote
+*** SUMÁRIO ***
+Total pote 2.50 € | comissão 0.12 €
+Mesa [As Js Jd 4h 7s]
+Lugar 1: JacNor81 (big blind) desistiu antes Flop
+Lugar 2: RealHurley101 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: micax82 (Botão) mostrou [3c Ah] e ganhou (1.19 €) com dois pares, Ases e Valetes
+Lugar 6: ValeraGiraff (small blind) mostrou [7d Ac] e ganhou (1.19 €) com dois pares, Ases e Valetes
+
+
+*********** # 25 **************
+Mão #261900060974 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:36:06 UTC [2026/08/28 18:36:06 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.27 € em fichas)
+Lugar 4: Xicoazul87 (1.67 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2.46 € em fichas)
+Xicoazul87: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 7s]
+ricardodst94: desiste
+Fisgas: desiste
+JacNor81: sobe 0.03 € para 0.05 €
+ricardodst94 abandona a mesa
+Xicoazul87: iguala 0.04 €
+osorio211: iguala 0.03 €
+*** FLOP *** [2c Qh Td]
+Xicoazul87: passa
+osorio211: passa
+JacNor81: aposta 0.10 €
+Xicoazul87: desiste
+osorio211: desiste
+Aposta não-igualada (0.10 €) voltou para JacNor81
+JacNor81 recebeu 0.14 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [2c Qh Td]
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) recebeu (0.14 €)
+Lugar 4: Xicoazul87 (small blind) desistiu no Flop
+Lugar 5: osorio211 (big blind) desistiu no Flop
+Lugar 6: ricardodst94 desistiu antes Flop (não apostou)
+
+
+*********** # 26 **************
+Mão #261900053073 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:35:24 UTC [2026/08/28 18:35:24 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.28 € em fichas)
+Lugar 4: Xicoazul87 (1.64 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2.48 € em fichas)
+JacNor81: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h 4h]
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: passa
+*** FLOP *** [3c 4s Tc]
+Xicoazul87: passa
+gunariki junta-se à mesa no lugar #1
+ricardodst94: passa
+*** TURN *** [3c 4s Tc] [Th]
+Xicoazul87: passa
+ricardodst94: passa
+*** RIVER *** [3c 4s Tc Th] [Qh]
+Xicoazul87: passa
+ricardodst94: passa
+*** SHOW DOWN ***
+Xicoazul87: mostra [4c As] (dois pares, Dez e Quatros)
+ricardodst94: esconde a mão
+Xicoazul87 recebeu 0.05 € do pote
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [3c 4s Tc Th Qh]
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 4: Xicoazul87 (big blind) mostrou [4c As] e ganhou (0.05 €) com dois pares, Dez e Quatros
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 escondeu as cartas [9s Ad]
+
+
+*********** # 27 **************
+Mão #261900047402 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:34:53 UTC [2026/08/28 18:34:53 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 2: Fisgas (4.21 € em fichas)
+Lugar 3: JacNor81 (2.26 € em fichas)
+Lugar 4: Xicoazul87 (1.64 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2.48 € em fichas)
+Fisgas: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad 2c]
+Xicoazul87: desiste
+osorio211: desiste
+ricardodst94: desiste
+PEDRO17SILVA abandona a mesa
+Fisgas: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [Ac 3c 8s]
+Fisgas: passa
+JacNor81: passa
+*** TURN *** [Ac 3c 8s] [4c]
+Fisgas: passa
+JacNor81: passa
+*** RIVER *** [Ac 3c 8s 4c] [9h]
+Fisgas: passa
+JacNor81: passa
+*** SHOW DOWN ***
+Fisgas: mostra [Tc Js] (Carta alta Ás)
+JacNor81: mostra [5h 5d] (par de Cincos)
+JacNor81 recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Ac 3c 8s 4c 9h]
+Lugar 2: Fisgas (small blind) mostrou [Tc Js] e perdeu com Carta alta Ás
+Lugar 3: JacNor81 (big blind) mostrou [5h 5d] e ganhou (0.04 €) com par de Cincos
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 28 **************
+Mão #261900044442 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:34:37 UTC [2026/08/28 18:34:37 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2.28 € em fichas)
+Lugar 2: RealHurley101 (1.75 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.31 € em fichas)
+Lugar 5: micax82 (1.46 € em fichas)
+Lugar 6: ValeraGiraff (1.58 € em fichas)
+micax82: é small blind 0.01 €
+ValeraGiraff: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s 6s]
+JacNor81: desiste
+RealHurley101: sobe 0.02 € para 0.04 €
+osorio211: desiste
+jffbarros: sobe 0.06 € para 0.10 €
+micax82: desiste
+ValeraGiraff: desiste
+RealHurley101: iguala 0.06 €
+*** FLOP *** [9d 6c 5c]
+RealHurley101: passa
+jffbarros: passa
+*** TURN *** [9d 6c 5c] [3c]
+RealHurley101: aposta 0.11 €
+jffbarros: sobe 0.25 € para 0.36 €
+RealHurley101: iguala 0.25 €
+*** RIVER *** [9d 6c 5c 3c] [Ac]
+RealHurley101: passa
+jffbarros: aposta 1 €
+RealHurley101: iguala 1 €
+*** SHOW DOWN ***
+jffbarros: mostra [Ts Ks] (Carta alta Ás)
+RealHurley101: mostra [Jc Kd] (Cor, Ás carta mais alta)
+RealHurley101 recebeu 2.80 € do pote
+*** SUMÁRIO ***
+Total pote 2.95 € | comissão 0.15 €
+Mesa [9d 6c 5c 3c Ac]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 mostrou [Jc Kd] e ganhou (2.80 €) com Cor, Ás carta mais alta
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) mostrou [Ts Ks] e perdeu com Carta alta Ás
+Lugar 5: micax82 (small blind) desistiu antes Flop
+Lugar 6: ValeraGiraff (big blind) desistiu antes Flop
+
+
+*********** # 29 **************
+Mão #261900041094 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:34:20 UTC [2026/08/28 18:34:20 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: PEDRO17SILVA (0.94 € em fichas)
+Lugar 2: Fisgas (4.21 € em fichas)
+Lugar 3: JacNor81 (2.26 € em fichas)
+Lugar 4: Xicoazul87 (1.64 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.58 € em fichas)
+ricardodst94: é small blind 0.01 €
+PEDRO17SILVA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As 6h]
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: sobe 0.04 € para 0.06 €
+ricardodst94: iguala 0.05 €
+PEDRO17SILVA: sobe 0.88 € para 0.94 € e está all-in
+osorio211: desiste
+ricardodst94: iguala 0.88 €
+*** FLOP *** [Kh 7d 9h]
+*** TURN *** [Kh 7d 9h] [Jc]
+*** RIVER *** [Kh 7d 9h Jc] [7h]
+*** SHOW DOWN ***
+ricardodst94: mostra [Ks Tc] (dois pares, Reis e Setes)
+PEDRO17SILVA: mostra [4h 4c] (dois pares, Setes e Quatros)
+ricardodst94 recebeu 1.84 € do pote
+*** SUMÁRIO ***
+Total pote 1.94 € | comissão 0.10 €
+Mesa [Kh 7d 9h Jc 7h]
+Lugar 1: PEDRO17SILVA (big blind) mostrou [4h 4c] e perdeu com dois pares, Setes e Quatros
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (Botão) desistiu antes Flop
+Lugar 6: ricardodst94 (small blind) mostrou [Ks Tc] e ganhou (1.84 €) com dois pares, Reis e Setes
+
+
+*********** # 30 **************
+Mão #261900035596 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:33:51 UTC [2026/08/28 18:33:51 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2.28 € em fichas)
+Lugar 2: RealHurley101 (1.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.32 € em fichas)
+Lugar 5: micax82 (1.52 € em fichas)
+Lugar 6: ValeraGiraff (1.46 € em fichas)
+jffbarros: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d 7s]
+ValeraGiraff: sobe 0.04 € para 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.06 €
+osorio211: desiste
+jffbarros: desiste
+micax82: iguala 0.04 €
+*** FLOP *** [4s Jd Kh]
+micax82: passa
+ValeraGiraff: aposta 0.08 €
+RealHurley101: desiste
+micax82: desiste
+Aposta não-igualada (0.08 €) voltou para ValeraGiraff
+ValeraGiraff recebeu 0.18 € do pote
+ValeraGiraff: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [4s Jd Kh]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 desistiu no Flop
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (small blind) desistiu antes Flop
+Lugar 5: micax82 (big blind) desistiu no Flop
+Lugar 6: ValeraGiraff recebeu (0.18 €)
+
+
+*********** # 31 **************
+Mão #261900025841 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:32:59 UTC [2026/08/28 18:32:59 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: PEDRO17SILVA (0.59 € em fichas)
+Lugar 2: Fisgas (4.21 € em fichas)
+Lugar 3: JacNor81 (2.26 € em fichas)
+Lugar 4: Xicoazul87 (1.68 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.92 € em fichas)
+osorio211: é small blind 0.01 €
+ricardodst94: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h 3s]
+PEDRO17SILVA: sobe 0.02 € para 0.04 €
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: iguala 0.04 €
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+*** FLOP *** [9c Qc Jd]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.12 €
+Xicoazul87: desiste
+ricardodst94: iguala 0.12 €
+*** TURN *** [9c Qc Jd] [7d]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.18 €
+ricardodst94: iguala 0.18 €
+*** RIVER *** [9c Qc Jd 7d] [Qh]
+ricardodst94: passa
+PEDRO17SILVA: passa
+*** SHOW DOWN ***
+ricardodst94: mostra [4c 5c] (par de Damas)
+PEDRO17SILVA: mostra [Tc Ah] (par de Damas - Ás kicker)
+PEDRO17SILVA recebeu 0.69 € do pote
+*** SUMÁRIO ***
+Total pote 0.73 € | comissão 0.04 €
+Mesa [9c Qc Jd 7d Qh]
+Lugar 1: PEDRO17SILVA mostrou [Tc Ah] e ganhou (0.69 €) com par de Damas
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (Botão) desistiu no Flop
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+Lugar 6: ricardodst94 (big blind) mostrou [4c 5c] e perdeu com par de Damas
+
+
+*********** # 32 **************
+Mão #261900023863 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:32:48 UTC [2026/08/28 18:32:48 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #2 é o botão
+Lugar 1: JacNor81 (2.28 € em fichas)
+Lugar 2: RealHurley101 (1.95 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.38 € em fichas)
+Lugar 5: micax82 (1.52 € em fichas)
+Lugar 6: ValeraGiraff (1.27 € em fichas)
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c Ts]
+micax82: desiste
+ValeraGiraff: sobe 0.04 € para 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.06 €
+osorio211: desiste
+jffbarros: iguala 0.04 €
+*** FLOP *** [As Qc Qh]
+jffbarros: passa
+ValeraGiraff: aposta 0.08 €
+RealHurley101: iguala 0.08 €
+jffbarros: desiste
+*** TURN *** [As Qc Qh] [Th]
+ValeraGiraff: aposta 0.33 €
+RealHurley101: desiste
+Aposta não-igualada (0.33 €) voltou para ValeraGiraff
+ValeraGiraff recebeu 0.33 € do pote
+ValeraGiraff: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.35 € | comissão 0.02 €
+Mesa [As Qc Qh Th]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (Botão) desistiu no Turn
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: jffbarros (big blind) desistiu no Flop
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: ValeraGiraff recebeu (0.33 €)
+
+
+*********** # 33 **************
+Mão #261900022534 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:32:41 UTC [2026/08/28 18:32:41 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 1: PEDRO17SILVA (0.59 € em fichas)
+Lugar 2: Fisgas (4.21 € em fichas)
+Lugar 3: JacNor81 (2.26 € em fichas)
+Lugar 4: Xicoazul87 (1.66 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.92 € em fichas)
+Xicoazul87: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d 4s]
+ricardodst94: desiste
+PEDRO17SILVA: desiste
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.02 €) voltou para Xicoazul87
+Xicoazul87 recebeu 0.04 € do pote
+Xicoazul87: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: PEDRO17SILVA desistiu antes Flop (não apostou)
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (small blind) recebeu (0.04 €)
+Lugar 5: osorio211 (big blind) desistiu antes Flop
+Lugar 6: ricardodst94 desistiu antes Flop (não apostou)
+
+
+*********** # 34 **************
+Mão #261900019942 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:32:27 UTC [2026/08/28 18:32:27 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: PEDRO17SILVA (0.59 € em fichas)
+Lugar 2: Fisgas (4.21 € em fichas)
+Lugar 3: JacNor81 (2.27 € em fichas)
+Lugar 4: Xicoazul87 (1.65 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.92 € em fichas)
+JacNor81: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c Ah]
+osorio211: desiste
+ricardodst94: desiste
+PEDRO17SILVA: desiste
+Fisgas: desiste
+JacNor81: desiste
+Aposta não-igualada (0.01 €) voltou para Xicoazul87
+Xicoazul87 recebeu 0.02 € do pote
+Xicoazul87: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: PEDRO17SILVA desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 4: Xicoazul87 (big blind) recebeu (0.02 €)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 desistiu antes Flop (não apostou)
+
+
+*********** # 35 **************
+Mão #261900010915 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:31:40 UTC [2026/08/28 18:31:40 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2.28 € em fichas)
+Lugar 2: RealHurley101 (1.62 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.38 € em fichas)
+Lugar 5: micax82 (1.54 € em fichas)
+Lugar 6: ValeraGiraff (1.60 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+ValeraGiraff: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js 6c]
+jffbarros gastou o tempo
+jffbarros: desiste
+micax82: iguala 0.02 €
+ValeraGiraff: passa
+JacNor81: desiste
+RealHurley101: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [8c 7h 7d]
+RealHurley101: passa
+osorio211: passa
+micax82: passa
+ValeraGiraff: passa
+*** TURN *** [8c 7h 7d] [5d]
+RealHurley101: aposta 0.08 €
+osorio211: desiste
+micax82: desiste
+ValeraGiraff: iguala 0.08 €
+*** RIVER *** [8c 7h 7d 5d] [9s]
+RealHurley101: aposta 0.23 €
+ValeraGiraff: iguala 0.23 €
+*** SHOW DOWN ***
+RealHurley101: mostra [Ks 7s] (trio, Setes)
+ValeraGiraff: esconde a mão
+RealHurley101 recebeu 0.66 € do pote
+*** SUMÁRIO ***
+Total pote 0.70 € | comissão 0.04 €
+Mesa [8c 7h 7d 5d 9s]
+Lugar 1: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (small blind) mostrou [Ks 7s] e ganhou (0.66 €) com trio, Setes
+Lugar 3: osorio211 (big blind) desistiu no Turn
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: micax82 desistiu no Turn
+Lugar 6: ValeraGiraff escondeu as cartas [7c 2s]
+
+
+*********** # 36 **************
+Mão #261900009147 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:31:31 UTC [2026/08/28 18:31:31 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: PEDRO17SILVA (0.59 € em fichas)
+Lugar 2: Fisgas (4.17 € em fichas)
+Lugar 3: JacNor81 (2.29 € em fichas)
+Lugar 4: Xicoazul87 (1.65 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.94 € em fichas)
+Fisgas: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Ks]
+Xicoazul87: desiste
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: desiste
+Fisgas: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [Qc 7c Jd]
+Fisgas: passa
+JacNor81: passa
+ricardodst94: passa
+*** TURN *** [Qc 7c Jd] [4s]
+Fisgas: passa
+JacNor81: passa
+ricardodst94: passa
+*** RIVER *** [Qc 7c Jd 4s] [Qd]
+Fisgas: aposta 0.06 €
+JacNor81: desiste
+ricardodst94: desiste
+Aposta não-igualada (0.06 €) voltou para Fisgas
+Fisgas recebeu 0.06 € do pote
+Fisgas: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [Qc 7c Jd 4s Qd]
+Lugar 1: PEDRO17SILVA (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (small blind) recebeu (0.06 €)
+Lugar 3: JacNor81 (big blind) desistiu no River
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 desistiu no River
+
+
+*********** # 37 **************
+Mão #261900005787 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:31:13 UTC [2026/08/28 18:31:13 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 1: PEDRO17SILVA (0.51 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.29 € em fichas)
+Lugar 4: Xicoazul87 (1.65 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.94 € em fichas)
+PEDRO17SILVA: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th Kh]
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: sobe 0.04 € para 0.06 €
+ricardodst94: desiste
+PEDRO17SILVA: sobe 0.45 € para 0.51 € e está all-in
+Fisgas: desiste
+osorio211: desiste
+Aposta não-igualada (0.45 €) voltou para PEDRO17SILVA
+PEDRO17SILVA recebeu 0.14 € do pote
+PEDRO17SILVA: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0 €
+Lugar 1: PEDRO17SILVA (small blind) recebeu (0.14 €)
+Lugar 2: Fisgas (big blind) desistiu antes Flop
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop
+Lugar 6: ricardodst94 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 38 **************
+Mão #261899999616 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:30:40 UTC [2026/08/28 18:30:40 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: PEDRO17SILVA (0.47 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.29 € em fichas)
+Lugar 4: Xicoazul87 (1.65 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.98 € em fichas)
+ricardodst94: é small blind 0.01 €
+PEDRO17SILVA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d 2h]
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: desiste
+osorio211: desiste
+ricardodst94: iguala 0.01 €
+PEDRO17SILVA: sobe 0.02 € para 0.04 €
+ricardodst94: iguala 0.02 €
+*** FLOP *** [4c Js 2c]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.04 €
+ricardodst94: desiste
+Aposta não-igualada (0.04 €) voltou para PEDRO17SILVA
+PEDRO17SILVA recebeu 0.08 € do pote
+PEDRO17SILVA: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [4c Js 2c]
+Lugar 1: PEDRO17SILVA (big blind) recebeu (0.08 €)
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 (small blind) desistiu no Flop
+
+
+*********** # 39 **************
+Mão #261899996882 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:30:26 UTC [2026/08/28 18:30:26 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 1: JacNor81 (2.29 € em fichas)
+Lugar 2: RealHurley101 (1.68 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.64 € em fichas)
+Lugar 5: micax82 (1.24 € em fichas)
+ValeraGiraff poderá jogar depois do botão
+JacNor81: é small blind 0.01 €
+RealHurley101: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Qc]
+osorio211: desiste
+jffbarros: iguala 0.02 €
+micax82: sobe 0.04 € para 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.04 €
+jffbarros: iguala 0.04 €
+*** FLOP *** [As 7d 2h]
+RealHurley101: passa
+jffbarros: passa
+micax82: passa
+*** TURN *** [As 7d 2h] [7c]
+RealHurley101: passa
+jffbarros: aposta 0.20 €
+micax82: iguala 0.20 €
+RealHurley101: desiste
+*** RIVER *** [As 7d 2h 7c] [4h]
+jffbarros: passa
+micax82: passa
+*** SHOW DOWN ***
+jffbarros: mostra [8d 9s] (par de Setes)
+micax82: mostra [Jc Jd] (dois pares, Valetes e Setes)
+micax82 recebeu 0.56 € do pote
+*** SUMÁRIO ***
+Total pote 0.59 € | comissão 0.03 €
+Mesa [As 7d 2h 7c 4h]
+Lugar 1: JacNor81 (small blind) desistiu antes Flop
+Lugar 2: RealHurley101 (big blind) desistiu no Turn
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros mostrou [8d 9s] e perdeu com par de Setes
+Lugar 5: micax82 (Botão) mostrou [Jc Jd] e ganhou (0.56 €) com dois pares, Valetes e Setes
+
+
+*********** # 40 **************
+Mão #261899995736 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:30:20 UTC [2026/08/28 18:30:20 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: PEDRO17SILVA (0.23 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.29 € em fichas)
+Lugar 4: Xicoazul87 (1.88 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2 € em fichas)
+osorio211: é small blind 0.01 €
+ricardodst94: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d Kc]
+PEDRO17SILVA: sobe 0.21 € para 0.23 € e está all-in
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: iguala 0.23 €
+osorio211: desiste
+ricardodst94: desiste
+*** FLOP *** [Ad 7h Jh]
+*** TURN *** [Ad 7h Jh] [6c]
+*** RIVER *** [Ad 7h Jh 6c] [Qd]
+*** SHOW DOWN ***
+PEDRO17SILVA: mostra [Jd Kh] (par de Valetes)
+Xicoazul87: mostra [4h 3h] (Carta alta Ás)
+PEDRO17SILVA recebeu 0.47 € do pote
+*** SUMÁRIO ***
+Total pote 0.49 € | comissão 0.02 €
+Mesa [Ad 7h Jh 6c Qd]
+Lugar 1: PEDRO17SILVA mostrou [Jd Kh] e ganhou (0.47 €) com par de Valetes
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (Botão) mostrou [4h 3h] e perdeu com Carta alta Ás
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+Lugar 6: ricardodst94 (big blind) desistiu antes Flop
+
+
+*********** # 41 **************
+Mão #261899984477 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:29:22 UTC [2026/08/28 18:29:22 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 1: PEDRO17SILVA (0.47 € em fichas)
+Lugar 2: Fisgas (4.19 € em fichas)
+Lugar 3: JacNor81 (2.29 € em fichas)
+Lugar 4: Xicoazul87 (1.98 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.67 € em fichas)
+Xicoazul87: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h 5d]
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: iguala 0.02 €
+Fisgas: desiste
+JacNor81: desiste
+Xicoazul87: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [9c Ac Jc]
+Xicoazul87: aposta 0.04 €
+osorio211: desiste
+ricardodst94: iguala 0.04 €
+PEDRO17SILVA: iguala 0.04 €
+*** TURN *** [9c Ac Jc] [7c]
+Xicoazul87: aposta 0.04 €
+ricardodst94: sobe 0.14 € para 0.18 €
+PEDRO17SILVA: iguala 0.18 €
+Xicoazul87: desiste
+*** RIVER *** [9c Ac Jc 7c] [2d]
+ricardodst94: aposta 0.29 €
+PEDRO17SILVA: desiste
+Aposta não-igualada (0.29 €) voltou para ricardodst94
+ricardodst94 recebeu 0.57 € do pote
+ricardodst94: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.60 € | comissão 0.03 €
+Mesa [9c Ac Jc 7c 2d]
+Lugar 1: PEDRO17SILVA desistiu no River
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Xicoazul87 (small blind) desistiu no Turn
+Lugar 5: osorio211 (big blind) desistiu no Flop
+Lugar 6: ricardodst94 recebeu (0.57 €)
+
+
+*********** # 42 **************
+Mão #261899984290 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:29:22 UTC [2026/08/28 18:29:22 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2.31 € em fichas)
+Lugar 2: RealHurley101 (1.68 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.47 € em fichas)
+Lugar 5: micax82 (1.41 € em fichas)
+micax82: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h Jd]
+RealHurley101: desiste
+osorio211: desiste
+ValeraGiraff junta-se à mesa no lugar #6
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: iguala 0.05 €
+JacNor81: desiste
+*** FLOP *** [6h Js Ts]
+micax82: passa
+jffbarros: passa
+*** TURN *** [6h Js Ts] [2d]
+micax82: passa
+jffbarros: aposta 0.09 €
+micax82: iguala 0.09 €
+*** RIVER *** [6h Js Ts 2d] [As]
+micax82: aposta 0.02 €
+jffbarros: iguala 0.02 €
+*** SHOW DOWN ***
+micax82: mostra [7s 7c] (par de Setes)
+jffbarros: mostra [Th Kd] (par de Dez)
+jffbarros recebeu 0.34 € do pote
+*** SUMÁRIO ***
+Total pote 0.36 € | comissão 0.02 €
+Mesa [6h Js Ts 2d As]
+Lugar 1: JacNor81 (big blind) desistiu antes Flop
+Lugar 2: RealHurley101 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) mostrou [Th Kd] e ganhou (0.34 €) com par de Dez
+Lugar 5: micax82 (small blind) mostrou [7s 7c] e perdeu com par de Setes
+
+
+*********** # 43 **************
+Mão #261899973292 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:28:25 UTC [2026/08/28 18:28:25 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2.31 € em fichas)
+Lugar 2: RealHurley101 (1.68 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.40 € em fichas)
+Lugar 5: micax82 (1.49 € em fichas)
+Lugar 6: artur012344 (0.55 € em fichas)
+jffbarros: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js 5h]
+artur012344: desiste
+artur012344 abandona a mesa
+JacNor81: desiste
+RealHurley101: desiste
+osorio211: desiste
+jffbarros: iguala 0.01 €
+micax82: passa
+*** FLOP *** [3h Qs Ah]
+jffbarros: passa
+micax82: passa
+*** TURN *** [3h Qs Ah] [4h]
+jffbarros: aposta 0.04 €
+micax82: iguala 0.04 €
+*** RIVER *** [3h Qs Ah 4h] [Kd]
+jffbarros: passa
+micax82: aposta 0.02 €
+jffbarros: iguala 0.02 €
+*** SHOW DOWN ***
+micax82: mostra [6d 2h] (Carta alta Ás)
+jffbarros: mostra [Qc 7d] (par de Damas)
+jffbarros recebeu 0.15 € do pote
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [3h Qs Ah 4h Kd]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (small blind) mostrou [Qc 7d] e ganhou (0.15 €) com par de Damas
+Lugar 5: micax82 (big blind) mostrou [6d 2h] e perdeu com Carta alta Ás
+Lugar 6: artur012344 desistiu antes Flop (não apostou)
+
+
+*********** # 44 **************
+Mão #261899958695 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:27:10 UTC [2026/08/28 18:27:10 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #2 é o botão
+Lugar 1: JacNor81 (2.31 € em fichas)
+Lugar 2: RealHurley101 (1.74 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.46 € em fichas)
+Lugar 5: micax82 (0.72 € em fichas)
+Lugar 6: artur012344 (1.27 € em fichas)
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c Ah]
+micax82: iguala 0.02 €
+artur012344: sobe 0.04 € para 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.06 €
+osorio211: desiste
+jffbarros: iguala 0.04 €
+micax82: iguala 0.04 €
+*** FLOP *** [Td 5c Qh]
+jffbarros: passa
+micax82: aposta 0.12 €
+artur012344: iguala 0.12 €
+RealHurley101: desiste
+jffbarros: desiste
+*** TURN *** [Td 5c Qh] [6h]
+micax82: passa
+artur012344: aposta 1.09 € e está all-in
+micax82: iguala 0.54 € e está all-in
+Aposta não-igualada (0.55 €) voltou para artur012344
+*** RIVER *** [Td 5c Qh 6h] [9c]
+*** SHOW DOWN ***
+micax82: mostra [As Qs] (par de Damas)
+artur012344: mostra [3d 3s] (par de Três)
+micax82 recebeu 1.49 € do pote
+*** SUMÁRIO ***
+Total pote 1.57 € | comissão 0.08 €
+Mesa [Td 5c Qh 6h 9c]
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (Botão) desistiu no Flop
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: jffbarros (big blind) desistiu no Flop
+Lugar 5: micax82 mostrou [As Qs] e ganhou (1.49 €) com par de Damas
+Lugar 6: artur012344 mostrou [3d 3s] e perdeu com par de Três
+
+
+*********** # 45 **************
+Mão #261899958218 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:27:08 UTC [2026/08/28 18:27:08 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: PEDRO17SILVA (1.02 € em fichas)
+Lugar 2: Fisgas (3.13 € em fichas)
+Lugar 3: JacNor81 (2.31 € em fichas)
+Lugar 4: Xicoazul87 (2 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2.22 € em fichas)
+JacNor81: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As 8h]
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: iguala 0.02 €
+Fisgas: iguala 0.02 €
+JacNor81: iguala 0.01 €
+Xicoazul87: passa
+*** FLOP *** [9h 6h Kd]
+JacNor81: passa
+Xicoazul87: passa
+ricardodst94: aposta 0.02 €
+PEDRO17SILVA: sobe 0.04 € para 0.06 €
+Fisgas: iguala 0.06 €
+JacNor81: desiste
+Xicoazul87: desiste
+ricardodst94: iguala 0.04 €
+*** TURN *** [9h 6h Kd] [4c]
+ricardodst94: passa
+PEDRO17SILVA: passa
+Fisgas: aposta 0.14 €
+ricardodst94: iguala 0.14 €
+PEDRO17SILVA: iguala 0.14 €
+*** RIVER *** [9h 6h Kd 4c] [Qc]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.33 €
+Fisgas: iguala 0.33 €
+ricardodst94: iguala 0.33 €
+*** SHOW DOWN ***
+PEDRO17SILVA: mostra [9c Ts] (par de Noves)
+Fisgas: mostra [9s Ks] (dois pares, Reis e Noves)
+ricardodst94: esconde a mão
+Fisgas recebeu 1.61 € do pote
+*** SUMÁRIO ***
+Total pote 1.69 € | comissão 0.08 €
+Mesa [9h 6h Kd 4c Qc]
+Lugar 1: PEDRO17SILVA mostrou [9c Ts] e perdeu com par de Noves
+Lugar 2: Fisgas (Botão) mostrou [9s Ks] e ganhou (1.61 €) com dois pares, Reis e Noves
+Lugar 3: JacNor81 (small blind) desistiu no Flop
+Lugar 4: Xicoazul87 (big blind) desistiu no Flop
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 escondeu as cartas [Jd 9d]
+
+
+*********** # 46 **************
+Mão #261899948063 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:26:16 UTC [2026/08/28 18:26:16 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: PEDRO17SILVA (1.02 € em fichas)
+Lugar 2: Fisgas (3.39 € em fichas)
+Lugar 3: JacNor81 (2.33 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.97 € em fichas)
+Fisgas: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As Th]
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: desiste
+Fisgas: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [6d Ad 3h]
+Fisgas: passa
+JacNor81: passa
+ricardodst94: passa
+*** TURN *** [6d Ad 3h] [9h]
+Fisgas: passa
+JacNor81: passa
+ricardodst94: passa
+*** RIVER *** [6d Ad 3h 9h] [Td]
+Fisgas: aposta 0.06 €
+JacNor81: desiste
+ricardodst94: sobe 0.18 € para 0.24 €
+Fisgas: iguala 0.18 €
+*** SHOW DOWN ***
+ricardodst94: mostra [Kd 7d] (Cor, Ás carta mais alta)
+Fisgas: esconde a mão
+ricardodst94 recebeu 0.51 € do pote
+*** SUMÁRIO ***
+Total pote 0.54 € | comissão 0.03 €
+Mesa [6d Ad 3h 9h Td]
+Lugar 1: PEDRO17SILVA (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (small blind) escondeu as cartas [3s Tc]
+Lugar 3: JacNor81 (big blind) desistiu no River
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 mostrou [Kd 7d] e ganhou (0.51 €) com Cor, Ás carta mais alta
+
+
+*********** # 47 **************
+Mão #261899947740 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:26:14 UTC [2026/08/28 18:26:14 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2.31 € em fichas)
+Lugar 2: RealHurley101 (1.80 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.52 € em fichas)
+Lugar 5: micax82 (0.72 € em fichas)
+Lugar 6: artur012344 (1.14 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Qs]
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: desiste
+artur012344: iguala 0.06 €
+JacNor81: desiste
+RealHurley101: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [7c 9s 2c]
+RealHurley101: passa
+jffbarros: passa
+artur012344: aposta 1.08 € e está all-in
+RealHurley101: desiste
+jffbarros: desiste
+Aposta não-igualada (1.08 €) voltou para artur012344
+artur012344 recebeu 0.19 € do pote
+artur012344: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [7c 9s 2c]
+Lugar 1: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 (small blind) desistiu no Flop
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: jffbarros desistiu no Flop
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: artur012344 recebeu (0.19 €)
+
+
+*********** # 48 **************
+Mão #261899938540 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:25:27 UTC [2026/08/28 18:25:27 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #6 é o botão
+Lugar 1: JacNor81 (2.13 € em fichas)
+Lugar 2: RealHurley101 (1.82 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.52 € em fichas)
+Lugar 5: micax82 (0.80 € em fichas)
+Lugar 6: artur012344 (1.14 € em fichas)
+JacNor81: é small blind 0.01 €
+RealHurley101: é big blind 0.02 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d 7s]
+osorio211: sobe 0.06 € para 0.08 €
+jffbarros: desiste
+micax82: iguala 0.06 €
+artur012344: desiste
+JacNor81: sobe 0.24 € para 0.32 €
+RealHurley101: desiste
+osorio211: desiste
+micax82: desiste
+Aposta não-igualada (0.24 €) voltou para JacNor81
+JacNor81 recebeu 0.26 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0 €
+Lugar 1: JacNor81 (small blind) recebeu (0.26 €)
+Lugar 2: RealHurley101 (big blind) desistiu antes Flop
+Lugar 3: osorio211 desistiu antes Flop
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: micax82 desistiu antes Flop
+Lugar 6: artur012344 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 49 **************
+Mão #261899929793 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:24:41 UTC [2026/08/28 18:24:41 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 2: RealHurley101 (1.84 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.62 € em fichas)
+Lugar 6: artur012344 (1.15 € em fichas)
+artur012344: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac 2h]
+RealHurley101: iguala 0.02 €
+osorio211: desiste
+jffbarros: sobe 0.08 € para 0.10 €
+micax82 junta-se à mesa no lugar #5
+artur012344: desiste
+JacNor81: sobe 1.90 € para 2 € e está all-in
+RealHurley101: desiste
+jffbarros: desiste
+Aposta não-igualada (1.90 €) voltou para JacNor81
+JacNor81 recebeu 0.23 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.23 € | comissão 0 €
+Lugar 1: JacNor81 (big blind) recebeu (0.23 €)
+Lugar 2: RealHurley101 desistiu antes Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) desistiu antes Flop
+Lugar 6: artur012344 (small blind) desistiu antes Flop
+
+
+*********** # 50 **************
+Mão #261899924013 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:24:11 UTC [2026/08/28 18:24:11 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 1: PEDRO17SILVA (1.03 € em fichas)
+Lugar 2: Fisgas (1.75 € em fichas)
+Lugar 3: JacNor81 (2.33 € em fichas)
+Lugar 4: Frakinho (1.71 € em fichas)
+Lugar 5: osorio211 (2.14 € em fichas)
+Lugar 6: ricardodst94 (2.03 € em fichas)
+PEDRO17SILVA: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac Ks]
+JacNor81: desiste
+Frakinho: desiste
+osorio211: sobe 0.04 € para 0.06 €
+ricardodst94: iguala 0.06 €
+PEDRO17SILVA: desiste
+Fisgas: iguala 0.04 €
+*** FLOP *** [Jc 7c Kh]
+Fisgas: passa
+osorio211: aposta 0.12 €
+ricardodst94: desiste
+Fisgas: sobe 0.14 € para 0.26 €
+Frakinho abandona a mesa
+osorio211: iguala 0.14 €
+*** TURN *** [Jc 7c Kh] [Ts]
+Fisgas: aposta 0.34 €
+osorio211: iguala 0.34 €
+*** RIVER *** [Jc 7c Kh Ts] [3h]
+Fisgas: aposta 1.09 € e está all-in
+osorio211: iguala 1.09 €
+*** SHOW DOWN ***
+Fisgas: mostra [Jh Js] (trio, Valetes)
+osorio211: mostra [Ac Ks] (par de Reis)
+Fisgas recebeu 3.39 € do pote
+Xicoazul87 junta-se à mesa no lugar #4
+*** SUMÁRIO ***
+Total pote 3.57 € | comissão 0.18 €
+Mesa [Jc 7c Kh Ts 3h]
+Lugar 1: PEDRO17SILVA (small blind) desistiu antes Flop
+Lugar 2: Fisgas (big blind) mostrou [Jh Js] e ganhou (3.39 €) com trio, Valetes
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Frakinho desistiu antes Flop (não apostou)
+Lugar 5: osorio211 mostrou [Ac Ks] e perdeu com par de Reis
+Lugar 6: ricardodst94 (Botão) desistiu no Flop
+
+
+*********** # 51 **************
+Mão #261899922443 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:24:03 UTC [2026/08/28 18:24:03 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 2: RealHurley101 (1.55 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.63 € em fichas)
+Lugar 6: artur012344 (1.17 € em fichas)
+jffbarros: é small blind 0.01 €
+artur012344: é big blind 0.02 €
+RealHurley101: é small & big blinds 0.03 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s 3d]
+JacNor81: sobe 0.04 € para 0.06 €
+RealHurley101: iguala 0.04 €
+osorio211: desiste
+jffbarros: desiste
+artur012344: desiste
+*** FLOP *** [Jc 8c 2d]
+JacNor81: passa
+RealHurley101: aposta 0.08 €
+JacNor81: iguala 0.08 €
+*** TURN *** [Jc 8c 2d] [7c]
+JacNor81: passa
+RealHurley101: aposta 0.15 €
+JacNor81: iguala 0.15 €
+*** RIVER *** [Jc 8c 2d 7c] [5h]
+JacNor81: passa
+RealHurley101: passa
+*** SHOW DOWN ***
+JacNor81: mostra [3c 3s] (par de Três)
+RealHurley101: mostra [Jh 9c] (par de Valetes)
+RealHurley101 recebeu 0.59 € do pote
+*** SUMÁRIO ***
+Total pote 0.62 € | comissão 0.03 €
+Mesa [Jc 8c 2d 7c 5h]
+Lugar 1: JacNor81 mostrou [3c 3s] e perdeu com par de Três
+Lugar 2: RealHurley101 mostrou [Jh 9c] e ganhou (0.59 €) com par de Valetes
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (small blind) desistiu antes Flop
+Lugar 6: artur012344 (big blind) desistiu antes Flop
+
+
+*********** # 52 **************
+Mão #261899914885 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:23:23 UTC [2026/08/28 18:23:23 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: PEDRO17SILVA (0.99 € em fichas)
+Lugar 2: Fisgas (1.75 € em fichas)
+Lugar 3: JacNor81 (2.33 € em fichas)
+Lugar 4: Frakinho (1.71 € em fichas)
+Lugar 5: osorio211 (2.14 € em fichas)
+Lugar 6: ricardodst94 (2.07 € em fichas)
+ricardodst94: é small blind 0.01 €
+PEDRO17SILVA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d 7h]
+Fisgas: desiste
+JacNor81: desiste
+Frakinho: desiste
+osorio211: desiste
+ricardodst94: iguala 0.01 €
+PEDRO17SILVA: passa
+*** FLOP *** [7s 6h 5h]
+ricardodst94: passa
+PEDRO17SILVA: passa
+*** TURN *** [7s 6h 5h] [3h]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.02 €
+ricardodst94: iguala 0.02 €
+*** RIVER *** [7s 6h 5h 3h] [Tc]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.04 €
+ricardodst94: desiste
+Aposta não-igualada (0.04 €) voltou para PEDRO17SILVA
+PEDRO17SILVA recebeu 0.08 € do pote
+PEDRO17SILVA: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [7s 6h 5h 3h Tc]
+Lugar 1: PEDRO17SILVA (big blind) recebeu (0.08 €)
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Frakinho desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 (small blind) desistiu no River
+
+
+*********** # 53 **************
+Mão #261899902931 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:22:21 UTC [2026/08/28 18:22:21 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.12 € em fichas)
+Lugar 5: kurikutela53 (1.13 € em fichas)
+RealHurley101 poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Ad]
+kurikutela53: desiste
+JacNor81: desiste
+osorio211: sobe 0.06 € para 0.08 €
+jffbarros: iguala 0.06 €
+*** FLOP *** [6c Jc 4s]
+artur012344 junta-se à mesa no lugar #6
+osorio211: aposta 0.10 €
+jffbarros: iguala 0.10 €
+*** TURN *** [6c Jc 4s] [3s]
+osorio211: aposta 0.17 €
+jffbarros: iguala 0.17 €
+*** RIVER *** [6c Jc 4s 3s] [Kc]
+osorio211: aposta 0.22 €
+jffbarros: sobe 0.55 € para 0.77 €
+kurikutela53 abandona a mesa
+osorio211: desiste
+Aposta não-igualada (0.55 €) voltou para jffbarros
+jffbarros recebeu 1.08 € do pote
+jffbarros: não mostra a mão
+*** SUMÁRIO ***
+Total pote 1.14 € | comissão 0.06 €
+Mesa [6c Jc 4s 3s Kc]
+Lugar 1: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu no River
+Lugar 4: jffbarros (big blind) recebeu (1.08 €)
+Lugar 5: kurikutela53 desistiu antes Flop (não apostou)
+
+
+*********** # 54 **************
+Mão #261899892714 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:21:29 UTC [2026/08/28 18:21:29 ET]
+Mesa 'Vicia V' 6-max Lugar #4 é o botão
+Lugar 1: PEDRO17SILVA (0.99 € em fichas)
+Lugar 2: Fisgas (1.75 € em fichas)
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 4: Frakinho (1.71 € em fichas)
+Lugar 5: osorio211 (2.15 € em fichas)
+Lugar 6: ricardodst94 (2.43 € em fichas)
+osorio211: é small blind 0.01 €
+ricardodst94: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d 3d]
+PEDRO17SILVA: desiste
+Fisgas: desiste
+JacNor81: sobe 0.04 € para 0.06 €
+Frakinho: desiste
+osorio211: desiste
+ricardodst94: iguala 0.04 €
+*** FLOP *** [Ad 8h Qd]
+ricardodst94: passa
+JacNor81: aposta 0.06 €
+ricardodst94: iguala 0.06 €
+*** TURN *** [Ad 8h Qd] [Js]
+ricardodst94: passa
+JacNor81: aposta 0.24 €
+ricardodst94: iguala 0.24 €
+*** RIVER *** [Ad 8h Qd Js] [3c]
+ricardodst94: passa
+JacNor81: aposta 0.69 €
+ricardodst94: desiste
+Aposta não-igualada (0.69 €) voltou para JacNor81
+JacNor81 recebeu 0.69 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.73 € | comissão 0.04 €
+Mesa [Ad 8h Qd Js 3c]
+Lugar 1: PEDRO17SILVA desistiu antes Flop (não apostou)
+Lugar 2: Fisgas desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 recebeu (0.69 €)
+Lugar 4: Frakinho (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+Lugar 6: ricardodst94 (big blind) desistiu no River
+
+
+*********** # 55 **************
+Mão #261899886748 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:20:59 UTC [2026/08/28 18:20:59 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.36 € em fichas)
+Lugar 5: kurikutela53 (0.85 € em fichas)
+JacNor81: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8s Ac]
+jffbarros: sobe 0.04 € para 0.06 €
+kurikutela53: iguala 0.06 €
+JacNor81: desiste
+osorio211: iguala 0.04 €
+*** FLOP *** [6s 8c Th]
+osorio211: passa
+jffbarros: passa
+kurikutela53: passa
+*** TURN *** [6s 8c Th] [9d]
+osorio211: passa
+jffbarros: aposta 0.18 €
+kurikutela53: sobe 0.61 € para 0.79 € e está all-in
+osorio211: desiste
+jffbarros: desiste
+Aposta não-igualada (0.61 €) voltou para kurikutela53
+kurikutela53 recebeu 0.52 € do pote
+kurikutela53: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.55 € | comissão 0.03 €
+Mesa [6s 8c Th 9d]
+Lugar 1: JacNor81 (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) desistiu no Turn
+Lugar 4: jffbarros desistiu no Turn
+Lugar 5: kurikutela53 (Botão) recebeu (0.52 €)
+
+
+*********** # 56 **************
+Mão #261899874773 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:19:57 UTC [2026/08/28 18:19:57 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 1: PEDRO17SILVA (1.19 € em fichas)
+Lugar 2: Fisgas (2.11 € em fichas)
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 4: Frakinho (1.72 € em fichas)
+Lugar 5: osorio211 (2.17 € em fichas)
+Lugar 6: ricardodst94 (1.89 € em fichas)
+Frakinho: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s 6c]
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: sobe 0.02 € para 0.04 €
+Fisgas: sobe 0.04 € para 0.08 €
+JacNor81: desiste
+Frakinho: desiste
+osorio211: desiste
+ricardodst94: iguala 0.06 €
+PEDRO17SILVA: iguala 0.04 €
+*** FLOP *** [Jd 9h 5h]
+ricardodst94: passa
+PEDRO17SILVA: passa
+Fisgas: aposta 0.12 €
+ricardodst94: iguala 0.12 €
+PEDRO17SILVA: iguala 0.12 €
+*** TURN *** [Jd 9h 5h] [Ah]
+ricardodst94: passa
+PEDRO17SILVA: passa
+Fisgas: aposta 0.16 €
+ricardodst94: iguala 0.16 €
+PEDRO17SILVA: desiste
+*** RIVER *** [Jd 9h 5h Ah] [3s]
+ricardodst94: passa
+Fisgas: passa
+*** SHOW DOWN ***
+ricardodst94: mostra [3c Jc] (dois pares, Valetes e Três)
+Fisgas: esconde a mão
+ricardodst94 recebeu 0.90 € do pote
+*** SUMÁRIO ***
+Total pote 0.95 € | comissão 0.05 €
+Mesa [Jd 9h 5h Ah 3s]
+Lugar 1: PEDRO17SILVA desistiu no Turn
+Lugar 2: Fisgas escondeu as cartas [Ks As]
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Frakinho (small blind) desistiu antes Flop
+Lugar 5: osorio211 (big blind) desistiu antes Flop
+Lugar 6: ricardodst94 mostrou [3c Jc] e ganhou (0.90 €) com dois pares, Valetes e Três
+
+
+*********** # 57 **************
+Mão #261899869822 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:19:32 UTC [2026/08/28 18:19:32 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 2: RealHurley101 (1.79 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.08 € em fichas)
+Lugar 5: kurikutela53 (0.86 € em fichas)
+kurikutela53: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h Jd]
+RealHurley101: iguala 0.02 €
+osorio211: desiste
+jffbarros: sobe 0.04 € para 0.06 €
+bayk_69696 está sem ligação
+kurikutela53: desiste
+JacNor81: iguala 0.04 €
+RealHurley101: iguala 0.04 €
+*** FLOP *** [5d 2c As]
+JacNor81: passa
+RealHurley101: passa
+jffbarros: passa
+*** TURN *** [5d 2c As] [7c]
+JacNor81: passa
+RealHurley101: passa
+jffbarros: aposta 0.18 €
+JacNor81: desiste
+RealHurley101: iguala 0.18 €
+*** RIVER *** [5d 2c As 7c] [Ks]
+bayk_69696 está sem ligação
+RealHurley101: passa
+jffbarros: aposta 0.34 €
+RealHurley101: desiste
+Aposta não-igualada (0.34 €) voltou para jffbarros
+jffbarros recebeu 0.52 € do pote
+bayk_69696 abandona a mesa
+jffbarros: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.55 € | comissão 0.03 €
+Mesa [5d 2c As 7c Ks]
+Lugar 1: JacNor81 (big blind) desistiu no Turn
+Lugar 2: RealHurley101 desistiu no River
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) recebeu (0.52 €)
+Lugar 5: kurikutela53 (small blind) desistiu antes Flop
+
+
+*********** # 58 **************
+Mão #261899868459 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:19:25 UTC [2026/08/28 18:19:25 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: PEDRO17SILVA (1.37 € em fichas)
+Lugar 2: Fisgas (2.11 € em fichas)
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 4: Frakinho (1.55 € em fichas)
+Lugar 5: osorio211 (2.17 € em fichas)
+Lugar 6: ricardodst94 (1.89 € em fichas)
+JacNor81: é small blind 0.01 €
+Frakinho: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 9s]
+osorio211: desiste
+ricardodst94: desiste
+PEDRO17SILVA: sobe 0.04 € para 0.06 €
+Fisgas: desiste
+JacNor81: desiste
+Frakinho: iguala 0.04 €
+*** FLOP *** [As 7c 3c]
+Frakinho: aposta 0.12 €
+PEDRO17SILVA: iguala 0.12 €
+*** TURN *** [As 7c 3c] [6c]
+Frakinho: aposta 0.35 €
+PEDRO17SILVA: desiste
+Aposta não-igualada (0.35 €) voltou para Frakinho
+Frakinho recebeu 0.35 € do pote
+Frakinho: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [As 7c 3c 6c]
+Lugar 1: PEDRO17SILVA desistiu no Turn
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 4: Frakinho (big blind) recebeu (0.35 €)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 desistiu antes Flop (não apostou)
+
+
+*********** # 59 **************
+Mão #261899861269 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:18:48 UTC [2026/08/28 18:18:48 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 2: RealHurley101 (1.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (5.22 € em fichas)
+Lugar 5: kurikutela53 (0.62 € em fichas)
+jffbarros: é small blind 0.01 €
+kurikutela53: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh Td]
+JacNor81: desiste
+RealHurley101: iguala 0.02 €
+osorio211: sobe 0.06 € para 0.08 €
+jffbarros: sobe 0.06 € para 0.14 €
+kurikutela53: sobe 0.48 € para 0.62 € e está all-in
+RealHurley101: desiste
+osorio211: desiste
+bayk_69696 está sem ligação
+jffbarros: desiste
+Aposta não-igualada (0.48 €) voltou para kurikutela53
+kurikutela53 recebeu 0.38 € do pote
+kurikutela53: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.38 € | comissão 0 €
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 2: RealHurley101 desistiu antes Flop
+Lugar 3: osorio211 (Botão) desistiu antes Flop
+Lugar 4: jffbarros (small blind) desistiu antes Flop
+Lugar 5: kurikutela53 (big blind) recebeu (0.38 €)
+
+
+*********** # 60 **************
+Mão #261899852871 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:18:06 UTC [2026/08/28 18:18:06 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: PEDRO17SILVA (1.39 € em fichas)
+Lugar 2: Fisgas (1.98 € em fichas)
+Lugar 3: JacNor81 (2.01 € em fichas)
+Lugar 4: Frakinho (1.63 € em fichas)
+Lugar 5: osorio211 (2.17 € em fichas)
+Lugar 6: ricardodst94 (1.91 € em fichas)
+Fisgas: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d 4s]
+Frakinho: iguala 0.02 €
+osorio211: desiste
+ricardodst94: iguala 0.02 €
+PEDRO17SILVA: iguala 0.02 €
+Fisgas: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [8s 3c 6s]
+Fisgas: passa
+JacNor81: passa
+Frakinho: passa
+ricardodst94: passa
+PEDRO17SILVA: passa
+*** TURN *** [8s 3c 6s] [6h]
+Fisgas: aposta 0.06 €
+JacNor81: desiste
+Frakinho: iguala 0.06 €
+ricardodst94: desiste
+PEDRO17SILVA: desiste
+*** RIVER *** [8s 3c 6s 6h] [4h]
+Fisgas: aposta 0.10 €
+Frakinho: desiste
+Aposta não-igualada (0.10 €) voltou para Fisgas
+Fisgas recebeu 0.21 € do pote
+Fisgas: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.22 € | comissão 0.01 €
+Mesa [8s 3c 6s 6h 4h]
+Lugar 1: PEDRO17SILVA (Botão) desistiu no Turn
+Lugar 2: Fisgas (small blind) recebeu (0.21 €)
+Lugar 3: JacNor81 (big blind) desistiu no Turn
+Lugar 4: Frakinho desistiu no River
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 desistiu no Turn
+
+
+*********** # 61 **************
+Mão #261899852452 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:18:04 UTC [2026/08/28 18:18:04 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #2 é o botão
+Lugar 1: JacNor81 (2.18 € em fichas)
+Lugar 2: RealHurley101 (1.81 € em fichas)
+Lugar 3: osorio211 (2.01 € em fichas)
+Lugar 4: jffbarros (3.25 € em fichas)
+Lugar 5: kurikutela53 (0.62 € em fichas)
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d Kh]
+kurikutela53: desiste
+JacNor81: sobe 0.03 € para 0.05 €
+RealHurley101: desiste
+osorio211: desiste
+jffbarros: sobe 0.05 € para 0.10 €
+bayk_69696 está sem ligação
+JacNor81: sobe 0.20 € para 0.30 €
+jffbarros: sobe 2.95 € para 3.25 € e está all-in
+JacNor81: iguala 1.88 € e está all-in
+Aposta não-igualada (1.07 €) voltou para jffbarros
+*** FLOP *** [Ac 3c Js]
+*** TURN *** [Ac 3c Js] [Ah]
+*** RIVER *** [Ac 3c Js Ah] [8c]
+*** SHOW DOWN ***
+jffbarros: mostra [Ad As] (Poker, Ases)
+JacNor81: mostra [Td Th] (dois pares, Ases e Dez)
+jffbarros recebeu 4.15 € do pote
+*** SUMÁRIO ***
+Total pote 4.37 € | comissão 0.22 €
+Mesa [Ac 3c Js Ah 8c]
+Lugar 1: JacNor81 mostrou [Td Th] e perdeu com dois pares, Ases e Dez
+Lugar 2: RealHurley101 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: jffbarros (big blind) mostrou [Ad As] e ganhou (4.15 €) com Poker, Ases
+Lugar 5: kurikutela53 desistiu antes Flop (não apostou)
+
+
+*********** # 62 **************
+Mão #261899846159 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:17:31 UTC [2026/08/28 18:17:31 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 1: PEDRO17SILVA (1.40 € em fichas)
+Lugar 2: Fisgas (2 € em fichas)
+Lugar 3: JacNor81 (2.01 € em fichas)
+Lugar 4: Frakinho (1.71 € em fichas)
+Lugar 5: osorio211 (2.07 € em fichas)
+Lugar 6: ricardodst94 (1.91 € em fichas)
+PEDRO17SILVA: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Kc]
+JacNor81: desiste
+Frakinho: iguala 0.02 €
+osorio211: sobe 0.06 € para 0.08 €
+ricardodst94: desiste
+PEDRO17SILVA: desiste
+Fisgas: desiste
+Frakinho: iguala 0.06 €
+*** FLOP *** [3d 3h 4h]
+Frakinho: passa
+osorio211: aposta 0.06 €
+Frakinho: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.18 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [3d 3h 4h]
+Lugar 1: PEDRO17SILVA (small blind) desistiu antes Flop
+Lugar 2: Fisgas (big blind) desistiu antes Flop
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Frakinho desistiu no Flop
+Lugar 5: osorio211 recebeu (0.18 €)
+Lugar 6: ricardodst94 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 63 **************
+Mão #261899842065 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:17:10 UTC [2026/08/28 18:17:10 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2 € em fichas)
+Lugar 2: RealHurley101 (1.82 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: jffbarros (3.42 € em fichas)
+Lugar 5: kurikutela53 (0.62 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh 4c]
+jffbarros: sobe 0.04 € para 0.06 €
+kurikutela53: desiste
+JacNor81: iguala 0.06 €
+RealHurley101: desiste
+osorio211: desiste
+*** FLOP *** [9c 5d 5s]
+jffbarros: passa
+JacNor81: passa
+*** TURN *** [9c 5d 5s] [3c]
+jffbarros: aposta 0.11 €
+JacNor81: iguala 0.11 €
+*** RIVER *** [9c 5d 5s 3c] [8d]
+bayk_69696 está sem ligação
+jffbarros: passa
+JacNor81: passa
+*** SHOW DOWN ***
+jffbarros: mostra [Jh Kc] (par de Cincos)
+JacNor81: mostra [7h 7c] (dois pares, Setes e Cincos)
+JacNor81 recebeu 0.35 € do pote
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [9c 5d 5s 3c 8d]
+Lugar 1: JacNor81 (Botão) mostrou [7h 7c] e ganhou (0.35 €) com dois pares, Setes e Cincos
+Lugar 2: RealHurley101 (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: jffbarros mostrou [Jh Kc] e perdeu com par de Cincos
+Lugar 5: kurikutela53 desistiu antes Flop (não apostou)
+
+
+*********** # 64 **************
+Mão #261899834160 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:16:30 UTC [2026/08/28 18:16:30 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 1: PEDRO17SILVA (1.58 € em fichas)
+Lugar 3: JacNor81 (2.01 € em fichas)
+Lugar 4: Frakinho (1.51 € em fichas)
+Lugar 5: osorio211 (2.07 € em fichas)
+Lugar 6: ricardodst94 (1.95 € em fichas)
+ricardodst94: é small blind 0.01 €
+PEDRO17SILVA: é big blind 0.02 €
+Frakinho: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ks 2s]
+JacNor81: desiste
+Frakinho: passa
+osorio211: desiste
+ricardodst94: iguala 0.01 €
+PEDRO17SILVA: passa
+*** FLOP *** [2h 6s Jc]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.02 €
+Frakinho: iguala 0.02 €
+ricardodst94: iguala 0.02 €
+*** TURN *** [2h 6s Jc] [3s]
+ricardodst94: passa
+PEDRO17SILVA: aposta 0.04 €
+Frakinho: iguala 0.04 €
+ricardodst94: desiste
+*** RIVER *** [2h 6s Jc 3s] [9d]
+PEDRO17SILVA: aposta 0.10 €
+Frakinho: iguala 0.10 €
+*** SHOW DOWN ***
+PEDRO17SILVA: mostra [5h 3h] (par de Três)
+Frakinho: mostra [4s Jh] (par de Valetes)
+Frakinho recebeu 0.38 € do pote
+*** SUMÁRIO ***
+Total pote 0.40 € | comissão 0.02 €
+Mesa [2h 6s Jc 3s 9d]
+Lugar 1: PEDRO17SILVA (big blind) mostrou [5h 3h] e perdeu com par de Três
+Lugar 3: JacNor81 desistiu antes Flop (não apostou)
+Lugar 4: Frakinho mostrou [4s Jh] e ganhou (0.38 €) com par de Valetes
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 (small blind) desistiu no Turn
+
+
+*********** # 65 **************
+Mão #261899832645 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:16:22 UTC [2026/08/28 18:16:22 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 1: JacNor81 (2.09 € em fichas)
+Lugar 2: RealHurley101 (1.60 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: jffbarros (3.42 € em fichas)
+Lugar 5: kurikutela53 (0.62 € em fichas)
+JacNor81: é small blind 0.01 €
+RealHurley101: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 2h]
+osorio211: desiste
+jffbarros: desiste
+kurikutela53: desiste
+JacNor81: sobe 0.04 € para 0.06 €
+RealHurley101: iguala 0.04 €
+*** FLOP *** [3d 2s 5h]
+JacNor81: aposta 0.06 €
+RealHurley101: iguala 0.06 €
+*** TURN *** [3d 2s 5h] [9d]
+JacNor81: passa
+RealHurley101: aposta 0.12 €
+JacNor81: iguala 0.12 €
+*** RIVER *** [3d 2s 5h 9d] [8h]
+JacNor81: passa
+RealHurley101: aposta 0.23 €
+JacNor81: desiste
+Aposta não-igualada (0.23 €) voltou para RealHurley101
+RealHurley101 recebeu 0.46 € do pote
+RealHurley101: não mostra a mão
+bayk_69696 está sem ligação
+*** SUMÁRIO ***
+Total pote 0.48 € | comissão 0.02 €
+Mesa [3d 2s 5h 9d 8h]
+Lugar 1: JacNor81 (small blind) desistiu no River
+Lugar 2: RealHurley101 (big blind) recebeu (0.46 €)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros desistiu antes Flop (não apostou)
+Lugar 5: kurikutela53 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 66 **************
+Mão #261899829664 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:16:08 UTC [2026/08/28 18:16:08 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2.11 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: jffbarros (3.42 € em fichas)
+Lugar 5: kurikutela53 (0.60 € em fichas)
+kurikutela53: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 8s]
+osorio211: desiste
+jffbarros: desiste
+kurikutela53: sobe 0.02 € para 0.04 €
+JacNor81: desiste
+Aposta não-igualada (0.02 €) voltou para kurikutela53
+kurikutela53 recebeu 0.04 € do pote
+kurikutela53: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: JacNor81 (big blind) desistiu antes Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) desistiu antes Flop (não apostou)
+Lugar 5: kurikutela53 (small blind) recebeu (0.04 €)
+
+
+*********** # 67 **************
+Mão #261899828148 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:16:00 UTC [2026/08/28 18:16:00 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 1: PEDRO17SILVA (1.60 € em fichas)
+Lugar 3: JacNor81 (2.01 € em fichas)
+Lugar 5: osorio211 (2.03 € em fichas)
+Lugar 6: ricardodst94 (1.97 € em fichas)
+osorio211: é small blind 0.01 €
+ricardodst94: é big blind 0.02 €
+PEDRO17SILVA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh Ks]
+PEDRO17SILVA: passa
+JacNor81: desiste
+osorio211: sobe 0.08 € para 0.10 €
+Frakinho junta-se à mesa no lugar #4
+ricardodst94: desiste
+PEDRO17SILVA: desiste
+Aposta não-igualada (0.08 €) voltou para osorio211
+osorio211 recebeu 0.06 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Lugar 1: PEDRO17SILVA desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) recebeu (0.06 €)
+Lugar 6: ricardodst94 (big blind) desistiu antes Flop
+
+
+*********** # 68 **************
+Mão #261899826839 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:15:53 UTC [2026/08/28 18:15:53 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #3 é o botão
+Lugar 1: JacNor81 (2.11 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.43 € em fichas)
+Lugar 5: kurikutela53 (0.62 € em fichas)
+jffbarros: é small blind 0.01 €
+kurikutela53: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c Ad]
+JacNor81: desiste
+osorio211: sobe 0.04 € para 0.06 €
+jffbarros: desiste
+kurikutela53: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: JacNor81 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) recebeu (0.05 €)
+Lugar 4: jffbarros (small blind) desistiu antes Flop
+Lugar 5: kurikutela53 (big blind) desistiu antes Flop
+
+
+*********** # 69 **************
+Mão #261899820607 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:15:22 UTC [2026/08/28 18:15:22 ET]
+Mesa 'Vicia V' 6-max Lugar #6 é o botão
+Lugar 3: JacNor81 (2.02 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (1.99 € em fichas)
+PEDRO17SILVA poderá jogar depois do botão
+JacNor81: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 6d]
+ricardodst94: iguala 0.02 €
+Fisgas junta-se à mesa no lugar #2
+JacNor81: desiste
+osorio211: passa
+*** FLOP *** [Qd Js Ad]
+osorio211: passa
+ricardodst94: passa
+*** TURN *** [Qd Js Ad] [7s]
+osorio211: passa
+ricardodst94: passa
+*** RIVER *** [Qd Js Ad 7s] [9c]
+osorio211: passa
+ricardodst94: passa
+*** SHOW DOWN ***
+osorio211: mostra [9d 6d] (par de Noves)
+ricardodst94: esconde a mão
+osorio211 recebeu 0.05 € do pote
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [Qd Js Ad 7s 9c]
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 5: osorio211 (big blind) mostrou [9d 6d] e ganhou (0.05 €) com par de Noves
+Lugar 6: ricardodst94 (Botão) escondeu as cartas [3c 2c]
+
+
+*********** # 70 **************
+Mão #261899814085 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:14:49 UTC [2026/08/28 18:14:49 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #1 é o botão
+Lugar 1: JacNor81 (2.11 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.25 € em fichas)
+Lugar 5: kurikutela53 (0.72 € em fichas)
+osorio211: é small blind 0.01 €
+jffbarros: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th Js]
+RealHurley101 junta-se à mesa no lugar #2
+kurikutela53: iguala 0.02 €
+JacNor81: desiste
+osorio211: sobe 0.08 € para 0.10 €
+jffbarros: iguala 0.08 €
+kurikutela53: iguala 0.08 €
+*** FLOP *** [7s Ad Qc]
+osorio211: passa
+jffbarros: passa
+kurikutela53: passa
+*** TURN *** [7s Ad Qc] [6c]
+osorio211: passa
+bayk_69696 está sem ligação
+jffbarros: aposta 0.28 €
+kurikutela53: desiste
+osorio211: desiste
+Aposta não-igualada (0.28 €) voltou para jffbarros
+jffbarros recebeu 0.28 € do pote
+jffbarros: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.30 € | comissão 0.02 €
+Mesa [7s Ad Qc 6c]
+Lugar 1: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu no Turn
+Lugar 4: jffbarros (big blind) recebeu (0.28 €)
+Lugar 5: kurikutela53 desistiu no Turn
+
+
+*********** # 71 **************
+Mão #261899812741 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:14:43 UTC [2026/08/28 18:14:43 ET]
+Mesa 'Vicia V' 6-max Lugar #5 é o botão
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+Lugar 6: ricardodst94 (2.01 € em fichas)
+ricardodst94: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s 9d]
+Snake800t abandona a mesa
+osorio211: desiste
+PEDRO17SILVA junta-se à mesa no lugar #1
+ricardodst94: iguala 0.01 €
+JacNor81: passa
+*** FLOP *** [7c Tc 2d]
+ricardodst94: passa
+JacNor81: passa
+*** TURN *** [7c Tc 2d] [Ks]
+ricardodst94: passa
+JacNor81: passa
+*** RIVER *** [7c Tc 2d Ks] [Ac]
+ricardodst94: passa
+JacNor81: passa
+*** SHOW DOWN ***
+ricardodst94: mostra [3h 4h] (Carta alta Ás)
+JacNor81: mostra [3c 9s] (Carta alta Ás - Rei+Dez+Nove kicker)
+JacNor81 recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [7c Tc 2d Ks Ac]
+Lugar 3: JacNor81 (big blind) mostrou [3c 9s] e ganhou (0.04 €) com Carta alta Ás
+Lugar 5: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: ricardodst94 (small blind) mostrou [3h 4h] e perdeu com Carta alta Ás
+
+
+*********** # 72 **************
+Mão #261899809987 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:14:29 UTC [2026/08/28 18:14:29 ET]
+Mesa 'Vicia V' 6-max Lugar #3 é o botão
+Lugar 2: Snake800t (1.08 € em fichas)
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 5: osorio211 (2.01 € em fichas)
+Lugar 6: ricardodst94 (2 € em fichas)
+osorio211: é small blind 0.01 €
+ricardodst94: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ks 5d]
+Snake800t: desiste
+JacNor81: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para ricardodst94
+ricardodst94 recebeu 0.02 € do pote
+ricardodst94: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: Snake800t desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: osorio211 (small blind) desistiu antes Flop
+Lugar 6: ricardodst94 (big blind) recebeu (0.02 €)
+
+
+*********** # 73 **************
+Mão #261899807899 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:14:18 UTC [2026/08/28 18:14:18 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 2: Snake800t (1.08 € em fichas)
+Lugar 3: JacNor81 (2 € em fichas)
+Lugar 5: osorio211 (2 € em fichas)
+JacNor81: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Ac]
+Snake800t: desiste
+JacNor81: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 3: JacNor81 (small blind) desistiu antes Flop
+Lugar 5: osorio211 (big blind) recebeu (0.02 €)
+
+
+*********** # 74 **************
+Mão #261899805582 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:14:07 UTC [2026/08/28 18:14:07 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #5 é o botão
+Lugar 1: JacNor81 (2.12 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.19 € em fichas)
+Lugar 5: kurikutela53 (0.72 € em fichas)
+JacNor81: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Kd]
+jffbarros: sobe 0.04 € para 0.06 €
+kurikutela53: desiste
+JacNor81: desiste
+osorio211: iguala 0.04 €
+*** FLOP *** [8d 5s Qd]
+osorio211: passa
+jffbarros: passa
+*** TURN *** [8d 5s Qd] [6s]
+osorio211: passa
+jffbarros: passa
+*** RIVER *** [8d 5s Qd 6s] [4h]
+osorio211: passa
+jffbarros: passa
+*** SHOW DOWN ***
+osorio211: mostra [Ts Kd] (Carta alta Rei)
+jffbarros: mostra [Jc Ac] (Carta alta Ás)
+jffbarros recebeu 0.12 € do pote
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [8d 5s Qd 6s 4h]
+Lugar 1: JacNor81 (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) mostrou [Ts Kd] e perdeu com Carta alta Rei
+Lugar 4: jffbarros mostrou [Jc Ac] e ganhou (0.12 €) com Carta alta Ás
+Lugar 5: kurikutela53 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 75 **************
+Mão #261899801441 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:13:46 UTC [2026/08/28 18:13:46 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #4 é o botão
+Lugar 1: JacNor81 (2.14 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: jffbarros (3.19 € em fichas)
+Lugar 5: kurikutela53 (0.68 € em fichas)
+kurikutela53: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s Qs]
+osorio211: passa
+jffbarros: desiste
+kurikutela53: sobe 0.04 € para 0.06 €
+JacNor81: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para kurikutela53
+kurikutela53 recebeu 0.06 € do pote
+kurikutela53: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Lugar 1: JacNor81 (big blind) desistiu antes Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: jffbarros (Botão) desistiu antes Flop (não apostou)
+Lugar 5: kurikutela53 (small blind) recebeu (0.06 €)
+
+
+
+
+Está a receber este email porque inclui informações importantes sobre a sua conta da Stars.
+
+Atenção: este email foi enviado a partir de um endereço dedicado apenas a notificações que não recebe emails. Não responda a esta mensagem. Caso deseje contactar-nos, visite o nosso Centro de Ajuda no endereço http://www.pokerstars.pt/help para saber como o pode fazer.
+
+Se tiver interesse em saber de que forma tratamos os seus dados, consulte a nossa Política de Privacidade em http://www.pokerstars.pt/privacy.
+
+REEL Europe Ltd, Spinola Terraces, Mikiel Ang Borg Street, St. Julian's, SPK 1000, Malta.
+
+Copyright © 2001-2026, Rational Intellectual Holdings Limited. Todos os direitos reservados.

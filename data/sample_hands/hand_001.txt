@@ -1,0 +1,43 @@
+*********** # 1 **************
+Mão #261900159976 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:45:01 UTC [2026/08/28 18:45:01 ET]
+Mesa 'Vicia V' 6-max Lugar #2 é o botão
+Lugar 1: gunariki (1.50 € em fichas)
+Lugar 2: Fisgas (4.16 € em fichas)
+Lugar 3: Armas1989 (0.78 € em fichas)
+Lugar 4: Xicoazul87 (2.15 € em fichas)
+Lugar 5: osorio211 (2.25 € em fichas)
+Lugar 6: dparentee (0.78 € em fichas)
+Armas1989: é small blind 0.01 €
+Xicoazul87: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 8h]
+osorio211: desiste
+dparentee: iguala 0.02 €
+gunariki: iguala 0.02 €
+Fisgas: desiste
+Armas1989: desiste
+Xicoazul87: passa
+*** FLOP *** [5c Ks 4d]
+Xicoazul87: passa
+dparentee: aposta 0.07 €
+gunariki: sobe 0.21 € para 0.28 €
+Xicoazul87: desiste
+osorio211 abandona a mesa
+dparentee: sobe 0.48 € para 0.76 € e está all-in
+gunariki: iguala 0.48 €
+*** TURN *** [5c Ks 4d] [9d]
+*** RIVER *** [5c Ks 4d 9d] [8s]
+*** SHOW DOWN ***
+dparentee: mostra [Kc 8d] (dois pares, Reis e Oitos)
+gunariki: mostra [Kh 9c] (dois pares, Reis e Noves)
+gunariki recebeu 1.51 € do pote
+D4rkEntity junta-se à mesa no lugar #5
+*** SUMÁRIO ***
+Total pote 1.59 € | comissão 0.08 €
+Mesa [5c Ks 4d 9d 8s]
+Lugar 1: gunariki mostrou [Kh 9c] e ganhou (1.51 €) com dois pares, Reis e Noves
+Lugar 2: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Armas1989 (small blind) desistiu antes Flop
+Lugar 4: Xicoazul87 (big blind) desistiu no Flop
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee mostrou [Kc 8d] e perdeu com dois pares, Reis e Oitos
