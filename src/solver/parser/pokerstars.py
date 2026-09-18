@@ -84,19 +84,13 @@ def parse_hand(raw_hand_text: str, hero_name: str) -> Hand:
 
         header = _parse_header(lines[0])
         table = _parse_table_line(lines[1])
-        seats = _parse_seats(lines)
         blind_actions = _parse_blind_posts(lines)
 
         streets = _split_by_street(lines)
         preflop_lines = streets.get(Street.PREFLOP, [])
 
         hole_cards = _parse_hole_cards(preflop_lines)
-        seats = [
-            seat.model_copy(update={"hole_cards": hole_cards[seat.player]})
-            if seat.player in hole_cards
-            else seat
-            for seat in seats
-        ]
+        seats = _parse_seats(lines, hole_cards)
 
         preflop_actions = _parse_street_actions(preflop_lines, Street.PREFLOP)
 
@@ -157,7 +151,9 @@ def _parse_table_line(line: str) -> dict:
     }
 
 
-def _parse_seats(lines: list[str]) -> list[Seat]:
+def _parse_seats(
+    lines: list[str], hole_cards: dict[str, tuple[str, str]]
+) -> list[Seat]:
     seats = []
     for line in lines:
         match = _SEAT_RE.match(line)
@@ -167,6 +163,7 @@ def _parse_seats(lines: list[str]) -> list[Seat]:
                     seat_number=int(match["seat_number"]),
                     player=match["player"],
                     starting_stack=float(match["stack"]),
+                    hole_cards=hole_cards.get(match["player"]),
                 )
             )
     if not seats:
