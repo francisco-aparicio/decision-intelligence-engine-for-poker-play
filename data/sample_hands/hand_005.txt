@@ -1,0 +1,41 @@
+*********** # 5 **************
+Mão #261900143272 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:43:29 UTC [2026/08/28 18:43:29 ET]
+Mesa 'Betelgeuse V' 6-max Lugar #6 é o botão
+Lugar 2: RealHurley101 (2.86 € em fichas)
+Lugar 3: osorio211 (2.11 € em fichas)
+Lugar 4: jffbarros (3.34 € em fichas)
+Lugar 5: micax82 (1.29 € em fichas)
+Lugar 6: ValeraGiraff (2.16 € em fichas)
+RealHurley101: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d 2c]
+jffbarros: sobe 0.04 € para 0.06 €
+micax82: desiste
+ValeraGiraff: iguala 0.06 €
+RealHurley101: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [4h 5d 3h]
+RealHurley101: passa
+jffbarros: desiste
+jffbarros abandona a mesa
+ValeraGiraff: passa
+*** TURN *** [4h 5d 3h] [5h]
+RealHurley101: passa
+ValeraGiraff: aposta 0.19 €
+RealHurley101: iguala 0.19 €
+*** RIVER *** [4h 5d 3h 5h] [9s]
+RealHurley101: passa
+ValeraGiraff: passa
+*** SHOW DOWN ***
+RealHurley101: mostra [4s Ah] (dois pares, Cincos e Quatros)
+ValeraGiraff: esconde a mão
+RealHurley101 recebeu 0.55 € do pote
+*** SUMÁRIO ***
+Total pote 0.58 € | comissão 0.03 €
+Mesa [4h 5d 3h 5h 9s]
+Lugar 2: RealHurley101 (small blind) mostrou [4s Ah] e ganhou (0.55 €) com dois pares, Cincos e Quatros
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: jffbarros desistiu no Flop
+Lugar 5: micax82 desistiu antes Flop (não apostou)
+Lugar 6: ValeraGiraff (Botão) escondeu as cartas [Kh Jd]

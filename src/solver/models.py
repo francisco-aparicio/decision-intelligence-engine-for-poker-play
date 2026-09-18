@@ -25,7 +25,8 @@ class Action(BaseModel):
     player: str
     street: Street
     action: ActionType
-    amount: float | None = None  # for raises: the "to" total, not the increment
+    # bets/calls: chips put in by this action; raises: the "to" total, not the increment
+    amount: float | None = None
     all_in: bool = False
 
 
@@ -38,12 +39,16 @@ class Seat(BaseModel):
     seat_number: int
     player: str
     starting_stack: float
-    hole_cards: tuple[str, str] | None = (
-        None  # populated for hero always; villains only if revealed
-    )
+    # hero always; villains if revealed (preflop or summary)
+    hole_cards: tuple[str, str] | None = None
 
 
-class ShowdownResult(BaseModel):
+class PotResult(BaseModel):
+    """One seat's outcome from the summary: won, showed, or mucked.
+
+    Not limited to real showdowns, since most hands end uncontested.
+    """
+
     player: str
     hand_description: str | None = None
     amount_won: float = 0.0
@@ -61,6 +66,24 @@ class Hand(BaseModel):
     hero_name: str
     actions: list[Action]
     board_by_street: list[StreetCards]
-    showdown: list[ShowdownResult]
+    pot_results: list[PotResult]
     total_pot: float
     rake: float
+
+
+class HandParseError(Exception):
+    """Raised when a raw hand-text block fails to parse into a Hand."""
+
+    def __init__(self, message: str, raw_text: str) -> None:
+        super().__init__(message)
+        self.raw_text = raw_text
+
+
+class FailedHand(BaseModel):
+    raw_text: str
+    error: str
+
+
+class ParseResult(BaseModel):
+    hands: list[Hand]
+    failed: list[FailedHand]

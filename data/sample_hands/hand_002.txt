@@ -1,0 +1,34 @@
+*********** # 2 **************
+Mão #261900154367 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/28 22:44:30 UTC [2026/08/28 18:44:30 ET]
+Mesa 'Vicia V' 6-max Lugar #1 é o botão
+Lugar 1: gunariki (1.50 € em fichas)
+Lugar 2: Fisgas (4.07 € em fichas)
+Lugar 3: Armas1989 (0.80 € em fichas)
+Lugar 4: Xicoazul87 (2.15 € em fichas)
+Lugar 5: osorio211 (2.25 € em fichas)
+Lugar 6: dparentee (0.86 € em fichas)
+Fisgas: é small blind 0.01 €
+Armas1989: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d 6s]
+Xicoazul87: desiste
+osorio211: desiste
+dparentee: sobe 0.06 € para 0.08 €
+gunariki: desiste
+Fisgas: iguala 0.07 €
+Armas1989: desiste
+*** FLOP *** [3s 7c 5s]
+Fisgas: aposta 0.13 €
+dparentee: desiste
+Aposta não-igualada (0.13 €) voltou para Fisgas
+Fisgas recebeu 0.17 € do pote
+Fisgas: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0.01 €
+Mesa [3s 7c 5s]
+Lugar 1: gunariki (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (small blind) recebeu (0.17 €)
+Lugar 3: Armas1989 (big blind) desistiu antes Flop
+Lugar 4: Xicoazul87 desistiu antes Flop (não apostou)
+Lugar 5: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: dparentee desistiu no Flop
