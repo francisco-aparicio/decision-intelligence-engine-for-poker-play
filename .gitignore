@@ -9,4 +9,4 @@ build/
 .env
 
 # Custom
-_scratch.py
+_scratchpad.py

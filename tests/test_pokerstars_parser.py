@@ -6,6 +6,7 @@ import pytest
 from solver.models import (
     ActionType,
     Hand,
+    HandParseError,
     ParseResult,
     PotResult,
     Street,
@@ -316,3 +317,21 @@ def test_parse_session_no_hands() -> None:
     result = parse_session("nothing to see here\n", hero_name=HERO_NAME)
 
     assert result == ParseResult(hands=[], failed=[])
+
+
+def test_side_pot_summary_fails_loudly() -> None:
+    raw_hand = split_into_hands(_read_sample("hand_001.txt"))[0]
+    # No real side-pot hand exists in the fixtures, so this pt wording is a guess.
+    # What matters is that any total line off the plain shape is not read silently.
+    side_pot_hand = raw_hand.replace(
+        "Total pote 1.59 € | comissão 0.08 €",
+        "Total pote 1.59 € Pote principal 1.00 €. Pote lateral 0.59 €. | comissão 0.08 €",
+    )
+    assert side_pot_hand != raw_hand
+
+    with pytest.raises(HandParseError, match="no pot total line"):
+        parse_hand(side_pot_hand, hero_name=HERO_NAME)
+
+    result = parse_session(side_pot_hand, hero_name=HERO_NAME)
+    assert result.hands == []
+    assert [failed.raw_text for failed in result.failed] == [side_pot_hand]
