@@ -1,5 +1,17 @@
 # PokerStars Hand History Parser — Implementation Spec
 
+## Status and parts
+
+- **Part A — single-hand/session parsing** (raw text → validated `Hand`
+  objects). **Implemented** (Milestone 0). Do not change its behaviour.
+- **Part B — multi-file ingest + SQLite persistence** (see the section
+  "Part B" at the end). **Current work.** Implement only Part B.
+  `models.py` and `parser/pokerstars.py` are **not modified** by Part B.
+
+---
+
+# Part A — Parser (implemented)
+
 ## Goal
 Parse Portuguese-localized PokerStars (.pt) hand history text — delivered as
 the plain-text body of a "hand history request" email — into validated
@@ -110,20 +122,30 @@ All types, including the error and result types above, live in
 ```
 src/solver/
 ├── __init__.py
-├── models.py                  # the model above
+├── __main__.py                # NEW (Part B) — `python -m solver`
+├── cli.py                     # NEW (Part B)
+├── ingest.py                  # NEW (Part B)
+├── store.py                   # NEW (Part B)
+├── models.py                  # the model above — unchanged by Part B
 └── parser/
     ├── __init__.py
-    └── pokerstars.py          # everything below
+    └── pokerstars.py          # everything below — unchanged by Part B
 
 tests/
-└── test_pokerstars_parser.py
+├── test_pokerstars_parser.py
+├── test_store.py              # NEW (Part B)
+├── test_ingest.py             # NEW (Part B)
+└── test_cli.py                # NEW (Part B)
 
-data/sample_hands/
-├── hand_001.txt                    # single hand, hand #261900159976 — golden test fixture
-├── hand_002.txt                    # session hand #2 — uncontested win ("recebeu (...)")
-├── hand_005.txt                    # session hand #5 — mucked cards ("escondeu as cartas")
-├── hand_024.txt                    # session hand #24 — split pot (two "ganhou")
-└── session_2026-08-28.txt          # full 75-hand export — batch test fixture
+data/
+├── sample_hands/              # committed test fixtures
+│   ├── hand_001.txt                # single hand, hand #261900159976 — golden test fixture
+│   ├── hand_002.txt                # session hand #2 — uncontested win ("recebeu (...)")
+│   ├── hand_005.txt                # session hand #5 — mucked cards ("escondeu as cartas")
+│   ├── hand_024.txt                # session hand #24 — split pot (two "ganhou")
+│   └── session_2026-08-28.txt      # full 75-hand export — batch test fixture
+├── sessions/                  # NEW (Part B) — real session exports; gitignored
+└── solver.db                  # NEW (Part B) — created by `solver ingest`; gitignored
 ```
 
 ## Function signatures — `src/solver/parser/pokerstars.py`
@@ -290,3 +312,279 @@ land together, not incrementally.
 - Any non-PokerStars-.pt format.
 - Any statistics, leak-detection, or LLM-analysis logic — this module's
   only job is raw text → validated `Hand` objects.
+- File I/O and persistence — `pokerstars.py` stays pure (text in, objects
+  out). Reading files and storing hands live in `ingest.py` / `store.py`
+  (Part B).
+
+---
+
+# Part B — Multi-file ingest & SQLite persistence
+
+## Goal
+`solver ingest <folder> --hero <name>` reads every session file in a
+folder, parses each with the existing `parse_session()`, and persists all
+hands into a local SQLite DB, deduped by `hand_id`. Downstream modules
+(facts engine, coach) obtain hands **only** through `store.py` as
+`list[Hand]` — never by querying the DB directly and never by re-parsing
+text.
+
+## Decisions (agreed — do not relitigate)
+- **SQLite via stdlib `sqlite3`. No ORM, no new dependencies.** Rejected:
+  JSON-file-per-hand, JSONL, CSV, fully normalized schema.
+  Why SQLite: atomic upsert gives dedupe for free; provenance columns
+  (`source_file`) without touching `Hand`; later tables (coach outputs,
+  eval runs — keyed by `hand_id`) join naturally in the same DB.
+- **`Hand` is stored as one JSON blob** (`Hand.model_dump_json()`), with a
+  few promoted columns for filtering. Normalize into seats/actions tables
+  only if a real query demands it — not now.
+- **Session `.txt` files are the source of truth.** The DB is a rebuildable
+  cache: if `Hand` ever changes shape, re-run `solver ingest`.
+- **Dedupe key = `hand_id`** (globally unique on PokerStars). Duplicates
+  are **upserted: replace the whole row, latest parse wins** — so
+  re-ingesting after a parser fix refreshes stored hands.
+- **Session = source file.** Stored as the file's basename in
+  `source_file`. Consequence: a hand present in two overlapping files is
+  attributed to the file processed last (files are processed in sorted
+  filename order).
+- **Failed hands are reported, not persisted.**
+- `models.py` and `pokerstars.py` are not modified. Result/report types
+  for ingest are plain `@dataclass`es in `ingest.py`.
+
+## Paths and gitignore
+- Input folder: any path passed on the CLI; convention is `data/sessions/`.
+- Default DB path: `data/solver.db` (constant `DEFAULT_DB_PATH` in
+  `store.py`, overridable via `--db`).
+- Add to `.gitignore`: `data/sessions/` and `data/*.db*` (covers
+  `-journal` / `-wal` side files). Real hand histories and the DB are
+  personal data and must not be committed. `data/sample_hands/` stays
+  committed.
+
+## Schema
+Created by `store.connect()` with `CREATE ... IF NOT EXISTS` (idempotent).
+
+```sql
+CREATE TABLE IF NOT EXISTS hands (
+    hand_id       TEXT PRIMARY KEY,
+    timestamp_utc TEXT NOT NULL,   -- Hand.timestamp_utc.isoformat()
+    source_file   TEXT NOT NULL,   -- basename of the session file
+    ingested_at   TEXT NOT NULL,   -- ISO 8601 UTC, set at save time
+    data          TEXT NOT NULL    -- Hand.model_dump_json()
+);
+CREATE INDEX IF NOT EXISTS idx_hands_timestamp ON hands(timestamp_utc);
+CREATE INDEX IF NOT EXISTS idx_hands_source    ON hands(source_file);
+```
+
+Notes:
+- All hands come from the same parser, so `timestamp_utc` strings share one
+  format and sort chronologically as text.
+- SQLite has no JSON column type; `data` is `TEXT`. Ad-hoc inspection via
+  `sqlite3 data/solver.db "select json_extract(data,'$.stakes') from hands limit 5"`
+  works on any modern SQLite build.
+
+## `src/solver/store.py`
+
+```python
+DEFAULT_DB_PATH = Path("data/solver.db")
+
+def connect(db_path: Path | str = DEFAULT_DB_PATH) -> sqlite3.Connection:
+    """
+    Open the DB (creating the parent directory and file if missing), set
+    row_factory = sqlite3.Row, ensure the schema exists, return the
+    connection. ":memory:" is allowed (no directory creation). The caller
+    closes it (use contextlib.closing).
+    """
+
+def save_hands(conn: sqlite3.Connection, hands: list[Hand],
+               source_file: str) -> tuple[int, int]:
+    """
+    Upsert hands keyed by hand_id inside ONE transaction (all-or-nothing;
+    use `with conn:`). Returns (inserted, updated). `source_file` is the
+    basename. `ingested_at` = one UTC timestamp for the whole call.
+    Empty list -> (0, 0), no error.
+    """
+
+def load_hands(conn: sqlite3.Connection, *, source_file: str | None = None,
+               since: datetime | None = None,
+               until: datetime | None = None) -> list[Hand]:
+    """
+    Return hands ordered by (timestamp_utc ASC, hand_id ASC). Optional
+    filters: source_file exact match; since inclusive; until exclusive.
+    `since`/`until` are compared as ISO strings, so callers must pass
+    datetimes with the same tz-awareness as Hand.timestamp_utc.
+    Rebuilds objects via Hand.model_validate_json(row["data"]).
+    """
+
+def get_hand(conn: sqlite3.Connection, hand_id: str) -> Hand | None: ...
+
+def count_hands(conn: sqlite3.Connection) -> int: ...
+```
+
+Behaviour requirements:
+- Upsert SQL (parameterized — never string-format values into SQL):
+  ```sql
+  INSERT INTO hands (hand_id, timestamp_utc, source_file, ingested_at, data)
+  VALUES (?, ?, ?, ?, ?)
+  ON CONFLICT(hand_id) DO UPDATE SET
+      timestamp_utc = excluded.timestamp_utc,
+      source_file   = excluded.source_file,
+      ingested_at   = excluded.ingested_at,
+      data          = excluded.data
+  ```
+- To split inserted vs updated, run `SELECT 1 FROM hands WHERE hand_id = ?`
+  per hand before its upsert, inside the same transaction. (A hand_id
+  repeated within one input list counts its second occurrence as updated.)
+- `load_hands` / `get_hand` **do not catch** pydantic `ValidationError`. If
+  stored JSON no longer matches `Hand`, the remedy is to re-run
+  `solver ingest` — do not silently skip rows.
+- Round-trip guarantee: `get_hand(conn, h.hand_id) == h` for every parsed
+  `Hand` `h` (tuples, enums, datetimes survive the JSON round-trip).
+
+## `src/solver/ingest.py`
+
+```python
+@dataclass
+class FileIngestResult:
+    source_file: str                 # basename
+    parsed: int = 0                  # hands successfully parsed
+    inserted: int = 0                # new hand_ids stored
+    updated: int = 0                 # existing hand_ids replaced
+    failed: list[FailedHand] = field(default_factory=list)
+    read_error: str | None = None    # set if the file could not be read/decoded
+
+def find_session_files(folder: Path, pattern: str = "session_*.txt") -> list[Path]:
+    """Non-recursive glob; files only; sorted by name."""
+
+def ingest_file(path: Path, hero_name: str,
+                conn: sqlite3.Connection) -> FileIngestResult: ...
+
+def ingest_folder(folder: Path, hero_name: str,
+                  conn: sqlite3.Connection) -> list[FileIngestResult]:
+    """
+    Calls find_session_files() then ingest_file() on each, in order.
+    Raises FileNotFoundError if `folder` doesn't exist. Returns [] if no
+    file matches (the CLI treats that as a fatal error).
+    """
+```
+
+Behaviour requirements:
+- Pattern is `session_*.txt`, which matches both `session_2026-08-28.txt`
+  and `session_20260828.txt`. Sorted-by-name order is chronological for
+  either naming style as long as one style is used consistently.
+- `ingest_file`: read with `encoding="utf-8-sig"` (Portuguese characters,
+  tolerates a BOM) → `parse_session(text, hero_name)` →
+  `save_hands(conn, result.hands, path.name)` → build the result.
+  **One file = one transaction.**
+- Catch `(OSError, UnicodeDecodeError)` on read: set `read_error`, persist
+  nothing for that file, and **continue with the remaining files**.
+- A file where `parsed == 0` and `failed` is empty (nothing recognizable as
+  a hand) is not an error at this layer; the CLI warns about it.
+- `hero_name` is passed through unchanged; never hardcode it.
+
+## `src/solver/cli.py` and `__main__.py`
+
+```
+solver ingest FOLDER [--hero NAME] [--db PATH]
+```
+
+- Implemented with stdlib `argparse`, using subcommands
+  (`add_subparsers(dest="command", required=True)`) since more commands
+  (coach, etc.) will follow.
+- `main(argv: list[str] | None = None) -> int` returns the exit code.
+  `__main__.py`: `raise SystemExit(main())`. If a `pyproject.toml` exists,
+  also register `[project.scripts] solver = "solver.cli:main"`.
+- `--hero`: falls back to env var `SOLVER_HERO`; if neither is set, print
+  an error and return 1.
+- `--db`: defaults to `DEFAULT_DB_PATH`.
+- Use `with contextlib.closing(store.connect(db)) as conn:`.
+
+Output (one line per file, then failures, then totals):
+
+```
+session_2026-08-28.txt  parsed 75  new 75  updated 0   failed 0
+session_2026-09-03.txt  parsed 80  new 62  updated 18  failed 1
+  FAILED  session_2026-09-03.txt | Mão #123456789 da PokerStars: ... | <error message>
+  WARNING session_x.txt | no hands found
+  ERROR   session_y.txt | could not read file: <read_error>
+---
+Files: 2  Parsed: 155  New: 137  Updated: 18  Failed: 1
+DB: data/solver.db (total hands: 137)
+```
+
+- FAILED line: source file, first line of `FailedHand.raw_text`, and
+  `FailedHand.error` — one line each.
+- Exit codes: **0** = every file read and every hand parsed; **1** = fatal
+  (missing hero, folder missing/not a directory, no files matched the
+  pattern); **2** = completed, but at least one hand failed to parse or one
+  file could not be read.
+
+## Implementation order (incremental — full suite green after each step)
+1. `store.py` + `test_store.py`. Start with the round-trip test on
+   `hand_001`; then upsert/dedupe/ordering/filter tests.
+2. `ingest.py` + `test_ingest.py`.
+3. `cli.py`, `__main__.py`, `.gitignore` entries + `test_cli.py`.
+
+The existing parser tests must stay green throughout; Part B never edits
+`models.py` or `pokerstars.py`.
+
+## Test plan
+Use pytest's `tmp_path` for all DBs and folders (never touch
+`data/solver.db`). Hero is `osorio211`; fixtures come from
+`data/sample_hands/`.
+
+`test_store.py`
+1. **Round-trip:** parse `hand_001` → `save_hands` → `get_hand` returns an
+   object `==` to the original.
+2. **Idempotent:** saving the same hands twice → `count_hands` unchanged;
+   second call returns `(0, n)`.
+3. **Upsert replaces:** save a copy with a changed field
+   (`hand.model_copy(update={"rake": 9.99})`) and a different
+   `source_file` → `get_hand` shows the new rake; `source_file` column
+   updated; row count unchanged.
+4. **Batch:** parse the 75-hand session → `save_hands` returns `(75, 0)`;
+   `count_hands == 75`.
+5. **`load_hands` ordering and filters:** result is sorted by timestamp;
+   `source_file`, `since`, `until` filters behave as specified (`since`
+   inclusive, `until` exclusive).
+6. **Empty input:** `save_hands(conn, [], "x.txt") == (0, 0)`.
+   `test_ingest.py`
+7. **Multi-file:** folder with `session_a.txt`, `session_b.txt` and a
+   non-matching `notes.txt` → only the two session files are processed, in
+   sorted order.
+8. **Overlapping sessions:** build two files from the 75-hand fixture via
+   `split_into_hands` (e.g. hands 1–50 and 40–75, blocks joined with blank
+   lines) → 75 unique hands stored; per-file results add up
+   (`inserted` total 75, `updated` total 11).
+9. **Re-ingest:** running `ingest_folder` twice → second run has
+   `inserted == 0`, `updated == parsed` for every file.
+10. **Failure isolation (hand level):** append a broken block
+    (`"Mão #999 da PokerStars: garbage"`) to a session file → `failed` has
+    1 entry; all valid hands still persisted.
+11. **Failure isolation (file level):** a file containing invalid UTF-8
+    bytes (e.g. `b"\xff\xfe\x00"`) → `read_error` set, other files still
+    ingested. `test_cli.py` (use `capsys`, `monkeypatch`)
+12. Happy path: `main(["ingest", str(folder), "--hero", "osorio211", "--db", str(db)]) == 0`;
+    output contains the totals line.
+13. No matching files → returns 1.
+14. Missing hero (no `--hero`, `SOLVER_HERO` unset via `monkeypatch.delenv`)
+    → returns 1.
+15. Folder with a broken hand block → returns 2, output contains a
+    `FAILED` line.
+
+## Explicitly out of scope for Part B
+- Tables for coach outputs, LLM judgments, eval labels/runs (added later,
+  keyed by `hand_id`, in the same DB).
+- Normalized seats/actions tables, migrations, ORM, WAL tuning.
+- Persisting failed hands; deleting/purging hands; a separate `sessions`
+  table.
+- Recursive folder scan, folder watching / auto-ingest, other file
+  patterns.
+- Concurrent writers (single-user CLI).
+
+## Definition of done (Part B)
+- `solver ingest data/sample_hands --hero osorio211` stores all hands from
+  the fixture session(s); running it a second time yields 0 new, all
+  updated.
+- Overlapping-sessions test passes (no duplicate `hand_id`s in the DB).
+- `store.load_hands()` returns `Hand` objects equal to freshly parsed ones.
+- Full test suite green (Part A + Part B); `models.py` and
+  `pokerstars.py` unchanged.

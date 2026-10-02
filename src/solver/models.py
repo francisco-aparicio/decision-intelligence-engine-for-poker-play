@@ -71,14 +71,6 @@ class Hand(BaseModel):
     rake: float
 
 
-class HandParseError(Exception):
-    """Raised when a raw hand-text block fails to parse into a Hand."""
-
-    def __init__(self, message: str, raw_text: str) -> None:
-        super().__init__(message)
-        self.raw_text = raw_text
-
-
 class FailedHand(BaseModel):
     raw_text: str
     error: str
@@ -87,3 +79,11 @@ class FailedHand(BaseModel):
 class ParseResult(BaseModel):
     hands: list[Hand]
     failed: list[FailedHand]
+
+
+class HandParseError(Exception):
+    """Raised when a raw hand-text block fails to parse into a Hand."""
+
+    def __init__(self, message: str, raw_text: str) -> None:
+        super().__init__(message)
+        self.raw_text = raw_text

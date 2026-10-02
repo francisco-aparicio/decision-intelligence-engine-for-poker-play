@@ -10,3 +10,7 @@ build/
 
 # Custom
 _scratchpad.py
+
+# Personal data: real hand histories and the DB built from them
+data/sessions/
+data/*.db*

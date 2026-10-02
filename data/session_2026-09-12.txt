@@ -1,0 +1,1647 @@
+Transcrito último 1 hora de jogo requerido por osorio211 (faparicio.lopes@gmail.com)
+
+*********** # 1 **************
+Mão #262057273391 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:15:33 UTC [2026/09/12 12:15:33 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: Fisgas (2.53 € em fichas)
+Lugar 4: BTMDIAZ (2.23 € em fichas)
+Lugar 5: Smeagolx84 (2.10 € em fichas)
+Lugar 6: alf91979 (1.86 € em fichas)
+Fisgas: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 2s]
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: desiste
+osorio211 abandona a mesa
+Fisgas: desiste
+Aposta não-igualada (0.01 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.02 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Fisgas (small blind) desistiu antes Flop
+Lugar 4: BTMDIAZ (big blind) recebeu (0.02 €)
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+Lugar 6: alf91979 desistiu antes Flop (não apostou)
+
+
+*********** # 2 **************
+Mão #262057268542 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:15:05 UTC [2026/09/12 12:15:05 ET]
+Mesa 'Nusakan' 6-max Lugar #4 é o botão
+Lugar 1: afonsojose409 (2.14 € em fichas)
+Lugar 3: Marujosec (1.73 € em fichas)
+Lugar 4: apelgonkmac (1.95 € em fichas)
+Lugar 6: osorio211 (2.23 € em fichas)
+osorio211: é small blind 0.01 €
+afonsojose409: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d Ts]
+Marujosec: desiste
+apelgonkmac: sobe 0.04 € para 0.06 €
+Marujosec abandona a mesa
+osorio211: desiste
+afonsojose409: desiste
+Aposta não-igualada (0.04 €) voltou para apelgonkmac
+apelgonkmac recebeu 0.05 € do pote
+apelgonkmac: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: afonsojose409 (big blind) desistiu antes Flop
+Lugar 3: Marujosec desistiu antes Flop (não apostou)
+Lugar 4: apelgonkmac (Botão) recebeu (0.05 €)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 3 **************
+Mão #262057263223 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:14:34 UTC [2026/09/12 12:14:34 ET]
+Mesa 'Turais' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: Fisgas (2 € em fichas)
+Lugar 4: BTMDIAZ (2.51 € em fichas)
+Lugar 5: Smeagolx84 (2.38 € em fichas)
+Lugar 6: alf91979 (1.86 € em fichas)
+osorio211: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8s Kd]
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: iguala 0.07 €
+alf91979: desiste
+osorio211: desiste
+Fisgas: iguala 0.05 €
+*** FLOP *** [9d 2d 5c]
+Fisgas: passa
+BTMDIAZ: aposta 0.21 €
+Smeagolx84: iguala 0.21 €
+Fisgas: iguala 0.21 €
+*** TURN *** [9d 2d 5c] [Kc]
+Fisgas: passa
+BTMDIAZ: passa
+Smeagolx84: passa
+*** RIVER *** [9d 2d 5c Kc] [8h]
+Fisgas: aposta 0.33 €
+BTMDIAZ: desiste
+Smeagolx84: desiste
+Aposta não-igualada (0.33 €) voltou para Fisgas
+Fisgas recebeu 0.81 € do pote
+Fisgas: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.85 € | comissão 0.04 €
+Mesa [9d 2d 5c Kc 8h]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: Fisgas (big blind) recebeu (0.81 €)
+Lugar 4: BTMDIAZ desistiu no River
+Lugar 5: Smeagolx84 desistiu no River
+Lugar 6: alf91979 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 4 **************
+Mão #262057261345 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:14:23 UTC [2026/09/12 12:14:23 ET]
+Mesa 'Nusakan' 6-max Lugar #3 é o botão
+Lugar 1: afonsojose409 (2.14 € em fichas)
+Lugar 3: Marujosec (1.70 € em fichas)
+Lugar 4: apelgonkmac (1.96 € em fichas)
+Lugar 6: osorio211 (2.25 € em fichas)
+apelgonkmac: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h 7h]
+afonsojose409: desiste
+Marujosec: iguala 0.02 €
+apelgonkmac: desiste
+osorio211: passa
+*** FLOP *** [Qd 2c 4d]
+osorio211: passa
+Marujosec: passa
+*** TURN *** [Qd 2c 4d] [Ts]
+osorio211: passa
+Marujosec: passa
+*** RIVER *** [Qd 2c 4d Ts] [6s]
+osorio211: passa
+Marujosec: aposta 0.05 €
+osorio211: desiste
+Aposta não-igualada (0.05 €) voltou para Marujosec
+Marujosec recebeu 0.05 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [Qd 2c 4d Ts 6s]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (Botão) recebeu (0.05 €)
+Lugar 4: apelgonkmac (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) desistiu no River
+
+
+*********** # 5 **************
+Mão #262057255837 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:13:51 UTC [2026/09/12 12:13:51 ET]
+Mesa 'Turais' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: BTMDIAZ (2.12 € em fichas)
+Lugar 5: Smeagolx84 (2.38 € em fichas)
+Lugar 6: alf91979 (1.87 € em fichas)
+alf91979: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ks 7s]
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: iguala 0.05 €
+*** FLOP *** [6d 2d 7h]
+osorio211: passa
+BTMDIAZ: aposta 0.14 €
+osorio211: iguala 0.14 €
+*** TURN *** [6d 2d 7h] [Th]
+osorio211: passa
+BTMDIAZ: aposta 0.21 €
+osorio211: iguala 0.21 €
+*** RIVER *** [6d 2d 7h Th] [9d]
+osorio211: passa
+BTMDIAZ: passa
+*** SHOW DOWN ***
+osorio211: mostra [Ks 7s] (par de Setes)
+BTMDIAZ: mostra [9c Ad] (par de Noves)
+BTMDIAZ recebeu 0.81 € do pote
+*** SUMÁRIO ***
+Total pote 0.85 € | comissão 0.04 €
+Mesa [6d 2d 7h Th 9d]
+Lugar 1: osorio211 (big blind) mostrou [Ks 7s] e perdeu com par de Setes
+Lugar 4: BTMDIAZ mostrou [9c Ad] e ganhou (0.81 €) com par de Noves
+Lugar 5: Smeagolx84 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: alf91979 (small blind) desistiu antes Flop
+
+
+*********** # 6 **************
+Mão #262057255783 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:13:51 UTC [2026/09/12 12:13:51 ET]
+Mesa 'Nusakan' 6-max Lugar #1 é o botão
+Lugar 1: afonsojose409 (2.14 € em fichas)
+Lugar 3: Marujosec (1.68 € em fichas)
+Lugar 4: apelgonkmac (1.98 € em fichas)
+Lugar 5: AAcrafonso (1.47 € em fichas)
+Lugar 6: osorio211 (2.25 € em fichas)
+Marujosec: é small blind 0.01 €
+apelgonkmac: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h 4c]
+AAcrafonso: desiste
+osorio211: desiste
+afonsojose409: desiste
+AAcrafonso abandona a mesa
+Marujosec: iguala 0.01 €
+apelgonkmac: passa
+*** FLOP *** [5c 4h Jh]
+Marujosec: passa
+apelgonkmac: passa
+*** TURN *** [5c 4h Jh] [Kd]
+Marujosec: aposta 0.02 €
+apelgonkmac: desiste
+Aposta não-igualada (0.02 €) voltou para Marujosec
+Marujosec recebeu 0.04 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [5c 4h Jh Kd]
+Lugar 1: afonsojose409 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (small blind) recebeu (0.04 €)
+Lugar 4: apelgonkmac (big blind) desistiu no Turn
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 7 **************
+Mão #262057251487 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:13:26 UTC [2026/09/12 12:13:26 ET]
+Mesa 'Turais' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: BTMDIAZ (2.05 € em fichas)
+Lugar 5: Smeagolx84 (2.39 € em fichas)
+Lugar 6: alf91979 (1.94 € em fichas)
+Smeagolx84: é small blind 0.01 €
+alf91979: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 2d]
+osorio211: desiste
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: desiste
+Lovis7777 abandona a mesa
+alf91979: iguala 0.05 €
+*** FLOP *** [Kh 9c 2c]
+alf91979: passa
+BTMDIAZ: aposta 0.14 €
+alf91979: desiste
+Aposta não-igualada (0.14 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.14 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [Kh 9c 2c]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (Botão) recebeu (0.14 €)
+Lugar 5: Smeagolx84 (small blind) desistiu antes Flop
+Lugar 6: alf91979 (big blind) desistiu no Flop
+
+
+*********** # 8 **************
+Mão #262057245115 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:12:49 UTC [2026/09/12 12:12:49 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 3: Lovis7777 (0.84 € em fichas)
+Lugar 4: BTMDIAZ (2.13 € em fichas)
+Lugar 5: Smeagolx84 (1.56 € em fichas)
+Lugar 6: alf91979 (1.94 € em fichas)
+Lovis7777: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d Qc]
+Smeagolx84: iguala 0.02 €
+alf91979: desiste
+osorio211: desiste
+Lovis7777: iguala 0.01 €
+BTMDIAZ: sobe 0.06 € para 0.08 €
+Smeagolx84: iguala 0.06 €
+Lovis7777: iguala 0.06 €
+*** FLOP *** [Ac 9h As]
+Lovis7777: aposta 0.23 €
+BTMDIAZ: desiste
+Smeagolx84: iguala 0.23 €
+*** TURN *** [Ac 9h As] [Tc]
+Fisgas junta-se à mesa no lugar #2
+Lovis7777: aposta 0.53 € e está all-in
+Smeagolx84: iguala 0.53 €
+*** RIVER *** [Ac 9h As Tc] [2s]
+*** SHOW DOWN ***
+Lovis7777: mostra [9s 6c] (dois pares, Ases e Noves)
+Smeagolx84: mostra [5d Ad] (trio, Ases)
+Smeagolx84 recebeu 1.67 € do pote
+*** SUMÁRIO ***
+Total pote 1.76 € | comissão 0.09 €
+Mesa [Ac 9h As Tc 2s]
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Lovis7777 (small blind) mostrou [9s 6c] e perdeu com dois pares, Ases e Noves
+Lugar 4: BTMDIAZ (big blind) desistiu no Flop
+Lugar 5: Smeagolx84 mostrou [5d Ad] e ganhou (1.67 €) com trio, Ases
+Lugar 6: alf91979 desistiu antes Flop (não apostou)
+
+
+*********** # 9 **************
+Mão #262057241488 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:12:28 UTC [2026/09/12 12:12:28 ET]
+Mesa 'Turais' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 3: Lovis7777 (0.91 € em fichas)
+Lugar 4: BTMDIAZ (1.99 € em fichas)
+Lugar 5: Smeagolx84 (1.63 € em fichas)
+Lugar 6: alf91979 (1.94 € em fichas)
+osorio211: é small blind 0.01 €
+Lovis7777: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 9c]
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: iguala 0.07 €
+alf91979: desiste
+osorio211: desiste
+Lovis7777: iguala 0.05 €
+*** FLOP *** [2d 5c Jd]
+Lovis7777: passa
+BTMDIAZ: aposta 0.21 €
+Smeagolx84: desiste
+Lovis7777: desiste
+Aposta não-igualada (0.21 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.21 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.22 € | comissão 0.01 €
+Mesa [2d 5c Jd]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 3: Lovis7777 (big blind) desistiu no Flop
+Lugar 4: BTMDIAZ recebeu (0.21 €)
+Lugar 5: Smeagolx84 desistiu no Flop
+Lugar 6: alf91979 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 10 **************
+Mão #262057239036 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:12:14 UTC [2026/09/12 12:12:14 ET]
+Mesa 'Turais' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 3: Lovis7777 (0.91 € em fichas)
+Lugar 4: BTMDIAZ (1.96 € em fichas)
+Lugar 5: Smeagolx84 (1.63 € em fichas)
+Lugar 6: alf91979 (1.95 € em fichas)
+alf91979: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 7s]
+Lovis7777: desiste
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: desiste
+Aposta não-igualada (0.05 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.05 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 3: Lovis7777 desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ recebeu (0.05 €)
+Lugar 5: Smeagolx84 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: alf91979 (small blind) desistiu antes Flop
+
+
+*********** # 11 **************
+Mão #262057238974 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:12:13 UTC [2026/09/12 12:12:13 ET]
+Mesa 'Nusakan' 6-max Lugar #6 é o botão
+Lugar 1: afonsojose409 (2.16 € em fichas)
+Lugar 2: TMNort (1.49 € em fichas)
+Lugar 3: Marujosec (1.60 € em fichas)
+Lugar 4: apelgonkmac (2 € em fichas)
+Lugar 5: AAcrafonso (1.49 € em fichas)
+Lugar 6: osorio211 (2.25 € em fichas)
+afonsojose409: é small blind 0.01 €
+TMNort: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h 2s]
+Marujosec: iguala 0.02 €
+apelgonkmac: iguala 0.02 €
+AAcrafonso: iguala 0.02 €
+osorio211: desiste
+afonsojose409: iguala 0.01 €
+TMNort: passa
+*** FLOP *** [5d 7c 4c]
+afonsojose409: passa
+TMNort: passa
+Marujosec: passa
+apelgonkmac: passa
+AAcrafonso: passa
+*** TURN *** [5d 7c 4c] [8d]
+afonsojose409: passa
+TMNort: passa
+Marujosec: passa
+apelgonkmac: passa
+AAcrafonso: passa
+*** RIVER *** [5d 7c 4c 8d] [Ad]
+afonsojose409: passa
+TMNort: passa
+Marujosec: aposta 0.05 €
+apelgonkmac: desiste
+AAcrafonso: desiste
+afonsojose409: desiste
+TMNort: desiste
+Aposta não-igualada (0.05 €) voltou para Marujosec
+Marujosec recebeu 0.10 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.10 € | comissão 0 €
+Mesa [5d 7c 4c 8d Ad]
+Lugar 1: afonsojose409 (small blind) desistiu no River
+Lugar 2: TMNort (big blind) desistiu no River
+Lugar 3: Marujosec recebeu (0.10 €)
+Lugar 4: apelgonkmac desistiu no River
+Lugar 5: AAcrafonso desistiu no River
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 12 **************
+Mão #262057233161 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:11:39 UTC [2026/09/12 12:11:39 ET]
+Mesa 'Turais' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 3: Lovis7777 (0.91 € em fichas)
+Lugar 4: BTMDIAZ (2.81 € em fichas)
+Lugar 5: Smeagolx84 (0.85 € em fichas)
+Lugar 6: alf91979 (1.97 € em fichas)
+Smeagolx84: é small blind 0.01 €
+alf91979: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c 2c]
+osorio211: desiste
+Lovis7777: desiste
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: iguala 0.06 €
+alf91979: desiste
+*** FLOP *** [3c Td Ks]
+Smeagolx84: passa
+BTMDIAZ: passa
+*** TURN *** [3c Td Ks] [8c]
+Smeagolx84: aposta 0.08 €
+BTMDIAZ: iguala 0.08 €
+*** RIVER *** [3c Td Ks 8c] [9h]
+Smeagolx84: aposta 0.30 €
+BTMDIAZ: sobe 0.90 € para 1.20 €
+Smeagolx84: iguala 0.40 € e está all-in
+Aposta não-igualada (0.50 €) voltou para BTMDIAZ
+*** SHOW DOWN ***
+BTMDIAZ: mostra [Kd 3h] (dois pares, Reis e Três)
+Smeagolx84: mostra [3s 3d] (trio, Três)
+Smeagolx84 recebeu 1.63 € do pote
+*** SUMÁRIO ***
+Total pote 1.72 € | comissão 0.09 €
+Mesa [3c Td Ks 8c 9h]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 3: Lovis7777 desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (Botão) mostrou [Kd 3h] e perdeu com dois pares, Reis e Três
+Lugar 5: Smeagolx84 (small blind) mostrou [3s 3d] e ganhou (1.63 €) com trio, Três
+Lugar 6: alf91979 (big blind) desistiu antes Flop
+
+
+*********** # 13 **************
+Mão #262057232408 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:11:35 UTC [2026/09/12 12:11:35 ET]
+Mesa 'Nusakan' 6-max Lugar #5 é o botão
+Lugar 1: afonsojose409 (2.18 € em fichas)
+Lugar 2: TMNort (1.49 € em fichas)
+Lugar 3: Marujosec (1.57 € em fichas)
+Lugar 4: apelgonkmac (2 € em fichas)
+Lugar 5: AAcrafonso (1.49 € em fichas)
+Lugar 6: osorio211 (2.26 € em fichas)
+osorio211: é small blind 0.01 €
+afonsojose409: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d Qs]
+TMNort: desiste
+Marujosec: iguala 0.02 €
+apelgonkmac: desiste
+AAcrafonso: desiste
+osorio211: desiste
+afonsojose409: passa
+*** FLOP *** [7h Kd 7c]
+afonsojose409: passa
+Marujosec: passa
+*** TURN *** [7h Kd 7c] [Qd]
+afonsojose409: passa
+Marujosec: aposta 0.02 €
+afonsojose409: desiste
+Aposta não-igualada (0.02 €) voltou para Marujosec
+Marujosec recebeu 0.05 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [7h Kd 7c Qd]
+Lugar 1: afonsojose409 (big blind) desistiu no Turn
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec recebeu (0.05 €)
+Lugar 4: apelgonkmac desistiu antes Flop (não apostou)
+Lugar 5: AAcrafonso (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 14 **************
+Mão #262057226793 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:11:03 UTC [2026/09/12 12:11:03 ET]
+Mesa 'Turais' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 3: Lovis7777 (0.91 € em fichas)
+Lugar 4: BTMDIAZ (2.83 € em fichas)
+Lugar 5: Smeagolx84 (0.83 € em fichas)
+Lugar 6: alf91979 (1.97 € em fichas)
+BTMDIAZ: é small blind 0.01 €
+Smeagolx84: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 2h]
+alf91979: desiste
+timaria74 abandona a mesa
+osorio211: desiste
+Lovis7777: desiste
+BTMDIAZ: iguala 0.01 €
+Smeagolx84: passa
+*** FLOP *** [9c Kh Kd]
+BTMDIAZ: passa
+Smeagolx84: passa
+*** TURN *** [9c Kh Kd] [8c]
+BTMDIAZ: passa
+Smeagolx84: aposta 0.04 €
+BTMDIAZ: desiste
+Aposta não-igualada (0.04 €) voltou para Smeagolx84
+Smeagolx84 recebeu 0.04 € do pote
+Smeagolx84: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [9c Kh Kd 8c]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 3: Lovis7777 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (small blind) desistiu no Turn
+Lugar 5: Smeagolx84 (big blind) recebeu (0.04 €)
+Lugar 6: alf91979 desistiu antes Flop (não apostou)
+
+
+*********** # 15 **************
+Mão #262057222663 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:10:38 UTC [2026/09/12 12:10:38 ET]
+Mesa 'Nusakan' 6-max Lugar #4 é o botão
+Lugar 1: afonsojose409 (2.18 € em fichas)
+Lugar 2: TMNort (1.49 € em fichas)
+Lugar 3: Marujosec (1.57 € em fichas)
+Lugar 4: apelgonkmac (2 € em fichas)
+Lugar 5: AAcrafonso (1.57 € em fichas)
+Lugar 6: osorio211 (2.19 € em fichas)
+AAcrafonso: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s Js]
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: desiste
+apelgonkmac: desiste
+AAcrafonso: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Jc 9h 3h]
+AAcrafonso: passa
+osorio211: aposta 0.02 €
+AAcrafonso: iguala 0.02 €
+*** TURN *** [Jc 9h 3h] [4s]
+AAcrafonso: passa
+osorio211: aposta 0.04 €
+AAcrafonso: iguala 0.04 €
+*** RIVER *** [Jc 9h 3h 4s] [Qd]
+AAcrafonso: passa
+osorio211: passa
+*** SHOW DOWN ***
+AAcrafonso: mostra [2h Ac] (Carta alta Ás)
+osorio211: mostra [2s Js] (par de Valetes)
+osorio211 recebeu 0.15 € do pote
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [Jc 9h 3h 4s Qd]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec desistiu antes Flop (não apostou)
+Lugar 4: apelgonkmac (Botão) desistiu antes Flop (não apostou)
+Lugar 5: AAcrafonso (small blind) mostrou [2h Ac] e perdeu com Carta alta Ás
+Lugar 6: osorio211 (big blind) mostrou [2s Js] e ganhou (0.15 €) com par de Valetes
+
+
+*********** # 16 **************
+Mão #262057220213 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:10:24 UTC [2026/09/12 12:10:24 ET]
+Mesa 'Turais' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.49 € em fichas)
+Lugar 3: Lovis7777 (0.95 € em fichas)
+Lugar 4: BTMDIAZ (2.35 € em fichas)
+Lugar 5: Smeagolx84 (0.83 € em fichas)
+Lugar 6: alf91979 (1.97 € em fichas)
+Lovis7777: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As 5d]
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: desiste
+timaria74: sobe 0.02 € para 0.04 €
+Lovis7777: iguala 0.03 €
+BTMDIAZ: sobe 0.12 € para 0.16 €
+timaria74: sobe 0.33 € para 0.49 € e está all-in
+Lovis7777: desiste
+BTMDIAZ: iguala 0.33 €
+*** FLOP *** [2c 6c 3d]
+*** TURN *** [2c 6c 3d] [3c]
+*** RIVER *** [2c 6c 3d 3c] [Qc]
+*** SHOW DOWN ***
+BTMDIAZ: mostra [Qs Qd] (Fullen, Damas com Três)
+timaria74: mostra [Ac Kd] (Cor, Ás carta mais alta)
+BTMDIAZ recebeu 0.97 € do pote
+*** SUMÁRIO ***
+Total pote 1.02 € | comissão 0.05 €
+Mesa [2c 6c 3d 3c Qc]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: timaria74 (Botão) mostrou [Ac Kd] e perdeu com Cor, Ás carta mais alta
+Lugar 3: Lovis7777 (small blind) desistiu antes Flop
+Lugar 4: BTMDIAZ (big blind) mostrou [Qs Qd] e ganhou (0.97 €) com Fullen, Damas com Três
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+Lugar 6: alf91979 desistiu antes Flop (não apostou)
+
+
+*********** # 17 **************
+Mão #262057213814 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:09:47 UTC [2026/09/12 12:09:47 ET]
+Mesa 'Nusakan' 6-max Lugar #3 é o botão
+Lugar 1: afonsojose409 (2.18 € em fichas)
+Lugar 2: TMNort (1.49 € em fichas)
+Lugar 3: Marujosec (1.61 € em fichas)
+Lugar 4: apelgonkmac (1.94 € em fichas)
+Lugar 5: AAcrafonso (1.59 € em fichas)
+Lugar 6: osorio211 (2.19 € em fichas)
+apelgonkmac: é small blind 0.01 €
+AAcrafonso: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 5c]
+osorio211: desiste
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: iguala 0.02 €
+apelgonkmac: iguala 0.01 €
+AAcrafonso: passa
+*** FLOP *** [4h 3d 7s]
+apelgonkmac: passa
+AAcrafonso: passa
+Marujosec: aposta 0.02 €
+apelgonkmac: iguala 0.02 €
+AAcrafonso: desiste
+*** TURN *** [4h 3d 7s] [4c]
+apelgonkmac: passa
+Marujosec: passa
+*** RIVER *** [4h 3d 7s 4c] [Jh]
+apelgonkmac: passa
+Marujosec: passa
+*** SHOW DOWN ***
+apelgonkmac: mostra [9d 7h] (dois pares, Setes e Quatros)
+Marujosec: esconde a mão
+apelgonkmac recebeu 0.10 € do pote
+*** SUMÁRIO ***
+Total pote 0.10 € | comissão 0 €
+Mesa [4h 3d 7s 4c Jh]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (Botão) escondeu as cartas [Tc Ad]
+Lugar 4: apelgonkmac (small blind) mostrou [9d 7h] e ganhou (0.10 €) com dois pares, Setes e Quatros
+Lugar 5: AAcrafonso (big blind) desistiu no Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 18 **************
+Mão #262057212210 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:09:38 UTC [2026/09/12 12:09:38 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.50 € em fichas)
+Lugar 3: Lovis7777 (0.97 € em fichas)
+Lugar 4: BTMDIAZ (2.25 € em fichas)
+Lugar 5: Smeagolx84 (0.83 € em fichas)
+Lugar 6: alf91979 (1.97 € em fichas)
+timaria74: é small blind 0.01 €
+Lovis7777: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Kc]
+BTMDIAZ: iguala 0.02 €
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: sobe 0.06 € para 0.08 €
+timaria74: desiste
+Lovis7777: desiste
+BTMDIAZ: iguala 0.06 €
+*** FLOP *** [Th Qs 7s]
+BTMDIAZ: aposta 0.18 €
+osorio211: desiste
+Aposta não-igualada (0.18 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.18 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [Th Qs 7s]
+Lugar 1: osorio211 (Botão) desistiu no Flop
+Lugar 2: timaria74 (small blind) desistiu antes Flop
+Lugar 3: Lovis7777 (big blind) desistiu antes Flop
+Lugar 4: BTMDIAZ recebeu (0.18 €)
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+Lugar 6: alf91979 desistiu antes Flop (não apostou)
+
+
+*********** # 19 **************
+Mão #262057205656 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:08:59 UTC [2026/09/12 12:08:59 ET]
+Mesa 'Nusakan' 6-max Lugar #2 é o botão
+Lugar 1: afonsojose409 (2.18 € em fichas)
+Lugar 2: TMNort (1.49 € em fichas)
+Lugar 3: Marujosec (1.56 € em fichas)
+Lugar 4: apelgonkmac (2 € em fichas)
+Lugar 6: osorio211 (2.19 € em fichas)
+Marujosec: é small blind 0.01 €
+apelgonkmac: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 9c]
+osorio211: desiste
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: iguala 0.01 €
+apelgonkmac: passa
+*** FLOP *** [As 5c 2c]
+Marujosec: passa
+apelgonkmac: passa
+*** TURN *** [As 5c 2c] [4c]
+Marujosec: passa
+apelgonkmac: passa
+*** RIVER *** [As 5c 2c 4c] [2s]
+Marujosec: passa
+apelgonkmac: aposta 0.04 €
+Marujosec: sobe 0.12 € para 0.16 €
+apelgonkmac: desiste
+Aposta não-igualada (0.12 €) voltou para Marujosec
+Marujosec recebeu 0.11 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [As 5c 2c 4c 2s]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (small blind) recebeu (0.11 €)
+Lugar 4: apelgonkmac (big blind) desistiu no River
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 20 **************
+Mão #262057205577 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:08:58 UTC [2026/09/12 12:08:58 ET]
+Mesa 'Turais' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.52 € em fichas)
+Lugar 3: Lovis7777 (1.08 € em fichas)
+Lugar 4: BTMDIAZ (2.12 € em fichas)
+Lugar 5: Smeagolx84 (0.83 € em fichas)
+Lugar 6: alf91979 (1.97 € em fichas)
+osorio211: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d 8c]
+Lovis7777: iguala 0.02 €
+BTMDIAZ: sobe 0.07 € para 0.09 €
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: desiste
+timaria74: desiste
+Lovis7777: iguala 0.07 €
+*** FLOP *** [7s Ad 5s]
+Lovis7777: passa
+BTMDIAZ: passa
+*** TURN *** [7s Ad 5s] [7c]
+Lovis7777: passa
+BTMDIAZ: passa
+*** RIVER *** [7s Ad 5s 7c] [5c]
+Lovis7777: aposta 0.02 €
+BTMDIAZ: sobe 0.12 € para 0.14 €
+Lovis7777: desiste
+Aposta não-igualada (0.12 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.24 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.25 € | comissão 0.01 €
+Mesa [7s Ad 5s 7c 5c]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: timaria74 (big blind) desistiu antes Flop
+Lugar 3: Lovis7777 desistiu no River
+Lugar 4: BTMDIAZ recebeu (0.24 €)
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+Lugar 6: alf91979 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 21 **************
+Mão #262057200775 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:08:30 UTC [2026/09/12 12:08:30 ET]
+Mesa 'Nusakan' 6-max Lugar #1 é o botão
+Lugar 1: afonsojose409 (2.18 € em fichas)
+Lugar 2: TMNort (1.50 € em fichas)
+Lugar 3: Marujosec (1.55 € em fichas)
+Lugar 5: AAcrafonso (1.59 € em fichas)
+Lugar 6: osorio211 (2.19 € em fichas)
+TMNort: é small blind 0.01 €
+Marujosec: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Qd]
+AAcrafonso gastou o tempo
+AAcrafonso: desiste
+osorio211: desiste
+afonsojose409: desiste
+TMNort: desiste
+Aposta não-igualada (0.01 €) voltou para Marujosec
+Marujosec recebeu 0.02 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: afonsojose409 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: TMNort (small blind) desistiu antes Flop
+Lugar 3: Marujosec (big blind) recebeu (0.02 €)
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 22 **************
+Mão #262057195010 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:07:55 UTC [2026/09/12 12:07:55 ET]
+Mesa 'Nusakan' 6-max Lugar #6 é o botão
+Lugar 1: afonsojose409 (2.19 € em fichas)
+Lugar 2: TMNort (1.52 € em fichas)
+Lugar 3: Marujosec (1.44 € em fichas)
+Lugar 5: AAcrafonso (1.59 € em fichas)
+Lugar 6: osorio211 (2.27 € em fichas)
+afonsojose409: é small blind 0.01 €
+TMNort: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 9s]
+Marujosec: iguala 0.02 €
+AAcrafonso: desiste
+osorio211: sobe 0.06 € para 0.08 €
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: sobe 0.06 € para 0.14 €
+osorio211: desiste
+Aposta não-igualada (0.06 €) voltou para Marujosec
+Marujosec recebeu 0.19 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0 €
+Lugar 1: afonsojose409 (small blind) desistiu antes Flop
+Lugar 2: TMNort (big blind) desistiu antes Flop
+Lugar 3: Marujosec recebeu (0.19 €)
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu antes Flop
+
+
+*********** # 23 **************
+Mão #262057194075 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:07:50 UTC [2026/09/12 12:07:50 ET]
+Mesa 'Turais' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.52 € em fichas)
+Lugar 3: Lovis7777 (1.37 € em fichas)
+Lugar 4: BTMDIAZ (1.83 € em fichas)
+Lugar 5: Smeagolx84 (0.83 € em fichas)
+Lugar 6: alf91979 (1.98 € em fichas)
+alf91979: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s 5d]
+timaria74: desiste
+Lovis7777: iguala 0.02 €
+BTMDIAZ: sobe 0.07 € para 0.09 €
+Smeagolx84: desiste
+alf91979: desiste
+osorio211: desiste
+Lovis7777: iguala 0.07 €
+*** FLOP *** [9s Jc 7s]
+Lovis7777: passa
+BTMDIAZ: aposta 0.20 €
+Lovis7777: iguala 0.20 €
+*** TURN *** [9s Jc 7s] [Ah]
+Lovis7777: passa
+BTMDIAZ: passa
+*** RIVER *** [9s Jc 7s Ah] [6d]
+Lovis7777: passa
+BTMDIAZ: aposta 0.58 €
+Lovis7777: desiste
+Aposta não-igualada (0.58 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.58 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.61 € | comissão 0.03 €
+Mesa [9s Jc 7s Ah 6d]
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 2: timaria74 desistiu antes Flop (não apostou)
+Lugar 3: Lovis7777 desistiu no River
+Lugar 4: BTMDIAZ recebeu (0.58 €)
+Lugar 5: Smeagolx84 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: alf91979 (small blind) desistiu antes Flop
+
+
+*********** # 24 **************
+Mão #262057190869 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:07:31 UTC [2026/09/12 12:07:31 ET]
+Mesa 'Turais' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.52 € em fichas)
+Lugar 3: Lovis7777 (1.37 € em fichas)
+Lugar 4: BTMDIAZ (1.80 € em fichas)
+Lugar 5: Smeagolx84 (0.84 € em fichas)
+Lugar 6: alf91979 (2 € em fichas)
+Smeagolx84: é small blind 0.01 €
+alf91979: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c Ad]
+osorio211: desiste
+timaria74: desiste
+Lovis7777: desiste
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: desiste
+alf91979: desiste
+Aposta não-igualada (0.05 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.05 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: timaria74 desistiu antes Flop (não apostou)
+Lugar 3: Lovis7777 desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (Botão) recebeu (0.05 €)
+Lugar 5: Smeagolx84 (small blind) desistiu antes Flop
+Lugar 6: alf91979 (big blind) desistiu antes Flop
+
+
+*********** # 25 **************
+Mão #262057189440 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:07:22 UTC [2026/09/12 12:07:22 ET]
+Mesa 'Nusakan' 6-max Lugar #5 é o botão
+Lugar 1: afonsojose409 (2.23 € em fichas)
+Lugar 2: TMNort (1.52 € em fichas)
+Lugar 3: Marujosec (1.39 € em fichas)
+Lugar 5: AAcrafonso (1.59 € em fichas)
+Lugar 6: osorio211 (2.28 € em fichas)
+osorio211: é small blind 0.01 €
+afonsojose409: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd 6d]
+TMNort: desiste
+Marujosec: iguala 0.02 €
+AAcrafonso: desiste
+osorio211: desiste
+afonsojose409: passa
+*** FLOP *** [8c 7d 6c]
+afonsojose409: aposta 0.02 €
+Marujosec: iguala 0.02 €
+*** TURN *** [8c 7d 6c] [Kh]
+afonsojose409: passa
+Marujosec: passa
+*** RIVER *** [8c 7d 6c Kh] [Jc]
+afonsojose409: passa
+Marujosec: passa
+*** SHOW DOWN ***
+afonsojose409: mostra [Tc 8s] (par de Oitos)
+Marujosec: mostra [Qc Qd] (par de Damas)
+Marujosec recebeu 0.09 € do pote
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Mesa [8c 7d 6c Kh Jc]
+Lugar 1: afonsojose409 (big blind) mostrou [Tc 8s] e perdeu com par de Oitos
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec mostrou [Qc Qd] e ganhou (0.09 €) com par de Damas
+Lugar 5: AAcrafonso (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 26 **************
+Mão #262057183089 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:06:45 UTC [2026/09/12 12:06:45 ET]
+Mesa 'Turais' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.56 € em fichas)
+Lugar 3: Lovis7777 (1.37 € em fichas)
+Lugar 4: BTMDIAZ (1.73 € em fichas)
+Lugar 5: Smeagolx84 (0.88 € em fichas)
+BTMDIAZ: é small blind 0.01 €
+Smeagolx84: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s 8d]
+osorio211: desiste
+timaria74: sobe 0.02 € para 0.04 €
+Lovis7777: desiste
+alf91979 junta-se à mesa no lugar #6
+BTMDIAZ: iguala 0.03 €
+Smeagolx84: iguala 0.02 €
+*** FLOP *** [Qc 9c Qh]
+BTMDIAZ: passa
+Smeagolx84: passa
+timaria74: passa
+*** TURN *** [Qc 9c Qh] [6c]
+BTMDIAZ: aposta 0.11 €
+Smeagolx84: desiste
+timaria74: desiste
+Aposta não-igualada (0.11 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.11 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [Qc 9c Qh 6c]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: timaria74 desistiu no Turn
+Lugar 3: Lovis7777 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (small blind) recebeu (0.11 €)
+Lugar 5: Smeagolx84 (big blind) desistiu no Turn
+
+
+*********** # 27 **************
+Mão #262057182806 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:06:43 UTC [2026/09/12 12:06:43 ET]
+Mesa 'Nusakan' 6-max Lugar #3 é o botão
+Lugar 1: afonsojose409 (2.23 € em fichas)
+Lugar 2: TMNort (1.52 € em fichas)
+Lugar 3: Marujosec (1.44 € em fichas)
+Lugar 5: AAcrafonso (1.60 € em fichas)
+Lugar 6: osorio211 (2.23 € em fichas)
+apelgonkmac poderá jogar depois do botão
+AAcrafonso: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd 4d]
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: iguala 0.02 €
+AAcrafonso: desiste
+osorio211: passa
+*** FLOP *** [7c 6d 5s]
+osorio211: passa
+Marujosec: passa
+*** TURN *** [7c 6d 5s] [6s]
+osorio211: passa
+Marujosec: passa
+*** RIVER *** [7c 6d 5s 6s] [3d]
+osorio211: aposta 0.03 €
+Marujosec: iguala 0.03 €
+*** SHOW DOWN ***
+osorio211: mostra [Jd 4d] (Straight, Três a Sete)
+Marujosec: esconde a mão
+osorio211 recebeu 0.10 € do pote
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [7c 6d 5s 6s 3d]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (Botão) escondeu as cartas [9c Ac]
+Lugar 5: AAcrafonso (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) mostrou [Jd 4d] e ganhou (0.10 €) com Straight, Três a Sete
+
+
+*********** # 28 **************
+Mão #262057172247 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:05:40 UTC [2026/09/12 12:05:40 ET]
+Mesa 'Nusakan' 6-max Lugar #2 é o botão
+Lugar 1: afonsojose409 (2.23 € em fichas)
+Lugar 2: TMNort (1.52 € em fichas)
+Lugar 3: Marujosec (1.60 € em fichas)
+Lugar 5: AAcrafonso (1.46 € em fichas)
+Lugar 6: osorio211 (2.23 € em fichas)
+Marujosec: é small blind 0.01 €
+AAcrafonso: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Qh]
+osorio211: desiste
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: sobe 0.02 € para 0.04 €
+AAcrafonso: iguala 0.02 €
+*** FLOP *** [3d 6s 2s]
+Marujosec: aposta 0.02 €
+AAcrafonso: sobe 0.02 € para 0.04 €
+Marujosec: iguala 0.02 €
+*** TURN *** [3d 6s 2s] [2d]
+Marujosec: passa
+AAcrafonso: aposta 0.08 €
+apelgonkmac junta-se à mesa no lugar #4
+Marujosec: iguala 0.08 €
+*** RIVER *** [3d 6s 2s 2d] [Td]
+Marujosec: passa
+AAcrafonso: aposta 0.10 €
+Marujosec: desiste
+Aposta não-igualada (0.10 €) voltou para AAcrafonso
+AAcrafonso recebeu 0.30 € do pote
+AAcrafonso: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.32 € | comissão 0.02 €
+Mesa [3d 6s 2s 2d Td]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (small blind) desistiu no River
+Lugar 5: AAcrafonso (big blind) recebeu (0.30 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 29 **************
+Mão #262057171764 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:05:37 UTC [2026/09/12 12:05:37 ET]
+Mesa 'Turais' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.60 € em fichas)
+Lugar 3: Lovis7777 (1.70 € em fichas)
+Lugar 4: BTMDIAZ (1.40 € em fichas)
+Lugar 5: Smeagolx84 (0.88 € em fichas)
+Lovis7777: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s Kh]
+Smeagolx84: desiste
+osorio211: desiste
+timaria74: sobe 0.02 € para 0.04 €
+Lovis7777: iguala 0.03 €
+BTMDIAZ: sobe 0.12 € para 0.16 €
+timaria74: desiste
+Lovis7777: iguala 0.12 €
+*** FLOP *** [4c 8s 7h]
+Lovis7777: passa
+BTMDIAZ: passa
+*** TURN *** [4c 8s 7h] [9h]
+Lovis7777: passa
+BTMDIAZ: aposta 0.17 €
+Lovis7777: iguala 0.17 €
+*** RIVER *** [4c 8s 7h 9h] [Ts]
+Lovis7777: passa
+BTMDIAZ: passa
+*** SHOW DOWN ***
+Lovis7777: mostra [4h 5d] (par de Quatros)
+BTMDIAZ: mostra [Tc Ac] (par de Dez)
+BTMDIAZ recebeu 0.66 € do pote
+*** SUMÁRIO ***
+Total pote 0.70 € | comissão 0.04 €
+Mesa [4c 8s 7h 9h Ts]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: timaria74 (Botão) desistiu antes Flop
+Lugar 3: Lovis7777 (small blind) mostrou [4h 5d] e perdeu com par de Quatros
+Lugar 4: BTMDIAZ (big blind) mostrou [Tc Ac] e ganhou (0.66 €) com par de Dez
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+
+
+*********** # 30 **************
+Mão #262057169005 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:05:21 UTC [2026/09/12 12:05:21 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.61 € em fichas)
+Lugar 3: Lovis7777 (1.72 € em fichas)
+Lugar 4: BTMDIAZ (1.37 € em fichas)
+Lugar 5: Smeagolx84 (0.88 € em fichas)
+timaria74: é small blind 0.01 €
+Lovis7777: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh Jd]
+BTMDIAZ: sobe 0.05 € para 0.07 €
+Smeagolx84: desiste
+osorio211: desiste
+timaria74: desiste
+Lovis7777: desiste
+Aposta não-igualada (0.05 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.05 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: timaria74 (small blind) desistiu antes Flop
+Lugar 3: Lovis7777 (big blind) desistiu antes Flop
+Lugar 4: BTMDIAZ recebeu (0.05 €)
+Lugar 5: Smeagolx84 desistiu antes Flop (não apostou)
+
+
+*********** # 31 **************
+Mão #262057163534 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:04:48 UTC [2026/09/12 12:04:48 ET]
+Mesa 'Nusakan' 6-max Lugar #1 é o botão
+Lugar 1: afonsojose409 (2.01 € em fichas)
+Lugar 2: TMNort (1.53 € em fichas)
+Lugar 3: Marujosec (1.62 € em fichas)
+Lugar 5: AAcrafonso (1.67 € em fichas)
+Lugar 6: osorio211 (2.23 € em fichas)
+TMNort: é small blind 0.01 €
+Marujosec: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 8h]
+AAcrafonso: iguala 0.02 €
+osorio211: desiste
+afonsojose409: sobe 0.02 € para 0.04 €
+TMNort: desiste
+Marujosec: desiste
+AAcrafonso: iguala 0.02 €
+*** FLOP *** [7s Qc 9d]
+AAcrafonso: aposta 0.02 €
+afonsojose409: sobe 0.07 € para 0.09 €
+AAcrafonso: iguala 0.07 €
+*** TURN *** [7s Qc 9d] [Ts]
+AAcrafonso: passa
+afonsojose409: passa
+*** RIVER *** [7s Qc 9d Ts] [3s]
+AAcrafonso: aposta 0.08 €
+afonsojose409: iguala 0.08 €
+*** SHOW DOWN ***
+AAcrafonso: mostra [Kh Qs] (par de Damas)
+afonsojose409: mostra [As Qh] (par de Damas - Ás kicker)
+afonsojose409 recebeu 0.43 € do pote
+*** SUMÁRIO ***
+Total pote 0.45 € | comissão 0.02 €
+Mesa [7s Qc 9d Ts 3s]
+Lugar 1: afonsojose409 (Botão) mostrou [As Qh] e ganhou (0.43 €) com par de Damas
+Lugar 2: TMNort (small blind) desistiu antes Flop
+Lugar 3: Marujosec (big blind) desistiu antes Flop
+Lugar 5: AAcrafonso mostrou [Kh Qs] e perdeu com par de Damas
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 32 **************
+Mão #262057157565 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:04:11 UTC [2026/09/12 12:04:11 ET]
+Mesa 'Turais' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.68 € em fichas)
+Lugar 3: Lovis7777 (1.74 € em fichas)
+Lugar 4: BTMDIAZ (1.39 € em fichas)
+Lugar 5: Smeagolx84 (0.77 € em fichas)
+osorio211: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Qh]
+Lovis7777: iguala 0.02 €
+BTMDIAZ: iguala 0.02 €
+Smeagolx84: iguala 0.02 €
+osorio211: desiste
+timaria74: passa
+*** FLOP *** [Ah Qd 3c]
+timaria74: passa
+Lovis7777: passa
+BTMDIAZ: passa
+Smeagolx84: aposta 0.05 €
+timaria74: iguala 0.05 €
+Lovis7777: desiste
+BTMDIAZ: desiste
+*** TURN *** [Ah Qd 3c] [4d]
+timaria74: passa
+Smeagolx84: passa
+*** RIVER *** [Ah Qd 3c 4d] [9c]
+timaria74: passa
+Smeagolx84: aposta 0.09 €
+timaria74: desiste
+Aposta não-igualada (0.09 €) voltou para Smeagolx84
+Smeagolx84 recebeu 0.18 € do pote
+Smeagolx84: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [Ah Qd 3c 4d 9c]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: timaria74 (big blind) desistiu no River
+Lugar 3: Lovis7777 desistiu no Flop
+Lugar 4: BTMDIAZ desistiu no Flop
+Lugar 5: Smeagolx84 (Botão) recebeu (0.18 €)
+
+
+*********** # 33 **************
+Mão #262057154734 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:03:55 UTC [2026/09/12 12:03:55 ET]
+Mesa 'Nusakan' 6-max Lugar #6 é o botão
+Lugar 1: afonsojose409 (2.02 € em fichas)
+Lugar 2: TMNort (1.70 € em fichas)
+Lugar 3: Marujosec (1.64 € em fichas)
+Lugar 5: AAcrafonso (1.67 € em fichas)
+Lugar 6: osorio211 (2.05 € em fichas)
+afonsojose409: é small blind 0.01 €
+TMNort: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs Kc]
+Marujosec: iguala 0.02 €
+AAcrafonso: desiste
+osorio211: sobe 0.06 € para 0.08 €
+afonsojose409: desiste
+TMNort: iguala 0.06 €
+Marujosec: desiste
+*** FLOP *** [Jh 3c Kh]
+TMNort: passa
+osorio211: aposta 0.09 €
+TMNort: iguala 0.09 €
+*** TURN *** [Jh 3c Kh] [7c]
+TMNort: passa
+osorio211: aposta 0.18 €
+TMNort: desiste
+Aposta não-igualada (0.18 €) voltou para osorio211
+osorio211 recebeu 0.35 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [Jh 3c Kh 7c]
+Lugar 1: afonsojose409 (small blind) desistiu antes Flop
+Lugar 2: TMNort (big blind) desistiu no Turn
+Lugar 3: Marujosec desistiu antes Flop
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) recebeu (0.35 €)
+
+
+*********** # 34 **************
+Mão #262057143677 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:02:48 UTC [2026/09/12 12:02:48 ET]
+Mesa 'Nusakan' 6-max Lugar #5 é o botão
+Lugar 1: afonsojose409 (2.04 € em fichas)
+Lugar 2: TMNort (1.70 € em fichas)
+Lugar 3: Marujosec (1.56 € em fichas)
+Lugar 4: josebala (1.96 € em fichas)
+Lugar 5: AAcrafonso (1.73 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+osorio211: é small blind 0.01 €
+afonsojose409: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 6h]
+TMNort: desiste
+Marujosec: iguala 0.02 €
+josebala: desiste
+josebala abandona a mesa
+AAcrafonso: iguala 0.02 €
+osorio211: desiste
+afonsojose409: passa
+*** FLOP *** [4s Th 7c]
+afonsojose409: passa
+Marujosec: aposta 0.02 €
+AAcrafonso: iguala 0.02 €
+afonsojose409: desiste
+*** TURN *** [4s Th 7c] [Ac]
+Marujosec: passa
+AAcrafonso: passa
+*** RIVER *** [4s Th 7c Ac] [5c]
+Marujosec: passa
+AAcrafonso: aposta 0.02 €
+Marujosec: iguala 0.02 €
+*** SHOW DOWN ***
+AAcrafonso: mostra [9d Qh] (Carta alta Ás)
+Marujosec: mostra [Jh Kc] (Carta alta Ás - Rei kicker)
+Marujosec recebeu 0.14 € do pote
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [4s Th 7c Ac 5c]
+Lugar 1: afonsojose409 (big blind) desistiu no Flop
+Lugar 2: TMNort desistiu antes Flop (não apostou)
+Lugar 3: Marujosec mostrou [Jh Kc] e ganhou (0.14 €) com Carta alta Ás
+Lugar 4: josebala desistiu antes Flop (não apostou)
+Lugar 5: AAcrafonso (Botão) mostrou [9d Qh] e perdeu com Carta alta Ás
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 35 **************
+Mão #262057141421 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:02:35 UTC [2026/09/12 12:02:35 ET]
+Mesa 'Turais' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.70 € em fichas)
+Lugar 3: Lovis7777 (1.76 € em fichas)
+Lugar 4: BTMDIAZ (1.08 € em fichas)
+Lugar 5: Smeagolx84 (0.78 € em fichas)
+Smeagolx84: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+Lovis7777: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc Ah]
+timaria74: iguala 0.02 €
+Lovis7777: passa
+BTMDIAZ: sobe 0.09 € para 0.11 €
+Smeagolx84: desiste
+osorio211: sobe 0.15 € para 0.26 €
+timaria74: desiste
+Lovis7777: desiste
+BTMDIAZ: sobe 0.57 € para 0.83 €
+osorio211: desiste
+Aposta não-igualada (0.57 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.57 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.57 € | comissão 0 €
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 2: timaria74 desistiu antes Flop
+Lugar 3: Lovis7777 desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (Botão) recebeu (0.57 €)
+Lugar 5: Smeagolx84 (small blind) desistiu antes Flop
+
+
+*********** # 36 **************
+Mão #262057138692 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:02:17 UTC [2026/09/12 12:02:17 ET]
+Mesa 'Nusakan' 6-max Lugar #4 é o botão
+Lugar 1: afonsojose409 (1.94 € em fichas)
+Lugar 2: TMNort (1.74 € em fichas)
+Lugar 3: Marujosec (1.60 € em fichas)
+Lugar 4: josebala (1.96 € em fichas)
+Lugar 5: AAcrafonso (1.74 € em fichas)
+Lugar 6: osorio211 (2.08 € em fichas)
+AAcrafonso: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Ts]
+afonsojose409: sobe 0.02 € para 0.04 €
+TMNort: iguala 0.04 €
+Marujosec: iguala 0.04 €
+josebala: desiste
+AAcrafonso: desiste
+osorio211: desiste
+*** FLOP *** [7c 4h 6h]
+afonsojose409: aposta 0.07 €
+TMNort: desiste
+Marujosec: desiste
+Aposta não-igualada (0.07 €) voltou para afonsojose409
+afonsojose409 recebeu 0.14 € do pote
+afonsojose409: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [7c 4h 6h]
+Lugar 1: afonsojose409 recebeu (0.14 €)
+Lugar 2: TMNort desistiu no Flop
+Lugar 3: Marujosec desistiu no Flop
+Lugar 4: josebala (Botão) desistiu antes Flop (não apostou)
+Lugar 5: AAcrafonso (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 37 **************
+Mão #262057138654 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:02:17 UTC [2026/09/12 12:02:17 ET]
+Mesa 'Turais' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.70 € em fichas)
+Lugar 4: BTMDIAZ (1.06 € em fichas)
+Lugar 5: Smeagolx84 (0.80 € em fichas)
+Lovis7777 poderá jogar depois do botão
+BTMDIAZ: é small blind 0.01 €
+Smeagolx84: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 8c]
+osorio211: desiste
+timaria74: desiste
+BTMDIAZ: iguala 0.01 €
+Smeagolx84: passa
+*** FLOP *** [Jd 2s Qc]
+BTMDIAZ: aposta 0.04 €
+Smeagolx84: desiste
+Aposta não-igualada (0.04 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.04 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Jd 2s Qc]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: timaria74 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: BTMDIAZ (small blind) recebeu (0.04 €)
+Lugar 5: Smeagolx84 (big blind) desistiu no Flop
+
+
+*********** # 38 **************
+Mão #262057134425 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:01:49 UTC [2026/09/12 12:01:49 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.76 € em fichas)
+Lugar 4: BTMDIAZ (0.94 € em fichas)
+timaria74: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6h 6s]
+osorio211: sobe 0.04 € para 0.06 €
+timaria74: iguala 0.05 €
+BTMDIAZ: sobe 0.18 € para 0.24 €
+Lovis7777 junta-se à mesa no lugar #3
+Smeagolx84 junta-se à mesa no lugar #5
+osorio211: desiste
+timaria74: desiste
+Aposta não-igualada (0.18 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.18 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0 €
+Lugar 1: osorio211 (Botão) desistiu antes Flop
+Lugar 2: timaria74 (small blind) desistiu antes Flop
+Lugar 4: BTMDIAZ (big blind) recebeu (0.18 €)
+
+
+*********** # 39 **************
+Mão #262057134051 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:01:47 UTC [2026/09/12 12:01:47 ET]
+Mesa 'Nusakan' 6-max Lugar #3 é o botão
+Lugar 1: afonsojose409 (1.94 € em fichas)
+Lugar 2: TMNort (1.80 € em fichas)
+Lugar 3: Marujosec (1.60 € em fichas)
+Lugar 4: josebala (1.97 € em fichas)
+Lugar 5: AAcrafonso (1.76 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+josebala: é small blind 0.01 €
+AAcrafonso: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Th]
+osorio211: sobe 0.04 € para 0.06 €
+afonsojose409: desiste
+TMNort: iguala 0.06 €
+Marujosec: desiste
+josebala: desiste
+AAcrafonso: desiste
+*** FLOP *** [4c 6s As]
+osorio211: aposta 0.05 €
+TMNort: desiste
+Aposta não-igualada (0.05 €) voltou para osorio211
+osorio211 recebeu 0.14 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [4c 6s As]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort desistiu no Flop
+Lugar 3: Marujosec (Botão) desistiu antes Flop (não apostou)
+Lugar 4: josebala (small blind) desistiu antes Flop
+Lugar 5: AAcrafonso (big blind) desistiu antes Flop
+Lugar 6: osorio211 recebeu (0.14 €)
+
+
+*********** # 40 **************
+Mão #262057131215 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:01:27 UTC [2026/09/12 12:01:27 ET]
+Mesa 'Turais' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 2: timaria74 (0.80 € em fichas)
+Lugar 4: BTMDIAZ (0.89 € em fichas)
+osorio211: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c 6s]
+BTMDIAZ: iguala 0.02 €
+osorio211: desiste
+timaria74: passa
+*** FLOP *** [Kh Ts 2c]
+timaria74: passa
+BTMDIAZ: passa
+*** TURN *** [Kh Ts 2c] [Qs]
+timaria74: aposta 0.02 €
+BTMDIAZ: sobe 0.09 € para 0.11 €
+timaria74: desiste
+Aposta não-igualada (0.09 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.09 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Mesa [Kh Ts 2c Qs]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: timaria74 (big blind) desistiu no Turn
+Lugar 4: BTMDIAZ (Botão) recebeu (0.09 €)
+
+
+*********** # 41 **************
+Mão #262057127766 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:01:01 UTC [2026/09/12 12:01:01 ET]
+Mesa 'Nusakan' 6-max Lugar #2 é o botão
+Lugar 1: afonsojose409 (1.94 € em fichas)
+Lugar 2: TMNort (1.80 € em fichas)
+Lugar 3: Marujosec (1.58 € em fichas)
+Lugar 4: josebala (1.99 € em fichas)
+Lugar 5: AAcrafonso (1.76 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+Marujosec: é small blind 0.01 €
+josebala: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th 9h]
+AAcrafonso: desiste
+osorio211: desiste
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: iguala 0.01 €
+josebala: passa
+*** FLOP *** [Ad 2h 4s]
+Marujosec: passa
+josebala: passa
+*** TURN *** [Ad 2h 4s] [3d]
+Marujosec: passa
+josebala: passa
+*** RIVER *** [Ad 2h 4s 3d] [4d]
+Marujosec: aposta 0.02 €
+josebala: desiste
+Aposta não-igualada (0.02 €) voltou para Marujosec
+Marujosec recebeu 0.04 € do pote
+Marujosec: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Ad 2h 4s 3d 4d]
+Lugar 1: afonsojose409 desistiu antes Flop (não apostou)
+Lugar 2: TMNort (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Marujosec (small blind) recebeu (0.04 €)
+Lugar 4: josebala (big blind) desistiu no River
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 42 **************
+Mão #262057123501 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:00:27 UTC [2026/09/12 12:00:27 ET]
+Mesa 'Turais' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: BTMDIAZ (0.80 € em fichas)
+osorio211: é small blind 0.01 €
+BTMDIAZ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td Jh]
+timaria74 junta-se à mesa no lugar #2
+osorio211: sobe 0.04 € para 0.06 €
+BTMDIAZ: iguala 0.04 €
+*** FLOP *** [8d Qh 8s]
+BTMDIAZ: passa
+osorio211: aposta 0.04 €
+BTMDIAZ: iguala 0.04 €
+*** TURN *** [8d Qh 8s] [Th]
+BTMDIAZ: passa
+osorio211: passa
+*** RIVER *** [8d Qh 8s Th] [3d]
+BTMDIAZ: aposta 0.10 €
+osorio211: desiste
+Aposta não-igualada (0.10 €) voltou para BTMDIAZ
+BTMDIAZ recebeu 0.19 € do pote
+BTMDIAZ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [8d Qh 8s Th 3d]
+Lugar 1: osorio211 (Botão) (small blind) desistiu no River
+Lugar 4: BTMDIAZ (big blind) recebeu (0.19 €)
+
+
+*********** # 43 **************
+Mão #262057122201 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/12 16:00:16 UTC [2026/09/12 12:00:16 ET]
+Mesa 'Nusakan' 6-max Lugar #1 é o botão
+Lugar 1: afonsojose409 (1.94 € em fichas)
+Lugar 2: TMNort (1.81 € em fichas)
+Lugar 3: Marujosec (1.60 € em fichas)
+Lugar 4: josebala (1.94 € em fichas)
+Lugar 5: AAcrafonso (1.76 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+TMNort: é small blind 0.01 €
+Marujosec: é big blind 0.02 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h Tc]
+josebala: iguala 0.02 €
+AAcrafonso: desiste
+osorio211: passa
+afonsojose409: desiste
+TMNort: desiste
+Marujosec: passa
+*** FLOP *** [8c Ac 8d]
+Marujosec: passa
+josebala: passa
+osorio211: passa
+*** TURN *** [8c Ac 8d] [Qc]
+Marujosec: passa
+josebala: aposta 0.04 €
+osorio211: desiste
+Marujosec: desiste
+Aposta não-igualada (0.04 €) voltou para josebala
+josebala recebeu 0.07 € do pote
+josebala: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.07 € | comissão 0 €
+Mesa [8c Ac 8d Qc]
+Lugar 1: afonsojose409 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: TMNort (small blind) desistiu antes Flop
+Lugar 3: Marujosec (big blind) desistiu no Turn
+Lugar 4: josebala recebeu (0.07 €)
+Lugar 5: AAcrafonso desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu no Turn (não apostou)
+
+
+
+
+Está a receber este email porque inclui informações importantes sobre a sua conta da Stars.
+
+Atenção: este email foi enviado a partir de um endereço dedicado apenas a notificações que não recebe emails. Não responda a esta mensagem. Caso deseje contactar-nos, visite o nosso Centro de Ajuda no endereço http://www.pokerstars.pt/help para saber como o pode fazer.
+
+Se tiver interesse em saber de que forma tratamos os seus dados, consulte a nossa Política de Privacidade em http://www.pokerstars.pt/privacy.
+
+REEL Europe Ltd, Spinola Terraces, Mikiel Ang Borg Street, St. Julian's, SPK 1000, Malta.
+
+Copyright © 2001-2026, Rational Intellectual Holdings Limited. Todos os direitos reservados.

@@ -1,0 +1,2694 @@
+Transcrito último 1 hora de jogo requerido por osorio211 (faparicio.lopes@gmail.com)
+
+*********** # 1 **************
+Mão #262050191198 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 22:00:13 UTC [2026/09/11 18:00:13 ET]
+Mesa 'Alruccabah' 6-max Lugar #2 é o botão
+Lugar 1: Fisgas (1.99 € em fichas)
+Lugar 2: soaguiar1964 (1.26 € em fichas)
+Lugar 4: brageirac24 (1.55 € em fichas)
+Lugar 5: jrodriguez5 (0.86 € em fichas)
+Lugar 6: osorio211 (2.04 € em fichas)
+brageirac24: é small blind 0.01 €
+jrodriguez5: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d 4h]
+osorio211: desiste
+osorio211 abandona a mesa
+Fisgas: desiste
+soaguiar1964: iguala 0.02 €
+brageirac24: desiste
+jrodriguez5: passa
+*** FLOP *** [2c Js Qh]
+jrodriguez5: passa
+soaguiar1964: aposta 0.06 €
+jrodriguez5: iguala 0.06 €
+*** TURN *** [2c Js Qh] [5s]
+jrodriguez5: passa
+soaguiar1964: aposta 0.08 €
+jrodriguez5: iguala 0.08 €
+*** RIVER *** [2c Js Qh 5s] [8h]
+jrodriguez5: passa
+soaguiar1964: aposta 0.08 €
+jrodriguez5: iguala 0.08 €
+*** SHOW DOWN ***
+soaguiar1964: mostra [9s Tc] (Straight, Oito a Dama)
+jrodriguez5: esconde a mão
+soaguiar1964 recebeu 0.47 € do pote
+bagaco40 junta-se à mesa no lugar #6
+*** SUMÁRIO ***
+Total pote 0.49 € | comissão 0.02 €
+Mesa [2c Js Qh 5s 8h]
+Lugar 1: Fisgas desistiu antes Flop (não apostou)
+Lugar 2: soaguiar1964 (Botão) mostrou [9s Tc] e ganhou (0.47 €) com Straight, Oito a Dama
+Lugar 4: brageirac24 (small blind) desistiu antes Flop
+Lugar 5: jrodriguez5 (big blind) escondeu as cartas [9c Qd]
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 2 **************
+Mão #262050187952 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:59:51 UTC [2026/09/11 17:59:51 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.70 € em fichas)
+Lugar 2: onemanarmy33 (1.70 € em fichas)
+Lugar 3: MikeTheMechanic (2.01 € em fichas)
+Lugar 4: topeiratinoslb (2.40 € em fichas)
+Lugar 5: timaria74 (1.67 € em fichas)
+Lugar 6: TIGAS1904 (0.80 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+TIGAS1904: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 2c]
+topeiratinoslb: sobe 0.04 € para 0.06 €
+timaria74: desiste
+TIGAS1904: iguala 0.04 €
+osorio211: desiste
+osorio211 abandona a mesa
+onemanarmy33: iguala 0.05 €
+MikeTheMechanic: iguala 0.04 €
+*** FLOP *** [Ks 3d 4d]
+onemanarmy33: passa
+MikeTheMechanic: passa
+topeiratinoslb: passa
+TIGAS1904: aposta 0.12 €
+onemanarmy33: iguala 0.12 €
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+*** TURN *** [Ks 3d 4d] [3s]
+onemanarmy33: passa
+TIGAS1904: aposta 0.12 €
+onemanarmy33: iguala 0.12 €
+*** RIVER *** [Ks 3d 4d 3s] [6h]
+onemanarmy33: passa
+TIGAS1904: aposta 0.50 € e está all-in
+onemanarmy33: iguala 0.50 €
+*** SHOW DOWN ***
+TIGAS1904: mostra [5s 3c] (trio, Três)
+onemanarmy33: mostra [Kd 8d] (dois pares, Reis e Três)
+TIGAS1904 recebeu 1.63 € do pote
+*** SUMÁRIO ***
+Total pote 1.72 € | comissão 0.09 €
+Mesa [Ks 3d 4d 3s 6h]
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) mostrou [Kd 8d] e perdeu com dois pares, Reis e Três
+Lugar 3: MikeTheMechanic (big blind) desistiu no Flop
+Lugar 4: topeiratinoslb desistiu no Flop
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: TIGAS1904 mostrou [5s 3c] e ganhou (1.63 €) com trio, Três
+
+
+*********** # 3 **************
+Mão #262050185875 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:59:36 UTC [2026/09/11 17:59:36 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.71 € em fichas)
+Lugar 2: onemanarmy33 (1.69 € em fichas)
+Lugar 3: MikeTheMechanic (2.01 € em fichas)
+Lugar 4: topeiratinoslb (2.40 € em fichas)
+Lugar 5: timaria74 (1.67 € em fichas)
+TIGAS1904 poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d Qs]
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para onemanarmy33
+onemanarmy33 recebeu 0.02 € do pote
+onemanarmy33: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) recebeu (0.02 €)
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 4 **************
+Mão #262050184234 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:59:24 UTC [2026/09/11 17:59:24 ET]
+Mesa 'Alruccabah' 6-max Lugar #1 é o botão
+Lugar 1: Fisgas (1.99 € em fichas)
+Lugar 2: soaguiar1964 (1.19 € em fichas)
+Lugar 4: brageirac24 (1.59 € em fichas)
+Lugar 5: jrodriguez5 (0.90 € em fichas)
+Lugar 6: osorio211 (2.04 € em fichas)
+soaguiar1964: é small blind 0.01 €
+brageirac24: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad 6s]
+jrodriguez5: iguala 0.02 €
+osorio211: desiste
+Fisgas: desiste
+soaguiar1964: iguala 0.01 €
+brageirac24: passa
+*** FLOP *** [4s 2h Ac]
+soaguiar1964: passa
+brageirac24: passa
+jrodriguez5: passa
+*** TURN *** [4s 2h Ac] [8c]
+soaguiar1964: aposta 0.02 €
+brageirac24: iguala 0.02 €
+jrodriguez5: iguala 0.02 €
+*** RIVER *** [4s 2h Ac 8c] [Th]
+soaguiar1964: aposta 0.02 €
+brageirac24: desiste
+jrodriguez5: desiste
+Aposta não-igualada (0.02 €) voltou para soaguiar1964
+soaguiar1964 recebeu 0.11 € do pote
+soaguiar1964: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [4s 2h Ac 8c Th]
+Lugar 1: Fisgas (Botão) desistiu antes Flop (não apostou)
+Lugar 2: soaguiar1964 (small blind) recebeu (0.11 €)
+Lugar 4: brageirac24 (big blind) desistiu no River
+Lugar 5: jrodriguez5 desistiu no River
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 5 **************
+Mão #262050180938 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:59:01 UTC [2026/09/11 17:59:01 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.73 € em fichas)
+Lugar 2: onemanarmy33 (1.85 € em fichas)
+Lugar 3: MikeTheMechanic (2.01 € em fichas)
+Lugar 4: topeiratinoslb (2.40 € em fichas)
+Lugar 5: timaria74 (1.51 € em fichas)
+timaria74: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s Qd]
+TIGAS1904 junta-se à mesa no lugar #6
+onemanarmy33: sobe 0.06 € para 0.08 €
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: iguala 0.07 €
+osorio211: desiste
+*** FLOP *** [Ah Ad 8s]
+timaria74: passa
+onemanarmy33: passa
+*** TURN *** [Ah Ad 8s] [Js]
+timaria74: aposta 0.08 €
+onemanarmy33: iguala 0.08 €
+*** RIVER *** [Ah Ad 8s Js] [5d]
+timaria74: aposta 0.32 €
+onemanarmy33: desiste
+Aposta não-igualada (0.32 €) voltou para timaria74
+timaria74 recebeu 0.32 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.34 € | comissão 0.02 €
+Mesa [Ah Ad 8s Js 5d]
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 2: onemanarmy33 desistiu no River
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (Botão) desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (small blind) recebeu (0.32 €)
+
+
+*********** # 6 **************
+Mão #262050179844 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:58:54 UTC [2026/09/11 17:58:54 ET]
+Mesa 'Alruccabah' 6-max Lugar #6 é o botão
+Lugar 1: Fisgas (2 € em fichas)
+Lugar 2: soaguiar1964 (1.14 € em fichas)
+Lugar 3: rixabtl (1.52 € em fichas)
+Lugar 4: brageirac24 (1.64 € em fichas)
+Lugar 5: jrodriguez5 (0.90 € em fichas)
+Lugar 6: osorio211 (2.04 € em fichas)
+Fisgas: é small blind 0.01 €
+soaguiar1964: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c 8d]
+rixabtl: desiste
+brageirac24: sobe 0.03 € para 0.05 €
+jrodriguez5: desiste
+osorio211: desiste
+Fisgas: desiste
+soaguiar1964: iguala 0.03 €
+*** FLOP *** [7s 6s 3c]
+soaguiar1964: passa
+brageirac24: passa
+*** TURN *** [7s 6s 3c] [2d]
+soaguiar1964: aposta 0.12 €
+brageirac24: desiste
+Aposta não-igualada (0.12 €) voltou para soaguiar1964
+soaguiar1964 recebeu 0.10 € do pote
+soaguiar1964: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [7s 6s 3c 2d]
+Lugar 1: Fisgas (small blind) desistiu antes Flop
+Lugar 2: soaguiar1964 (big blind) recebeu (0.10 €)
+Lugar 3: rixabtl desistiu antes Flop (não apostou)
+Lugar 4: brageirac24 desistiu no Turn
+Lugar 5: jrodriguez5 desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 7 **************
+Mão #262050174002 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:58:13 UTC [2026/09/11 17:58:13 ET]
+Mesa 'Kallisto' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2.73 € em fichas)
+Lugar 2: onemanarmy33 (1.78 € em fichas)
+Lugar 3: MikeTheMechanic (2.01 € em fichas)
+Lugar 4: topeiratinoslb (2.46 € em fichas)
+Lugar 5: timaria74 (1.53 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 3d]
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: sobe 0.02 € para 0.04 €
+timaria74: desiste
+onemanarmy33: sobe 0.02 € para 0.06 €
+topeiratinoslb: iguala 0.02 €
+*** FLOP *** [Ts Jh 7c]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** TURN *** [Ts Jh 7c] [Jd]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** RIVER *** [Ts Jh 7c Jd] [5d]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** SHOW DOWN ***
+topeiratinoslb: mostra [6c 8c] (par de Valetes)
+onemanarmy33: mostra [Qc 9s] (par de Valetes - Dama kicker)
+onemanarmy33 recebeu 0.13 € do pote
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [Ts Jh 7c Jd 5d]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 mostrou [Qc 9s] e ganhou (0.13 €) com par de Valetes
+Lugar 3: MikeTheMechanic (Botão) desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (small blind) mostrou [6c 8c] e perdeu com par de Valetes
+Lugar 5: timaria74 (big blind) desistiu antes Flop
+
+
+*********** # 8 **************
+Mão #262050173307 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:58:08 UTC [2026/09/11 17:58:08 ET]
+Mesa 'Alruccabah' 6-max Lugar #5 é o botão
+Lugar 1: Fisgas (2.05 € em fichas)
+Lugar 2: soaguiar1964 (1.14 € em fichas)
+Lugar 3: rixabtl (1.52 € em fichas)
+Lugar 4: brageirac24 (1.59 € em fichas)
+Lugar 5: jrodriguez5 (0.90 € em fichas)
+Lugar 6: osorio211 (2.05 € em fichas)
+osorio211: é small blind 0.01 €
+Fisgas: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As 3s]
+soaguiar1964: desiste
+rixabtl: desiste
+brageirac24: sobe 0.03 € para 0.05 €
+jrodriguez5: desiste
+osorio211: desiste
+Fisgas: iguala 0.03 €
+*** FLOP *** [3c Jc 7s]
+Fisgas: passa
+brageirac24: aposta 0.05 €
+Fisgas: desiste
+Aposta não-igualada (0.05 €) voltou para brageirac24
+brageirac24 recebeu 0.10 € do pote
+brageirac24: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [3c Jc 7s]
+Lugar 1: Fisgas (big blind) desistiu no Flop
+Lugar 2: soaguiar1964 desistiu antes Flop (não apostou)
+Lugar 3: rixabtl desistiu antes Flop (não apostou)
+Lugar 4: brageirac24 recebeu (0.10 €)
+Lugar 5: jrodriguez5 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 9 **************
+Mão #262050171640 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:57:57 UTC [2026/09/11 17:57:57 ET]
+Mesa 'Kallisto' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2.70 € em fichas)
+Lugar 2: onemanarmy33 (1.78 € em fichas)
+Lugar 3: MikeTheMechanic (2.02 € em fichas)
+Lugar 4: topeiratinoslb (2.48 € em fichas)
+Lugar 5: timaria74 (1.53 € em fichas)
+MikeTheMechanic: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js Kd]
+timaria74: desiste
+osorio211: sobe 0.04 € para 0.06 €
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 recebeu (0.05 €)
+Lugar 2: onemanarmy33 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+
+
+*********** # 10 **************
+Mão #262050167404 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:57:27 UTC [2026/09/11 17:57:27 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.70 € em fichas)
+Lugar 2: onemanarmy33 (1.82 € em fichas)
+Lugar 3: MikeTheMechanic (2.10 € em fichas)
+Lugar 4: topeiratinoslb (2.37 € em fichas)
+Lugar 5: timaria74 (1.53 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts 3h]
+topeiratinoslb: sobe 0.02 € para 0.04 €
+timaria74: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.03 €
+MikeTheMechanic: iguala 0.02 €
+*** FLOP *** [9h 3c 8d]
+onemanarmy33: passa
+MikeTheMechanic: aposta 0.02 €
+topeiratinoslb: iguala 0.02 €
+onemanarmy33: desiste
+*** TURN *** [9h 3c 8d] [2d]
+MikeTheMechanic: aposta 0.02 €
+topeiratinoslb: iguala 0.02 €
+*** RIVER *** [9h 3c 8d 2d] [Ah]
+MikeTheMechanic: passa
+topeiratinoslb: aposta 0.06 €
+MikeTheMechanic: desiste
+Aposta não-igualada (0.06 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.19 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [9h 3c 8d 2d Ah]
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) desistiu no Flop
+Lugar 3: MikeTheMechanic (big blind) desistiu no River
+Lugar 4: topeiratinoslb recebeu (0.19 €)
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+
+
+*********** # 11 **************
+Mão #262050165115 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:57:11 UTC [2026/09/11 17:57:11 ET]
+Mesa 'Alruccabah' 6-max Lugar #4 é o botão
+Lugar 1: Fisgas (2.09 € em fichas)
+Lugar 2: soaguiar1964 (1.14 € em fichas)
+Lugar 3: rixabtl (1.52 € em fichas)
+Lugar 4: brageirac24 (1.63 € em fichas)
+Lugar 5: jrodriguez5 (0.79 € em fichas)
+Lugar 6: osorio211 (2.09 € em fichas)
+jrodriguez5: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s 3h]
+Fisgas: iguala 0.02 €
+soaguiar1964: desiste
+rixabtl: desiste
+brageirac24: sobe 0.02 € para 0.04 €
+jrodriguez5: iguala 0.03 €
+osorio211: iguala 0.02 €
+Fisgas: iguala 0.02 €
+*** FLOP *** [Jd 9c Qd]
+jrodriguez5: passa
+osorio211: passa
+Fisgas: passa
+brageirac24: passa
+*** TURN *** [Jd 9c Qd] [8c]
+jrodriguez5: aposta 0.04 €
+osorio211: desiste
+Fisgas: desiste
+brageirac24: desiste
+Aposta não-igualada (0.04 €) voltou para jrodriguez5
+jrodriguez5 recebeu 0.15 € do pote
+jrodriguez5: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [Jd 9c Qd 8c]
+Lugar 1: Fisgas desistiu no Turn
+Lugar 2: soaguiar1964 desistiu antes Flop (não apostou)
+Lugar 3: rixabtl desistiu antes Flop (não apostou)
+Lugar 4: brageirac24 (Botão) desistiu no Turn
+Lugar 5: jrodriguez5 (small blind) recebeu (0.15 €)
+Lugar 6: osorio211 (big blind) desistiu no Turn
+
+
+*********** # 12 **************
+Mão #262050161112 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:56:43 UTC [2026/09/11 17:56:43 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.71 € em fichas)
+Lugar 2: onemanarmy33 (1.74 € em fichas)
+Lugar 3: MikeTheMechanic (2.10 € em fichas)
+Lugar 4: topeiratinoslb (2.45 € em fichas)
+Lugar 5: timaria74 (1.53 € em fichas)
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c Qc]
+MikeTheMechanic: desiste
+topeiratinoslb: sobe 0.02 € para 0.04 €
+timaria74: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+*** FLOP *** [3s 5d Th]
+onemanarmy33: passa
+topeiratinoslb: aposta 0.04 €
+onemanarmy33: iguala 0.04 €
+*** TURN *** [3s 5d Th] [Kh]
+onemanarmy33: passa
+topeiratinoslb: passa
+*** RIVER *** [3s 5d Th Kh] [5h]
+onemanarmy33: passa
+topeiratinoslb: passa
+*** SHOW DOWN ***
+onemanarmy33: mostra [Qh Tc] (dois pares, Dez e Cincos)
+topeiratinoslb: esconde a mão
+onemanarmy33 recebeu 0.16 € do pote
+*** SUMÁRIO ***
+Total pote 0.17 € | comissão 0.01 €
+Mesa [3s 5d Th Kh 5h]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) mostrou [Qh Tc] e ganhou (0.16 €) com dois pares, Dez e Cincos
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb escondeu as cartas [6h Ac]
+Lugar 5: timaria74 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 13 **************
+Mão #262050154638 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:58 UTC [2026/09/11 17:55:58 ET]
+Mesa 'Alruccabah' 6-max Lugar #2 é o botão
+Lugar 1: Fisgas (1.94 € em fichas)
+Lugar 2: soaguiar1964 (1.14 € em fichas)
+Lugar 4: brageirac24 (1.71 € em fichas)
+Lugar 5: jrodriguez5 (0.87 € em fichas)
+Lugar 6: osorio211 (2.09 € em fichas)
+rixabtl poderá jogar depois do botão
+brageirac24: é small blind 0.01 €
+jrodriguez5: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 3d]
+osorio211: desiste
+Fisgas: iguala 0.02 €
+soaguiar1964: desiste
+brageirac24: iguala 0.01 €
+jrodriguez5: passa
+*** FLOP *** [Jd Ah Tc]
+brageirac24: aposta 0.02 €
+jrodriguez5: iguala 0.02 €
+Fisgas: iguala 0.02 €
+*** TURN *** [Jd Ah Tc] [Kh]
+brageirac24: aposta 0.02 €
+jrodriguez5: iguala 0.02 €
+Fisgas: iguala 0.02 €
+*** RIVER *** [Jd Ah Tc Kh] [9d]
+brageirac24: aposta 0.02 €
+jrodriguez5: iguala 0.02 €
+Fisgas: iguala 0.02 €
+*** SHOW DOWN ***
+brageirac24: mostra [2h As] (par de Ases)
+jrodriguez5: mostra [Ac 5d] (par de Ases)
+Fisgas: mostra [Jc Ks] (dois pares, Reis e Valetes)
+Fisgas recebeu 0.23 € do pote
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [Jd Ah Tc Kh 9d]
+Lugar 1: Fisgas mostrou [Jc Ks] e ganhou (0.23 €) com dois pares, Reis e Valetes
+Lugar 2: soaguiar1964 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: brageirac24 (small blind) mostrou [2h As] e perdeu com par de Ases
+Lugar 5: jrodriguez5 (big blind) mostrou [Ac 5d] e perdeu com par de Ases
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 14 **************
+Mão #262050152583 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:44 UTC [2026/09/11 17:55:44 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.38 € em fichas)
+Lugar 2: onemanarmy33 (2.10 € em fichas)
+Lugar 3: MikeTheMechanic (2.10 € em fichas)
+Lugar 4: topeiratinoslb (2.45 € em fichas)
+Lugar 5: timaria74 (1.54 € em fichas)
+timaria74: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc Qs]
+QQ_Mucks_QQ abandona a mesa
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: desiste
+osorio211: sobe 0.06 € para 0.08 €
+onemanarmy33: iguala 0.06 €
+*** FLOP *** [6d 3d 4h]
+osorio211: aposta 0.10 €
+onemanarmy33: iguala 0.10 €
+*** TURN *** [6d 3d 4h] [6h]
+osorio211: aposta 0.18 €
+onemanarmy33: iguala 0.18 €
+*** RIVER *** [6d 3d 4h 6h] [Kd]
+osorio211: passa
+onemanarmy33: passa
+*** SHOW DOWN ***
+osorio211: mostra [Qc Qs] (dois pares, Damas e Seis)
+onemanarmy33: esconde a mão
+osorio211 recebeu 0.69 € do pote
+*** SUMÁRIO ***
+Total pote 0.73 € | comissão 0.04 €
+Mesa [6d 3d 4h 6h Kd]
+Lugar 1: osorio211 (big blind) mostrou [Qc Qs] e ganhou (0.69 €) com dois pares, Damas e Seis
+Lugar 2: onemanarmy33 escondeu as cartas [9c 9h]
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (Botão) desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (small blind) desistiu antes Flop
+
+
+*********** # 15 **************
+Mão #262050149583 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:22 UTC [2026/09/11 17:55:22 ET]
+Mesa 'Etamin II' 6-max Lugar #6 é o botão
+Lugar 2: rixabtl (1.58 € em fichas)
+Lugar 6: osorio211 (2.04 € em fichas)
+osorio211: é small blind 0.01 €
+rixabtl: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8s Ad]
+osorio211: sobe 0.04 € para 0.06 €
+rixabtl: iguala 0.04 €
+*** FLOP *** [2s 9h 3c]
+rixabtl: passa
+osorio211: aposta 0.04 €
+rixabtl: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.11 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [2s 9h 3c]
+Lugar 2: rixabtl (big blind) desistiu no Flop
+Lugar 6: osorio211 (Botão) (small blind) recebeu (0.11 €)
+
+
+*********** # 16 **************
+Mão #262050147222 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:09 UTC [2026/09/11 17:55:09 ET]
+Mesa 'Kallisto' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2.38 € em fichas)
+Lugar 2: onemanarmy33 (2.10 € em fichas)
+Lugar 3: MikeTheMechanic (2.10 € em fichas)
+Lugar 4: topeiratinoslb (2.49 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.38 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h 7s]
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.01 €
+timaria74: sobe 0.02 € para 0.04 €
+topeiratinoslb: iguala 0.02 €
+*** FLOP *** [Qd Kc 5h]
+topeiratinoslb: passa
+timaria74: aposta 0.04 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para timaria74
+timaria74 recebeu 0.08 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [Qd Kc 5h]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic (Botão) desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (small blind) desistiu no Flop
+Lugar 5: timaria74 (big blind) recebeu (0.08 €)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 17 **************
+Mão #262050147187 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:09 UTC [2026/09/11 17:55:09 ET]
+Mesa 'Etamin II' 6-max Lugar #2 é o botão
+Lugar 2: rixabtl (1.56 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+rixabtl: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c 9h]
+rixabtl: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para rixabtl
+rixabtl recebeu 0.04 € do pote
+rixabtl: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 2: rixabtl (Botão) (small blind) recebeu (0.04 €)
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 18 **************
+Mão #262050145664 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:55:01 UTC [2026/09/11 17:55:01 ET]
+Mesa 'Etamin II' 6-max Lugar #6 é o botão
+Lugar 2: rixabtl (1.55 € em fichas)
+Lugar 6: osorio211 (2.07 € em fichas)
+osorio211: é small blind 0.01 €
+rixabtl: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d 4c]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para rixabtl
+rixabtl recebeu 0.02 € do pote
+rixabtl: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: rixabtl (big blind) recebeu (0.02 €)
+Lugar 6: osorio211 (Botão) (small blind) desistiu antes Flop
+
+
+*********** # 19 **************
+Mão #262050143088 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:54:49 UTC [2026/09/11 17:54:49 ET]
+Mesa 'Etamin II' 6-max Lugar #2 é o botão
+Lugar 1: Card_Vader_AA (2.16 € em fichas)
+Lugar 2: rixabtl (1.55 € em fichas)
+Lugar 6: osorio211 (2.05 € em fichas)
+osorio211: é small blind 0.01 €
+Card_Vader_AA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac 8d]
+rixabtl: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Card_Vader_AA: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+Card_Vader_AA abandona a mesa
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: Card_Vader_AA (big blind) desistiu antes Flop
+Lugar 2: rixabtl (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) recebeu (0.04 €)
+
+
+*********** # 20 **************
+Mão #262050139710 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:54:32 UTC [2026/09/11 17:54:32 ET]
+Mesa 'Etamin II' 6-max Lugar #1 é o botão
+Lugar 1: Card_Vader_AA (2.16 € em fichas)
+Lugar 2: rixabtl (1.53 € em fichas)
+Lugar 6: osorio211 (2.07 € em fichas)
+rixabtl: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8s 6d]
+Card_Vader_AA: desiste
+rixabtl: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para rixabtl
+rixabtl recebeu 0.04 € do pote
+rixabtl: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: Card_Vader_AA (Botão) desistiu antes Flop (não apostou)
+Lugar 2: rixabtl (small blind) recebeu (0.04 €)
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 21 **************
+Mão #262050137773 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:54:23 UTC [2026/09/11 17:54:23 ET]
+Mesa 'Etamin II' 6-max Lugar #6 é o botão
+Lugar 1: Card_Vader_AA (2.17 € em fichas)
+Lugar 2: rixabtl (1.52 € em fichas)
+Lugar 6: osorio211 (2.07 € em fichas)
+Card_Vader_AA: é small blind 0.01 €
+rixabtl: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Qd]
+osorio211: desiste
+Card_Vader_AA: desiste
+Aposta não-igualada (0.01 €) voltou para rixabtl
+rixabtl recebeu 0.02 € do pote
+rixabtl: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: Card_Vader_AA (small blind) desistiu antes Flop
+Lugar 2: rixabtl (big blind) recebeu (0.02 €)
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 22 **************
+Mão #262050134119 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:54:06 UTC [2026/09/11 17:54:06 ET]
+Mesa 'Kallisto' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2.38 € em fichas)
+Lugar 2: onemanarmy33 (2.07 € em fichas)
+Lugar 3: MikeTheMechanic (2.11 € em fichas)
+Lugar 4: topeiratinoslb (2.51 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.38 € em fichas)
+MikeTheMechanic: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h 6h]
+timaria74: desiste
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: passa
+*** FLOP *** [Qs 2c 7s]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** TURN *** [Qs 2c 7s] [5s]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** RIVER *** [Qs 2c 7s 5s] [Jd]
+topeiratinoslb: passa
+onemanarmy33: aposta 0.03 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.03 €) voltou para onemanarmy33
+onemanarmy33 recebeu 0.05 € do pote
+onemanarmy33: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [Qs 2c 7s 5s Jd]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (Botão) recebeu (0.05 €)
+Lugar 3: MikeTheMechanic (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) desistiu no River
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 23 **************
+Mão #262050129767 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:53:45 UTC [2026/09/11 17:53:45 ET]
+Mesa 'Etamin II' 6-max Lugar #3 é o botão
+Lugar 1: Card_Vader_AA (2.25 € em fichas)
+Lugar 2: rixabtl (1.52 € em fichas)
+Lugar 3: kurikutela53 (0.69 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+Card_Vader_AA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 2c]
+rixabtl: desiste
+kurikutela53 gastou o tempo
+kurikutela53: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Card_Vader_AA: iguala 0.06 €
+*** FLOP *** [Ac 6d Jc]
+osorio211: aposta 0.06 €
+Card_Vader_AA: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.15 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [Ac 6d Jc]
+Lugar 1: Card_Vader_AA (big blind) desistiu no Flop
+Lugar 2: rixabtl desistiu antes Flop (não apostou)
+Lugar 3: kurikutela53 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) recebeu (0.15 €)
+
+
+*********** # 24 **************
+Mão #262050129070 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:53:41 UTC [2026/09/11 17:53:41 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.38 € em fichas)
+Lugar 2: onemanarmy33 (2.08 € em fichas)
+Lugar 3: MikeTheMechanic (2.13 € em fichas)
+Lugar 4: topeiratinoslb (2.51 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.35 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 3h]
+topeiratinoslb: desiste
+timaria74: desiste
+QQ_Mucks_QQ: sobe 0.03 € para 0.05 €
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+Aposta não-igualada (0.03 €) voltou para QQ_Mucks_QQ
+QQ_Mucks_QQ recebeu 0.05 € do pote
+QQ_Mucks_QQ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) desistiu antes Flop
+Lugar 3: MikeTheMechanic (big blind) desistiu antes Flop
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ recebeu (0.05 €)
+
+
+*********** # 25 **************
+Mão #262050123153 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:53:12 UTC [2026/09/11 17:53:12 ET]
+Mesa 'Etamin II' 6-max Lugar #2 é o botão
+Lugar 1: Card_Vader_AA (2.25 € em fichas)
+Lugar 2: rixabtl (1.49 € em fichas)
+Lugar 3: kurikutela53 (0.70 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+kurikutela53: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6h 5c]
+Card_Vader_AA: desiste
+rixabtl: iguala 0.02 €
+kurikutela53: desiste
+osorio211: passa
+*** FLOP *** [5s Jh 8s]
+osorio211: passa
+rixabtl: aposta 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para rixabtl
+rixabtl recebeu 0.05 € do pote
+rixabtl: não mostra a mão
+Snake800t abandona a mesa
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [5s Jh 8s]
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl (Botão) recebeu (0.05 €)
+Lugar 3: kurikutela53 (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) desistiu no Flop
+
+
+*********** # 26 **************
+Mão #262050118073 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:52:48 UTC [2026/09/11 17:52:48 ET]
+Mesa 'Kallisto' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2.39 € em fichas)
+Lugar 2: onemanarmy33 (1.90 € em fichas)
+Lugar 3: MikeTheMechanic (2.13 € em fichas)
+Lugar 4: topeiratinoslb (2.51 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.54 € em fichas)
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh 8c]
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: desiste
+QQ_Mucks_QQ: sobe 0.03 € para 0.05 €
+osorio211: desiste
+onemanarmy33: iguala 0.03 €
+*** FLOP *** [Qd 5c 2s]
+onemanarmy33: passa
+QQ_Mucks_QQ: aposta 0.03 €
+onemanarmy33: iguala 0.03 €
+*** TURN *** [Qd 5c 2s] [Jh]
+onemanarmy33: passa
+QQ_Mucks_QQ: aposta 0.11 €
+onemanarmy33: iguala 0.11 €
+*** RIVER *** [Qd 5c 2s Jh] [6h]
+onemanarmy33: passa
+QQ_Mucks_QQ: passa
+*** SHOW DOWN ***
+onemanarmy33: mostra [Js Td] (par de Valetes)
+QQ_Mucks_QQ: esconde a mão
+onemanarmy33 recebeu 0.37 € do pote
+*** SUMÁRIO ***
+Total pote 0.39 € | comissão 0.02 €
+Mesa [Qd 5c 2s Jh 6h]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) mostrou [Js Td] e ganhou (0.37 €) com par de Valetes
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (Botão) escondeu as cartas [Ac Kc]
+
+
+*********** # 27 **************
+Mão #262050111643 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:52:18 UTC [2026/09/11 17:52:18 ET]
+Mesa 'Etamin II' 6-max Lugar #1 é o botão
+Lugar 1: Card_Vader_AA (2.20 € em fichas)
+Lugar 2: rixabtl (1.50 € em fichas)
+Lugar 3: kurikutela53 (0.75 € em fichas)
+Lugar 4: Snake800t (1.46 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+rixabtl: é small blind 0.01 €
+kurikutela53: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s Qd]
+Snake800t: desiste
+osorio211: desiste
+Card_Vader_AA: sobe 0.03 € para 0.05 €
+rixabtl: desiste
+kurikutela53: iguala 0.03 €
+*** FLOP *** [7h Qc 3s]
+kurikutela53: passa
+Card_Vader_AA: aposta 0.04 €
+kurikutela53: desiste
+Aposta não-igualada (0.04 €) voltou para Card_Vader_AA
+Card_Vader_AA recebeu 0.10 € do pote
+Card_Vader_AA: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [7h Qc 3s]
+Lugar 1: Card_Vader_AA (Botão) recebeu (0.10 €)
+Lugar 2: rixabtl (small blind) desistiu antes Flop
+Lugar 3: kurikutela53 (big blind) desistiu no Flop
+Lugar 4: Snake800t desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 28 **************
+Mão #262050106894 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:51:55 UTC [2026/09/11 17:51:55 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.41 € em fichas)
+Lugar 2: onemanarmy33 (1.94 € em fichas)
+Lugar 3: MikeTheMechanic (2.13 € em fichas)
+Lugar 4: topeiratinoslb (2.51 € em fichas)
+Lugar 5: timaria74 (1.44 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.55 € em fichas)
+QQ_Mucks_QQ: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s Jh]
+onemanarmy33: sobe 0.02 € para 0.04 €
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: iguala 0.04 €
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+*** FLOP *** [3s 6c Ts]
+onemanarmy33: passa
+timaria74: passa
+*** TURN *** [3s 6c Ts] [Jc]
+onemanarmy33: passa
+timaria74: passa
+*** RIVER *** [3s 6c Ts Jc] [7s]
+onemanarmy33: passa
+timaria74: passa
+*** SHOW DOWN ***
+onemanarmy33: mostra [5d 9d] (Carta alta Valete)
+timaria74: mostra [2c 2s] (par de Dois)
+timaria74 recebeu 0.10 € do pote
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [3s 6c Ts Jc 7s]
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 2: onemanarmy33 mostrou [5d 9d] e perdeu com Carta alta Valete
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (Botão) mostrou [2c 2s] e ganhou (0.10 €) com par de Dois
+Lugar 6: QQ_Mucks_QQ (small blind) desistiu antes Flop
+
+
+*********** # 29 **************
+Mão #262050095883 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:51:04 UTC [2026/09/11 17:51:04 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.21 € em fichas)
+Lugar 2: onemanarmy33 (1.94 € em fichas)
+Lugar 3: MikeTheMechanic (2.13 € em fichas)
+Lugar 4: topeiratinoslb (2.61 € em fichas)
+Lugar 5: timaria74 (1.54 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.57 € em fichas)
+timaria74: é small blind 0.01 €
+QQ_Mucks_QQ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh Qs]
+osorio211: sobe 0.04 € para 0.06 €
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.06 €
+timaria74: iguala 0.05 €
+QQ_Mucks_QQ: desiste
+*** FLOP *** [Td Ks Jh]
+timaria74: passa
+osorio211: passa
+topeiratinoslb: aposta 0.04 €
+timaria74: iguala 0.04 €
+osorio211: iguala 0.04 €
+*** TURN *** [Td Ks Jh] [6s]
+timaria74: passa
+osorio211: passa
+topeiratinoslb: passa
+*** RIVER *** [Td Ks Jh 6s] [Kc]
+timaria74: passa
+osorio211: passa
+topeiratinoslb: passa
+*** SHOW DOWN ***
+timaria74: mostra [Ac 2c] (par de Reis)
+osorio211: mostra [Qh Qs] (dois pares, Reis e Damas)
+topeiratinoslb: esconde a mão
+osorio211 recebeu 0.30 € do pote
+*** SUMÁRIO ***
+Total pote 0.32 € | comissão 0.02 €
+Mesa [Td Ks Jh 6s Kc]
+Lugar 1: osorio211 mostrou [Qh Qs] e ganhou (0.30 €) com dois pares, Reis e Damas
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (Botão) escondeu as cartas [Js Ad]
+Lugar 5: timaria74 (small blind) mostrou [Ac 2c] e perdeu com par de Reis
+Lugar 6: QQ_Mucks_QQ (big blind) desistiu antes Flop
+
+
+*********** # 30 **************
+Mão #262050095341 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:51:02 UTC [2026/09/11 17:51:02 ET]
+Mesa 'Etamin II' 6-max Lugar #6 é o botão
+Lugar 1: Card_Vader_AA (2.21 € em fichas)
+Lugar 2: rixabtl (1.52 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (1.41 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+Card_Vader_AA: é small blind 0.01 €
+rixabtl: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s 3c]
+kurikutela53: iguala 0.02 €
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Card_Vader_AA: desiste
+rixabtl: passa
+*** FLOP *** [4d 3d 5d]
+rixabtl: passa
+kurikutela53: passa
+Snake800t: passa
+*** TURN *** [4d 3d 5d] [6h]
+rixabtl: passa
+kurikutela53: passa
+Snake800t: passa
+*** RIVER *** [4d 3d 5d 6h] [Td]
+rixabtl: passa
+kurikutela53: passa
+Snake800t: aposta 0.04 €
+rixabtl: desiste
+kurikutela53: desiste
+Aposta não-igualada (0.04 €) voltou para Snake800t
+Snake800t recebeu 0.07 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.07 € | comissão 0 €
+Mesa [4d 3d 5d 6h Td]
+Lugar 1: Card_Vader_AA (small blind) desistiu antes Flop
+Lugar 2: rixabtl (big blind) desistiu no River
+Lugar 3: kurikutela53 desistiu no River
+Lugar 4: Snake800t recebeu (0.07 €)
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 31 **************
+Mão #262050088109 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:50:28 UTC [2026/09/11 17:50:28 ET]
+Mesa 'Kallisto' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2.21 € em fichas)
+Lugar 2: onemanarmy33 (1.96 € em fichas)
+Lugar 3: MikeTheMechanic (2.13 € em fichas)
+Lugar 4: topeiratinoslb (2.63 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.57 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Jh]
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.01 €
+timaria74: passa
+*** FLOP *** [Jd Kc 3s]
+topeiratinoslb: passa
+timaria74: aposta 0.02 €
+onemanarmy33: desiste
+topeiratinoslb: desiste
+Aposta não-igualada (0.02 €) voltou para timaria74
+timaria74 recebeu 0.06 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [Jd Kc 3s]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 desistiu no Flop
+Lugar 3: MikeTheMechanic (Botão) desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (small blind) desistiu no Flop
+Lugar 5: timaria74 (big blind) recebeu (0.06 €)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 32 **************
+Mão #262050082261 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:50:00 UTC [2026/09/11 17:50:00 ET]
+Mesa 'Etamin II' 6-max Lugar #4 é o botão
+Lugar 1: Card_Vader_AA (2.23 € em fichas)
+Lugar 2: rixabtl (1.52 € em fichas)
+Lugar 3: kurikutela53 (0.74 € em fichas)
+Lugar 4: Snake800t (1.41 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+Card_Vader_AA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 3s]
+rixabtl: desiste
+kurikutela53: iguala 0.02 €
+Snake800t: desiste
+osorio211: desiste
+Card_Vader_AA: passa
+*** FLOP *** [7d 2d 9d]
+Card_Vader_AA: passa
+kurikutela53: passa
+*** TURN *** [7d 2d 9d] [Ac]
+Card_Vader_AA: passa
+kurikutela53: aposta 0.02 €
+Card_Vader_AA: desiste
+Aposta não-igualada (0.02 €) voltou para kurikutela53
+kurikutela53 recebeu 0.05 € do pote
+kurikutela53: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [7d 2d 9d Ac]
+Lugar 1: Card_Vader_AA (big blind) desistiu no Turn
+Lugar 2: rixabtl desistiu antes Flop (não apostou)
+Lugar 3: kurikutela53 recebeu (0.05 €)
+Lugar 4: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 33 **************
+Mão #262050078900 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:49:45 UTC [2026/09/11 17:49:45 ET]
+Mesa 'Kallisto' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2.21 € em fichas)
+Lugar 2: onemanarmy33 (1.96 € em fichas)
+Lugar 3: MikeTheMechanic (2.14 € em fichas)
+Lugar 4: topeiratinoslb (2.69 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.51 € em fichas)
+MikeTheMechanic: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c Ad]
+timaria74: desiste
+QQ_Mucks_QQ: sobe 0.02 € para 0.04 €
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.02 €
+*** FLOP *** [2s Js Qd]
+topeiratinoslb: aposta 0.02 €
+QQ_Mucks_QQ: iguala 0.02 €
+*** TURN *** [2s Js Qd] [Tc]
+topeiratinoslb: passa
+QQ_Mucks_QQ: passa
+*** RIVER *** [2s Js Qd Tc] [Kh]
+topeiratinoslb: passa
+QQ_Mucks_QQ: passa
+*** SHOW DOWN ***
+topeiratinoslb: mostra [Jc 7s] (par de Valetes)
+QQ_Mucks_QQ: mostra [Kd 8d] (par de Reis)
+QQ_Mucks_QQ recebeu 0.12 € do pote
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [2s Js Qd Tc Kh]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) mostrou [Jc 7s] e perdeu com par de Valetes
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ mostrou [Kd 8d] e ganhou (0.12 €) com par de Reis
+
+
+*********** # 34 **************
+Mão #262050075673 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:49:30 UTC [2026/09/11 17:49:30 ET]
+Mesa 'Etamin II' 6-max Lugar #3 é o botão
+Lugar 1: Card_Vader_AA (2.23 € em fichas)
+Lugar 2: rixabtl (1.49 € em fichas)
+Lugar 3: kurikutela53 (0.74 € em fichas)
+Lugar 4: Snake800t (1.42 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d Jc]
+Card_Vader_AA: desiste
+rixabtl: sobe 0.04 € para 0.06 €
+kurikutela53: desiste
+Snake800t: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para rixabtl
+rixabtl recebeu 0.05 € do pote
+rixabtl: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl recebeu (0.05 €)
+Lugar 3: kurikutela53 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Snake800t (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 35 **************
+Mão #262050071035 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:49:09 UTC [2026/09/11 17:49:09 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.21 € em fichas)
+Lugar 2: onemanarmy33 (1.33 € em fichas)
+Lugar 3: MikeTheMechanic (2.18 € em fichas)
+Lugar 4: topeiratinoslb (2.69 € em fichas)
+Lugar 5: timaria74 (1.39 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.55 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Th]
+topeiratinoslb: desiste
+timaria74: sobe 0.02 € para 0.04 €
+QQ_Mucks_QQ: iguala 0.04 €
+osorio211: desiste
+onemanarmy33: iguala 0.03 €
+MikeTheMechanic: iguala 0.02 €
+*** FLOP *** [As Qh 9s]
+onemanarmy33: passa
+MikeTheMechanic: passa
+timaria74: aposta 0.08 €
+QQ_Mucks_QQ: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+Aposta não-igualada (0.08 €) voltou para timaria74
+timaria74 recebeu 0.15 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [As Qh 9s]
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) desistiu no Flop
+Lugar 3: MikeTheMechanic (big blind) desistiu no Flop
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 recebeu (0.15 €)
+Lugar 6: QQ_Mucks_QQ desistiu no Flop
+
+
+*********** # 36 **************
+Mão #262050060000 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:48:17 UTC [2026/09/11 17:48:17 ET]
+Mesa 'Etamin II' 6-max Lugar #2 é o botão
+Lugar 1: Card_Vader_AA (2.23 € em fichas)
+Lugar 2: rixabtl (1.57 € em fichas)
+Lugar 3: kurikutela53 (0.75 € em fichas)
+Lugar 4: Snake800t (0.69 € em fichas)
+Lugar 5: Lopitos25 (3.02 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+kurikutela53: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As Ad]
+Lopitos25: iguala 0.02 €
+osorio211: sobe 0.06 € para 0.08 €
+Card_Vader_AA: desiste
+rixabtl: iguala 0.08 €
+kurikutela53: desiste
+Snake800t: iguala 0.06 €
+Lopitos25: desiste
+*** FLOP *** [5d Th Kc]
+Lopitos25 abandona a mesa
+Snake800t: aposta 0.61 € e está all-in
+osorio211: iguala 0.61 €
+rixabtl: desiste
+*** TURN *** [5d Th Kc] [Kh]
+*** RIVER *** [5d Th Kc Kh] [5c]
+*** SHOW DOWN ***
+Snake800t: mostra [Qd Kd] (Fullen, Reis com Cincos)
+osorio211: mostra [As Ad] (dois pares, Ases e Reis)
+Snake800t recebeu 1.42 € do pote
+*** SUMÁRIO ***
+Total pote 1.49 € | comissão 0.07 €
+Mesa [5d Th Kc Kh 5c]
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl (Botão) desistiu no Flop
+Lugar 3: kurikutela53 (small blind) desistiu antes Flop
+Lugar 4: Snake800t (big blind) mostrou [Qd Kd] e ganhou (1.42 €) com Fullen, Reis com Cincos
+Lugar 5: Lopitos25 desistiu antes Flop
+Lugar 6: osorio211 mostrou [As Ad] e perdeu com dois pares, Ases e Reis
+
+
+*********** # 37 **************
+Mão #262050056092 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:47:58 UTC [2026/09/11 17:47:58 ET]
+Mesa 'Kallisto' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2.22 € em fichas)
+Lugar 2: onemanarmy33 (1.82 € em fichas)
+Lugar 3: MikeTheMechanic (2.18 € em fichas)
+Lugar 4: topeiratinoslb (2.03 € em fichas)
+Lugar 5: timaria74 (1.39 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Ah]
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.02 €
+timaria74: desiste
+QQ_Mucks_QQ: sobe 0.03 € para 0.05 €
+osorio211: desiste
+onemanarmy33: iguala 0.03 €
+topeiratinoslb: iguala 0.03 €
+*** FLOP *** [3c 3d Kd]
+onemanarmy33: passa
+topeiratinoslb: aposta 0.06 €
+QQ_Mucks_QQ: desiste
+onemanarmy33: iguala 0.06 €
+*** TURN *** [3c 3d Kd] [Jh]
+onemanarmy33: passa
+topeiratinoslb: aposta 0.10 €
+onemanarmy33: iguala 0.10 €
+*** RIVER *** [3c 3d Kd Jh] [Kc]
+onemanarmy33: passa
+topeiratinoslb: aposta 0.46 €
+onemanarmy33: iguala 0.46 €
+*** SHOW DOWN ***
+topeiratinoslb: mostra [Ks 9d] (Fullen, Reis com Três)
+onemanarmy33: esconde a mão
+topeiratinoslb recebeu 1.33 € do pote
+*** SUMÁRIO ***
+Total pote 1.40 € | comissão 0.07 €
+Mesa [3c 3d Kd Jh Kc]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) escondeu as cartas [Qh Qd]
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb mostrou [Ks 9d] e ganhou (1.33 €) com Fullen, Reis com Três
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (Botão) desistiu no Flop
+
+
+*********** # 38 **************
+Mão #262050044523 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:47:04 UTC [2026/09/11 17:47:04 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 2: onemanarmy33 (1.82 € em fichas)
+Lugar 3: MikeTheMechanic (2.20 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.39 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.61 € em fichas)
+QQ_Mucks_QQ: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c 6s]
+onemanarmy33: desiste
+MikeTheMechanic: iguala 0.02 €
+topeiratinoslb: iguala 0.02 €
+timaria74: desiste
+QQ_Mucks_QQ: desiste
+osorio211: passa
+*** FLOP *** [5d 9d 6h]
+osorio211: aposta 0.04 €
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.04 €
+*** TURN *** [5d 9d 6h] [As]
+osorio211: aposta 0.09 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.09 €) voltou para osorio211
+osorio211 recebeu 0.14 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [5d 9d 6h As]
+Lugar 1: osorio211 (big blind) recebeu (0.14 €)
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic desistiu no Flop
+Lugar 4: topeiratinoslb desistiu no Turn
+Lugar 5: timaria74 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (small blind) desistiu antes Flop
+
+
+*********** # 39 **************
+Mão #262050040789 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:46:46 UTC [2026/09/11 17:46:46 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 2: onemanarmy33 (1.82 € em fichas)
+Lugar 3: MikeTheMechanic (2.20 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.40 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+timaria74: é small blind 0.01 €
+QQ_Mucks_QQ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Js]
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: desiste
+Aposta não-igualada (0.01 €) voltou para QQ_Mucks_QQ
+QQ_Mucks_QQ recebeu 0.02 € do pote
+QQ_Mucks_QQ: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (Botão) desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (small blind) desistiu antes Flop
+Lugar 6: QQ_Mucks_QQ (big blind) recebeu (0.02 €)
+
+
+*********** # 40 **************
+Mão #262050036036 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:46:25 UTC [2026/09/11 17:46:25 ET]
+Mesa 'Etamin II' 6-max Lugar #1 é o botão
+Lugar 1: Card_Vader_AA (2.23 € em fichas)
+Lugar 2: rixabtl (1.67 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (0.73 € em fichas)
+Lugar 5: Lopitos25 (2.87 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+rixabtl: é small blind 0.01 €
+kurikutela53: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 4d]
+Snake800t: iguala 0.02 €
+Lopitos25: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Card_Vader_AA: desiste
+rixabtl: iguala 0.03 €
+kurikutela53: desiste
+Snake800t: iguala 0.02 €
+*** FLOP *** [6s Jh Kc]
+rixabtl: passa
+Snake800t: passa
+Lopitos25: aposta 0.06 €
+rixabtl: iguala 0.06 €
+Snake800t: desiste
+*** TURN *** [6s Jh Kc] [Qs]
+rixabtl gastou o tempo
+rixabtl: passa
+Lopitos25: aposta 0.10 €
+rixabtl: desiste
+Aposta não-igualada (0.10 €) voltou para Lopitos25
+Lopitos25 recebeu 0.25 € do pote
+Lopitos25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0.01 €
+Mesa [6s Jh Kc Qs]
+Lugar 1: Card_Vader_AA (Botão) desistiu antes Flop (não apostou)
+Lugar 2: rixabtl (small blind) desistiu no Turn
+Lugar 3: kurikutela53 (big blind) desistiu antes Flop
+Lugar 4: Snake800t desistiu no Flop
+Lugar 5: Lopitos25 recebeu (0.25 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 41 **************
+Mão #262050032270 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:46:07 UTC [2026/09/11 17:46:07 ET]
+Mesa 'Kallisto' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 2: onemanarmy33 (1.94 € em fichas)
+Lugar 3: MikeTheMechanic (2.20 € em fichas)
+Lugar 4: topeiratinoslb (2.10 € em fichas)
+Lugar 5: timaria74 (1.28 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Jd]
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: sobe 0.10 € para 0.12 €
+onemanarmy33: iguala 0.10 €
+*** FLOP *** [9c 8c 4h]
+timaria74: aposta 0.16 €
+onemanarmy33: desiste
+Aposta não-igualada (0.16 €) voltou para timaria74
+timaria74 recebeu 0.24 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.25 € | comissão 0.01 €
+Mesa [9c 8c 4h]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 desistiu no Flop
+Lugar 3: MikeTheMechanic (Botão) desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (small blind) desistiu antes Flop
+Lugar 5: timaria74 (big blind) recebeu (0.24 €)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 42 **************
+Mão #262050029094 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:45:52 UTC [2026/09/11 17:45:52 ET]
+Mesa 'Kallisto' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 2: onemanarmy33 (1.94 € em fichas)
+Lugar 3: MikeTheMechanic (2.21 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.28 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+MikeTheMechanic: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d Jc]
+timaria74: desiste
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 43 **************
+Mão #262050024340 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:45:30 UTC [2026/09/11 17:45:30 ET]
+Mesa 'Etamin II' 6-max Lugar #6 é o botão
+Lugar 1: Card_Vader_AA (2.18 € em fichas)
+Lugar 2: rixabtl (1.72 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (0.73 € em fichas)
+Lugar 5: Lopitos25 (2.87 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+Card_Vader_AA: é small blind 0.01 €
+rixabtl: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 4h]
+kurikutela53 gastou o tempo
+kurikutela53: desiste
+Snake800t: desiste
+Lopitos25: desiste
+osorio211: desiste
+Card_Vader_AA: sobe 0.03 € para 0.05 €
+rixabtl: iguala 0.03 €
+*** FLOP *** [Qc Jc 6c]
+Card_Vader_AA: aposta 0.04 €
+rixabtl: desiste
+Aposta não-igualada (0.04 €) voltou para Card_Vader_AA
+Card_Vader_AA recebeu 0.10 € do pote
+Card_Vader_AA: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.10 € | comissão 0 €
+Mesa [Qc Jc 6c]
+Lugar 1: Card_Vader_AA (small blind) recebeu (0.10 €)
+Lugar 2: rixabtl (big blind) desistiu no Flop
+Lugar 3: kurikutela53 desistiu antes Flop (não apostou)
+Lugar 4: Snake800t desistiu antes Flop (não apostou)
+Lugar 5: Lopitos25 desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 44 **************
+Mão #262050018855 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:45:05 UTC [2026/09/11 17:45:05 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 2: onemanarmy33 (1.98 € em fichas)
+Lugar 3: MikeTheMechanic (2.08 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.38 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Ac]
+topeiratinoslb: desiste
+timaria74: sobe 0.02 € para 0.04 €
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.03 €
+MikeTheMechanic: iguala 0.02 €
+*** FLOP *** [8d 2h 4d]
+onemanarmy33: passa
+MikeTheMechanic: aposta 0.06 €
+timaria74: iguala 0.06 €
+onemanarmy33: desiste
+*** TURN *** [8d 2h 4d] [5h]
+MikeTheMechanic: aposta 0.12 €
+timaria74: desiste
+Aposta não-igualada (0.12 €) voltou para MikeTheMechanic
+MikeTheMechanic recebeu 0.23 € do pote
+MikeTheMechanic: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [8d 2h 4d 5h]
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) desistiu no Flop
+Lugar 3: MikeTheMechanic (big blind) recebeu (0.23 €)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 desistiu no Turn
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 45 **************
+Mão #262050015026 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:44:47 UTC [2026/09/11 17:44:47 ET]
+Mesa 'Etamin II' 6-max Lugar #5 é o botão
+Lugar 1: Card_Vader_AA (2.20 € em fichas)
+Lugar 2: rixabtl (1.72 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (0.75 € em fichas)
+Lugar 5: Lopitos25 (2.89 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+Card_Vader_AA: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad 3d]
+rixabtl: desiste
+kurikutela53: desiste
+Snake800t: iguala 0.02 €
+Lopitos25: iguala 0.02 €
+osorio211: sobe 0.10 € para 0.12 €
+Card_Vader_AA: desiste
+Snake800t: desiste
+Lopitos25: desiste
+Aposta não-igualada (0.10 €) voltou para osorio211
+osorio211 recebeu 0.08 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Lugar 1: Card_Vader_AA (big blind) desistiu antes Flop
+Lugar 2: rixabtl desistiu antes Flop (não apostou)
+Lugar 3: kurikutela53 desistiu antes Flop (não apostou)
+Lugar 4: Snake800t desistiu antes Flop
+Lugar 5: Lopitos25 (Botão) desistiu antes Flop
+Lugar 6: osorio211 (small blind) recebeu (0.08 €)
+
+
+*********** # 46 **************
+Mão #262050006676 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:44:10 UTC [2026/09/11 17:44:10 ET]
+Mesa 'Kallisto' 6-max Lugar #6 é o botão
+Lugar 1: osorio211 (2.15 € em fichas)
+Lugar 2: onemanarmy33 (2.04 € em fichas)
+Lugar 3: MikeTheMechanic (2 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.40 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.60 € em fichas)
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 3h]
+MikeTheMechanic: iguala 0.02 €
+topeiratinoslb: desiste
+timaria74: iguala 0.02 €
+QQ_Mucks_QQ: desiste
+osorio211: desiste
+onemanarmy33: passa
+*** FLOP *** [4h 8s 4d]
+onemanarmy33: passa
+MikeTheMechanic: passa
+timaria74: passa
+*** TURN *** [4h 8s 4d] [2s]
+onemanarmy33: passa
+MikeTheMechanic: aposta 0.04 €
+timaria74: desiste
+onemanarmy33: iguala 0.04 €
+*** RIVER *** [4h 8s 4d 2s] [Ah]
+onemanarmy33: passa
+MikeTheMechanic: passa
+*** SHOW DOWN ***
+onemanarmy33: mostra [7s 6s] (par de Quatros)
+MikeTheMechanic: mostra [Qs Ks] (par de Quatros - Ás+Rei kicker)
+MikeTheMechanic recebeu 0.14 € do pote
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [4h 8s 4d 2s Ah]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) mostrou [7s 6s] e perdeu com par de Quatros
+Lugar 3: MikeTheMechanic mostrou [Qs Ks] e ganhou (0.14 €) com par de Quatros
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 desistiu no Turn
+Lugar 6: QQ_Mucks_QQ (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 47 **************
+Mão #262049999045 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:43:35 UTC [2026/09/11 17:43:35 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.10 € em fichas)
+Lugar 2: onemanarmy33 (2.04 € em fichas)
+Lugar 3: MikeTheMechanic (2 € em fichas)
+Lugar 4: topeiratinoslb (2.09 € em fichas)
+Lugar 5: timaria74 (1.44 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.61 € em fichas)
+QQ_Mucks_QQ: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 9c]
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+timaria74: sobe 0.02 € para 0.04 €
+QQ_Mucks_QQ: desiste
+osorio211: iguala 0.02 €
+*** FLOP *** [Kh Qc Kc]
+osorio211: passa
+timaria74: passa
+*** TURN *** [Kh Qc Kc] [3c]
+osorio211: aposta 0.05 €
+timaria74: desiste
+Aposta não-igualada (0.05 €) voltou para osorio211
+osorio211 recebeu 0.09 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Mesa [Kh Qc Kc 3c]
+Lugar 1: osorio211 (big blind) recebeu (0.09 €)
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (Botão) desistiu no Turn
+Lugar 6: QQ_Mucks_QQ (small blind) desistiu antes Flop
+
+
+*********** # 48 **************
+Mão #262049994998 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:43:16 UTC [2026/09/11 17:43:16 ET]
+Mesa 'Etamin II' 6-max Lugar #4 é o botão
+Lugar 1: Card_Vader_AA (2.20 € em fichas)
+Lugar 2: rixabtl (1.86 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (0.75 € em fichas)
+Lugar 5: Lopitos25 (2.75 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+Lopitos25: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 3s]
+Card_Vader_AA: desiste
+rixabtl: sobe 0.02 € para 0.04 €
+kurikutela53 gastou o tempo
+kurikutela53: desiste
+Snake800t: desiste
+Lopitos25: iguala 0.03 €
+osorio211: desiste
+*** FLOP *** [3c 9c Jc]
+Lopitos25: aposta 0.10 €
+rixabtl: iguala 0.10 €
+*** TURN *** [3c 9c Jc] [Jd]
+Lopitos25: aposta 0.30 €
+rixabtl: desiste
+Aposta não-igualada (0.30 €) voltou para Lopitos25
+Lopitos25 recebeu 0.28 € do pote
+Lopitos25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.30 € | comissão 0.02 €
+Mesa [3c 9c Jc Jd]
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl desistiu no Turn
+Lugar 3: kurikutela53 desistiu antes Flop (não apostou)
+Lugar 4: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Lopitos25 (small blind) recebeu (0.28 €)
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 49 **************
+Mão #262049987632 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:42:42 UTC [2026/09/11 17:42:42 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.10 € em fichas)
+Lugar 2: onemanarmy33 (1.97 € em fichas)
+Lugar 3: MikeTheMechanic (2 € em fichas)
+Lugar 4: topeiratinoslb (2.11 € em fichas)
+Lugar 5: timaria74 (1.48 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.63 € em fichas)
+timaria74: é small blind 0.01 €
+QQ_Mucks_QQ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd Ah]
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: iguala 0.02 €
+timaria74: iguala 0.01 €
+QQ_Mucks_QQ: passa
+*** FLOP *** [3c Qs 5c]
+timaria74: aposta 0.02 €
+QQ_Mucks_QQ: desiste
+onemanarmy33: iguala 0.02 €
+topeiratinoslb: desiste
+*** TURN *** [3c Qs 5c] [2h]
+timaria74: passa
+onemanarmy33: passa
+*** RIVER *** [3c Qs 5c 2h] [7h]
+timaria74: passa
+onemanarmy33: passa
+*** SHOW DOWN ***
+timaria74: mostra [Ad 5h] (par de Cincos)
+onemanarmy33: mostra [Ts 7s] (par de Setes)
+onemanarmy33 recebeu 0.11 € do pote
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [3c Qs 5c 2h 7h]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 mostrou [Ts 7s] e ganhou (0.11 €) com par de Setes
+Lugar 3: MikeTheMechanic desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (Botão) desistiu no Flop
+Lugar 5: timaria74 (small blind) mostrou [Ad 5h] e perdeu com par de Cincos
+Lugar 6: QQ_Mucks_QQ (big blind) desistiu no Flop
+
+
+*********** # 50 **************
+Mão #262049984141 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:42:26 UTC [2026/09/11 17:42:26 ET]
+Mesa 'Kallisto' 6-max Lugar #3 é o botão
+Lugar 1: osorio211 (2.10 € em fichas)
+Lugar 2: onemanarmy33 (1.97 € em fichas)
+Lugar 3: MikeTheMechanic (2 € em fichas)
+Lugar 4: topeiratinoslb (2.12 € em fichas)
+Lugar 5: timaria74 (1.47 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h 6d]
+osorio211: desiste
+onemanarmy33: desiste
+MikeTheMechanic: desiste
+topeiratinoslb: desiste
+Aposta não-igualada (0.01 €) voltou para timaria74
+timaria74 recebeu 0.02 € do pote
+timaria74: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 desistiu antes Flop (não apostou)
+Lugar 3: MikeTheMechanic (Botão) desistiu antes Flop (não apostou)
+Lugar 4: topeiratinoslb (small blind) desistiu antes Flop
+Lugar 5: timaria74 (big blind) recebeu (0.02 €)
+
+
+*********** # 51 **************
+Mão #262049981575 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:42:14 UTC [2026/09/11 17:42:14 ET]
+Mesa 'Etamin II' 6-max Lugar #3 é o botão
+Lugar 1: Card_Vader_AA (2.20 € em fichas)
+Lugar 2: rixabtl (1.86 € em fichas)
+Lugar 3: kurikutela53 (0.77 € em fichas)
+Lugar 4: Snake800t (0.81 € em fichas)
+Lugar 5: Lopitos25 (2.70 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+Snake800t: é small blind 0.01 €
+Lopitos25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Kc]
+osorio211: desiste
+Card_Vader_AA: desiste
+rixabtl: desiste
+kurikutela53: desiste
+Snake800t: iguala 0.01 €
+Lopitos25: passa
+*** FLOP *** [Kd 5s 3s]
+Snake800t: passa
+Lopitos25: aposta 0.04 €
+Snake800t: iguala 0.04 €
+*** TURN *** [Kd 5s 3s] [Ks]
+Snake800t: passa
+Lopitos25: aposta 0.10 €
+Snake800t: desiste
+Aposta não-igualada (0.10 €) voltou para Lopitos25
+Lopitos25 recebeu 0.11 € do pote
+Lopitos25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [Kd 5s 3s Ks]
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl desistiu antes Flop (não apostou)
+Lugar 3: kurikutela53 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: Snake800t (small blind) desistiu no Turn
+Lugar 5: Lopitos25 (big blind) recebeu (0.11 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 52 **************
+Mão #262049974689 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:41:43 UTC [2026/09/11 17:41:43 ET]
+Mesa 'Etamin II' 6-max Lugar #2 é o botão
+Lugar 1: Card_Vader_AA (2.20 € em fichas)
+Lugar 2: rixabtl (1.86 € em fichas)
+Lugar 3: kurikutela53 (0.78 € em fichas)
+Lugar 4: Snake800t (0.83 € em fichas)
+Lugar 5: Lopitos25 (2.65 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+kurikutela53: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td 3s]
+Lopitos25: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Card_Vader_AA: desiste
+rixabtl: desiste
+kurikutela53: desiste
+Snake800t: desiste
+Aposta não-igualada (0.04 €) voltou para Lopitos25
+Lopitos25 recebeu 0.07 € do pote
+Lopitos25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.07 € | comissão 0 €
+Lugar 1: Card_Vader_AA desistiu antes Flop (não apostou)
+Lugar 2: rixabtl (Botão) desistiu antes Flop (não apostou)
+Lugar 3: kurikutela53 (small blind) desistiu antes Flop
+Lugar 4: Snake800t (big blind) desistiu antes Flop
+Lugar 5: Lopitos25 recebeu (0.07 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 53 **************
+Mão #262049968979 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:41:17 UTC [2026/09/11 17:41:17 ET]
+Mesa 'Kallisto' 6-max Lugar #2 é o botão
+Lugar 1: osorio211 (2.10 € em fichas)
+Lugar 2: onemanarmy33 (2.03 € em fichas)
+Lugar 3: MikeTheMechanic (2.01 € em fichas)
+Lugar 4: topeiratinoslb (2.06 € em fichas)
+Lugar 5: timaria74 (1.47 € em fichas)
+MikeTheMechanic: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c 6s]
+timaria74: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+MikeTheMechanic: desiste
+topeiratinoslb: passa
+*** FLOP *** [2s 9d Js]
+topeiratinoslb: aposta 0.02 €
+onemanarmy33: iguala 0.02 €
+*** TURN *** [2s 9d Js] [5d]
+topeiratinoslb: aposta 0.02 €
+onemanarmy33: iguala 0.02 €
+*** RIVER *** [2s 9d Js 5d] [3d]
+topeiratinoslb: passa
+onemanarmy33: passa
+*** SHOW DOWN ***
+topeiratinoslb: mostra [7c 9s] (par de Noves)
+onemanarmy33: esconde a mão
+topeiratinoslb recebeu 0.12 € do pote
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [2s 9d Js 5d 3d]
+Lugar 1: osorio211 desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (Botão) escondeu as cartas [5c 6c]
+Lugar 3: MikeTheMechanic (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) mostrou [7c 9s] e ganhou (0.12 €) com par de Noves
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+
+
+*********** # 54 **************
+Mão #262049965190 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:41:00 UTC [2026/09/11 17:41:00 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.10 € em fichas)
+Lugar 2: onemanarmy33 (2.04 € em fichas)
+Lugar 3: MikeTheMechanic (2 € em fichas)
+Lugar 4: topeiratinoslb (2.06 € em fichas)
+Lugar 5: timaria74 (1.47 € em fichas)
+onemanarmy33: é small blind 0.01 €
+MikeTheMechanic: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s Jc]
+topeiratinoslb: desiste
+timaria74: desiste
+osorio211: desiste
+onemanarmy33: desiste
+Aposta não-igualada (0.01 €) voltou para MikeTheMechanic
+MikeTheMechanic recebeu 0.02 € do pote
+MikeTheMechanic: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: onemanarmy33 (small blind) desistiu antes Flop
+Lugar 3: MikeTheMechanic (big blind) recebeu (0.02 €)
+Lugar 4: topeiratinoslb desistiu antes Flop (não apostou)
+Lugar 5: timaria74 desistiu antes Flop (não apostou)
+
+
+*********** # 55 **************
+Mão #262049956888 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:40:22 UTC [2026/09/11 17:40:22 ET]
+Mesa 'Kallisto' 6-max Lugar #5 é o botão
+Lugar 1: osorio211 (2.11 € em fichas)
+Lugar 2: onemanarmy33 (2.03 € em fichas)
+Lugar 4: topeiratinoslb (2.06 € em fichas)
+Lugar 5: timaria74 (1.47 € em fichas)
+QQ_Mucks_QQ poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh Qs]
+topeiratinoslb: sobe 0.02 € para 0.04 €
+timaria74: desiste
+osorio211: desiste
+onemanarmy33: iguala 0.02 €
+*** FLOP *** [7h Ks Qd]
+onemanarmy33: passa
+topeiratinoslb: passa
+*** TURN *** [7h Ks Qd] [8h]
+onemanarmy33: passa
+topeiratinoslb: passa
+*** RIVER *** [7h Ks Qd 8h] [Tc]
+onemanarmy33: passa
+topeiratinoslb: passa
+*** SHOW DOWN ***
+onemanarmy33: mostra [3h Ah] (Carta alta Ás)
+topeiratinoslb: mostra [2h Ac] (Carta alta Ás)
+onemanarmy33 recebeu 0.05 € do pote
+topeiratinoslb recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Mesa [7h Ks Qd 8h Tc]
+Lugar 1: osorio211 (small blind) desistiu antes Flop
+Lugar 2: onemanarmy33 (big blind) mostrou [3h Ah] e ganhou (0.05 €) com Carta alta Ás
+Lugar 4: topeiratinoslb mostrou [2h Ac] e ganhou (0.04 €) com Carta alta Ás
+Lugar 5: timaria74 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 56 **************
+Mão #262049952905 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:40:04 UTC [2026/09/11 17:40:04 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.13 € em fichas)
+Lugar 2: onemanarmy33 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.06 € em fichas)
+Lugar 5: timaria74 (1.48 € em fichas)
+timaria74: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+onemanarmy33: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 5c]
+onemanarmy33: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+QQ_Mucks_QQ junta-se à mesa no lugar #6
+timaria74: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para onemanarmy33
+onemanarmy33 recebeu 0.05 € do pote
+onemanarmy33: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 2: onemanarmy33 recebeu (0.05 €)
+Lugar 4: topeiratinoslb (Botão) desistiu antes Flop (não apostou)
+Lugar 5: timaria74 (small blind) desistiu antes Flop
+
+
+*********** # 57 **************
+Mão #262049941747 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:39:13 UTC [2026/09/11 17:39:13 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.18 € em fichas)
+Lugar 5: timaria74 (1.50 € em fichas)
+onemanarmy33 poderá jogar depois do botão
+topeiratinoslb: é small blind 0.01 €
+timaria74: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 5c]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: iguala 0.05 €
+timaria74: desiste
+*** FLOP *** [6h 4s Kh]
+topeiratinoslb: aposta 0.02 €
+MikeTheMechanic junta-se à mesa no lugar #3
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: iguala 0.04 €
+*** TURN *** [6h 4s Kh] [4c]
+topeiratinoslb: passa
+osorio211: passa
+*** RIVER *** [6h 4s Kh 4c] [3h]
+topeiratinoslb: passa
+osorio211: passa
+*** SHOW DOWN ***
+topeiratinoslb: mostra [Ah 7c] (par de Quatros)
+osorio211: mostra [Kc 5c] (dois pares, Reis e Quatros)
+osorio211 recebeu 0.25 € do pote
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0.01 €
+Mesa [6h 4s Kh 4c 3h]
+Lugar 1: osorio211 (Botão) mostrou [Kc 5c] e ganhou (0.25 €) com dois pares, Reis e Quatros
+Lugar 4: topeiratinoslb (small blind) mostrou [Ah 7c] e perdeu com par de Quatros
+Lugar 5: timaria74 (big blind) desistiu antes Flop
+
+
+*********** # 58 **************
+Mão #262049937759 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:38:55 UTC [2026/09/11 17:38:55 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.16 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2c Kd]
+topeiratinoslb: iguala 0.01 €
+timaria74 junta-se à mesa no lugar #5
+osorio211: passa
+*** FLOP *** [6s 9h 4s]
+onemanarmy33 junta-se à mesa no lugar #2
+osorio211: passa
+topeiratinoslb: aposta 0.02 €
+osorio211: desiste
+Aposta não-igualada (0.02 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.04 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [6s 9h 4s]
+Lugar 1: osorio211 (big blind) desistiu no Flop
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.04 €)
+
+
+*********** # 59 **************
+Mão #262049936041 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:38:47 UTC [2026/09/11 17:38:47 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.15 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d 4c]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 60 **************
+Mão #262049927120 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:38:07 UTC [2026/09/11 17:38:07 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.04 € em fichas)
+Lugar 4: topeiratinoslb (2.02 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Jd]
+topeiratinoslb: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+topeiratinoslb: iguala 0.06 €
+*** FLOP *** [7c 5d Qd]
+osorio211: aposta 0.06 €
+topeiratinoslb: iguala 0.06 €
+*** TURN *** [7c 5d Qd] [9h]
+osorio211: passa
+topeiratinoslb: passa
+*** RIVER *** [7c 5d Qd 9h] [Th]
+osorio211: passa
+topeiratinoslb: aposta 0.27 €
+osorio211: desiste
+Aposta não-igualada (0.27 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.27 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.28 € | comissão 0.01 €
+Mesa [7c 5d Qd 9h Th]
+Lugar 1: osorio211 (big blind) desistiu no River
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.27 €)
+
+
+*********** # 61 **************
+Mão #262049924774 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:37:56 UTC [2026/09/11 17:37:56 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.02 € em fichas)
+Lugar 4: topeiratinoslb (2.04 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h Ah]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+
+
+*********** # 62 **************
+Mão #262049921946 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:37:44 UTC [2026/09/11 17:37:44 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.06 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js Qh]
+topeiratinoslb: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (big blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (Botão) (small blind) desistiu antes Flop
+
+
+*********** # 63 **************
+Mão #262049920454 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:37:37 UTC [2026/09/11 17:37:37 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.05 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h Ts]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 64 **************
+Mão #262049913798 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:37:07 UTC [2026/09/11 17:37:07 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.03 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 4c]
+topeiratinoslb: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [7s Qc Tc]
+osorio211: passa
+topeiratinoslb: passa
+*** TURN *** [7s Qc Tc] [3s]
+osorio211: passa
+topeiratinoslb: passa
+*** RIVER *** [7s Qc Tc 3s] [3h]
+osorio211: passa
+topeiratinoslb: aposta 0.10 €
+osorio211: desiste
+Aposta não-igualada (0.10 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.04 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [7s Qc Tc 3s 3h]
+Lugar 1: osorio211 (big blind) desistiu no River
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.04 €)
+
+
+*********** # 65 **************
+Mão #262049911165 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:36:54 UTC [2026/09/11 17:36:54 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2.02 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh 7s]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 66 **************
+Mão #262049901604 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:36:11 UTC [2026/09/11 17:36:11 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.15 € em fichas)
+Lugar 4: topeiratinoslb (1.84 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd Th]
+topeiratinoslb: sobe 0.04 € para 0.06 €
+osorio211: iguala 0.04 €
+*** FLOP *** [Ts 7d 7h]
+osorio211: passa
+topeiratinoslb: aposta 0.06 €
+osorio211: iguala 0.06 €
+*** TURN *** [Ts 7d 7h] [4h]
+osorio211: passa
+topeiratinoslb: passa
+*** RIVER *** [Ts 7d 7h 4h] [Jc]
+osorio211: aposta 0.08 €
+topeiratinoslb: iguala 0.08 €
+*** SHOW DOWN ***
+osorio211: mostra [Kd Th] (dois pares, Dez e Setes)
+topeiratinoslb: mostra [Jh Qh] (dois pares, Valetes e Setes)
+topeiratinoslb recebeu 0.38 € do pote
+*** SUMÁRIO ***
+Total pote 0.40 € | comissão 0.02 €
+Mesa [Ts 7d 7h 4h Jc]
+Lugar 1: osorio211 (big blind) mostrou [Kd Th] e perdeu com dois pares, Dez e Setes
+Lugar 4: topeiratinoslb (Botão) (small blind) mostrou [Jh Qh] e ganhou (0.38 €) com dois pares, Valetes e Setes
+
+
+*********** # 67 **************
+Mão #262049899230 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:36:01 UTC [2026/09/11 17:36:01 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.13 € em fichas)
+Lugar 4: topeiratinoslb (1.86 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c Jc]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+
+
+*********** # 68 **************
+Mão #262049892880 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:35:33 UTC [2026/09/11 17:35:33 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.15 € em fichas)
+Lugar 4: topeiratinoslb (1.84 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 3d]
+topeiratinoslb: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [6d 7h Qh]
+osorio211: passa
+topeiratinoslb: passa
+*** TURN *** [6d 7h Qh] [8d]
+osorio211: passa
+topeiratinoslb: aposta 0.02 €
+osorio211: desiste
+Aposta não-igualada (0.02 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.04 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [6d 7h Qh 8d]
+Lugar 1: osorio211 (big blind) desistiu no Turn
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.04 €)
+
+
+*********** # 69 **************
+Mão #262049890430 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:35:21 UTC [2026/09/11 17:35:21 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.13 € em fichas)
+Lugar 4: topeiratinoslb (1.86 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Qh]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+
+
+*********** # 70 **************
+Mão #262049888358 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:35:12 UTC [2026/09/11 17:35:12 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.15 € em fichas)
+Lugar 4: topeiratinoslb (1.84 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d 6s]
+topeiratinoslb: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.02 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.04 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.04 €)
+
+
+*********** # 71 **************
+Mão #262049886662 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:35:04 UTC [2026/09/11 17:35:04 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.16 € em fichas)
+Lugar 4: topeiratinoslb (1.83 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s Jd]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 72 **************
+Mão #262049884124 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:34:53 UTC [2026/09/11 17:34:53 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.14 € em fichas)
+Lugar 4: topeiratinoslb (1.85 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd Th]
+topeiratinoslb: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (big blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (Botão) (small blind) desistiu antes Flop
+
+
+*********** # 73 **************
+Mão #262049881897 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:34:43 UTC [2026/09/11 17:34:43 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.12 € em fichas)
+Lugar 4: topeiratinoslb (1.87 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d 5c]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+
+
+*********** # 74 **************
+Mão #262049875796 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:34:15 UTC [2026/09/11 17:34:15 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.16 € em fichas)
+Lugar 4: topeiratinoslb (1.83 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Jh]
+topeiratinoslb: sobe 0.02 € para 0.04 €
+osorio211: iguala 0.02 €
+*** FLOP *** [3c 9h 6d]
+osorio211: passa
+topeiratinoslb: aposta 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.08 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [3c 9h 6d]
+Lugar 1: osorio211 (big blind) desistiu no Flop
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.08 €)
+
+
+*********** # 75 **************
+Mão #262049874140 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:34:08 UTC [2026/09/11 17:34:08 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.17 € em fichas)
+Lugar 4: topeiratinoslb (1.82 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 3s]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 76 **************
+Mão #262049872236 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:33:59 UTC [2026/09/11 17:33:59 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.16 € em fichas)
+Lugar 4: topeiratinoslb (1.83 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd Ad]
+topeiratinoslb: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (big blind) recebeu (0.02 €)
+Lugar 4: topeiratinoslb (Botão) (small blind) desistiu antes Flop
+
+
+*********** # 77 **************
+Mão #262049862869 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:33:17 UTC [2026/09/11 17:33:17 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.05 € em fichas)
+Lugar 4: topeiratinoslb (1.95 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Qc]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: iguala 0.04 €
+*** FLOP *** [Qs 5s Ac]
+topeiratinoslb: aposta 0.02 €
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: iguala 0.04 €
+*** TURN *** [Qs 5s Ac] [9c]
+topeiratinoslb: passa
+osorio211: aposta 0.16 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.16 €) voltou para osorio211
+osorio211 recebeu 0.23 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [Qs 5s Ac 9c]
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.23 €)
+Lugar 4: topeiratinoslb (big blind) desistiu no Turn
+
+
+*********** # 78 **************
+Mão #262049858319 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:32:57 UTC [2026/09/11 17:32:57 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.03 € em fichas)
+Lugar 4: topeiratinoslb (1.97 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac Kh]
+topeiratinoslb: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (big blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (Botão) (small blind) desistiu antes Flop
+
+
+*********** # 79 **************
+Mão #262049854975 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:32:42 UTC [2026/09/11 17:32:42 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.01 € em fichas)
+Lugar 4: topeiratinoslb (1.99 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d Qd]
+osorio211: sobe 0.04 € para 0.06 €
+topeiratinoslb: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) recebeu (0.04 €)
+Lugar 4: topeiratinoslb (big blind) desistiu antes Flop
+
+
+*********** # 80 **************
+Mão #262049851953 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:32:28 UTC [2026/09/11 17:32:28 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2.03 € em fichas)
+Lugar 4: topeiratinoslb (1.97 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Qd]
+topeiratinoslb: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.04 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: osorio211 (big blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (Botão) (small blind) recebeu (0.04 €)
+
+
+*********** # 81 **************
+Mão #262049849460 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:32:17 UTC [2026/09/11 17:32:17 ET]
+Mesa 'Kallisto' 6-max Lugar #1 é o botão
+Lugar 1: osorio211 (2.04 € em fichas)
+Lugar 4: topeiratinoslb (1.96 € em fichas)
+osorio211: é small blind 0.01 €
+topeiratinoslb: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 2s]
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para topeiratinoslb
+topeiratinoslb recebeu 0.02 € do pote
+topeiratinoslb: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: osorio211 (Botão) (small blind) desistiu antes Flop
+Lugar 4: topeiratinoslb (big blind) recebeu (0.02 €)
+
+
+*********** # 82 **************
+Mão #262049840408 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/09/11 21:31:37 UTC [2026/09/11 17:31:37 ET]
+Mesa 'Kallisto' 6-max Lugar #4 é o botão
+Lugar 1: osorio211 (2 € em fichas)
+Lugar 4: topeiratinoslb (2 € em fichas)
+topeiratinoslb: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s Td]
+topeiratinoslb: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [6d Qd Kd]
+osorio211: passa
+topeiratinoslb: passa
+*** TURN *** [6d Qd Kd] [Js]
+osorio211: passa
+topeiratinoslb: passa
+*** RIVER *** [6d Qd Kd Js] [9s]
+osorio211: aposta 0.02 €
+topeiratinoslb: iguala 0.02 €
+*** SHOW DOWN ***
+osorio211: mostra [5s Td] (Straight, Nove a Rei)
+topeiratinoslb: esconde a mão
+osorio211 recebeu 0.08 € do pote
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [6d Qd Kd Js 9s]
+Lugar 1: osorio211 (big blind) mostrou [5s Td] e ganhou (0.08 €) com Straight, Nove a Rei
+Lugar 4: topeiratinoslb (Botão) (small blind) escondeu as cartas [Qc Kh]
+
+
+
+
+Está a receber este email porque inclui informações importantes sobre a sua conta da Stars.
+
+Atenção: este email foi enviado a partir de um endereço dedicado apenas a notificações que não recebe emails. Não responda a esta mensagem. Caso deseje contactar-nos, visite o nosso Centro de Ajuda no endereço http://www.pokerstars.pt/help para saber como o pode fazer.
+
+Se tiver interesse em saber de que forma tratamos os seus dados, consulte a nossa Política de Privacidade em http://www.pokerstars.pt/privacy.
+
+REEL Europe Ltd, Spinola Terraces, Mikiel Ang Borg Street, St. Julian's, SPK 1000, Malta.
+
+Copyright © 2001-2026, Rational Intellectual Holdings Limited. Todos os direitos reservados.
