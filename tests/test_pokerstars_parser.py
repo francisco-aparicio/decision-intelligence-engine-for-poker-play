@@ -364,19 +364,80 @@ def test_unrecognized_blind_post_fails_loudly() -> None:
     assert [failed.raw_text for failed in result.failed] == [unknown_post]
 
 
-def test_side_pot_summary_fails_loudly() -> None:
+SIDE_POT_HAND = """\
+Mão #261910700176 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:25:18 UTC [2026/08/29 18:25:18 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: LaFuras (0.46 € em fichas)
+Lugar 2: zaroffe (1.07 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (1.41 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 5d]
+LaFuras: iguala 0.02 €
+zaroffe: iguala 0.02 €
+osorio211: desiste
+nevoas81: sobe 0.07 € para 0.09 €
+LaFuras: iguala 0.07 €
+zaroffe: iguala 0.07 €
+*** FLOP *** [Jd 7s 5s]
+nevoas81: passa
+LaFuras: aposta 0.27 €
+zaroffe: sobe 0.27 € para 0.54 €
+nevoas81: iguala 0.54 €
+LaFuras: iguala 0.10 € e está all-in
+*** TURN *** [Jd 7s 5s] [5c]
+nevoas81: aposta 0.78 € e está all-in
+zaroffe: desiste
+Aposta não-igualada (0.78 €) voltou para nevoas81
+*** RIVER *** [Jd 7s 5s 5c] [Ks]
+*** SHOW DOWN ***
+nevoas81: mostra [As 8s] (Cor, Ás carta mais alta)
+nevoas81 recebeu 0.32 € do secundário pote
+LaFuras: mostra [Ts Jh] (dois pares, Valetes e Cincos)
+nevoas81 recebeu 1.32 € do principal pote
+*** SUMÁRIO ***
+Total pote 1.73 € Principal pote 1.32 €. Secundário pote 0.32 €. | comissão 0.09 €
+Mesa [Jd 7s 5s 5c Ks]
+Lugar 1: LaFuras mostrou [Ts Jh] e perdeu com dois pares, Valetes e Cincos
+Lugar 2: zaroffe (Botão) desistiu no Turn
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) mostrou [As 8s] e ganhou (1.64 €) com Cor, Ás carta mais alta
+"""
+
+
+def test_side_pot_hand_reads_total_rake_and_winnings() -> None:
+    hand = parse_hand(SIDE_POT_HAND, hero_name=HERO_NAME)
+
+    assert hand.total_pot == 1.73
+    assert hand.rake == 0.09
+    assert [(r.player, r.amount_won) for r in hand.pot_results] == [
+        ("LaFuras", 0.0),
+        ("nevoas81", 1.64),
+    ]
+
+
+# Neither wording appears in the real data: anything off the known shapes must
+# not be read silently.
+@pytest.mark.parametrize(
+    "pots",
+    [
+        "Pote principal 1.00 €. Pote lateral 0.59 €.",
+        "Principal pote 1.00 €. Secundário-1 pote 0.30 €. Secundário-2 pote 0.29 €.",
+    ],
+)
+def test_unknown_pot_total_wording_fails_loudly(pots: str) -> None:
     raw_hand = split_into_hands(_read_sample("hand_001.txt"))[0]
-    # No real side-pot hand exists in the fixtures, so this pt wording is a guess.
-    # What matters is that any total line off the plain shape is not read silently.
-    side_pot_hand = raw_hand.replace(
+    unknown_total = raw_hand.replace(
         "Total pote 1.59 € | comissão 0.08 €",
-        "Total pote 1.59 € Pote principal 1.00 €. Pote lateral 0.59 €. | comissão 0.08 €",
+        f"Total pote 1.59 € {pots} | comissão 0.08 €",
     )
-    assert side_pot_hand != raw_hand
+    assert unknown_total != raw_hand
 
     with pytest.raises(HandParseError, match="no pot total line"):
-        parse_hand(side_pot_hand, hero_name=HERO_NAME)
+        parse_hand(unknown_total, hero_name=HERO_NAME)
 
-    result = parse_session(side_pot_hand, hero_name=HERO_NAME)
+    result = parse_session(unknown_total, hero_name=HERO_NAME)
     assert result.hands == []
-    assert [failed.raw_text for failed in result.failed] == [side_pot_hand]
+    assert [failed.raw_text for failed in result.failed] == [unknown_total]

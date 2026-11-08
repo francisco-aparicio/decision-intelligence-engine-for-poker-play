@@ -286,6 +286,12 @@ export, add it here.
    blind, both for that player. Any other `X: é ...` line before the hole
    cards, or a combined amount other than SB + BB, fails the hand: these
    lines sit outside every street, so an unhandled one would vanish silently.
+9. **Side pots add a breakdown to the total line** — `Total pote 1.73 €
+   Principal pote 1.32 €. Secundário pote 0.32 €. | comissão 0.09 €`. Read
+   only the total and rake; each player's winnings already come from their
+   per-seat summary line. Only this one-side-pot wording has been seen, so
+   any other shape (e.g. several side pots) still fails the hand until a
+   real example confirms it.
 
 ## Implementation order — keep populated fields symmetric
 Extend one street at a time, and populate both `actions` and

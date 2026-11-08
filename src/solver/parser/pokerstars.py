@@ -86,7 +86,9 @@ _MUCKED_RE = re.compile(r"^escondeu as cartas \[(?P<c1>\w+) (?P<c2>\w+)\]$")
 _UNCONTESTED_WIN_RE = re.compile(r"^recebeu \((?P<won>[\d.]+)\s*€\)$")
 _FOLDED_RE = re.compile(r"^desistiu ")
 _POT_TOTAL_RE = re.compile(
-    r"^Total pote (?P<pot>[\d.]+)\s*€ \| comissão (?P<rake>[\d.]+)\s*€"
+    r"^Total pote (?P<pot>[\d.]+)\s*€"
+    r"(?: Principal pote [\d.]+\s*€\. Secundário pote [\d.]+\s*€\.)?"
+    r" \| comissão (?P<rake>[\d.]+)\s*€"
 )
 
 
