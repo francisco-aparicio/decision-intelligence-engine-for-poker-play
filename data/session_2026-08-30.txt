@@ -1,0 +1,3006 @@
+Transcrito último 1 hora de jogo requerido por osorio211 (faparicio.lopes@gmail.com)
+
+*********** # 1 **************
+Mão #261911056170 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 23:00:30 UTC [2026/08/29 19:00:30 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (2.81 € em fichas)
+Lugar 2: jardel836 (1.94 € em fichas)
+Lugar 3: juuana25 (0.76 € em fichas)
+Lugar 4: lordamadur (2.40 € em fichas)
+Lugar 5: j.bike.c (1.80 € em fichas)
+Lugar 6: osorio211 (2.01 € em fichas)
+juuana25: é small blind 0.01 €
+lordamadur: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d Jh]
+j.bike.c: desiste
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: iguala 0.01 €
+osorio211 abandona a mesa
+lordamadur: sobe 0.02 € para 0.04 €
+juuana25: iguala 0.02 €
+*** FLOP *** [4h Ah 3c]
+juuana25: passa
+lordamadur: aposta 0.04 €
+juuana25: desiste
+Aposta não-igualada (0.04 €) voltou para lordamadur
+lordamadur recebeu 0.08 € do pote
+lordamadur: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [4h Ah 3c]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: juuana25 (small blind) desistiu no Flop
+Lugar 4: lordamadur (big blind) recebeu (0.08 €)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 2 **************
+Mão #261911056139 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 23:00:30 UTC [2026/08/29 19:00:30 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: diogocastr02 (0.61 € em fichas)
+Lugar 2: micax82 (0.49 € em fichas)
+Lugar 3: osorio211 (2.33 € em fichas)
+Lugar 4: nevoas81 (3.35 € em fichas)
+Lugar 5: jardel836 (2.19 € em fichas)
+Lugar 6: CAlves84 (1.98 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d 8s]
+jardel836: iguala 0.02 €
+CAlves84: iguala 0.02 €
+diogocastr02: sobe 0.02 € para 0.04 €
+micax82: desiste
+osorio211: desiste
+nevoas81: desiste
+jardel836: iguala 0.02 €
+CAlves84: iguala 0.02 €
+*** FLOP *** [5s 7d Ks]
+jardel836: passa
+osorio211 abandona a mesa
+CAlves84: passa
+diogocastr02: aposta 0.04 €
+jardel836: iguala 0.04 €
+CAlves84: desiste
+*** TURN *** [5s 7d Ks] [Ac]
+jardel836: passa
+diogocastr02: aposta 0.06 €
+jardel836: sobe 2.05 € para 2.11 € e está all-in
+diogocastr02: iguala 0.47 € e está all-in
+Aposta não-igualada (1.58 €) voltou para jardel836
+*** RIVER *** [5s 7d Ks Ac] [2d]
+*** SHOW DOWN ***
+jardel836: mostra [As 5c] (dois pares, Ases e Cincos)
+diogocastr02: mostra [Kh 5h] (dois pares, Reis e Cincos)
+jardel836 recebeu 1.23 € do pote
+*** SUMÁRIO ***
+Total pote 1.29 € | comissão 0.06 €
+Mesa [5s 7d Ks Ac 2d]
+Lugar 1: diogocastr02 mostrou [Kh 5h] e perdeu com dois pares, Reis e Cincos
+Lugar 2: micax82 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 mostrou [As 5c] e ganhou (1.23 €) com dois pares, Ases e Cincos
+Lugar 6: CAlves84 desistiu no Flop
+
+
+*********** # 3 **************
+Mão #261911045528 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:59:09 UTC [2026/08/29 18:59:09 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: diogocastr02 (0.63 € em fichas)
+Lugar 2: micax82 (0.79 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.35 € em fichas)
+Lugar 5: jardel836 (2.21 € em fichas)
+Lugar 6: CAlves84 (2 € em fichas)
+micax82: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+CAlves84: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs Th]
+nevoas81: desiste
+jardel836: iguala 0.02 €
+CAlves84: passa
+diogocastr02: iguala 0.02 €
+micax82: iguala 0.01 €
+osorio211: sobe 0.14 € para 0.16 €
+jardel836: desiste
+CAlves84: desiste
+diogocastr02: desiste
+micax82: iguala 0.14 €
+*** FLOP *** [Qc 8c 6c]
+micax82: passa
+osorio211: aposta 0.12 €
+micax82: iguala 0.12 €
+*** TURN *** [Qc 8c 6c] [Js]
+micax82: aposta 0.02 €
+osorio211: sobe 0.18 € para 0.20 €
+micax82: desiste
+Aposta não-igualada (0.18 €) voltou para osorio211
+osorio211 recebeu 0.63 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.66 € | comissão 0.03 €
+Mesa [Qc 8c 6c Js]
+Lugar 1: diogocastr02 (Botão) desistiu antes Flop
+Lugar 2: micax82 (small blind) desistiu no Turn
+Lugar 3: osorio211 (big blind) recebeu (0.63 €)
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 desistiu antes Flop
+Lugar 6: CAlves84 desistiu antes Flop (não apostou)
+
+
+*********** # 4 **************
+Mão #261911042946 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:58:48 UTC [2026/08/29 18:58:48 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (2.81 € em fichas)
+Lugar 2: jardel836 (1.96 € em fichas)
+Lugar 3: juuana25 (0.99 € em fichas)
+Lugar 4: lordamadur (2.40 € em fichas)
+Lugar 5: j.bike.c (1.57 € em fichas)
+Lugar 6: osorio211 (2.01 € em fichas)
+jardel836: é small blind 0.01 €
+juuana25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 8h]
+lordamadur: desiste
+j.bike.c: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: iguala 0.01 €
+juuana25: passa
+*** FLOP *** [2c 5d 3c]
+jardel836: passa
+juuana25: passa
+j.bike.c está ligado
+j.bike.c: aposta 0.03 €
+jardel836: desiste
+juuana25: iguala 0.03 €
+*** TURN *** [2c 5d 3c] [Kh]
+juuana25: passa
+j.bike.c: aposta 0.06 €
+juuana25: iguala 0.06 €
+*** RIVER *** [2c 5d 3c Kh] [Js]
+juuana25: passa
+j.bike.c: aposta 0.12 €
+juuana25: iguala 0.12 €
+*** SHOW DOWN ***
+j.bike.c: mostra [Kd Qs] (par de Reis)
+juuana25: esconde a mão
+j.bike.c recebeu 0.46 € do pote
+*** SUMÁRIO ***
+Total pote 0.48 € | comissão 0.02 €
+Mesa [2c 5d 3c Kh Js]
+Lugar 1: GreatJohnnie (Botão) desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (small blind) desistiu no Flop
+Lugar 3: juuana25 (big blind) escondeu as cartas [Ks 6c]
+Lugar 4: lordamadur desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c mostrou [Kd Qs] e ganhou (0.46 €) com par de Reis
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 5 **************
+Mão #261911035255 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:57:48 UTC [2026/08/29 18:57:48 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: diogocastr02 (0.64 € em fichas)
+Lugar 2: micax82 (0.79 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.35 € em fichas)
+Lugar 5: jardel836 (2.21 € em fichas)
+diogocastr02: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Ac]
+osorio211: sobe 0.04 € para 0.06 €
+nevoas81: desiste
+jardel836: desiste
+diogocastr02: desiste
+micax82: iguala 0.04 €
+*** FLOP *** [Kd Ts 9c]
+micax82: passa
+CAlves84 junta-se à mesa no lugar #6
+osorio211: aposta 0.06 €
+micax82: iguala 0.06 €
+*** TURN *** [Kd Ts 9c] [5h]
+micax82: passa
+osorio211: passa
+*** RIVER *** [Kd Ts 9c 5h] [5d]
+micax82: aposta 0.04 €
+osorio211: iguala 0.04 €
+*** SHOW DOWN ***
+micax82: mostra [As Th] (dois pares, Dez e Cincos)
+osorio211: mostra [Tc Ac] (dois pares, Dez e Cincos)
+micax82 recebeu 0.16 € do pote
+osorio211 recebeu 0.15 € do pote
+*** SUMÁRIO ***
+Total pote 0.33 € | comissão 0.02 €
+Mesa [Kd Ts 9c 5h 5d]
+Lugar 1: diogocastr02 (small blind) desistiu antes Flop
+Lugar 2: micax82 (big blind) mostrou [As Th] e ganhou (0.16 €) com dois pares, Dez e Cincos
+Lugar 3: osorio211 mostrou [Tc Ac] e ganhou (0.15 €) com dois pares, Dez e Cincos
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 6 **************
+Mão #261911030030 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:57:07 UTC [2026/08/29 18:57:07 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (3.15 € em fichas)
+Lugar 2: jardel836 (0.64 € em fichas)
+Lugar 3: juuana25 (1.03 € em fichas)
+Lugar 4: lordamadur (1.98 € em fichas)
+Lugar 5: j.bike.c (1.57 € em fichas)
+Lugar 6: osorio211 (2.05 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c Ac]
+juuana25: iguala 0.02 €
+lordamadur: sobe 0.02 € para 0.04 €
+j.bike.c: desiste
+osorio211: iguala 0.04 €
+GreatJohnnie: iguala 0.03 €
+jardel836: iguala 0.02 €
+juuana25: iguala 0.02 €
+*** FLOP *** [4h Kh 8d]
+GreatJohnnie: passa
+jardel836: passa
+juuana25: passa
+lordamadur: passa
+osorio211: passa
+*** TURN *** [4h Kh 8d] [Ks]
+GreatJohnnie: aposta 0.15 €
+jardel836: desiste
+juuana25: desiste
+lordamadur: sobe 0.15 € para 0.30 €
+osorio211: desiste
+GreatJohnnie: iguala 0.15 €
+*** RIVER *** [4h Kh 8d Ks] [9c]
+GreatJohnnie: passa
+lordamadur: aposta 0.30 €
+GreatJohnnie: desiste
+Aposta não-igualada (0.30 €) voltou para lordamadur
+lordamadur recebeu 0.76 € do pote
+lordamadur: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.80 € | comissão 0.04 €
+Mesa [4h Kh 8d Ks 9c]
+Lugar 1: GreatJohnnie (small blind) desistiu no River
+Lugar 2: jardel836 (big blind) desistiu no Turn
+Lugar 3: juuana25 desistiu no Turn
+Lugar 4: lordamadur recebeu (0.76 €)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu no Turn
+
+
+*********** # 7 **************
+Mão #261911027282 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:56:45 UTC [2026/08/29 18:56:45 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 1: diogocastr02 (0.93 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.05 € em fichas)
+Lugar 5: jardel836 (2.23 € em fichas)
+jardel836: é small blind 0.01 €
+diogocastr02: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s 9h]
+micax82: iguala 0.02 €
+osorio211: desiste
+nevoas81: iguala 0.02 €
+jardel836: iguala 0.01 €
+diogocastr02: passa
+*** FLOP *** [Ad 5d 3h]
+jardel836: passa
+diogocastr02: aposta 0.12 €
+micax82: desiste
+nevoas81: iguala 0.12 €
+jardel836: desiste
+*** TURN *** [Ad 5d 3h] [Js]
+diogocastr02: aposta 0.02 €
+nevoas81: iguala 0.02 €
+*** RIVER *** [Ad 5d 3h Js] [Ah]
+diogocastr02: passa
+nevoas81: aposta 0.13 €
+diogocastr02: iguala 0.13 €
+*** SHOW DOWN ***
+nevoas81: mostra [As 9d] (trio, Ases)
+diogocastr02: esconde a mão
+nevoas81 recebeu 0.59 € do pote
+*** SUMÁRIO ***
+Total pote 0.62 € | comissão 0.03 €
+Mesa [Ad 5d 3h Js Ah]
+Lugar 1: diogocastr02 (big blind) escondeu as cartas [5h 7s]
+Lugar 2: micax82 desistiu no Flop
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (Botão) mostrou [As 9d] e ganhou (0.59 €) com trio, Ases
+Lugar 5: jardel836 (small blind) desistiu no Flop
+
+
+*********** # 8 **************
+Mão #261911024857 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:56:26 UTC [2026/08/29 18:56:26 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: diogocastr02 (0.90 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.06 € em fichas)
+Lugar 5: jardel836 (2.25 € em fichas)
+nevoas81: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+diogocastr02: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c Jd]
+diogocastr02: sobe 0.26 € para 0.28 €
+micax82: desiste
+osorio211: desiste
+nevoas81: desiste
+jardel836: desiste
+Aposta não-igualada (0.26 €) voltou para diogocastr02
+diogocastr02 recebeu 0.05 € do pote
+diogocastr02: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: diogocastr02 recebeu (0.05 €)
+Lugar 2: micax82 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (small blind) desistiu antes Flop
+Lugar 5: jardel836 (big blind) desistiu antes Flop
+
+
+*********** # 9 **************
+Mão #261911022263 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:56:05 UTC [2026/08/29 18:56:05 ET]
+Mesa 'Wallia V' 6-max Lugar #5 é o botão
+Lugar 1: GreatJohnnie (3.17 € em fichas)
+Lugar 2: jardel836 (0.64 € em fichas)
+Lugar 3: juuana25 (1.03 € em fichas)
+Lugar 4: lordamadur (2 € em fichas)
+Lugar 5: j.bike.c (1.52 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+osorio211: é small blind 0.01 €
+GreatJohnnie: é big blind 0.02 €
+lordamadur: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 7h]
+jardel836: desiste
+juuana25: desiste
+lordamadur: passa
+j.bike.c: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie: passa
+*** FLOP *** [Th 3s Ts]
+GreatJohnnie: passa
+lordamadur: passa
+j.bike.c: aposta 0.04 €
+GreatJohnnie: desiste
+lordamadur: desiste
+Aposta não-igualada (0.04 €) voltou para j.bike.c
+j.bike.c recebeu 0.07 € do pote
+j.bike.c: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.07 € | comissão 0 €
+Mesa [Th 3s Ts]
+Lugar 1: GreatJohnnie (big blind) desistiu no Flop
+Lugar 2: jardel836 desistiu antes Flop (não apostou)
+Lugar 3: juuana25 desistiu antes Flop (não apostou)
+Lugar 4: lordamadur desistiu no Flop (não apostou)
+Lugar 5: j.bike.c (Botão) recebeu (0.07 €)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 10 **************
+Mão #261911016909 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:55:22 UTC [2026/08/29 18:55:22 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 2: micax82 (0.83 € em fichas)
+Lugar 3: osorio211 (2.05 € em fichas)
+Lugar 4: nevoas81 (3.08 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+diogocastr02 está ligado
+*** CARTAS HOLE ***
+osorio211 recebe [8h Jh]
+jardel836: iguala 0.02 €
+micax82: iguala 0.02 €
+osorio211: sobe 0.12 € para 0.14 €
+nevoas81: desiste
+jardel836: iguala 0.12 €
+micax82: desiste
+*** FLOP *** [7c Ad Kd]
+osorio211: aposta 0.10 €
+jardel836: iguala 0.10 €
+*** TURN *** [7c Ad Kd] [4s]
+osorio211: passa
+jardel836: passa
+*** RIVER *** [7c Ad Kd 4s] [5c]
+osorio211: passa
+jardel836: passa
+*** SHOW DOWN ***
+osorio211: mostra [8h Jh] (Carta alta Ás)
+jardel836: mostra [7h 9h] (par de Setes)
+jardel836 recebeu 0.49 € do pote
+*** SUMÁRIO ***
+Total pote 0.52 € | comissão 0.03 €
+Mesa [7c Ad Kd 4s 5c]
+Lugar 2: micax82 (Botão) desistiu antes Flop
+Lugar 3: osorio211 (small blind) mostrou [8h Jh] e perdeu com Carta alta Ás
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 mostrou [7h 9h] e ganhou (0.49 €) com par de Setes
+
+
+*********** # 11 **************
+Mão #261911016411 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:55:18 UTC [2026/08/29 18:55:18 ET]
+Mesa 'Wallia V' 6-max Lugar #3 é o botão
+Lugar 1: GreatJohnnie (3.17 € em fichas)
+Lugar 2: jardel836 (0.66 € em fichas)
+Lugar 3: juuana25 (1.05 € em fichas)
+Lugar 5: j.bike.c (1.54 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+lordamadur poderá jogar depois do botão
+j.bike.c: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh Qc]
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+juuana25: iguala 0.02 €
+j.bike.c: iguala 0.01 €
+osorio211: sobe 0.14 € para 0.16 €
+jardel836: desiste
+juuana25: desiste
+j.bike.c: desiste
+Aposta não-igualada (0.14 €) voltou para osorio211
+osorio211 recebeu 0.08 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 desistiu antes Flop
+Lugar 3: juuana25 (Botão) desistiu antes Flop
+Lugar 5: j.bike.c (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) recebeu (0.08 €)
+
+
+*********** # 12 **************
+Mão #261911004643 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:54:06 UTC [2026/08/29 18:54:06 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 2: micax82 (0.85 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: nevoas81 (3.08 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+micax82: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h Kd]
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: desiste
+micax82: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [4d Ad Jd]
+micax82: passa
+osorio211: passa
+*** TURN *** [4d Ad Jd] [Ah]
+micax82: passa
+osorio211: passa
+*** RIVER *** [4d Ad Jd Ah] [8s]
+micax82: passa
+osorio211: passa
+*** SHOW DOWN ***
+micax82: mostra [5s Ts] (par de Ases)
+osorio211: mostra [5h Kd] (par de Ases - Rei kicker)
+osorio211 recebeu 0.04 € do pote
+diogocastr02 junta-se à mesa no lugar #1
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [4d Ad Jd Ah 8s]
+Lugar 2: micax82 (small blind) mostrou [5s Ts] e perdeu com par de Ases
+Lugar 3: osorio211 (big blind) mostrou [5h Kd] e ganhou (0.04 €) com par de Ases
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 13 **************
+Mão #261911002157 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:53:52 UTC [2026/08/29 18:53:52 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 2: micax82 (0.87 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.08 € em fichas)
+Lugar 5: jardel836 (2.01 € em fichas)
+jardel836: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Th]
+osorio211: sobe 0.04 € para 0.06 €
+nevoas81: desiste
+jardel836: desiste
+micax82: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: micax82 (big blind) desistiu antes Flop
+Lugar 3: osorio211 recebeu (0.05 €)
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (small blind) desistiu antes Flop
+
+
+*********** # 14 **************
+Mão #261910999125 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:53:34 UTC [2026/08/29 18:53:34 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (3.51 € em fichas)
+Lugar 2: micax82 (0.87 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.09 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+nevoas81: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 2d]
+sralcides: desiste
+sralcides abandona a mesa
+micax82: desiste
+osorio211: desiste
+nevoas81: desiste
+Aposta não-igualada (0.01 €) voltou para jardel836
+jardel836 recebeu 0.02 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 2: micax82 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (small blind) desistiu antes Flop
+Lugar 5: jardel836 (big blind) recebeu (0.02 €)
+
+
+*********** # 15 **************
+Mão #261910994749 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:53:09 UTC [2026/08/29 18:53:09 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (3.17 € em fichas)
+Lugar 2: jardel836 (0.66 € em fichas)
+Lugar 3: juuana25 (1.11 € em fichas)
+Lugar 5: j.bike.c (1.02 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+juuana25: é small blind 0.01 €
+j.bike.c: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Qc]
+osorio211: sobe 0.04 € para 0.06 €
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: iguala 0.05 €
+j.bike.c: iguala 0.04 €
+*** FLOP *** [6s Qh Js]
+juuana25: passa
+j.bike.c: passa
+lordamadur junta-se à mesa no lugar #4
+osorio211: aposta 0.10 €
+juuana25: desiste
+j.bike.c: iguala 0.10 €
+*** TURN *** [6s Qh Js] [Ks]
+j.bike.c: passa
+osorio211: passa
+*** RIVER *** [6s Qh Js Ks] [Ad]
+j.bike.c: aposta 0.18 €
+osorio211: sobe 0.18 € para 0.36 €
+j.bike.c: sobe 0.50 € para 0.86 € e está all-in
+osorio211: desiste
+Aposta não-igualada (0.50 €) voltou para j.bike.c
+j.bike.c recebeu 1.04 € do pote
+j.bike.c: não mostra a mão
+*** SUMÁRIO ***
+Total pote 1.10 € | comissão 0.06 €
+Mesa [6s Qh Js Ks Ad]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: juuana25 (small blind) desistiu no Flop
+Lugar 5: j.bike.c (big blind) recebeu (1.04 €)
+Lugar 6: osorio211 desistiu no River
+
+
+*********** # 16 **************
+Mão #261910990664 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:52:45 UTC [2026/08/29 18:52:45 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: sralcides (3.57 € em fichas)
+Lugar 2: micax82 (0.79 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.11 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 8s]
+jardel836: desiste
+sralcides: sobe 0.02 € para 0.04 €
+micax82: iguala 0.04 €
+osorio211: desiste
+nevoas81: desiste
+*** FLOP *** [4c 6d 4s]
+sralcides: passa
+micax82: passa
+*** TURN *** [4c 6d 4s] [Ts]
+sralcides: passa
+micax82: aposta 0.02 €
+sralcides: iguala 0.02 €
+*** RIVER *** [4c 6d 4s Ts] [2c]
+sralcides: passa
+micax82: passa
+*** SHOW DOWN ***
+sralcides: mostra [Qc 9h] (par de Quatros)
+micax82: mostra [Js Ad] (par de Quatros - Ás kicker)
+micax82 recebeu 0.14 € do pote
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [4c 6d 4s Ts 2c]
+Lugar 1: sralcides mostrou [Qc 9h] e perdeu com par de Quatros
+Lugar 2: micax82 (Botão) mostrou [Js Ad] e ganhou (0.14 €) com par de Quatros
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 desistiu antes Flop (não apostou)
+
+
+*********** # 17 **************
+Mão #261910986466 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:52:21 UTC [2026/08/29 18:52:21 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (3.57 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2.09 € em fichas)
+Lugar 5: jardel836 (1.86 € em fichas)
+micax82: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js 8s]
+jardel836: iguala 0.02 €
+sralcides: desiste
+micax82: iguala 0.01 €
+osorio211: sobe 0.10 € para 0.12 €
+jardel836: sobe 0.26 € para 0.38 €
+micax82: desiste
+osorio211: desiste
+Aposta não-igualada (0.26 €) voltou para jardel836
+jardel836 recebeu 0.26 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0 €
+Lugar 1: sralcides (Botão) desistiu antes Flop (não apostou)
+Lugar 2: micax82 (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 5: jardel836 recebeu (0.26 €)
+
+
+*********** # 18 **************
+Mão #261910982999 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:52:00 UTC [2026/08/29 18:52:00 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (3.24 € em fichas)
+Lugar 2: jardel836 (0.83 € em fichas)
+Lugar 3: juuana25 (0.89 € em fichas)
+Lugar 4: nebcrew (1.48 € em fichas)
+Lugar 5: j.bike.c (1.02 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+jardel836: é small blind 0.01 €
+juuana25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h 3s]
+nebcrew: desiste
+j.bike.c: desiste
+osorio211: desiste
+GreatJohnnie: sobe 0.03 € para 0.05 €
+jardel836: iguala 0.04 €
+juuana25: iguala 0.03 €
+*** FLOP *** [2c As 7s]
+jardel836: passa
+juuana25: aposta 0.02 €
+GreatJohnnie: iguala 0.02 €
+jardel836: iguala 0.02 €
+*** TURN *** [2c As 7s] [5c]
+jardel836: passa
+juuana25: aposta 0.10 €
+GreatJohnnie: desiste
+jardel836: iguala 0.10 €
+*** RIVER *** [2c As 7s 5c] [9d]
+jardel836: passa
+nebcrew abandona a mesa
+juuana25: passa
+*** SHOW DOWN ***
+jardel836: mostra [3d 3c] (par de Três)
+juuana25: mostra [7c 4c] (par de Setes)
+juuana25 recebeu 0.39 € do pote
+*** SUMÁRIO ***
+Total pote 0.41 € | comissão 0.02 €
+Mesa [2c As 7s 5c 9d]
+Lugar 1: GreatJohnnie (Botão) desistiu no Turn
+Lugar 2: jardel836 (small blind) mostrou [3d 3c] e perdeu com par de Três
+Lugar 3: juuana25 (big blind) mostrou [7c 4c] e ganhou (0.39 €) com par de Setes
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 19 **************
+Mão #261910975278 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:51:16 UTC [2026/08/29 18:51:16 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: sralcides (3.66 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 5: jardel836 (1.86 € em fichas)
+Lugar 6: Zanas05 (1.03 € em fichas)
+Zanas05: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc Qc]
+micax82: desiste
+osorio211: sobe 0.04 € para 0.06 €
+jardel836: desiste
+Zanas05: desiste
+sralcides: iguala 0.04 €
+*** FLOP *** [3c Kc 5c]
+sralcides: passa
+Zanas05 abandona a mesa
+osorio211: aposta 0.03 €
+sralcides: iguala 0.03 €
+*** TURN *** [3c Kc 5c] [6s]
+sralcides: passa
+osorio211: aposta 0.09 €
+sralcides: desiste
+Aposta não-igualada (0.09 €) voltou para osorio211
+osorio211 recebeu 0.18 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [3c Kc 5c 6s]
+Lugar 1: sralcides (big blind) desistiu no Turn
+Lugar 2: micax82 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 recebeu (0.18 €)
+Lugar 5: jardel836 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Zanas05 (small blind) desistiu antes Flop
+
+
+*********** # 20 **************
+Mão #261910969424 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:50:42 UTC [2026/08/29 18:50:42 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (3.25 € em fichas)
+Lugar 2: jardel836 (0.85 € em fichas)
+Lugar 3: juuana25 (0.71 € em fichas)
+Lugar 4: nebcrew (1.48 € em fichas)
+Lugar 5: j.bike.c (1.02 € em fichas)
+Lugar 6: osorio211 (2.14 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c As]
+juuana25: iguala 0.02 €
+nebcrew: desiste
+j.bike.c: desiste
+osorio211: sobe 0.06 € para 0.08 €
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: iguala 0.06 €
+*** FLOP *** [Qd 5d Ac]
+juuana25: passa
+osorio211: aposta 0.09 €
+juuana25: iguala 0.09 €
+*** TURN *** [Qd 5d Ac] [Kd]
+juuana25: passa
+osorio211: passa
+*** RIVER *** [Qd 5d Ac Kd] [9d]
+juuana25: aposta 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para juuana25
+juuana25 recebeu 0.35 € do pote
+juuana25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [Qd 5d Ac Kd 9d]
+Lugar 1: GreatJohnnie (small blind) desistiu antes Flop
+Lugar 2: jardel836 (big blind) desistiu antes Flop
+Lugar 3: juuana25 recebeu (0.35 €)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu no River
+
+
+*********** # 21 **************
+Mão #261910968468 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:50:37 UTC [2026/08/29 18:50:37 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (3.66 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 5: jardel836 (1.92 € em fichas)
+Lugar 6: Zanas05 (0.92 € em fichas)
+jardel836: é small blind 0.01 €
+Zanas05: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h 9h]
+sralcides: desiste
+micax82: desiste
+osorio211: sobe 0.04 € para 0.06 €
+jardel836: iguala 0.05 €
+Zanas05: iguala 0.04 €
+*** FLOP *** [Js 5c 3d]
+jardel836: passa
+Zanas05: passa
+osorio211: passa
+*** TURN *** [Js 5c 3d] [Jd]
+jardel836: passa
+Zanas05: aposta 0.08 €
+osorio211: desiste
+jardel836: desiste
+Aposta não-igualada (0.08 €) voltou para Zanas05
+Zanas05 recebeu 0.17 € do pote
+Zanas05: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0.01 €
+Mesa [Js 5c 3d Jd]
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 2: micax82 desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) desistiu no Turn
+Lugar 5: jardel836 (small blind) desistiu no Turn
+Lugar 6: Zanas05 (big blind) recebeu (0.17 €)
+
+
+*********** # 22 **************
+Mão #261910959274 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:49:43 UTC [2026/08/29 18:49:43 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: sralcides (3.58 € em fichas)
+Lugar 2: micax82 (0.81 € em fichas)
+Lugar 3: osorio211 (2.01 € em fichas)
+Lugar 4: nevoas81 (3.13 € em fichas)
+Lugar 5: jardel836 (1.98 € em fichas)
+Lugar 6: Zanas05 (0.92 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2c Ks]
+jardel836: iguala 0.02 €
+Zanas05: desiste
+sralcides: sobe 0.04 € para 0.06 €
+micax82: desiste
+osorio211: desiste
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: iguala 0.04 €
+*** FLOP *** [7h 9h 2s]
+jardel836: passa
+sralcides: passa
+*** TURN *** [7h 9h 2s] [Jc]
+jardel836: passa
+sralcides: passa
+*** RIVER *** [7h 9h 2s Jc] [8c]
+jardel836: passa
+sralcides: passa
+*** SHOW DOWN ***
+jardel836: mostra [Qs 5s] (Carta alta Dama)
+sralcides: mostra [As 8h] (par de Oitos)
+sralcides recebeu 0.14 € do pote
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [7h 9h 2s Jc 8c]
+Lugar 1: sralcides mostrou [As 8h] e ganhou (0.14 €) com par de Oitos
+Lugar 2: micax82 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 mostrou [Qs 5s] e perdeu com Carta alta Dama
+Lugar 6: Zanas05 desistiu antes Flop (não apostou)
+
+
+*********** # 23 **************
+Mão #261910958314 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:49:37 UTC [2026/08/29 18:49:37 ET]
+Mesa 'Wallia V' 6-max Lugar #5 é o botão
+Lugar 1: GreatJohnnie (3.27 € em fichas)
+Lugar 2: jardel836 (0.82 € em fichas)
+Lugar 3: juuana25 (0.71 € em fichas)
+Lugar 4: nebcrew (1.48 € em fichas)
+Lugar 5: j.bike.c (1.02 € em fichas)
+Lugar 6: osorio211 (2.15 € em fichas)
+osorio211: é small blind 0.01 €
+GreatJohnnie: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd 5h]
+jardel836: iguala 0.02 €
+juuana25: desiste
+nebcrew: desiste
+j.bike.c: desiste
+osorio211: desiste
+GreatJohnnie: passa
+*** FLOP *** [Qh 5s 2h]
+GreatJohnnie: passa
+jardel836: passa
+*** TURN *** [Qh 5s 2h] [Kh]
+GreatJohnnie: passa
+jardel836: passa
+*** RIVER *** [Qh 5s 2h Kh] [8h]
+GreatJohnnie: passa
+jardel836: passa
+*** SHOW DOWN ***
+GreatJohnnie: mostra [4d Tc] (Carta alta Rei)
+jardel836: mostra [Jc Qc] (par de Damas)
+jardel836 recebeu 0.05 € do pote
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [Qh 5s 2h Kh 8h]
+Lugar 1: GreatJohnnie (big blind) mostrou [4d Tc] e perdeu com Carta alta Rei
+Lugar 2: jardel836 mostrou [Jc Qc] e ganhou (0.05 €) com par de Damas
+Lugar 3: juuana25 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c (Botão) desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 24 **************
+Mão #261910947562 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:48:35 UTC [2026/08/29 18:48:35 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (3.58 € em fichas)
+Lugar 2: micax82 (0.83 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 5: jardel836 (1.94 € em fichas)
+Lugar 6: Zanas05 (0.92 € em fichas)
+micax82: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c 6s]
+jardel836: iguala 0.02 €
+Zanas05: desiste
+sralcides: desiste
+micax82: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Jd Ts 7d]
+micax82: passa
+osorio211: passa
+jardel836: passa
+*** TURN *** [Jd Ts 7d] [Ks]
+micax82: passa
+osorio211: passa
+jardel836: aposta 0.14 €
+micax82: desiste
+osorio211: desiste
+Aposta não-igualada (0.14 €) voltou para jardel836
+jardel836 recebeu 0.06 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [Jd Ts 7d Ks]
+Lugar 1: sralcides (Botão) desistiu antes Flop (não apostou)
+Lugar 2: micax82 (small blind) desistiu no Turn
+Lugar 3: osorio211 (big blind) desistiu no Turn
+Lugar 5: jardel836 recebeu (0.06 €)
+Lugar 6: Zanas05 desistiu antes Flop (não apostou)
+
+
+*********** # 25 **************
+Mão #261910939037 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:47:46 UTC [2026/08/29 18:47:46 ET]
+Mesa 'Wallia V' 6-max Lugar #4 é o botão
+Lugar 1: GreatJohnnie (3.27 € em fichas)
+Lugar 2: jardel836 (0.84 € em fichas)
+Lugar 3: juuana25 (0.71 € em fichas)
+Lugar 4: nebcrew (1.48 € em fichas)
+Lugar 5: j.bike.c (1.04 € em fichas)
+Lugar 6: osorio211 (2.11 € em fichas)
+j.bike.c: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h 2h]
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+juuana25: desiste
+nebcrew gastou o tempo
+nebcrew: desiste
+j.bike.c: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Kd 8h Qh]
+j.bike.c: passa
+osorio211: passa
+jardel836: passa
+*** TURN *** [Kd 8h Qh] [Th]
+j.bike.c: passa
+osorio211: aposta 0.03 €
+jardel836: desiste
+j.bike.c: desiste
+Aposta não-igualada (0.03 €) voltou para osorio211
+osorio211 recebeu 0.06 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [Kd 8h Qh Th]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 desistiu no Turn
+Lugar 3: juuana25 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew (Botão) desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c (small blind) desistiu no Turn
+Lugar 6: osorio211 (big blind) recebeu (0.06 €)
+
+
+*********** # 26 **************
+Mão #261910937850 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:47:39 UTC [2026/08/29 18:47:39 ET]
+Mesa 'Bouzareah III' 6-max Lugar #6 é o botão
+Lugar 1: sralcides (3.59 € em fichas)
+Lugar 2: micax82 (0.80 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: nevoas81 (3.13 € em fichas)
+Lugar 5: jardel836 (1.96 € em fichas)
+Lugar 6: Zanas05 (0.92 € em fichas)
+sralcides: é small blind 0.01 €
+micax82: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 2d]
+osorio211: desiste
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: iguala 0.02 €
+Zanas05: desiste
+sralcides: desiste
+micax82: passa
+*** FLOP *** [4s 3s 9s]
+micax82: passa
+jardel836: passa
+*** TURN *** [4s 3s 9s] [5d]
+micax82: passa
+jardel836: passa
+*** RIVER *** [4s 3s 9s 5d] [Ad]
+micax82: aposta 0.05 €
+jardel836: desiste
+Aposta não-igualada (0.05 €) voltou para micax82
+micax82 recebeu 0.05 € do pote
+micax82: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [4s 3s 9s 5d Ad]
+Lugar 1: sralcides (small blind) desistiu antes Flop
+Lugar 2: micax82 (big blind) recebeu (0.05 €)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 desistiu no River
+Lugar 6: Zanas05 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 27 **************
+Mão #261910926131 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:46:31 UTC [2026/08/29 18:46:31 ET]
+Mesa 'Wallia V' 6-max Lugar #3 é o botão
+Lugar 1: GreatJohnnie (3.27 € em fichas)
+Lugar 2: jardel836 (0.84 € em fichas)
+Lugar 3: juuana25 (0.75 € em fichas)
+Lugar 4: nebcrew (1.54 € em fichas)
+Lugar 5: j.bike.c (0.95 € em fichas)
+Lugar 6: osorio211 (2.11 € em fichas)
+nebcrew: é small blind 0.01 €
+j.bike.c: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 8d]
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: iguala 0.02 €
+nebcrew: iguala 0.01 €
+j.bike.c: passa
+*** FLOP *** [Ad 2c 8c]
+nebcrew: aposta 0.02 €
+j.bike.c: iguala 0.02 €
+juuana25: iguala 0.02 €
+*** TURN *** [Ad 2c 8c] [Kd]
+nebcrew: passa
+j.bike.c: passa
+juuana25: passa
+*** RIVER *** [Ad 2c 8c Kd] [8h]
+nebcrew: aposta 0.02 €
+j.bike.c: sobe 0.08 € para 0.10 €
+juuana25: desiste
+nebcrew: desiste
+Aposta não-igualada (0.08 €) voltou para j.bike.c
+j.bike.c recebeu 0.15 € do pote
+j.bike.c: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [Ad 2c 8c Kd 8h]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 desistiu antes Flop (não apostou)
+Lugar 3: juuana25 (Botão) desistiu no River
+Lugar 4: nebcrew (small blind) desistiu no River
+Lugar 5: j.bike.c (big blind) recebeu (0.15 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 28 **************
+Mão #261910925866 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:46:30 UTC [2026/08/29 18:46:30 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: sralcides (3.61 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: nevoas81 (3.13 € em fichas)
+Lugar 5: jardel836 (1.99 € em fichas)
+Lugar 6: Zanas05 (0.93 € em fichas)
+Zanas05: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 3c]
+osorio211: desiste
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: iguala 0.02 €
+Zanas05: desiste
+sralcides: sobe 0.07 € para 0.09 €
+jardel836: iguala 0.07 €
+*** FLOP *** [Th Jh 9d]
+sralcides: aposta 0.02 €
+jardel836: iguala 0.02 €
+*** TURN *** [Th Jh 9d] [8d]
+sralcides: aposta 0.22 €
+jardel836: iguala 0.22 €
+*** RIVER *** [Th Jh 9d 8d] [5d]
+sralcides: aposta 0.26 €
+jardel836: iguala 0.26 €
+*** SHOW DOWN ***
+sralcides: mostra [Qc Ac] (Straight, Oito a Dama)
+jardel836: mostra [7d Qh] (Straight, Oito a Dama)
+sralcides recebeu 0.57 € do pote
+jardel836 recebeu 0.56 € do pote
+*** SUMÁRIO ***
+Total pote 1.19 € | comissão 0.06 €
+Mesa [Th Jh 9d 8d 5d]
+Lugar 1: sralcides (big blind) mostrou [Qc Ac] e ganhou (0.57 €) com Straight, Oito a Dama
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (Botão) mostrou [7d Qh] e ganhou (0.56 €) com Straight, Oito a Dama
+Lugar 6: Zanas05 (small blind) desistiu antes Flop
+
+
+*********** # 29 **************
+Mão #261910923010 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:46:13 UTC [2026/08/29 18:46:13 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 1: sralcides (3.61 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.13 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+Lugar 6: Zanas05 (0.95 € em fichas)
+jardel836: é small blind 0.01 €
+Zanas05: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c 5s]
+sralcides: desiste
+micax82 junta-se à mesa no lugar #2
+osorio211: sobe 0.04 € para 0.06 €
+nevoas81: desiste
+jardel836: desiste
+Zanas05: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 3: osorio211 recebeu (0.05 €)
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (small blind) desistiu antes Flop
+Lugar 6: Zanas05 (big blind) desistiu antes Flop
+
+
+*********** # 30 **************
+Mão #261910915321 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:45:30 UTC [2026/08/29 18:45:30 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (3.61 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.14 € em fichas)
+Lugar 5: jardel836 (0.41 € em fichas)
+nevoas81: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh Ts]
+sralcides: desiste
+osorio211: sobe 0.04 € para 0.06 €
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: iguala 0.04 €
+*** FLOP *** [3d 5c 7d]
+jardel836: passa
+osorio211: passa
+*** TURN *** [3d 5c 7d] [6d]
+jardel836: aposta 0.35 € e está all-in
+osorio211: desiste
+Aposta não-igualada (0.35 €) voltou para jardel836
+jardel836 recebeu 0.12 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [3d 5c 7d 6d]
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) desistiu no Turn
+Lugar 4: nevoas81 (small blind) desistiu antes Flop
+Lugar 5: jardel836 (big blind) recebeu (0.12 €)
+
+
+*********** # 31 **************
+Mão #261910910761 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:45:04 UTC [2026/08/29 18:45:04 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: sralcides (3.61 € em fichas)
+Lugar 2: xicobluffs (3.52 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.16 € em fichas)
+Lugar 5: jardel836 (0.38 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 5s]
+jardel836: sobe 0.36 € para 0.38 € e está all-in
+sralcides: desiste
+xicobluffs: desiste
+xicobluffs abandona a mesa
+osorio211: desiste
+nevoas81: desiste
+Aposta não-igualada (0.36 €) voltou para jardel836
+jardel836 recebeu 0.05 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 2: xicobluffs (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 recebeu (0.05 €)
+
+
+*********** # 32 **************
+Mão #261910909631 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:44:57 UTC [2026/08/29 18:44:57 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (3.27 € em fichas)
+Lugar 2: jardel836 (0.84 € em fichas)
+Lugar 3: juuana25 (0.83 € em fichas)
+Lugar 4: nebcrew (1.56 € em fichas)
+Lugar 5: j.bike.c (0.86 € em fichas)
+Lugar 6: osorio211 (2.11 € em fichas)
+juuana25: é small blind 0.01 €
+nebcrew: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d 3s]
+j.bike.c: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie gastou o tempo
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: iguala 0.01 €
+nebcrew: passa
+*** FLOP *** [3h 3d 7s]
+juuana25: aposta 0.02 €
+nebcrew: desiste
+j.bike.c: iguala 0.02 €
+*** TURN *** [3h 3d 7s] [5d]
+juuana25: aposta 0.04 €
+j.bike.c: iguala 0.04 €
+*** RIVER *** [3h 3d 7s 5d] [6h]
+juuana25: passa
+j.bike.c: passa
+*** SHOW DOWN ***
+juuana25: mostra [7d 9d] (dois pares, Setes e Três)
+j.bike.c: mostra [Kc Ks] (dois pares, Reis e Três)
+j.bike.c recebeu 0.17 € do pote
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0.01 €
+Mesa [3h 3d 7s 5d 6h]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: juuana25 (small blind) mostrou [7d 9d] e perdeu com dois pares, Setes e Três
+Lugar 4: nebcrew (big blind) desistiu no Flop
+Lugar 5: j.bike.c mostrou [Kc Ks] e ganhou (0.17 €) com dois pares, Reis e Três
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 33 **************
+Mão #261910902414 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:44:16 UTC [2026/08/29 18:44:16 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (3.27 € em fichas)
+Lugar 2: jardel836 (0.85 € em fichas)
+Lugar 3: juuana25 (0.80 € em fichas)
+Lugar 4: nebcrew (1.56 € em fichas)
+Lugar 5: j.bike.c (0.88 € em fichas)
+Lugar 6: osorio211 (2.11 € em fichas)
+jardel836: é small blind 0.01 €
+juuana25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d 6c]
+nebcrew: desiste
+j.bike.c: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: desiste
+juuana25: passa
+*** FLOP *** [9s 6d 9c]
+juuana25: aposta 0.02 €
+j.bike.c: desiste
+Aposta não-igualada (0.02 €) voltou para juuana25
+juuana25 recebeu 0.05 € do pote
+juuana25: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [9s 6d 9c]
+Lugar 1: GreatJohnnie (Botão) desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (small blind) desistiu antes Flop
+Lugar 3: juuana25 (big blind) recebeu (0.05 €)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c desistiu no Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 34 **************
+Mão #261910892147 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:43:17 UTC [2026/08/29 18:43:17 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (3.65 € em fichas)
+Lugar 2: xicobluffs (1.61 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 5: jardel836 (2 € em fichas)
+xicobluffs: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+jardel836: é small & big blinds 0.03 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts Th]
+jardel836: passa
+sralcides: sobe 0.02 € para 0.04 €
+xicobluffs: iguala 0.03 €
+osorio211: sobe 0.16 € para 0.20 €
+jardel836: iguala 0.18 €
+sralcides: desiste
+xicobluffs: iguala 0.16 €
+*** FLOP *** [2s 9h 4d]
+xicobluffs: passa
+tyuert19 abandona a mesa
+osorio211: aposta 0.21 €
+jardel836: iguala 0.21 €
+xicobluffs: iguala 0.21 €
+*** TURN *** [2s 9h 4d] [Qc]
+xicobluffs: passa
+osorio211: passa
+jardel836: passa
+*** RIVER *** [2s 9h 4d Qc] [Ah]
+xicobluffs: aposta 0.02 €
+Zanas05 junta-se à mesa no lugar #6
+osorio211: iguala 0.02 €
+jardel836: sobe 1.56 € para 1.58 € e está all-in
+xicobluffs: iguala 1.18 € e está all-in
+osorio211: desiste
+Aposta não-igualada (0.38 €) voltou para jardel836
+*** SHOW DOWN ***
+jardel836: mostra [2c Ac] (dois pares, Ases e Dois)
+xicobluffs: mostra [9s As] (dois pares, Ases e Noves)
+xicobluffs recebeu 3.52 € do pote
+*** SUMÁRIO ***
+Total pote 3.70 € | comissão 0.18 €
+Mesa [2s 9h 4d Qc Ah]
+Lugar 1: sralcides (Botão) desistiu antes Flop
+Lugar 2: xicobluffs (small blind) mostrou [9s As] e ganhou (3.52 €) com dois pares, Ases e Noves
+Lugar 3: osorio211 (big blind) desistiu no River
+Lugar 5: jardel836 mostrou [2c Ac] e perdeu com dois pares, Ases e Dois
+
+
+*********** # 35 **************
+Mão #261910889076 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:43:00 UTC [2026/08/29 18:43:00 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (3.28 € em fichas)
+Lugar 2: jardel836 (0.93 € em fichas)
+Lugar 4: nebcrew (1.56 € em fichas)
+Lugar 5: j.bike.c (0.91 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+j.bike.c: é small & big blinds 0.03 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c 8c]
+nebcrew: desiste
+j.bike.c: passa
+osorio211: sobe 0.06 € para 0.08 €
+GreatJohnnie: desiste
+jardel836: iguala 0.06 €
+j.bike.c: desiste
+*** FLOP *** [7h 2h Ad]
+jardel836: passa
+juuana25 junta-se à mesa no lugar #3
+osorio211: aposta 0.06 €
+jardel836: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.19 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [7h 2h Ad]
+Lugar 1: GreatJohnnie (small blind) desistiu antes Flop
+Lugar 2: jardel836 (big blind) desistiu no Flop
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) recebeu (0.19 €)
+
+
+*********** # 36 **************
+Mão #261910887397 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:42:50 UTC [2026/08/29 18:42:50 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 1: sralcides (3.66 € em fichas)
+Lugar 2: xicobluffs (1.60 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.16 € em fichas)
+jardel836 poderá jogar depois do botão
+sralcides: é small blind 0.01 €
+xicobluffs: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h 9s]
+osorio211: desiste
+nevoas81 gastou o tempo
+nevoas81: desiste
+sralcides: desiste
+Aposta não-igualada (0.01 €) voltou para xicobluffs
+xicobluffs recebeu 0.02 € do pote
+xicobluffs: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: sralcides (small blind) desistiu antes Flop
+Lugar 2: xicobluffs (big blind) recebeu (0.02 €)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 37 **************
+Mão #261910882690 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:42:23 UTC [2026/08/29 18:42:23 ET]
+Mesa 'Wallia V' 6-max Lugar #4 é o botão
+Lugar 1: GreatJohnnie (3.30 € em fichas)
+Lugar 2: jardel836 (1.05 € em fichas)
+Lugar 4: nebcrew (1.30 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+j.bike.c poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+GreatJohnnie: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd 9c]
+jardel836: iguala 0.02 €
+nebcrew: iguala 0.02 €
+osorio211: sobe 0.10 € para 0.12 €
+GreatJohnnie: desiste
+jardel836: iguala 0.10 €
+nebcrew: sobe 1.18 € para 1.30 € e está all-in
+osorio211: desiste
+jardel836: desiste
+Aposta não-igualada (1.18 €) voltou para nebcrew
+nebcrew recebeu 0.38 € do pote
+nebcrew: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.38 € | comissão 0 €
+Lugar 1: GreatJohnnie (big blind) desistiu antes Flop
+Lugar 2: jardel836 desistiu antes Flop
+Lugar 4: nebcrew (Botão) recebeu (0.38 €)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 38 **************
+Mão #261910876181 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:41:45 UTC [2026/08/29 18:41:45 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (3.68 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.14 € em fichas)
+nevoas81: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h 4c]
+osorio211: desiste
+nevoas81: iguala 0.01 €
+sralcides: passa
+*** FLOP *** [Th Js 6c]
+nevoas81: passa
+sralcides: passa
+*** TURN *** [Th Js 6c] [3d]
+nevoas81: passa
+sralcides: passa
+*** RIVER *** [Th Js 6c 3d] [3c]
+nevoas81: passa
+sralcides: passa
+*** SHOW DOWN ***
+nevoas81: mostra [Ah 3s] (trio, Três)
+sralcides: esconde a mão
+nevoas81 recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Th Js 6c 3d 3c]
+Lugar 1: sralcides (big blind) escondeu as cartas [2s Kh]
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (small blind) mostrou [Ah 3s] e ganhou (0.04 €) com trio, Três
+
+
+*********** # 39 **************
+Mão #261910869021 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:41:05 UTC [2026/08/29 18:41:05 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (3.30 € em fichas)
+Lugar 2: jardel836 (1.15 € em fichas)
+Lugar 4: nebcrew (1.19 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+nebcrew: é small blind 0.01 €
+vitomitas junta-se à mesa no lugar #3
+j.bike.c gastou o tempo
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 5s]
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+j.bike.c está sem ligação
+vitomitas abandona a mesa
+nebcrew: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [8d 9s 6h]
+nebcrew: aposta 0.02 €
+osorio211: desiste
+jardel836: iguala 0.02 €
+*** TURN *** [8d 9s 6h] [3d]
+nebcrew: aposta 0.02 €
+jardel836: iguala 0.02 €
+*** RIVER *** [8d 9s 6h 3d] [8c]
+nebcrew: aposta 0.04 €
+jardel836: iguala 0.04 €
+*** SHOW DOWN ***
+nebcrew: mostra [7d 8s] (trio, Oitos)
+jardel836: esconde a mão
+nebcrew recebeu 0.21 € do pote
+*** SUMÁRIO ***
+Total pote 0.22 € | comissão 0.01 €
+Mesa [8d 9s 6h 3d 8c]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (Botão) escondeu as cartas [6s 7s]
+Lugar 4: nebcrew (small blind) mostrou [7d 8s] e ganhou (0.21 €) com trio, Oitos
+Lugar 6: osorio211 (big blind) desistiu no Flop
+
+
+*********** # 40 **************
+Mão #261910868094 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:41:00 UTC [2026/08/29 18:41:00 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (2.12 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (3.22 € em fichas)
+Lugar 5: jardel836 (1.64 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 8c]
+jardel836: iguala 0.02 €
+sralcides: sobe 0.06 € para 0.08 €
+osorio211: desiste
+nevoas81: iguala 0.06 €
+jardel836: sobe 1.56 € para 1.64 € e está all-in
+sralcides: sobe 0.48 € para 2.12 € e está all-in
+xicobluffs junta-se à mesa no lugar #2
+nevoas81: desiste
+Aposta não-igualada (0.48 €) voltou para sralcides
+*** FLOP *** [Kh Td Jh]
+*** TURN *** [Kh Td Jh] [Qc]
+*** RIVER *** [Kh Td Jh Qc] [6c]
+*** SHOW DOWN ***
+jardel836: mostra [Kd Ks] (trio, Reis)
+sralcides: mostra [Ad Qh] (Straight, Dez a Ás)
+sralcides recebeu 3.20 € do pote
+*** SUMÁRIO ***
+Total pote 3.37 € | comissão 0.17 €
+Mesa [Kh Td Jh Qc 6c]
+Lugar 1: sralcides (Botão) mostrou [Ad Qh] e ganhou (3.20 €) com Straight, Dez a Ás
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: jardel836 mostrou [Kd Ks] e perdeu com trio, Reis
+
+
+*********** # 41 **************
+Mão #261910856229 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:39:52 UTC [2026/08/29 18:39:52 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: sralcides (2.13 € em fichas)
+Lugar 3: osorio211 (2.24 € em fichas)
+Lugar 4: nevoas81 (2.79 € em fichas)
+Lugar 5: jardel836 (1.66 € em fichas)
+sralcides: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc Tc]
+nevoas81: iguala 0.02 €
+jardel836: iguala 0.02 €
+zaroffe abandona a mesa
+sralcides: desiste
+osorio211: sobe 0.10 € para 0.12 €
+nevoas81: iguala 0.10 €
+jardel836: desiste
+*** FLOP *** [6d Th 6h]
+osorio211: aposta 0.13 €
+nevoas81: iguala 0.13 €
+*** TURN *** [6d Th 6h] [Qh]
+osorio211: aposta 0.20 €
+nevoas81: sobe 0.90 € para 1.10 €
+osorio211: desiste
+Aposta não-igualada (0.90 €) voltou para nevoas81
+nevoas81 recebeu 0.88 € do pote
+nevoas81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.93 € | comissão 0.05 €
+Mesa [6d Th 6h Qh]
+Lugar 1: sralcides (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) desistiu no Turn
+Lugar 4: nevoas81 recebeu (0.88 €)
+Lugar 5: jardel836 (Botão) desistiu antes Flop
+
+
+*********** # 42 **************
+Mão #261910854894 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:39:44 UTC [2026/08/29 18:39:44 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (3.18 € em fichas)
+Lugar 2: jardel836 (1.26 € em fichas)
+Lugar 4: nebcrew (1.21 € em fichas)
+Lugar 5: j.bike.c (0.91 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+jardel836: é small blind 0.01 €
+nebcrew: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2c 3d]
+j.bike.c: desiste
+osorio211: desiste
+GreatJohnnie: sobe 0.03 € para 0.05 €
+jardel836: iguala 0.04 €
+nebcrew: desiste
+*** FLOP *** [Ks 9c Td]
+jardel836: passa
+GreatJohnnie: aposta 0.06 €
+jardel836: iguala 0.06 €
+*** TURN *** [Ks 9c Td] [Qc]
+jardel836: passa
+GreatJohnnie: aposta 0.10 €
+jardel836: desiste
+Aposta não-igualada (0.10 €) voltou para GreatJohnnie
+GreatJohnnie recebeu 0.23 € do pote
+GreatJohnnie: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [Ks 9c Td Qc]
+Lugar 1: GreatJohnnie (Botão) recebeu (0.23 €)
+Lugar 2: jardel836 (small blind) desistiu no Turn
+Lugar 4: nebcrew (big blind) desistiu antes Flop
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 43 **************
+Mão #261910850406 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:39:19 UTC [2026/08/29 18:39:19 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 1: sralcides (2.15 € em fichas)
+Lugar 2: zaroffe (0.23 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.79 € em fichas)
+Lugar 5: jardel836 (1.67 € em fichas)
+jardel836: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c 7d]
+zaroffe: sobe 0.21 € para 0.23 € e está all-in
+osorio211: iguala 0.23 €
+nevoas81: desiste
+jardel836: desiste
+sralcides: desiste
+*** FLOP *** [7s 3c Ah]
+*** TURN *** [7s 3c Ah] [Qs]
+*** RIVER *** [7s 3c Ah Qs] [8s]
+*** SHOW DOWN ***
+zaroffe: mostra [Th Td] (par de Dez)
+osorio211: mostra [7c 7d] (trio, Setes)
+osorio211 recebeu 0.47 € do pote
+*** SUMÁRIO ***
+Total pote 0.49 € | comissão 0.02 €
+Mesa [7s 3c Ah Qs 8s]
+Lugar 1: sralcides (big blind) desistiu antes Flop
+Lugar 2: zaroffe mostrou [Th Td] e perdeu com par de Dez
+Lugar 3: osorio211 mostrou [7c 7d] e ganhou (0.47 €) com trio, Setes
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (small blind) desistiu antes Flop
+
+
+*********** # 44 **************
+Mão #261910846796 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:38:58 UTC [2026/08/29 18:38:58 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (3.08 € em fichas)
+Lugar 2: jardel836 (1.37 € em fichas)
+Lugar 3: P0kersincer0 (2.14 € em fichas)
+Lugar 4: nebcrew (1.21 € em fichas)
+Lugar 5: j.bike.c (0.91 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d 9s]
+P0kersincer0: desiste
+nebcrew: desiste
+j.bike.c: desiste
+osorio211: desiste
+GreatJohnnie: iguala 0.01 €
+P0kersincer0 abandona a mesa
+jardel836: passa
+*** FLOP *** [2c 4d 8h]
+GreatJohnnie: passa
+jardel836: passa
+*** TURN *** [2c 4d 8h] [Tc]
+GreatJohnnie: aposta 0.02 €
+jardel836: iguala 0.02 €
+*** RIVER *** [2c 4d 8h Tc] [Qs]
+GreatJohnnie: aposta 0.07 €
+jardel836: iguala 0.07 €
+*** SHOW DOWN ***
+GreatJohnnie: mostra [Th 4h] (dois pares, Dez e Quatros)
+jardel836: esconde a mão
+GreatJohnnie recebeu 0.21 € do pote
+*** SUMÁRIO ***
+Total pote 0.22 € | comissão 0.01 €
+Mesa [2c 4d 8h Tc Qs]
+Lugar 1: GreatJohnnie (small blind) mostrou [Th 4h] e ganhou (0.21 €) com dois pares, Dez e Quatros
+Lugar 2: jardel836 (big blind) escondeu as cartas [Jh Qd]
+Lugar 3: P0kersincer0 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: j.bike.c desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 45 **************
+Mão #261910837355 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:38:05 UTC [2026/08/29 18:38:05 ET]
+Mesa 'Wallia V' 6-max Lugar #5 é o botão
+Lugar 1: GreatJohnnie (3.10 € em fichas)
+Lugar 2: jardel836 (1.37 € em fichas)
+Lugar 3: P0kersincer0 (2.16 € em fichas)
+Lugar 4: nebcrew (1.31 € em fichas)
+Lugar 5: j.bike.c (0.77 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+GreatJohnnie: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 4h]
+jardel836: desiste
+P0kersincer0: iguala 0.02 €
+nebcrew: sobe 0.08 € para 0.10 €
+j.bike.c: iguala 0.10 €
+osorio211: desiste
+GreatJohnnie: desiste
+P0kersincer0: desiste
+*** FLOP *** [Th As Ks]
+nebcrew: passa
+j.bike.c: aposta 0.12 €
+nebcrew: desiste
+Aposta não-igualada (0.12 €) voltou para j.bike.c
+j.bike.c recebeu 0.24 € do pote
+j.bike.c: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.25 € | comissão 0.01 €
+Mesa [Th As Ks]
+Lugar 1: GreatJohnnie (big blind) desistiu antes Flop
+Lugar 2: jardel836 desistiu antes Flop (não apostou)
+Lugar 3: P0kersincer0 desistiu antes Flop
+Lugar 4: nebcrew desistiu no Flop
+Lugar 5: j.bike.c (Botão) recebeu (0.24 €)
+Lugar 6: osorio211 (small blind) desistiu antes Flop
+
+
+*********** # 46 **************
+Mão #261910835357 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:37:54 UTC [2026/08/29 18:37:54 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (2.04 € em fichas)
+Lugar 2: zaroffe (0.23 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.83 € em fichas)
+Lugar 5: jardel836 (1.71 € em fichas)
+nevoas81: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d 4d]
+sralcides: sobe 0.02 € para 0.04 €
+zaroffe: desiste
+osorio211: iguala 0.04 €
+nevoas81: iguala 0.03 €
+jardel836: iguala 0.02 €
+*** FLOP *** [5s 8c Ah]
+nevoas81: passa
+jardel836: passa
+sralcides: passa
+osorio211: passa
+*** TURN *** [5s 8c Ah] [Kh]
+nevoas81: passa
+jardel836: passa
+sralcides: passa
+osorio211: passa
+*** RIVER *** [5s 8c Ah Kh] [Qc]
+nevoas81: passa
+jardel836: passa
+sralcides: passa
+osorio211: passa
+*** SHOW DOWN ***
+nevoas81: mostra [Kc 7d] (par de Reis)
+jardel836: esconde a mão
+sralcides: mostra [Qs Kd] (dois pares, Reis e Damas)
+osorio211: esconde a mão
+sralcides recebeu 0.15 € do pote
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [5s 8c Ah Kh Qc]
+Lugar 1: sralcides mostrou [Qs Kd] e ganhou (0.15 €) com dois pares, Reis e Damas
+Lugar 2: zaroffe desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (Botão) escondeu as cartas [5d 4d]
+Lugar 4: nevoas81 (small blind) mostrou [Kc 7d] e perdeu com par de Reis
+Lugar 5: jardel836 (big blind) escondeu as cartas [6h 3c]
+
+
+*********** # 47 **************
+Mão #261910825184 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:36:56 UTC [2026/08/29 18:36:56 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: sralcides (2.16 € em fichas)
+Lugar 2: zaroffe (0.23 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.71 € em fichas)
+Lugar 5: jardel836 (1.71 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 4s]
+jardel836: desiste
+sralcides: sobe 0.04 € para 0.06 €
+zaroffe: desiste
+osorio211: desiste
+nevoas81: iguala 0.04 €
+*** FLOP *** [Jc Ah 4c]
+nevoas81: passa
+sralcides: aposta 0.06 €
+nevoas81: iguala 0.06 €
+*** TURN *** [Jc Ah 4c] [5d]
+nevoas81: passa
+sralcides: passa
+*** RIVER *** [Jc Ah 4c 5d] [9s]
+nevoas81: aposta 0.12 €
+sralcides: desiste
+Aposta não-igualada (0.12 €) voltou para nevoas81
+nevoas81 recebeu 0.24 € do pote
+nevoas81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.25 € | comissão 0.01 €
+Mesa [Jc Ah 4c 5d 9s]
+Lugar 1: sralcides desistiu no River
+Lugar 2: zaroffe (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) recebeu (0.24 €)
+Lugar 5: jardel836 desistiu antes Flop (não apostou)
+
+
+*********** # 48 **************
+Mão #261910817239 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:36:11 UTC [2026/08/29 18:36:11 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (2.16 € em fichas)
+Lugar 2: zaroffe (0.25 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.71 € em fichas)
+Lugar 5: jardel836 (1.57 € em fichas)
+zaroffe: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c Qh]
+nevoas81: desiste
+jardel836: iguala 0.02 €
+sralcides: desiste
+zaroffe: iguala 0.01 €
+osorio211: sobe 0.10 € para 0.12 €
+jardel836: sobe 0.64 € para 0.76 €
+zaroffe: desiste
+osorio211: desiste
+Aposta não-igualada (0.64 €) voltou para jardel836
+jardel836 recebeu 0.26 € do pote
+jardel836: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0 €
+Lugar 1: sralcides (Botão) desistiu antes Flop (não apostou)
+Lugar 2: zaroffe (small blind) desistiu antes Flop
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 recebeu (0.26 €)
+
+
+*********** # 49 **************
+Mão #261910816812 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:36:08 UTC [2026/08/29 18:36:08 ET]
+Mesa 'Wallia V' 6-max Lugar #4 é o botão
+Lugar 1: GreatJohnnie (3.10 € em fichas)
+Lugar 2: jardel836 (1.49 € em fichas)
+Lugar 3: P0kersincer0 (1.91 € em fichas)
+Lugar 4: nebcrew (1.43 € em fichas)
+Lugar 5: j.bike.c (0.78 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+j.bike.c: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts 5d]
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+P0kersincer0: iguala 0.02 €
+nebcrew: iguala 0.02 €
+j.bike.c: desiste
+osorio211: passa
+*** FLOP *** [3h 9d 7c]
+osorio211: passa
+jardel836: passa
+P0kersincer0: passa
+nebcrew: aposta 0.04 €
+osorio211: desiste
+jardel836: iguala 0.04 €
+P0kersincer0: iguala 0.04 €
+*** TURN *** [3h 9d 7c] [Tc]
+jardel836: passa
+P0kersincer0: passa
+nebcrew: aposta 0.06 €
+jardel836: iguala 0.06 €
+P0kersincer0: iguala 0.06 €
+*** RIVER *** [3h 9d 7c Tc] [3s]
+jardel836: passa
+P0kersincer0: passa
+nebcrew: passa
+*** SHOW DOWN ***
+jardel836: mostra [Ad 8d] (par de Três)
+P0kersincer0: mostra [8h 7s] (dois pares, Setes e Três)
+nebcrew: esconde a mão
+P0kersincer0 recebeu 0.37 € do pote
+*** SUMÁRIO ***
+Total pote 0.39 € | comissão 0.02 €
+Mesa [3h 9d 7c Tc 3s]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 mostrou [Ad 8d] e perdeu com par de Três
+Lugar 3: P0kersincer0 mostrou [8h 7s] e ganhou (0.37 €) com dois pares, Setes e Três
+Lugar 4: nebcrew (Botão) escondeu as cartas [Qd Js]
+Lugar 5: j.bike.c (small blind) desistiu antes Flop
+Lugar 6: osorio211 (big blind) desistiu no Flop
+
+
+*********** # 50 **************
+Mão #261910811551 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:35:38 UTC [2026/08/29 18:35:38 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: sralcides (2.17 € em fichas)
+Lugar 2: zaroffe (0.24 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.71 € em fichas)
+Lugar 5: jardel836 (1.57 € em fichas)
+sralcides: é small blind 0.01 €
+zaroffe: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Jh]
+osorio211: desiste
+nevoas81 gastou o tempo
+nevoas81: desiste
+jardel836: desiste
+sralcides: desiste
+Aposta não-igualada (0.01 €) voltou para zaroffe
+zaroffe recebeu 0.02 € do pote
+zaroffe: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: sralcides (small blind) desistiu antes Flop
+Lugar 2: zaroffe (big blind) recebeu (0.02 €)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 51 **************
+Mão #261910808770 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:35:22 UTC [2026/08/29 18:35:22 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 1: sralcides (2.16 € em fichas)
+Lugar 2: zaroffe (0.24 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.71 € em fichas)
+Lugar 5: jardel836 (1.58 € em fichas)
+jardel836: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8s 6c]
+zaroffe: desiste
+osorio211: desiste
+nevoas81: desiste
+jardel836: desiste
+Aposta não-igualada (0.01 €) voltou para sralcides
+sralcides recebeu 0.02 € do pote
+sralcides: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: sralcides (big blind) recebeu (0.02 €)
+Lugar 2: zaroffe desistiu antes Flop (não apostou)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: jardel836 (small blind) desistiu antes Flop
+
+
+*********** # 52 **************
+Mão #261910798116 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:34:22 UTC [2026/08/29 18:34:22 ET]
+Mesa 'Wallia V' 6-max Lugar #3 é o botão
+Lugar 1: GreatJohnnie (3.10 € em fichas)
+Lugar 2: jardel836 (1.53 € em fichas)
+Lugar 3: P0kersincer0 (1.95 € em fichas)
+Lugar 4: nebcrew (1.34 € em fichas)
+Lugar 5: j.bike.c (0.80 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+nebcrew: é small blind 0.01 €
+j.bike.c: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac Ts]
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+P0kersincer0: iguala 0.02 €
+nebcrew: iguala 0.01 €
+j.bike.c: passa
+*** FLOP *** [5s 7h Jc]
+nebcrew gastou o tempo
+nebcrew: passa
+j.bike.c: passa
+jardel836: passa
+P0kersincer0: passa
+*** TURN *** [5s 7h Jc] [4d]
+nebcrew: passa
+j.bike.c: passa
+jardel836: passa
+P0kersincer0: passa
+*** RIVER *** [5s 7h Jc 4d] [2c]
+nebcrew: aposta 0.02 €
+j.bike.c: desiste
+jardel836: iguala 0.02 €
+P0kersincer0: iguala 0.02 €
+*** SHOW DOWN ***
+nebcrew: mostra [7d Ah] (par de Setes)
+jardel836: esconde a mão
+P0kersincer0: esconde a mão
+nebcrew recebeu 0.13 € do pote
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [5s 7h Jc 4d 2c]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 escondeu as cartas [6c 6h]
+Lugar 3: P0kersincer0 (Botão) escondeu as cartas [As 5h]
+Lugar 4: nebcrew (small blind) mostrou [7d Ah] e ganhou (0.13 €) com par de Setes
+Lugar 5: j.bike.c (big blind) desistiu no River
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 53 **************
+Mão #261910794604 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:34:02 UTC [2026/08/29 18:34:02 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 1: sralcides (2.16 € em fichas)
+Lugar 2: zaroffe (0.32 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.54 € em fichas)
+Lugar 5: jardel836 (1.60 € em fichas)
+nevoas81: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 9d]
+sralcides: desiste
+zaroffe: iguala 0.02 €
+osorio211: sobe 0.06 € para 0.08 €
+tyuert19 está sem ligação
+nevoas81: iguala 0.07 €
+jardel836: desiste
+zaroffe: iguala 0.06 €
+*** FLOP *** [Ah 4c 7s]
+nevoas81: passa
+zaroffe: passa
+osorio211: passa
+*** TURN *** [Ah 4c 7s] [7d]
+nevoas81: passa
+zaroffe: passa
+osorio211: passa
+*** RIVER *** [Ah 4c 7s 7d] [3c]
+nevoas81: passa
+zaroffe: passa
+osorio211: passa
+*** SHOW DOWN ***
+nevoas81: mostra [8c 8d] (dois pares, Oitos e Setes)
+zaroffe: esconde a mão
+osorio211: esconde a mão
+nevoas81 recebeu 0.25 € do pote
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0.01 €
+Mesa [Ah 4c 7s 7d 3c]
+Lugar 1: sralcides desistiu antes Flop (não apostou)
+Lugar 2: zaroffe escondeu as cartas [Qc Td]
+Lugar 3: osorio211 (Botão) escondeu as cartas [Kh 9d]
+Lugar 4: nevoas81 (small blind) mostrou [8c 8d] e ganhou (0.25 €) com dois pares, Oitos e Setes
+Lugar 5: jardel836 (big blind) desistiu antes Flop
+
+
+*********** # 54 **************
+Mão #261910790317 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:33:38 UTC [2026/08/29 18:33:38 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (2.86 € em fichas)
+Lugar 2: jardel836 (1.76 € em fichas)
+Lugar 3: P0kersincer0 (1.96 € em fichas)
+Lugar 4: nebcrew (1.36 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+P0kersincer0: é small blind 0.01 €
+nebcrew: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd 3s]
+osorio211: desiste
+GreatJohnnie: sobe 0.03 € para 0.05 €
+j.bike.c junta-se à mesa no lugar #5
+jardel836: iguala 0.05 €
+P0kersincer0: desiste
+nebcrew: desiste
+*** FLOP *** [8c 9s 2h]
+GreatJohnnie: passa
+jardel836: passa
+*** TURN *** [8c 9s 2h] [Qh]
+GreatJohnnie: passa
+jardel836: passa
+*** RIVER *** [8c 9s 2h Qh] [Th]
+GreatJohnnie: aposta 0.18 €
+jardel836: iguala 0.18 €
+*** SHOW DOWN ***
+GreatJohnnie: mostra [8h Jh] (Cor, Dama carta mais alta)
+jardel836: esconde a mão
+GreatJohnnie recebeu 0.47 € do pote
+*** SUMÁRIO ***
+Total pote 0.49 € | comissão 0.02 €
+Mesa [8c 9s 2h Qh Th]
+Lugar 1: GreatJohnnie mostrou [8h Jh] e ganhou (0.47 €) com Cor, Dama carta mais alta
+Lugar 2: jardel836 (Botão) escondeu as cartas [Qs Ks]
+Lugar 3: P0kersincer0 (small blind) desistiu antes Flop
+Lugar 4: nebcrew (big blind) desistiu antes Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 55 **************
+Mão #261910787905 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:33:24 UTC [2026/08/29 18:33:24 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: sralcides (1.19 € em fichas)
+Lugar 2: zaroffe (0.32 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.56 € em fichas)
+Lugar 6: tyuert19 (1.05 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah 5c]
+tyuert19: sobe 0.10 € para 0.12 €
+sralcides: sobe 0.27 € para 0.39 €
+zaroffe: desiste
+osorio211: desiste
+nevoas81: desiste
+tyuert19: sobe 0.66 € para 1.05 € e está all-in
+sralcides: iguala 0.66 €
+*** FLOP *** [7h 3d 2c]
+*** TURN *** [7h 3d 2c] [Qs]
+*** RIVER *** [7h 3d 2c Qs] [9h]
+*** SHOW DOWN ***
+tyuert19: mostra [Jd Ad] (Carta alta Ás)
+sralcides: mostra [Ks As] (Carta alta Ás - Rei kicker)
+sralcides recebeu 2.02 € do pote
+*** SUMÁRIO ***
+Total pote 2.13 € | comissão 0.11 €
+Mesa [7h 3d 2c Qs 9h]
+Lugar 1: sralcides mostrou [Ks As] e ganhou (2.02 €) com Carta alta Ás
+Lugar 2: zaroffe (Botão) desistiu antes Flop (não apostou)
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 6: tyuert19 mostrou [Jd Ad] e perdeu com Carta alta Ás
+
+
+*********** # 56 **************
+Mão #261910781422 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:32:49 UTC [2026/08/29 18:32:49 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (2.68 € em fichas)
+Lugar 2: jardel836 (1.77 € em fichas)
+Lugar 3: P0kersincer0 (1.98 € em fichas)
+Lugar 4: nebcrew (1.36 € em fichas)
+Lugar 6: osorio211 (2.06 € em fichas)
+jardel836: é small blind 0.01 €
+P0kersincer0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h 8c]
+nebcrew: desiste
+osorio211: sobe 0.04 € para 0.06 €
+GreatJohnnie: sobe 0.11 € para 0.17 €
+jardel836: desiste
+P0kersincer0: desiste
+osorio211: iguala 0.11 €
+*** FLOP *** [Ac Ks Tc]
+osorio211: passa
+GreatJohnnie: aposta 0.19 €
+osorio211: desiste
+Aposta não-igualada (0.19 €) voltou para GreatJohnnie
+GreatJohnnie recebeu 0.35 € do pote
+GreatJohnnie: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [Ac Ks Tc]
+Lugar 1: GreatJohnnie (Botão) recebeu (0.35 €)
+Lugar 2: jardel836 (small blind) desistiu antes Flop
+Lugar 3: P0kersincer0 (big blind) desistiu antes Flop
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 6: osorio211 desistiu no Flop
+
+
+*********** # 57 **************
+Mão #261910778504 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:32:33 UTC [2026/08/29 18:32:33 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: sralcides (1.19 € em fichas)
+Lugar 2: zaroffe (0.16 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.56 € em fichas)
+Lugar 6: tyuert19 (1.21 € em fichas)
+zaroffe: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc 8d]
+nevoas81: desiste
+tyuert19: sobe 0.06 € para 0.08 €
+sralcides: desiste
+zaroffe: sobe 0.08 € para 0.16 € e está all-in
+osorio211: desiste
+tyuert19: iguala 0.08 €
+*** FLOP *** [8h 3h 6s]
+*** TURN *** [8h 3h 6s] [3d]
+*** RIVER *** [8h 3h 6s 3d] [Ah]
+*** SHOW DOWN ***
+zaroffe: mostra [Ks 3s] (trio, Três)
+tyuert19: mostra [Kc Js] (par de Três)
+zaroffe recebeu 0.32 € do pote
+*** SUMÁRIO ***
+Total pote 0.34 € | comissão 0.02 €
+Mesa [8h 3h 6s 3d Ah]
+Lugar 1: sralcides (Botão) desistiu antes Flop (não apostou)
+Lugar 2: zaroffe (small blind) mostrou [Ks 3s] e ganhou (0.32 €) com trio, Três
+Lugar 3: osorio211 (big blind) desistiu antes Flop
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 6: tyuert19 mostrou [Kc Js] e perdeu com par de Três
+
+
+*********** # 58 **************
+Mão #261910775962 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:32:18 UTC [2026/08/29 18:32:18 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (2.69 € em fichas)
+Lugar 2: jardel836 (1.83 € em fichas)
+Lugar 3: P0kersincer0 (1.98 € em fichas)
+Lugar 4: nebcrew (1.36 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd Jh]
+P0kersincer0: desiste
+nebcrew: desiste
+osorio211: sobe 0.04 € para 0.06 €
+GreatJohnnie: desiste
+jardel836: iguala 0.04 €
+*** FLOP *** [3c Ac Qc]
+jardel836: passa
+osorio211: aposta 0.04 €
+jardel836: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.12 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [3c Ac Qc]
+Lugar 1: GreatJohnnie (small blind) desistiu antes Flop
+Lugar 2: jardel836 (big blind) desistiu no Flop
+Lugar 3: P0kersincer0 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 6: osorio211 (Botão) recebeu (0.12 €)
+
+
+*********** # 59 **************
+Mão #261910768651 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:31:38 UTC [2026/08/29 18:31:38 ET]
+Mesa 'Bouzareah III' 6-max Lugar #6 é o botão
+Lugar 1: sralcides (1.30 € em fichas)
+Lugar 2: zaroffe (0.11 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.56 € em fichas)
+Lugar 5: juuana25 (0.90 € em fichas)
+Lugar 6: tyuert19 (1.17 € em fichas)
+sralcides: é small blind 0.01 €
+zaroffe: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd 2h]
+osorio211: desiste
+nevoas81: desiste
+juuana25: desiste
+tyuert19: iguala 0.02 €
+sralcides: iguala 0.01 €
+zaroffe: sobe 0.09 € para 0.11 € e está all-in
+tyuert19: iguala 0.09 €
+sralcides: iguala 0.09 €
+*** FLOP *** [As Ah Qh]
+sralcides: passa
+juuana25 abandona a mesa
+tyuert19: aposta 1.06 € e está all-in
+sralcides: desiste
+Aposta não-igualada (1.06 €) voltou para tyuert19
+*** TURN *** [As Ah Qh] [Js]
+*** RIVER *** [As Ah Qh Js] [7c]
+*** SHOW DOWN ***
+zaroffe: mostra [Qs 9h] (dois pares, Ases e Damas)
+tyuert19: mostra [Qc 7s] (dois pares, Ases e Damas)
+zaroffe recebeu 0.16 € do pote
+tyuert19 recebeu 0.15 € do pote
+jardel836 junta-se à mesa no lugar #5
+*** SUMÁRIO ***
+Total pote 0.33 € | comissão 0.02 €
+Mesa [As Ah Qh Js 7c]
+Lugar 1: sralcides (small blind) desistiu no Flop
+Lugar 2: zaroffe (big blind) mostrou [Qs 9h] e ganhou (0.16 €) com dois pares, Ases e Damas
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+Lugar 5: juuana25 desistiu antes Flop (não apostou)
+Lugar 6: tyuert19 (Botão) mostrou [Qc 7s] e ganhou (0.15 €) com dois pares, Ases e Damas
+
+
+*********** # 60 **************
+Mão #261910767311 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:31:31 UTC [2026/08/29 18:31:31 ET]
+Mesa 'Wallia V' 6-max Lugar #4 é o botão
+Lugar 1: GreatJohnnie (2.46 € em fichas)
+Lugar 2: jardel836 (2 € em fichas)
+Lugar 3: P0kersincer0 (1.98 € em fichas)
+Lugar 4: nebcrew (1.36 € em fichas)
+Lugar 5: gunariki (3.62 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+gunariki: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s Qh]
+GreatJohnnie: sobe 0.04 € para 0.06 €
+jardel836: iguala 0.06 €
+P0kersincer0: desiste
+nebcrew: desiste
+gunariki: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [Kc 2s 8s]
+gunariki: passa
+GreatJohnnie: aposta 0.11 €
+jardel836: iguala 0.11 €
+gunariki: desiste
+*** TURN *** [Kc 2s 8s] [Ah]
+gunariki abandona a mesa
+GreatJohnnie: passa
+jardel836: passa
+*** RIVER *** [Kc 2s 8s Ah] [9h]
+GreatJohnnie: passa
+jardel836: passa
+*** SHOW DOWN ***
+GreatJohnnie: mostra [Kh Jc] (par de Reis)
+jardel836: esconde a mão
+GreatJohnnie recebeu 0.40 € do pote
+*** SUMÁRIO ***
+Total pote 0.42 € | comissão 0.02 €
+Mesa [Kc 2s 8s Ah 9h]
+Lugar 1: GreatJohnnie mostrou [Kh Jc] e ganhou (0.40 €) com par de Reis
+Lugar 2: jardel836 escondeu as cartas [Jh Jd]
+Lugar 3: P0kersincer0 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew (Botão) desistiu antes Flop (não apostou)
+Lugar 5: gunariki (small blind) desistiu no Flop
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 61 **************
+Mão #261910756632 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:30:32 UTC [2026/08/29 18:30:32 ET]
+Mesa 'Wallia V' 6-max Lugar #3 é o botão
+Lugar 1: GreatJohnnie (2.46 € em fichas)
+Lugar 3: P0kersincer0 (2.18 € em fichas)
+Lugar 4: nebcrew (1.37 € em fichas)
+Lugar 5: gunariki (3.43 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+nebcrew: é small blind 0.01 €
+gunariki: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th Qd]
+osorio211: desiste
+GreatJohnnie: desiste
+P0kersincer0: sobe 0.04 € para 0.06 €
+nebcrew: desiste
+gunariki: iguala 0.04 €
+*** FLOP *** [7c Ac Jh]
+gunariki: aposta 0.12 €
+P0kersincer0: iguala 0.12 €
+*** TURN *** [7c Ac Jh] [8s]
+gunariki: aposta 0.02 €
+P0kersincer0: iguala 0.02 €
+*** RIVER *** [7c Ac Jh 8s] [Ah]
+gunariki: aposta 0.20 €
+P0kersincer0: desiste
+Aposta não-igualada (0.20 €) voltou para gunariki
+gunariki recebeu 0.39 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.41 € | comissão 0.02 €
+Mesa [7c Ac Jh 8s Ah]
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 3: P0kersincer0 (Botão) desistiu no River
+Lugar 4: nebcrew (small blind) desistiu antes Flop
+Lugar 5: gunariki (big blind) recebeu (0.39 €)
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 62 **************
+Mão #261910746375 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:29:34 UTC [2026/08/29 18:29:34 ET]
+Mesa 'Bouzareah III' 6-max Lugar #5 é o botão
+Lugar 1: sralcides (1.32 € em fichas)
+Lugar 2: zaroffe (0.11 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.39 € em fichas)
+Lugar 5: juuana25 (0.98 € em fichas)
+Lugar 6: tyuert19 (1.25 € em fichas)
+tyuert19: é small blind 0.01 €
+sralcides: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 7h]
+zaroffe: desiste
+osorio211: desiste
+nevoas81: iguala 0.02 €
+juuana25: iguala 0.02 €
+tyuert19: iguala 0.01 €
+sralcides: passa
+*** FLOP *** [6s Th Qs]
+tyuert19: passa
+sralcides: passa
+nevoas81: passa
+juuana25: passa
+*** TURN *** [6s Th Qs] [8d]
+tyuert19: aposta 0.02 €
+sralcides: desiste
+nevoas81: iguala 0.02 €
+juuana25: iguala 0.02 €
+*** RIVER *** [6s Th Qs 8d] [Td]
+tyuert19: aposta 0.04 €
+nevoas81: iguala 0.04 €
+juuana25: iguala 0.04 €
+*** SHOW DOWN ***
+tyuert19: mostra [6h Kh] (dois pares, Dez e Seis)
+nevoas81: mostra [Qd 8c] (dois pares, Damas e Dez)
+juuana25: esconde a mão
+nevoas81 recebeu 0.25 € do pote
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0.01 €
+Mesa [6s Th Qs 8d Td]
+Lugar 1: sralcides (big blind) desistiu no Turn
+Lugar 2: zaroffe desistiu antes Flop (não apostou)
+Lugar 3: osorio211 desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 mostrou [Qd 8c] e ganhou (0.25 €) com dois pares, Damas e Dez
+Lugar 5: juuana25 (Botão) escondeu as cartas [4s Ad]
+Lugar 6: tyuert19 (small blind) mostrou [6h Kh] e perdeu com dois pares, Dez e Seis
+
+
+*********** # 63 **************
+Mão #261910745117 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:29:28 UTC [2026/08/29 18:29:28 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (2.46 € em fichas)
+Lugar 2: jardel836 (1.78 € em fichas)
+Lugar 3: P0kersincer0 (2.20 € em fichas)
+Lugar 4: nebcrew (1.37 € em fichas)
+Lugar 5: gunariki (1.81 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+jardel836: é small blind 0.01 €
+P0kersincer0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c Qh]
+nebcrew: desiste
+gunariki: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie gastou o tempo
+GreatJohnnie: desiste
+jardel836: iguala 0.01 €
+P0kersincer0: passa
+*** FLOP *** [As 3h Tc]
+jardel836: aposta 0.06 €
+P0kersincer0: desiste
+gunariki: sobe 0.18 € para 0.24 €
+jardel836: sobe 1.52 € para 1.76 € e está all-in
+gunariki: iguala 1.52 €
+*** TURN *** [As 3h Tc] [8s]
+*** RIVER *** [As 3h Tc 8s] [7d]
+*** SHOW DOWN ***
+jardel836: mostra [Ac Jc] (par de Ases)
+gunariki: mostra [3s 3c] (trio, Três)
+gunariki recebeu 3.40 € do pote
+*** SUMÁRIO ***
+Total pote 3.58 € | comissão 0.18 €
+Mesa [As 3h Tc 8s 7d]
+Lugar 1: GreatJohnnie (Botão) desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (small blind) mostrou [Ac Jc] e perdeu com par de Ases
+Lugar 3: P0kersincer0 (big blind) desistiu no Flop
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: gunariki mostrou [3s 3c] e ganhou (3.40 €) com trio, Três
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 64 **************
+Mão #261910735511 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:28:34 UTC [2026/08/29 18:28:34 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 2: zaroffe (0.11 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: nevoas81 (2.39 € em fichas)
+Lugar 5: juuana25 (1.10 € em fichas)
+Lugar 6: tyuert19 (1.09 € em fichas)
+juuana25: é small blind 0.01 €
+tyuert19: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh Qs]
+zaroffe: desiste
+osorio211: sobe 0.04 € para 0.06 €
+nevoas81: desiste
+juuana25: iguala 0.05 €
+tyuert19: iguala 0.04 €
+*** FLOP *** [6s Ad 6d]
+juuana25: passa
+tyuert19: passa
+osorio211: passa
+*** TURN *** [6s Ad 6d] [9c]
+juuana25: aposta 0.02 €
+tyuert19: sobe 0.02 € para 0.04 €
+osorio211: desiste
+juuana25: iguala 0.02 €
+*** RIVER *** [6s Ad 6d 9c] [2h]
+juuana25: aposta 0.02 €
+tyuert19: iguala 0.02 €
+*** SHOW DOWN ***
+juuana25: mostra [Ks 8s] (par de Seis)
+tyuert19: mostra [9s Kd] (dois pares, Noves e Seis)
+tyuert19 recebeu 0.28 € do pote
+*** SUMÁRIO ***
+Total pote 0.30 € | comissão 0.02 €
+Mesa [6s Ad 6d 9c 2h]
+Lugar 2: zaroffe desistiu antes Flop (não apostou)
+Lugar 3: osorio211 desistiu no Turn
+Lugar 4: nevoas81 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: juuana25 (small blind) mostrou [Ks 8s] e perdeu com par de Seis
+Lugar 6: tyuert19 (big blind) mostrou [9s Kd] e ganhou (0.28 €) com dois pares, Noves e Seis
+
+
+*********** # 65 **************
+Mão #261910733160 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:28:20 UTC [2026/08/29 18:28:20 ET]
+Mesa 'Wallia V' 6-max Lugar #6 é o botão
+Lugar 1: GreatJohnnie (2.79 € em fichas)
+Lugar 2: jardel836 (1.80 € em fichas)
+Lugar 3: P0kersincer0 (2.20 € em fichas)
+Lugar 4: nebcrew (1.37 € em fichas)
+Lugar 5: gunariki (1.38 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+GreatJohnnie: é small blind 0.01 €
+jardel836: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s Ad]
+P0kersincer0: desiste
+nebcrew: desiste
+gunariki: iguala 0.02 €
+osorio211: sobe 0.06 € para 0.08 €
+GreatJohnnie: sobe 0.25 € para 0.33 €
+jardel836: desiste
+gunariki: sobe 0.76 € para 1.09 €
+osorio211: desiste
+GreatJohnnie: desiste
+Aposta não-igualada (0.76 €) voltou para gunariki
+gunariki recebeu 0.76 € do pote
+gunariki: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.76 € | comissão 0 €
+Lugar 1: GreatJohnnie (small blind) desistiu antes Flop
+Lugar 2: jardel836 (big blind) desistiu antes Flop
+Lugar 3: P0kersincer0 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: gunariki recebeu (0.76 €)
+Lugar 6: osorio211 (Botão) desistiu antes Flop
+
+
+*********** # 66 **************
+Mão #261910730150 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:28:04 UTC [2026/08/29 18:28:04 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 2: zaroffe (0.08 € em fichas)
+Lugar 3: osorio211 (2.03 € em fichas)
+Lugar 4: nevoas81 (2.40 € em fichas)
+Lugar 5: juuana25 (1.12 € em fichas)
+nevoas81: é small blind 0.01 €
+juuana25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 9s]
+zaroffe: sobe 0.06 € para 0.08 € e está all-in
+osorio211: desiste
+nevoas81: desiste
+juuana25: desiste
+Aposta não-igualada (0.06 €) voltou para zaroffe
+zaroffe recebeu 0.05 € do pote
+zaroffe: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: zaroffe recebeu (0.05 €)
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (small blind) desistiu antes Flop
+Lugar 5: juuana25 (big blind) desistiu antes Flop
+
+
+*********** # 67 **************
+Mão #261910723822 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:27:29 UTC [2026/08/29 18:27:29 ET]
+Mesa 'Wallia V' 6-max Lugar #5 é o botão
+Lugar 1: GreatJohnnie (2.81 € em fichas)
+Lugar 2: jardel836 (1.57 € em fichas)
+Lugar 3: P0kersincer0 (2.20 € em fichas)
+Lugar 4: nebcrew (1.37 € em fichas)
+Lugar 5: gunariki (1.40 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+osorio211: é small blind 0.01 €
+GreatJohnnie: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad Jd]
+jardel836: iguala 0.02 €
+P0kersincer0: desiste
+nebcrew: desiste
+gunariki: iguala 0.02 €
+osorio211: sobe 0.10 € para 0.12 €
+GreatJohnnie: desiste
+jardel836: iguala 0.10 €
+gunariki: desiste
+*** FLOP *** [9c 2d Kc]
+osorio211: aposta 0.09 €
+jardel836: iguala 0.09 €
+*** TURN *** [9c 2d Kc] [2h]
+osorio211: passa
+jardel836: passa
+*** RIVER *** [9c 2d Kc 2h] [5c]
+osorio211: passa
+jardel836: passa
+*** SHOW DOWN ***
+osorio211: mostra [Ad Jd] (par de Dois)
+jardel836: mostra [Ah 9s] (dois pares, Noves e Dois)
+jardel836 recebeu 0.44 € do pote
+*** SUMÁRIO ***
+Total pote 0.46 € | comissão 0.02 €
+Mesa [9c 2d Kc 2h 5c]
+Lugar 1: GreatJohnnie (big blind) desistiu antes Flop
+Lugar 2: jardel836 mostrou [Ah 9s] e ganhou (0.44 €) com dois pares, Noves e Dois
+Lugar 3: P0kersincer0 desistiu antes Flop (não apostou)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: gunariki (Botão) desistiu antes Flop
+Lugar 6: osorio211 (small blind) mostrou [Ad Jd] e perdeu com par de Dois
+
+
+*********** # 68 **************
+Mão #261910723272 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:27:26 UTC [2026/08/29 18:27:26 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 2: zaroffe (0.40 € em fichas)
+Lugar 3: osorio211 (2.04 € em fichas)
+Lugar 4: nevoas81 (2.42 € em fichas)
+Lugar 5: juuana25 (0.80 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+juuana25: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s Kc]
+juuana25: sobe 0.02 € para 0.04 €
+sralcides junta-se à mesa no lugar #1
+zaroffe: iguala 0.04 €
+osorio211: desiste
+nevoas81: desiste
+*** FLOP *** [4h 3c 6h]
+juuana25: aposta 0.04 €
+zaroffe: sobe 0.18 € para 0.22 €
+juuana25: iguala 0.18 €
+*** TURN *** [4h 3c 6h] [Qd]
+juuana25: passa
+zaroffe: aposta 0.02 €
+juuana25: iguala 0.02 €
+*** RIVER *** [4h 3c 6h Qd] [3s]
+juuana25: aposta 0.02 €
+zaroffe: sobe 0.02 € para 0.04 €
+juuana25: iguala 0.02 €
+*** SHOW DOWN ***
+zaroffe: mostra [Kd Jc] (par de Três)
+juuana25: mostra [4s As] (dois pares, Quatros e Três)
+juuana25 recebeu 0.64 € do pote
+*** SUMÁRIO ***
+Total pote 0.67 € | comissão 0.03 €
+Mesa [4h 3c 6h Qd 3s]
+Lugar 2: zaroffe (Botão) mostrou [Kd Jc] e perdeu com par de Três
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) desistiu antes Flop
+Lugar 5: juuana25 mostrou [4s As] e ganhou (0.64 €) com dois pares, Quatros e Três
+
+
+*********** # 69 **************
+Mão #261910716123 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:26:46 UTC [2026/08/29 18:26:46 ET]
+Mesa 'Bouzareah III' 6-max Lugar #4 é o botão
+Lugar 2: zaroffe (0.42 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.44 € em fichas)
+juuana25 poderá jogar depois do botão
+zaroffe: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s Jc]
+nevoas81: iguala 0.02 €
+zaroffe: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [As 4c 6c]
+tyuert19 junta-se à mesa no lugar #6
+zaroffe: passa
+osorio211: passa
+nevoas81: passa
+*** TURN *** [As 4c 6c] [7s]
+zaroffe: passa
+osorio211: passa
+nevoas81: passa
+*** RIVER *** [As 4c 6c 7s] [4h]
+zaroffe: passa
+osorio211: aposta 0.03 €
+nevoas81: desiste
+zaroffe: desiste
+Aposta não-igualada (0.03 €) voltou para osorio211
+osorio211 recebeu 0.06 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [As 4c 6c 7s 4h]
+Lugar 2: zaroffe (small blind) desistiu no River
+Lugar 3: osorio211 (big blind) recebeu (0.06 €)
+Lugar 4: nevoas81 (Botão) desistiu no River
+
+
+*********** # 70 **************
+Mão #261910714119 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:26:35 UTC [2026/08/29 18:26:35 ET]
+Mesa 'Wallia V' 6-max Lugar #4 é o botão
+Lugar 1: GreatJohnnie (2.68 € em fichas)
+Lugar 2: jardel836 (1.57 € em fichas)
+Lugar 3: P0kersincer0 (2.26 € em fichas)
+Lugar 4: nebcrew (1.37 € em fichas)
+Lugar 5: gunariki (1.46 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+gunariki: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h 4d]
+GreatJohnnie: sobe 0.04 € para 0.06 €
+jardel836: desiste
+P0kersincer0: iguala 0.06 €
+nebcrew: desiste
+gunariki: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [As 3c 5s]
+gunariki: passa
+GreatJohnnie: aposta 0.13 €
+P0kersincer0: desiste
+gunariki: desiste
+Aposta não-igualada (0.13 €) voltou para GreatJohnnie
+GreatJohnnie recebeu 0.19 € do pote
+GreatJohnnie: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [As 3c 5s]
+Lugar 1: GreatJohnnie recebeu (0.19 €)
+Lugar 2: jardel836 desistiu antes Flop (não apostou)
+Lugar 3: P0kersincer0 desistiu no Flop
+Lugar 4: nebcrew (Botão) desistiu antes Flop (não apostou)
+Lugar 5: gunariki (small blind) desistiu no Flop
+Lugar 6: osorio211 (big blind) desistiu antes Flop
+
+
+*********** # 71 **************
+Mão #261910710304 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:26:14 UTC [2026/08/29 18:26:14 ET]
+Mesa 'Bouzareah III' 6-max Lugar #3 é o botão
+Lugar 2: zaroffe (0.44 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (2.42 € em fichas)
+nevoas81: é small blind 0.01 €
+zaroffe: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th 4h]
+osorio211: desiste
+nevoas81: iguala 0.01 €
+LaFuras abandona a mesa
+zaroffe: passa
+*** FLOP *** [2c Ad 9c]
+nevoas81: passa
+zaroffe: passa
+*** TURN *** [2c Ad 9c] [6h]
+juuana25 junta-se à mesa no lugar #5
+nevoas81: aposta 0.04 €
+zaroffe: desiste
+Aposta não-igualada (0.04 €) voltou para nevoas81
+nevoas81 recebeu 0.04 € do pote
+nevoas81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [2c Ad 9c 6h]
+Lugar 2: zaroffe (big blind) desistiu no Turn
+Lugar 3: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nevoas81 (small blind) recebeu (0.04 €)
+
+
+*********** # 72 **************
+Mão #261910708873 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:26:06 UTC [2026/08/29 18:26:06 ET]
+Mesa 'Wallia V' 6-max Lugar #3 é o botão
+Lugar 1: GreatJohnnie (2.68 € em fichas)
+Lugar 2: jardel836 (1.59 € em fichas)
+Lugar 3: P0kersincer0 (2.26 € em fichas)
+Lugar 4: nebcrew (1.33 € em fichas)
+Lugar 5: gunariki (1.48 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+nebcrew: é small blind 0.01 €
+gunariki: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 5s]
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+P0kersincer0: desiste
+nebcrew: sobe 0.08 € para 0.10 €
+gunariki: desiste
+jardel836: desiste
+Aposta não-igualada (0.08 €) voltou para nebcrew
+nebcrew recebeu 0.06 € do pote
+nebcrew: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 desistiu antes Flop
+Lugar 3: P0kersincer0 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: nebcrew (small blind) recebeu (0.06 €)
+Lugar 5: gunariki (big blind) desistiu antes Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 73 **************
+Mão #261910703301 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:25:35 UTC [2026/08/29 18:25:35 ET]
+Mesa 'Wallia V' 6-max Lugar #2 é o botão
+Lugar 1: GreatJohnnie (2.68 € em fichas)
+Lugar 2: jardel836 (1.61 € em fichas)
+Lugar 3: P0kersincer0 (2.28 € em fichas)
+Lugar 4: nebcrew (1.27 € em fichas)
+Lugar 5: gunariki (1.50 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+P0kersincer0: é small blind 0.01 €
+nebcrew: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s As]
+gunariki: iguala 0.02 €
+osorio211: desiste
+GreatJohnnie: desiste
+jardel836: iguala 0.02 €
+P0kersincer0: iguala 0.01 €
+nebcrew: sobe 0.08 € para 0.10 €
+gunariki: desiste
+jardel836: desiste
+P0kersincer0: desiste
+Aposta não-igualada (0.08 €) voltou para nebcrew
+nebcrew recebeu 0.08 € do pote
+nebcrew: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Lugar 1: GreatJohnnie desistiu antes Flop (não apostou)
+Lugar 2: jardel836 (Botão) desistiu antes Flop
+Lugar 3: P0kersincer0 (small blind) desistiu antes Flop
+Lugar 4: nebcrew (big blind) recebeu (0.08 €)
+Lugar 5: gunariki desistiu antes Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+*********** # 74 **************
+Mão #261910700176 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:25:18 UTC [2026/08/29 18:25:18 ET]
+Mesa 'Bouzareah III' 6-max Lugar #2 é o botão
+Lugar 1: LaFuras (0.46 € em fichas)
+Lugar 2: zaroffe (1.07 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (1.41 € em fichas)
+osorio211: é small blind 0.01 €
+nevoas81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 5d]
+LaFuras: iguala 0.02 €
+zaroffe: iguala 0.02 €
+osorio211: desiste
+nevoas81: sobe 0.07 € para 0.09 €
+LaFuras: iguala 0.07 €
+zaroffe: iguala 0.07 €
+*** FLOP *** [Jd 7s 5s]
+nevoas81: passa
+LaFuras: aposta 0.27 €
+zaroffe: sobe 0.27 € para 0.54 €
+nevoas81: iguala 0.54 €
+LaFuras: iguala 0.10 € e está all-in
+*** TURN *** [Jd 7s 5s] [5c]
+nevoas81: aposta 0.78 € e está all-in
+zaroffe: desiste
+Aposta não-igualada (0.78 €) voltou para nevoas81
+*** RIVER *** [Jd 7s 5s 5c] [Ks]
+*** SHOW DOWN ***
+nevoas81: mostra [As 8s] (Cor, Ás carta mais alta)
+nevoas81 recebeu 0.32 € do secundário pote
+LaFuras: mostra [Ts Jh] (dois pares, Valetes e Cincos)
+nevoas81 recebeu 1.32 € do principal pote
+*** SUMÁRIO ***
+Total pote 1.73 € Principal pote 1.32 €. Secundário pote 0.32 €. | comissão 0.09 €
+Mesa [Jd 7s 5s 5c Ks]
+Lugar 1: LaFuras mostrou [Ts Jh] e perdeu com dois pares, Valetes e Cincos
+Lugar 2: zaroffe (Botão) desistiu no Turn
+Lugar 3: osorio211 (small blind) desistiu antes Flop
+Lugar 4: nevoas81 (big blind) mostrou [As 8s] e ganhou (1.64 €) com Cor, Ás carta mais alta
+
+
+*********** # 75 **************
+Mão #261910691807 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:24:32 UTC [2026/08/29 18:24:32 ET]
+Mesa 'Bouzareah III' 6-max Lugar #1 é o botão
+Lugar 1: LaFuras (0.46 € em fichas)
+Lugar 2: zaroffe (1.05 € em fichas)
+Lugar 3: osorio211 (2 € em fichas)
+Lugar 4: nevoas81 (1.41 € em fichas)
+zaroffe: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d 6s]
+nevoas81: desiste
+LaFuras: desiste
+zaroffe: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Js Jc Jd]
+zaroffe: passa
+osorio211: passa
+*** TURN *** [Js Jc Jd] [2c]
+zaroffe: passa
+osorio211: passa
+*** RIVER *** [Js Jc Jd 2c] [9d]
+zaroffe: passa
+osorio211: passa
+*** SHOW DOWN ***
+zaroffe: mostra [Qd Td] (trio, Valetes)
+osorio211: esconde a mão
+zaroffe recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Js Jc Jd 2c 9d]
+Lugar 1: LaFuras (Botão) desistiu antes Flop (não apostou)
+Lugar 2: zaroffe (small blind) mostrou [Qd Td] e ganhou (0.04 €) com trio, Valetes
+Lugar 3: osorio211 (big blind) escondeu as cartas [4d 6s]
+Lugar 4: nevoas81 desistiu antes Flop (não apostou)
+
+
+*********** # 76 **************
+Mão #261910689837 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/29 22:24:21 UTC [2026/08/29 18:24:21 ET]
+Mesa 'Wallia V' 6-max Lugar #1 é o botão
+Lugar 1: GreatJohnnie (2.96 € em fichas)
+Lugar 2: jardel836 (1.62 € em fichas)
+Lugar 3: P0kersincer0 (1.98 € em fichas)
+Lugar 4: nebcrew (1.27 € em fichas)
+Lugar 5: gunariki (1.52 € em fichas)
+Lugar 6: osorio211 (2 € em fichas)
+jardel836: é small blind 0.01 €
+P0kersincer0: é big blind 0.02 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c 7c]
+nebcrew: desiste
+gunariki: iguala 0.02 €
+osorio211: passa
+GreatJohnnie: sobe 0.09 € para 0.11 €
+jardel836: desiste
+P0kersincer0: iguala 0.09 €
+gunariki: desiste
+osorio211: desiste
+*** FLOP *** [Td 2h Jc]
+P0kersincer0: passa
+GreatJohnnie: passa
+*** TURN *** [Td 2h Jc] [Ac]
+P0kersincer0: aposta 0.17 €
+GreatJohnnie: iguala 0.17 €
+*** RIVER *** [Td 2h Jc Ac] [7s]
+P0kersincer0: aposta 0.64 €
+GreatJohnnie: desiste
+Aposta não-igualada (0.64 €) voltou para P0kersincer0
+P0kersincer0 recebeu 0.58 € do pote
+P0kersincer0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.61 € | comissão 0.03 €
+Mesa [Td 2h Jc Ac 7s]
+Lugar 1: GreatJohnnie (Botão) desistiu no River
+Lugar 2: jardel836 (small blind) desistiu antes Flop
+Lugar 3: P0kersincer0 (big blind) recebeu (0.58 €)
+Lugar 4: nebcrew desistiu antes Flop (não apostou)
+Lugar 5: gunariki desistiu antes Flop
+Lugar 6: osorio211 desistiu antes Flop (não apostou)
+
+
+
+
+Está a receber este email porque inclui informações importantes sobre a sua conta da Stars.
+
+Atenção: este email foi enviado a partir de um endereço dedicado apenas a notificações que não recebe emails. Não responda a esta mensagem. Caso deseje contactar-nos, visite o nosso Centro de Ajuda no endereço http://www.pokerstars.pt/help para saber como o pode fazer.
+
+Se tiver interesse em saber de que forma tratamos os seus dados, consulte a nossa Política de Privacidade em http://www.pokerstars.pt/privacy.
+
+REEL Europe Ltd, Spinola Terraces, Mikiel Ang Borg Street, St. Julian's, SPK 1000, Malta.
+
+Copyright © 2001-2026, Rational Intellectual Holdings Limited. Todos os direitos reservados.

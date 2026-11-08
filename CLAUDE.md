@@ -33,6 +33,8 @@ delete ones that just restate the code.
   of the current incremental test
 - Tests alongside implementation, not after
 - `uv run pytest` + `uv run ruff check .` clean before calling something done
+- Never `git commit` (or amend/push) without the user's explicit OK. Leave
+  changes uncommitted for review.
 
 ## Avoid
 - Hardcoding hero's username — it's the `hero_name` parameter

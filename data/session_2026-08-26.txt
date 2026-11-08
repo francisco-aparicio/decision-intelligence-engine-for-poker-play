@@ -1,0 +1,4832 @@
+Transcrito último 3 horas de jogo requerido por osorio211 (faparicio.lopes@gmail.com)
+
+*********** # 1 **************
+Mão #261879043409 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:32:21 UTC [2026/08/26 18:32:21 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (5.72 € em fichas)
+Lugar 2: Herrero2610 (4.18 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (1.28 € em fichas)
+Lugar 6: Kyra0908 (4.28 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc 6d]
+leunamor7: desiste
+Herrero2610: iguala 0.02 €
+ohlaracorp: desiste
+osorio211: desiste
+osorio211 abandona a mesa
+Bidinh0: desiste
+Kyra0908: passa
+*** FLOP *** [7c 3h Kh]
+Kyra0908: passa
+Herrero2610: passa
+*** TURN *** [7c 3h Kh] [Ad]
+Kyra0908: passa
+Herrero2610: aposta 0.05 €
+Kyra0908: desiste
+Aposta não-igualada (0.05 €) voltou para Herrero2610
+Herrero2610 recebeu 0.05 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [7c 3h Kh Ad]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 recebeu (0.05 €)
+Lugar 3: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu no Turn
+
+
+*********** # 2 **************
+Mão #261879041455 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:32:10 UTC [2026/08/26 18:32:10 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (5.72 € em fichas)
+Lugar 2: Herrero2610 (4.18 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (1.27 € em fichas)
+Lugar 6: Kyra0908 (4.28 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Kh]
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: desiste
+ohlaracorp: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Bidinh0
+Bidinh0 recebeu 0.02 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 3: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) recebeu (0.02 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 3 **************
+Mão #261879031071 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:31:14 UTC [2026/08/26 18:31:14 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (5.56 € em fichas)
+Lugar 2: Herrero2610 (4.29 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.12 € em fichas)
+Lugar 5: Bidinh0 (1.27 € em fichas)
+Lugar 6: Kyra0908 (4.28 € em fichas)
+ohlaracorp: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js 7s]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: iguala 0.05 €
+ohlaracorp: desiste
+osorio211: iguala 0.03 €
+*** FLOP *** [5c Ac 8c]
+osorio211: passa
+leunamor7: passa
+Herrero2610: passa
+*** TURN *** [5c Ac 8c] [Qd]
+osorio211: passa
+leunamor7: aposta 0.06 €
+Herrero2610: iguala 0.06 €
+osorio211: desiste
+*** RIVER *** [5c Ac 8c Qd] [2h]
+leunamor7: aposta 0.23 €
+Herrero2610: desiste
+Aposta não-igualada (0.23 €) voltou para leunamor7
+leunamor7 recebeu 0.27 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.28 € | comissão 0.01 €
+Mesa [5c Ac 8c Qd 2h]
+Lugar 1: leunamor7 recebeu (0.27 €)
+Lugar 2: Herrero2610 (Botão) desistiu no River
+Lugar 3: ohlaracorp (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu no Turn
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 4 **************
+Mão #261879014080 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:29:42 UTC [2026/08/26 18:29:42 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (5.56 € em fichas)
+Lugar 2: Herrero2610 (2.96 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.22 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (4.28 € em fichas)
+Herrero2610: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c 8d]
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: iguala 0.06 €
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: sobe 0.04 € para 0.10 €
+ohlaracorp: desiste
+osorio211: iguala 0.04 €
+Bidinh0: iguala 0.04 €
+*** FLOP *** [4d 7c Qc]
+Herrero2610: aposta 0.15 €
+osorio211: desiste
+Bidinh0: iguala 0.15 €
+*** TURN *** [4d 7c Qc] [Qh]
+Herrero2610: aposta 0.30 €
+Bidinh0: iguala 0.30 €
+*** RIVER *** [4d 7c Qc Qh] [Th]
+Herrero2610: passa
+Bidinh0: aposta 0.80 €
+Herrero2610: iguala 0.80 €
+*** SHOW DOWN ***
+Bidinh0: mostra [Ac Kc] (par de Damas)
+Herrero2610: mostra [As Ah] (dois pares, Ases e Damas)
+Herrero2610 recebeu 2.68 € do pote
+*** SUMÁRIO ***
+Total pote 2.82 € | comissão 0.14 €
+Mesa [4d 7c Qc Qh Th]
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (small blind) mostrou [As Ah] e ganhou (2.68 €) com dois pares, Ases e Damas
+Lugar 3: ohlaracorp (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu no Flop
+Lugar 5: Bidinh0 mostrou [Ac Kc] e perdeu com par de Damas
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 5 **************
+Mão #261879008598 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:29:12 UTC [2026/08/26 18:29:12 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (5.27 € em fichas)
+Lugar 2: Herrero2610 (2.98 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.22 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (4.58 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s Th]
+ohlaracorp: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: sobe 0.24 € para 0.30 €
+Herrero2610: desiste
+Kyra0908: iguala 0.24 €
+*** FLOP *** [6h Ad 7s]
+leunamor7: passa
+Kyra0908: passa
+*** TURN *** [6h Ad 7s] [4h]
+leunamor7: passa
+Kyra0908: passa
+*** RIVER *** [6h Ad 7s 4h] [5d]
+leunamor7: passa
+Kyra0908: passa
+*** SHOW DOWN ***
+leunamor7: mostra [9s As] (par de Ases)
+Kyra0908: esconde a mão
+leunamor7 recebeu 0.59 € do pote
+*** SUMÁRIO ***
+Total pote 0.62 € | comissão 0.03 €
+Mesa [6h Ad 7s 4h 5d]
+Lugar 1: leunamor7 (small blind) mostrou [9s As] e ganhou (0.59 €) com par de Ases
+Lugar 2: Herrero2610 (big blind) desistiu antes Flop
+Lugar 3: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) escondeu as cartas [2c 2h]
+
+
+*********** # 6 **************
+Mão #261879001786 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:28:35 UTC [2026/08/26 18:28:35 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (5.29 € em fichas)
+Lugar 2: Herrero2610 (2.95 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.22 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (4.59 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 8s]
+Herrero2610: iguala 0.02 €
+ohlaracorp: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: passa
+*** FLOP *** [2d 6s 5h]
+leunamor7: passa
+Herrero2610: passa
+*** TURN *** [2d 6s 5h] [Ad]
+leunamor7: passa
+Herrero2610: aposta 0.05 €
+leunamor7: desiste
+Aposta não-igualada (0.05 €) voltou para Herrero2610
+Herrero2610 recebeu 0.05 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [2d 6s 5h Ad]
+Lugar 1: leunamor7 (big blind) desistiu no Turn
+Lugar 2: Herrero2610 recebeu (0.05 €)
+Lugar 3: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 7 **************
+Mão #261878993665 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:27:52 UTC [2026/08/26 18:27:52 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (5.34 € em fichas)
+Lugar 2: Herrero2610 (2.95 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.22 € em fichas)
+Lugar 5: Bidinh0 (2.77 € em fichas)
+Lugar 6: Kyra0908 (4.41 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd 3s]
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+ohlaracorp: desiste
+osorio211: desiste
+Bidinh0: iguala 0.04 €
+Kyra0908: iguala 0.03 €
+*** FLOP *** [Ad 4c Jh]
+Bidinh0: aposta 0.10 €
+Kyra0908: iguala 0.10 €
+leunamor7: desiste
+*** TURN *** [Ad 4c Jh] [8d]
+Bidinh0: passa
+Kyra0908: aposta 0.17 €
+Bidinh0: desiste
+Aposta não-igualada (0.17 €) voltou para Kyra0908
+Kyra0908 recebeu 0.33 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.35 € | comissão 0.02 €
+Mesa [Ad 4c Jh 8d]
+Lugar 1: leunamor7 desistiu no Flop
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 3: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu no Turn
+Lugar 6: Kyra0908 (big blind) recebeu (0.33 €)
+
+
+*********** # 8 **************
+Mão #261878988881 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:27:26 UTC [2026/08/26 18:27:26 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (5.34 € em fichas)
+Lugar 2: Herrero2610 (2.97 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.09 € em fichas)
+Lugar 5: Bidinh0 (2.79 € em fichas)
+Lugar 6: Kyra0908 (4.41 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd Kh]
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: iguala 0.02 €
+ohlaracorp: sobe 0.07 € para 0.09 €
+osorio211: sobe 0.13 € para 0.22 €
+Bidinh0: desiste
+Herrero2610: desiste
+ohlaracorp: desiste
+Aposta não-igualada (0.13 €) voltou para osorio211
+osorio211 recebeu 0.22 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.22 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 desistiu antes Flop
+Lugar 3: ohlaracorp (Botão) desistiu antes Flop
+Lugar 4: osorio211 (small blind) recebeu (0.22 €)
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 9 **************
+Mão #261878985448 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:27:08 UTC [2026/08/26 18:27:08 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (5.34 € em fichas)
+Lugar 2: Herrero2610 (2.97 € em fichas)
+Lugar 3: ohlaracorp (2.01 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.79 € em fichas)
+Lugar 6: Kyra0908 (4.38 € em fichas)
+ohlaracorp: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd 4h]
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: desiste
+ohlaracorp: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: ohlaracorp (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 recebeu (0.05 €)
+
+
+*********** # 10 **************
+Mão #261878982387 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:26:52 UTC [2026/08/26 18:26:52 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (5.34 € em fichas)
+Lugar 2: Herrero2610 (2.98 € em fichas)
+Lugar 3: ohlaracorp (2 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.79 € em fichas)
+Lugar 6: Kyra0908 (4.38 € em fichas)
+Herrero2610: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 4h]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: desiste
+Aposta não-igualada (0.01 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.02 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (small blind) desistiu antes Flop
+Lugar 3: ohlaracorp (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 11 **************
+Mão #261878975441 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:26:15 UTC [2026/08/26 18:26:15 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (5.35 € em fichas)
+Lugar 2: Herrero2610 (3.48 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.79 € em fichas)
+Lugar 6: Kyra0908 (3.92 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 9s]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: iguala 0.04 €
+*** FLOP *** [Ad Qc As]
+Herrero2610: passa
+Kyra0908: passa
+*** TURN *** [Ad Qc As] [4c]
+Herrero2610: aposta 0.06 €
+Kyra0908: iguala 0.06 €
+*** RIVER *** [Ad Qc As 4c] [3c]
+Herrero2610: aposta 0.38 €
+Kyra0908: iguala 0.38 €
+*** SHOW DOWN ***
+Herrero2610: mostra [6c 5c] (Cor, Dama carta mais alta)
+Kyra0908: mostra [Jc 9c] (Cor, Dama carta mais alta - Valete higher)
+Kyra0908 recebeu 0.96 € do pote
+*** SUMÁRIO ***
+Total pote 1.01 € | comissão 0.05 €
+Mesa [Ad Qc As 4c 3c]
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: Herrero2610 (big blind) mostrou [6c 5c] e perdeu com Cor, Dama carta mais alta
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) mostrou [Jc 9c] e ganhou (0.96 €) com Cor, Dama carta mais alta
+
+
+*********** # 12 **************
+Mão #261878965828 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:25:24 UTC [2026/08/26 18:25:24 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (5.73 € em fichas)
+Lugar 2: Herrero2610 (3.48 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.79 € em fichas)
+Lugar 6: Kyra0908 (3.58 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d Tc]
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: sobe 0.14 € para 0.20 €
+Kyra0908: iguala 0.14 €
+*** FLOP *** [3c 9d 7c]
+Kyra0908: passa
+leunamor7: aposta 0.18 €
+Kyra0908: iguala 0.18 €
+*** TURN *** [3c 9d 7c] [8c]
+Kyra0908: aposta 0.72 €
+leunamor7: desiste
+Aposta não-igualada (0.72 €) voltou para Kyra0908
+Kyra0908 recebeu 0.72 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.76 € | comissão 0.04 €
+Mesa [3c 9d 7c 8c]
+Lugar 1: leunamor7 (big blind) desistiu no Turn
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) recebeu (0.72 €)
+
+
+*********** # 13 **************
+Mão #261878959555 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:24:51 UTC [2026/08/26 18:24:51 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (5.73 € em fichas)
+Lugar 2: Herrero2610 (3.43 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.80 € em fichas)
+Lugar 6: Kyra0908 (3.62 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc 5s]
+leunamor7: desiste
+Herrero2610: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: iguala 0.02 €
+*** FLOP *** [Th 3d Jc]
+Kyra0908: passa
+Herrero2610: aposta 0.09 €
+Kyra0908: desiste
+Aposta não-igualada (0.09 €) voltou para Herrero2610
+Herrero2610 recebeu 0.09 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Mesa [Th 3d Jc]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 recebeu (0.09 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu no Flop
+
+
+*********** # 14 **************
+Mão #261878953520 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:24:19 UTC [2026/08/26 18:24:19 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (5.68 € em fichas)
+Lugar 2: Herrero2610 (3.43 € em fichas)
+Lugar 4: osorio211 (2.12 € em fichas)
+Lugar 5: Bidinh0 (2.85 € em fichas)
+Lugar 6: Kyra0908 (3.62 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js Kd]
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+ohlaracorp junta-se à mesa no lugar #3
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: iguala 0.03 €
+*** FLOP *** [6c Qc 5h]
+Bidinh0: passa
+leunamor7: aposta 0.08 €
+Bidinh0: desiste
+Aposta não-igualada (0.08 €) voltou para leunamor7
+leunamor7 recebeu 0.10 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [6c Qc 5h]
+Lugar 1: leunamor7 recebeu (0.10 €)
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu no Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 15 **************
+Mão #261878950785 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:24:04 UTC [2026/08/26 18:24:04 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (5.65 € em fichas)
+Lugar 2: Herrero2610 (3.44 € em fichas)
+Lugar 4: osorio211 (2.14 € em fichas)
+Lugar 5: Bidinh0 (2.85 € em fichas)
+Lugar 6: Kyra0908 (3.62 € em fichas)
+Herrero2610: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Qc]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+osorio211: desiste
+Aposta não-igualada (0.03 €) voltou para leunamor7
+leunamor7 recebeu 0.05 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) recebeu (0.05 €)
+Lugar 2: Herrero2610 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 16 **************
+Mão #261878948578 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:23:53 UTC [2026/08/26 18:23:53 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (5.66 € em fichas)
+Lugar 2: Herrero2610 (3.43 € em fichas)
+Lugar 4: osorio211 (2.14 € em fichas)
+Lugar 5: Bidinh0 (2.85 € em fichas)
+Lugar 6: Kyra0908 (3.62 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h As]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.01 €) voltou para Herrero2610
+Herrero2610 recebeu 0.02 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: Herrero2610 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 17 **************
+Mão #261878945460 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:23:37 UTC [2026/08/26 18:23:37 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (5.68 € em fichas)
+Lugar 2: Herrero2610 (3.43 € em fichas)
+Lugar 4: osorio211 (2.14 € em fichas)
+Lugar 5: Bidinh0 (2.85 € em fichas)
+Lugar 6: Kyra0908 (3.60 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 6h]
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.04 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) recebeu (0.04 €)
+
+
+*********** # 18 **************
+Mão #261878938649 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:23:01 UTC [2026/08/26 18:23:01 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (5.68 € em fichas)
+Lugar 2: Herrero2610 (3.35 € em fichas)
+Lugar 4: osorio211 (2.18 € em fichas)
+Lugar 5: Bidinh0 (2.86 € em fichas)
+Lugar 6: Kyra0908 (3.64 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac 4c]
+leunamor7: desiste
+Herrero2610: sobe 0.02 € para 0.04 €
+osorio211: iguala 0.04 €
+Bidinh0: desiste
+Kyra0908: iguala 0.02 €
+*** FLOP *** [3h Kd 4s]
+Kyra0908: passa
+bingueiro69 abandona a mesa
+Herrero2610: passa
+osorio211: passa
+*** TURN *** [3h Kd 4s] [8h]
+Kyra0908: passa
+Herrero2610: passa
+osorio211: passa
+*** RIVER *** [3h Kd 4s 8h] [Jd]
+Kyra0908: passa
+Herrero2610: aposta 0.02 €
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.02 €) voltou para Herrero2610
+Herrero2610 recebeu 0.12 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [3h Kd 4s 8h Jd]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 recebeu (0.12 €)
+Lugar 4: osorio211 (Botão) desistiu no River
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu no River
+
+
+*********** # 19 **************
+Mão #261878930375 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:22:19 UTC [2026/08/26 18:22:19 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (5.68 € em fichas)
+Lugar 2: Herrero2610 (3.35 € em fichas)
+Lugar 4: osorio211 (2.19 € em fichas)
+Lugar 5: Bidinh0 (3.05 € em fichas)
+Lugar 6: Kyra0908 (3.46 € em fichas)
+bingueiro69 poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 3d]
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: sobe 0.13 € para 0.19 €
+Kyra0908: iguala 0.13 €
+*** FLOP *** [Js 2h 4s]
+Bidinh0: passa
+Kyra0908: passa
+*** TURN *** [Js 2h 4s] [5d]
+Bidinh0: passa
+Kyra0908: aposta 0.19 €
+Bidinh0: desiste
+Aposta não-igualada (0.19 €) voltou para Kyra0908
+Kyra0908 recebeu 0.37 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.39 € | comissão 0.02 €
+Mesa [Js 2h 4s 5d]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu no Turn
+Lugar 6: Kyra0908 recebeu (0.37 €)
+
+
+*********** # 20 **************
+Mão #261878921303 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:21:32 UTC [2026/08/26 18:21:32 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.06 € em fichas)
+Lugar 2: Herrero2610 (2.99 € em fichas)
+Lugar 4: osorio211 (2.21 € em fichas)
+Lugar 5: Bidinh0 (3.05 € em fichas)
+Lugar 6: Kyra0908 (3.46 € em fichas)
+Herrero2610: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 3d]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: iguala 0.04 €
+osorio211: desiste
+*** FLOP *** [2h Ah 6d]
+bingueiro69 junta-se à mesa no lugar #3
+Herrero2610: aposta 0.06 €
+leunamor7: iguala 0.06 €
+*** TURN *** [2h Ah 6d] [5h]
+Herrero2610: aposta 0.08 €
+leunamor7: iguala 0.08 €
+*** RIVER *** [2h Ah 6d 5h] [7h]
+Herrero2610: aposta 0.19 €
+leunamor7: iguala 0.19 €
+*** SHOW DOWN ***
+Herrero2610: mostra [9h Jh] (Cor, Ás carta mais alta)
+leunamor7: esconde a mão
+Herrero2610 recebeu 0.74 € do pote
+*** SUMÁRIO ***
+Total pote 0.78 € | comissão 0.04 €
+Mesa [2h Ah 6d 5h 7h]
+Lugar 1: leunamor7 (Botão) escondeu as cartas [5s As]
+Lugar 2: Herrero2610 (small blind) mostrou [9h Jh] e ganhou (0.74 €) com Cor, Ás carta mais alta
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 21 **************
+Mão #261878913711 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:20:53 UTC [2026/08/26 18:20:53 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.07 € em fichas)
+Lugar 2: Herrero2610 (2.64 € em fichas)
+Lugar 4: osorio211 (2.21 € em fichas)
+Lugar 5: Bidinh0 (3.05 € em fichas)
+Lugar 6: Kyra0908 (3.84 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 5c]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: sobe 0.13 € para 0.19 €
+Kyra0908: iguala 0.13 €
+*** FLOP *** [9d Jd 8s]
+Herrero2610: aposta 0.19 €
+Kyra0908: iguala 0.19 €
+*** TURN *** [9d Jd 8s] [Kh]
+Herrero2610: passa
+Kyra0908: passa
+*** RIVER *** [9d Jd 8s Kh] [4d]
+Herrero2610: aposta 0.37 €
+Kyra0908: desiste
+Aposta não-igualada (0.37 €) voltou para Herrero2610
+Herrero2610 recebeu 0.73 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.77 € | comissão 0.04 €
+Mesa [9d Jd 8s Kh 4d]
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: Herrero2610 (big blind) recebeu (0.73 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu no River
+
+
+*********** # 22 **************
+Mão #261878909220 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:20:30 UTC [2026/08/26 18:20:30 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.13 € em fichas)
+Lugar 2: Herrero2610 (2.51 € em fichas)
+Lugar 4: osorio211 (2.27 € em fichas)
+Lugar 5: Bidinh0 (3.05 € em fichas)
+Lugar 6: Kyra0908 (3.85 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th Ac]
+Herrero2610: iguala 0.02 €
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: iguala 0.04 €
+Herrero2610: sobe 0.19 € para 0.25 €
+osorio211: desiste
+leunamor7: desiste
+Aposta não-igualada (0.19 €) voltou para Herrero2610
+Herrero2610 recebeu 0.19 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 2: Herrero2610 recebeu (0.19 €)
+Lugar 4: osorio211 desistiu antes Flop
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 23 **************
+Mão #261878901703 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:19:52 UTC [2026/08/26 18:19:52 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.13 € em fichas)
+Lugar 2: Herrero2610 (2.53 € em fichas)
+Lugar 3: miguelmorais00 (0.25 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.06 € em fichas)
+Lugar 6: Kyra0908 (3.87 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8c As]
+leunamor7: desiste
+Herrero2610: iguala 0.02 €
+miguelmorais00: iguala 0.02 €
+osorio211: sobe 0.08 € para 0.10 €
+Bidinh0: desiste
+Kyra0908: desiste
+Herrero2610: desiste
+miguelmorais00: iguala 0.08 €
+*** FLOP *** [5h Ad 2s]
+miguelmorais00: passa
+osorio211: aposta 0.08 €
+miguelmorais00: sobe 0.07 € para 0.15 € e está all-in
+osorio211: iguala 0.07 €
+*** TURN *** [5h Ad 2s] [3h]
+*** RIVER *** [5h Ad 2s 3h] [2h]
+*** SHOW DOWN ***
+miguelmorais00: mostra [Kh Ks] (dois pares, Reis e Dois)
+osorio211: mostra [8c As] (dois pares, Ases e Dois)
+osorio211 recebeu 0.52 € do pote
+*** SUMÁRIO ***
+Total pote 0.55 € | comissão 0.03 €
+Mesa [5h Ad 2s 3h 2h]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 desistiu antes Flop
+Lugar 3: miguelmorais00 mostrou [Kh Ks] e perdeu com dois pares, Reis e Dois
+Lugar 4: osorio211 (Botão) mostrou [8c As] e ganhou (0.52 €) com dois pares, Ases e Dois
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 24 **************
+Mão #261878898506 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:19:35 UTC [2026/08/26 18:19:35 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (6.13 € em fichas)
+Lugar 2: Herrero2610 (2.50 € em fichas)
+Lugar 3: miguelmorais00 (0.25 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.08 € em fichas)
+Lugar 6: Kyra0908 (3.87 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s Js]
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: sobe 0.04 € para 0.06 €
+miguelmorais00: desiste
+osorio211: desiste
+Bidinh0: desiste
+Aposta não-igualada (0.04 €) voltou para Herrero2610
+Herrero2610 recebeu 0.05 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 recebeu (0.05 €)
+Lugar 3: miguelmorais00 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 25 **************
+Mão #261878895103 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:19:18 UTC [2026/08/26 18:19:18 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (6.10 € em fichas)
+Lugar 2: Herrero2610 (2.50 € em fichas)
+Lugar 3: miguelmorais00 (0.26 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.08 € em fichas)
+Lugar 6: Kyra0908 (3.87 € em fichas)
+miguelmorais00: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 4c]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+miguelmorais00: desiste
+osorio211: desiste
+Aposta não-igualada (0.03 €) voltou para leunamor7
+leunamor7 recebeu 0.05 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 recebeu (0.05 €)
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: miguelmorais00 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 26 **************
+Mão #261878890751 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:18:56 UTC [2026/08/26 18:18:56 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.10 € em fichas)
+Lugar 2: Herrero2610 (2.51 € em fichas)
+Lugar 3: miguelmorais00 (0.28 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.08 € em fichas)
+Lugar 6: Kyra0908 (3.84 € em fichas)
+Herrero2610: é small blind 0.01 €
+miguelmorais00: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c Ah]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: desiste
+miguelmorais00: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (small blind) desistiu antes Flop
+Lugar 3: miguelmorais00 (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 recebeu (0.05 €)
+
+
+*********** # 27 **************
+Mão #261878871748 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:17:19 UTC [2026/08/26 18:17:19 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.12 € em fichas)
+Lugar 2: Herrero2610 (2.04 € em fichas)
+Lugar 3: miguelmorais00 (0.78 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.08 € em fichas)
+Lugar 6: Kyra0908 (3.84 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jd Td]
+miguelmorais00: iguala 0.02 €
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: iguala 0.01 €
+Herrero2610: passa
+*** FLOP *** [Ts Js 5h]
+leunamor7: passa
+Herrero2610: aposta 0.03 €
+miguelmorais00: sobe 0.07 € para 0.10 €
+leunamor7: desiste
+Herrero2610: iguala 0.07 €
+*** TURN *** [Ts Js 5h] [2c]
+Herrero2610: aposta 0.13 €
+miguelmorais00: iguala 0.13 €
+*** RIVER *** [Ts Js 5h 2c] [8c]
+Herrero2610: aposta 0.25 €
+miguelmorais00: iguala 0.25 €
+*** SHOW DOWN ***
+Herrero2610: mostra [2d 5s] (dois pares, Cincos e Dois)
+miguelmorais00: esconde a mão
+Herrero2610 recebeu 0.97 € do pote
+*** SUMÁRIO ***
+Total pote 1.02 € | comissão 0.05 €
+Mesa [Ts Js 5h 2c 8c]
+Lugar 1: leunamor7 (small blind) desistiu no Flop
+Lugar 2: Herrero2610 (big blind) mostrou [2d 5s] e ganhou (0.97 €) com dois pares, Cincos e Dois
+Lugar 3: miguelmorais00 escondeu as cartas [8s Kh]
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 28 **************
+Mão #261878861677 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:16:28 UTC [2026/08/26 18:16:28 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.14 € em fichas)
+Lugar 2: Herrero2610 (2.03 € em fichas)
+Lugar 3: miguelmorais00 (0.78 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (3.08 € em fichas)
+Lugar 6: Kyra0908 (3.85 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c Ac]
+Herrero2610: iguala 0.02 €
+miguelmorais00: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: iguala 0.06 €
+*** FLOP *** [2c Kh Jc]
+Herrero2610: aposta 0.09 €
+osorio211: iguala 0.09 €
+*** TURN *** [2c Kh Jc] [Kd]
+Herrero2610: passa
+osorio211: passa
+*** RIVER *** [2c Kh Jc Kd] [Qd]
+Herrero2610: passa
+osorio211: passa
+*** SHOW DOWN ***
+Herrero2610: mostra [As 8h] (par de Reis)
+osorio211: mostra [5c Ac] (par de Reis)
+Herrero2610 recebeu 0.18 € do pote
+osorio211 recebeu 0.17 € do pote
+*** SUMÁRIO ***
+Total pote 0.37 € | comissão 0.02 €
+Mesa [2c Kh Jc Kd Qd]
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 2: Herrero2610 mostrou [As 8h] e ganhou (0.18 €) com par de Reis
+Lugar 3: miguelmorais00 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 mostrou [5c Ac] e ganhou (0.17 €) com par de Reis
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 29 **************
+Mão #261878852621 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:15:42 UTC [2026/08/26 18:15:42 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.14 € em fichas)
+Lugar 2: Herrero2610 (2.03 € em fichas)
+Lugar 3: miguelmorais00 (0.80 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.94 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+miguelmorais00: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d Jc]
+leunamor7: desiste
+Herrero2610: desiste
+miguelmorais00: passa
+osorio211: desiste
+Bidinh0: iguala 0.01 €
+Kyra0908: sobe 0.06 € para 0.08 €
+miguelmorais00: desiste
+Bidinh0: iguala 0.06 €
+*** FLOP *** [5s 5d Ac]
+Bidinh0: passa
+Kyra0908: aposta 0.06 €
+Bidinh0: iguala 0.06 €
+*** TURN *** [5s 5d Ac] [Qs]
+Bidinh0: passa
+Kyra0908: passa
+*** RIVER *** [5s 5d Ac Qs] [8h]
+Bidinh0: aposta 0.20 €
+Kyra0908: desiste
+Aposta não-igualada (0.20 €) voltou para Bidinh0
+Bidinh0 recebeu 0.28 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.30 € | comissão 0.02 €
+Mesa [5s 5d Ac Qs 8h]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 3: miguelmorais00 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) recebeu (0.28 €)
+Lugar 6: Kyra0908 (big blind) desistiu no River
+
+
+*********** # 30 **************
+Mão #261878840190 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:14:38 UTC [2026/08/26 18:14:38 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (6.19 € em fichas)
+Lugar 2: Herrero2610 (2.03 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 5: Bidinh0 (2.60 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td Jd]
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+osorio211: iguala 0.04 €
+miguelmorais00 junta-se à mesa no lugar #3
+Bidinh0: iguala 0.03 €
+*** FLOP *** [8c 2h 9s]
+osorio211: passa
+Bidinh0: passa
+leunamor7: passa
+*** TURN *** [8c 2h 9s] [Js]
+osorio211: passa
+Bidinh0: aposta 0.10 €
+leunamor7: desiste
+osorio211: iguala 0.10 €
+*** RIVER *** [8c 2h 9s Js] [6c]
+osorio211: passa
+Bidinh0: aposta 0.17 €
+osorio211: iguala 0.17 €
+*** SHOW DOWN ***
+Bidinh0: mostra [Jh Qh] (par de Valetes)
+osorio211: esconde a mão
+Bidinh0 recebeu 0.66 € do pote
+*** SUMÁRIO ***
+Total pote 0.69 € | comissão 0.03 €
+Mesa [8c 2h 9s Js 6c]
+Lugar 1: leunamor7 desistiu no Turn
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) escondeu as cartas [Td Jd]
+Lugar 5: Bidinh0 (big blind) mostrou [Jh Qh] e ganhou (0.66 €) com par de Valetes
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 31 **************
+Mão #261878837248 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:14:23 UTC [2026/08/26 18:14:23 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.19 € em fichas)
+Lugar 2: Herrero2610 (2.04 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.60 € em fichas)
+Lugar 6: Kyra0908 (3.96 € em fichas)
+Herrero2610: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Kc]
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+Herrero2610: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 recebeu (0.05 €)
+
+
+*********** # 32 **************
+Mão #261878834024 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:14:06 UTC [2026/08/26 18:14:06 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.20 € em fichas)
+Lugar 2: Herrero2610 (2.06 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.57 € em fichas)
+Lugar 6: Kyra0908 (3.96 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s 6s]
+osorio211: desiste
+Bidinh0: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: desiste
+Aposta não-igualada (0.04 €) voltou para Bidinh0
+Bidinh0 recebeu 0.05 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: Herrero2610 (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 recebeu (0.05 €)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 33 **************
+Mão #261878829048 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:13:41 UTC [2026/08/26 18:13:41 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.22 € em fichas)
+Lugar 2: Herrero2610 (2 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.61 € em fichas)
+Lugar 6: Kyra0908 (3.97 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 6c]
+Herrero2610: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Bidinh0: iguala 0.04 €
+Kyra0908: desiste
+leunamor7: desiste
+*** FLOP *** [8h Ac 4d]
+Herrero2610: aposta 0.05 €
+Bidinh0: desiste
+Aposta não-igualada (0.05 €) voltou para Herrero2610
+Herrero2610 recebeu 0.10 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [8h Ac 4d]
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 2: Herrero2610 recebeu (0.10 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu no Flop
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 34 **************
+Mão #261878824027 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:13:16 UTC [2026/08/26 18:13:16 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.16 € em fichas)
+Lugar 2: Herrero2610 (2 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.66 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d 8d]
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: iguala 0.04 €
+Kyra0908: desiste
+*** FLOP *** [9s 3c Ts]
+Bidinh0: passa
+leunamor7: aposta 0.06 €
+Bidinh0: desiste
+Aposta não-igualada (0.06 €) voltou para leunamor7
+leunamor7 recebeu 0.11 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [9s 3c Ts]
+Lugar 1: leunamor7 recebeu (0.11 €)
+Lugar 2: Herrero2610 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu no Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 35 **************
+Mão #261878819068 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:12:50 UTC [2026/08/26 18:12:50 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (6.21 € em fichas)
+Lugar 2: Herrero2610 (2 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 5: Bidinh0 (2.61 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc Th]
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Herrero2610: desiste
+osorio211: desiste
+Bidinh0: iguala 0.03 €
+*** FLOP *** [Kh Tc Qh]
+Bidinh0: aposta 0.10 €
+leunamor7: desiste
+Aposta não-igualada (0.10 €) voltou para Bidinh0
+Bidinh0 recebeu 0.10 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.11 € | comissão 0.01 €
+Mesa [Kh Tc Qh]
+Lugar 1: leunamor7 desistiu no Flop
+Lugar 2: Herrero2610 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) recebeu (0.10 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 36 **************
+Mão #261878815746 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:12:33 UTC [2026/08/26 18:12:33 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.21 € em fichas)
+Lugar 2: Herrero2610 (2.01 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (2.58 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+Herrero2610: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s 8c]
+Bidinh0: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+leunamor7: desiste
+Herrero2610: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Bidinh0
+Bidinh0 recebeu 0.05 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Herrero2610 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 recebeu (0.05 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 37 **************
+Mão #261878813433 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:12:22 UTC [2026/08/26 18:12:22 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.22 € em fichas)
+Lugar 2: Herrero2610 (2 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (2.58 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+leunamor7: é small blind 0.01 €
+Herrero2610: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td Jh]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.01 €) voltou para Herrero2610
+Herrero2610 recebeu 0.02 € do pote
+Herrero2610: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: Herrero2610 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 38 **************
+Mão #261878811212 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:12:10 UTC [2026/08/26 18:12:10 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.21 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (2.58 € em fichas)
+Lugar 6: Kyra0908 (4 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Ks]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para leunamor7
+leunamor7 recebeu 0.02 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 39 **************
+Mão #261878804806 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:11:38 UTC [2026/08/26 18:11:38 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.18 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (2.59 € em fichas)
+Lugar 6: Kyra0908 (4.02 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 8h]
+leunamor7: sobe 0.03 € para 0.05 €
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.03 €) voltou para leunamor7
+leunamor7 recebeu 0.05 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 recebeu (0.05 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 40 **************
+Mão #261878800778 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:11:17 UTC [2026/08/26 18:11:17 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.18 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.61 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h Qh]
+Herrero2610 junta-se à mesa no lugar #2
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+osorio211: desiste
+Bidinh0: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 recebeu (0.05 €)
+
+
+*********** # 41 **************
+Mão #261878798368 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:11:05 UTC [2026/08/26 18:11:05 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.19 € em fichas)
+Lugar 4: osorio211 (2.09 € em fichas)
+Lugar 5: Bidinh0 (2.61 € em fichas)
+Lugar 6: Kyra0908 (3.96 € em fichas)
+leunamor7: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 7h]
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 42 **************
+Mão #261878796188 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:10:53 UTC [2026/08/26 18:10:53 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.18 € em fichas)
+Lugar 4: osorio211 (2.09 € em fichas)
+Lugar 5: Bidinh0 (2.61 € em fichas)
+Lugar 6: Kyra0908 (3.97 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js 2d]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para leunamor7
+leunamor7 recebeu 0.02 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 43 **************
+Mão #261878792382 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:10:34 UTC [2026/08/26 18:10:34 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.18 € em fichas)
+Lugar 4: osorio211 (2.06 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd Kc]
+leunamor7: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) recebeu (0.05 €)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 44 **************
+Mão #261878783090 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:09:47 UTC [2026/08/26 18:09:47 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.23 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.64 € em fichas)
+Lugar 6: Kyra0908 (3.99 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qd Js]
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+osorio211: iguala 0.04 €
+Bidinh0: desiste
+*** FLOP *** [9h 4d Qc]
+osorio211: passa
+leunamor7: passa
+*** TURN *** [9h 4d Qc] [7c]
+osorio211: aposta 0.06 €
+leunamor7: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.11 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0.01 €
+Mesa [9h 4d Qc 7c]
+Lugar 1: leunamor7 (Botão) desistiu no Turn
+Lugar 4: osorio211 (small blind) recebeu (0.11 €)
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 45 **************
+Mão #261878780186 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:09:32 UTC [2026/08/26 18:09:32 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.24 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.64 € em fichas)
+Lugar 6: Kyra0908 (3.96 € em fichas)
+leunamor7: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 8s]
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 46 **************
+Mão #261878763764 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:08:08 UTC [2026/08/26 18:08:08 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.26 € em fichas)
+Lugar 4: osorio211 (2.16 € em fichas)
+Lugar 5: Bidinh0 (2.64 € em fichas)
+Lugar 6: Kyra0908 (2.92 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h Ac]
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: desiste
+Kyra0908: iguala 0.05 €
+leunamor7: desiste
+*** FLOP *** [4h 8s 7c]
+Kyra0908: passa
+osorio211: aposta 0.05 €
+Kyra0908: iguala 0.05 €
+*** TURN *** [4h 8s 7c] [Tc]
+Kyra0908: passa
+osorio211: aposta 0.08 €
+Kyra0908: iguala 0.08 €
+*** RIVER *** [4h 8s 7c Tc] [Ad]
+Kyra0908: passa
+osorio211: aposta 0.19 €
+Kyra0908: sobe 0.76 € para 0.95 €
+osorio211: iguala 0.76 €
+*** SHOW DOWN ***
+Kyra0908: mostra [Th Ah] (dois pares, Ases e Dez)
+osorio211: esconde a mão
+Kyra0908 recebeu 2.18 € do pote
+*** SUMÁRIO ***
+Total pote 2.30 € | comissão 0.12 €
+Mesa [4h 8s 7c Tc Ad]
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 4: osorio211 escondeu as cartas [7h Ac]
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) mostrou [Th Ah] e ganhou (2.18 €) com dois pares, Ases e Dez
+
+
+*********** # 47 **************
+Mão #261878761551 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:07:57 UTC [2026/08/26 18:07:57 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.26 € em fichas)
+Lugar 4: osorio211 (2.13 € em fichas)
+Lugar 5: Bidinh0 (2.65 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Tc 9c]
+leunamor7: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) recebeu (0.05 €)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 48 **************
+Mão #261878755839 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:07:28 UTC [2026/08/26 18:07:28 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.26 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 5d]
+Kyra0908: desiste
+leunamor7: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Bidinh0: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) recebeu (0.04 €)
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 49 **************
+Mão #261878753618 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:07:16 UTC [2026/08/26 18:07:16 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.27 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+leunamor7: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 7c]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.02 €)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 50 **************
+Mão #261878749467 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:06:56 UTC [2026/08/26 18:06:56 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.29 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.95 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac 3c]
+osorio211: sobe 0.04 € para 0.06 €
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) desistiu antes Flop
+Lugar 4: osorio211 recebeu (0.05 €)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 51 **************
+Mão #261878747769 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:06:47 UTC [2026/08/26 18:06:47 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.29 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.68 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3h Jd]
+leunamor7: desiste
+osorio211: desiste
+Bidinh0: desiste
+Aposta não-igualada (0.01 €) voltou para Kyra0908
+Kyra0908 recebeu 0.02 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) recebeu (0.02 €)
+
+
+*********** # 52 **************
+Mão #261878746287 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:06:40 UTC [2026/08/26 18:06:40 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.29 € em fichas)
+Lugar 4: osorio211 (2.08 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c Qs]
+Kyra0908: desiste
+leunamor7: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Bidinh0
+Bidinh0 recebeu 0.02 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) recebeu (0.02 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 53 **************
+Mão #261878743430 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:06:25 UTC [2026/08/26 18:06:25 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.30 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.94 € em fichas)
+leunamor7: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 4c]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.02 €)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 54 **************
+Mão #261878739400 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:06:05 UTC [2026/08/26 18:06:05 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.24 € em fichas)
+Lugar 2: peres437 (2.30 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (3 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5h 2d]
+peres437: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+peres437 abandona a mesa
+leunamor7: sobe 0.14 € para 0.20 €
+Kyra0908: desiste
+Aposta não-igualada (0.14 €) voltou para leunamor7
+leunamor7 recebeu 0.12 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.12 € | comissão 0 €
+Lugar 1: leunamor7 (big blind) recebeu (0.12 €)
+Lugar 2: peres437 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 55 **************
+Mão #261878731882 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:05:27 UTC [2026/08/26 18:05:27 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.24 € em fichas)
+Lugar 2: peres437 (2.30 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Bidinh0 (2.65 € em fichas)
+Lugar 6: Kyra0908 (3.02 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s 2c]
+leunamor7: desiste
+peres437: desiste
+osorio211: desiste
+Bidinh0: iguala 0.01 €
+Kyra0908: passa
+*** FLOP *** [8d 5h 2s]
+Bidinh0: passa
+Kyra0908: passa
+*** TURN *** [8d 5h 2s] [Td]
+Bidinh0: passa
+Kyra0908: passa
+*** RIVER *** [8d 5h 2s Td] [Qd]
+Bidinh0: aposta 0.02 €
+Kyra0908: desiste
+Aposta não-igualada (0.02 €) voltou para Bidinh0
+Bidinh0 recebeu 0.04 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [8d 5h 2s Td Qd]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: peres437 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) recebeu (0.04 €)
+Lugar 6: Kyra0908 (big blind) desistiu no River
+
+
+*********** # 56 **************
+Mão #261878726754 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:05:00 UTC [2026/08/26 18:05:00 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (6.24 € em fichas)
+Lugar 2: peres437 (2.30 € em fichas)
+Lugar 3: Snake800t (0.48 € em fichas)
+Lugar 4: osorio211 (2.08 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.56 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s 7h]
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+peres437: desiste
+Snake800t: sobe 0.42 € para 0.48 € e está all-in
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: iguala 0.42 €
+*** FLOP *** [4h 7c 9c]
+*** TURN *** [4h 7c 9c] [3c]
+*** RIVER *** [4h 7c 9c 3c] [3d]
+*** SHOW DOWN ***
+Kyra0908: mostra [6c 6d] (dois pares, Seis e Três)
+Snake800t: mostra [Jd Kh] (par de Três)
+Kyra0908 recebeu 0.94 € do pote
+*** SUMÁRIO ***
+Total pote 0.99 € | comissão 0.05 €
+Mesa [4h 7c 9c 3c 3d]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: peres437 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (Botão) mostrou [Jd Kh] e perdeu com par de Três
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 mostrou [6c 6d] e ganhou (0.94 €) com dois pares, Seis e Três
+
+
+*********** # 57 **************
+Mão #261878722659 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:04:39 UTC [2026/08/26 18:04:39 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: leunamor7 (6.24 € em fichas)
+Lugar 2: peres437 (2.30 € em fichas)
+Lugar 3: Snake800t (0.49 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.53 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ks 9c]
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+peres437: desiste
+Snake800t: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 2: peres437 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 recebeu (0.05 €)
+
+
+*********** # 58 **************
+Mão #261878708054 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:03:23 UTC [2026/08/26 18:03:23 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.35 € em fichas)
+Lugar 2: peres437 (2.18 € em fichas)
+Lugar 3: Snake800t (0.51 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.53 € em fichas)
+peres437: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4s 4d]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+peres437: iguala 0.04 €
+Snake800t: desiste
+*** FLOP *** [9s 7s 9c]
+peres437: passa
+leunamor7: passa
+*** TURN *** [9s 7s 9c] [Js]
+peres437: aposta 0.06 €
+leunamor7: iguala 0.06 €
+*** RIVER *** [9s 7s 9c Js] [Ks]
+peres437: aposta 0.12 €
+leunamor7: desiste
+Aposta não-igualada (0.12 €) voltou para peres437
+peres437 recebeu 0.23 € do pote
+peres437: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [9s 7s 9c Js Ks]
+Lugar 1: leunamor7 (Botão) desistiu no River
+Lugar 2: peres437 (small blind) recebeu (0.23 €)
+Lugar 3: Snake800t (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 59 **************
+Mão #261878703990 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:03:01 UTC [2026/08/26 18:03:01 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.36 € em fichas)
+Lugar 2: peres437 (2.20 € em fichas)
+Lugar 3: Snake800t (0.42 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.59 € em fichas)
+leunamor7: é small blind 0.01 €
+peres437: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c 3c]
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: desiste
+peres437: desiste
+Snake800t: sobe 0.36 € para 0.42 € e está all-in
+Kyra0908: desiste
+Aposta não-igualada (0.36 €) voltou para Snake800t
+Snake800t recebeu 0.15 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 2: peres437 (big blind) desistiu antes Flop
+Lugar 3: Snake800t recebeu (0.15 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop
+
+
+*********** # 60 **************
+Mão #261878693481 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:02:05 UTC [2026/08/26 18:02:05 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.65 € em fichas)
+Lugar 2: peres437 (1.88 € em fichas)
+Lugar 3: Snake800t (0.42 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Bidinh0 (2.67 € em fichas)
+Lugar 6: Kyra0908 (2.65 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah 4d]
+peres437: iguala 0.02 €
+Snake800t: desiste
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+leunamor7: iguala 0.04 €
+peres437: iguala 0.04 €
+*** FLOP *** [6s 9d Qs]
+Kyra0908: passa
+leunamor7: passa
+peres437: passa
+*** TURN *** [6s 9d Qs] [7d]
+Kyra0908: passa
+leunamor7: aposta 0.14 €
+peres437: iguala 0.14 €
+Kyra0908: desiste
+*** RIVER *** [6s 9d Qs 7d] [8s]
+leunamor7: aposta 0.09 €
+peres437: sobe 0.62 € para 0.71 €
+leunamor7: desiste
+Aposta não-igualada (0.62 €) voltou para peres437
+peres437 recebeu 0.61 € do pote
+peres437: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.64 € | comissão 0.03 €
+Mesa [6s 9d Qs 7d 8s]
+Lugar 1: leunamor7 (big blind) desistiu no River
+Lugar 2: peres437 recebeu (0.61 €)
+Lugar 3: Snake800t desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu no Turn
+
+
+*********** # 61 **************
+Mão #261878687505 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:01:32 UTC [2026/08/26 18:01:32 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: peres437 (1.96 € em fichas)
+Lugar 3: Snake800t (0.42 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.68 € em fichas)
+Lugar 6: Kyra0908 (2.67 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 5s]
+peres437: iguala 0.02 €
+Snake800t: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Bidinh0: desiste
+Kyra0908: desiste
+peres437: iguala 0.06 €
+*** FLOP *** [Ad 2s 9h]
+peres437: passa
+osorio211: aposta 0.06 €
+peres437: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.18 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [Ad 2s 9h]
+Lugar 2: peres437 desistiu no Flop
+Lugar 3: Snake800t desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) recebeu (0.18 €)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 62 **************
+Mão #261878682681 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:01:06 UTC [2026/08/26 18:01:06 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 2: peres437 (1.96 € em fichas)
+Lugar 3: Snake800t (0.42 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.74 € em fichas)
+Lugar 6: Kyra0908 (2.61 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8h Qd]
+Kyra0908: sobe 0.04 € para 0.06 €
+peres437: desiste
+Snake800t: desiste
+osorio211: desiste
+Bidinh0: iguala 0.04 €
+*** FLOP *** [6d Kc 5h]
+Bidinh0: passa
+Kyra0908: aposta 0.06 €
+Bidinh0: desiste
+Aposta não-igualada (0.06 €) voltou para Kyra0908
+Kyra0908 recebeu 0.12 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [6d Kc 5h]
+Lugar 2: peres437 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) desistiu no Flop
+Lugar 6: Kyra0908 recebeu (0.12 €)
+
+
+*********** # 63 **************
+Mão #261878678000 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:00:36 UTC [2026/08/26 18:00:36 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: peres437 (1.96 € em fichas)
+Lugar 3: Snake800t (0.35 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 5: Bidinh0 (2.74 € em fichas)
+Lugar 6: Kyra0908 (2.61 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c 5h]
+Bidinh0: desiste
+Kyra0908: desiste
+peres437: desiste
+Snake800t: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+Snake800t: iguala 0.06 €
+*** FLOP *** [7c Td Qd]
+Snake800t: aposta 0.15 €
+osorio211: desiste
+Aposta não-igualada (0.15 €) voltou para Snake800t
+Snake800t recebeu 0.15 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [7c Td Qd]
+Lugar 2: peres437 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (small blind) recebeu (0.15 €)
+Lugar 4: osorio211 (big blind) desistiu no Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 64 **************
+Mão #261878673721 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 22:00:06 UTC [2026/08/26 18:00:06 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: peres437 (1.94 € em fichas)
+Lugar 3: Snake800t (0.37 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 5: Bidinh0 (2.74 € em fichas)
+Lugar 6: Kyra0908 (2.61 € em fichas)
+peres437: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5d Ac]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+peres437: iguala 0.01 €
+Snake800t: passa
+*** FLOP *** [3d Js Kh]
+peres437: passa
+Snake800t: passa
+*** TURN *** [3d Js Kh] [6h]
+peres437: passa
+Snake800t: passa
+*** RIVER *** [3d Js Kh 6h] [Ah]
+peres437: passa
+Snake800t: passa
+*** SHOW DOWN ***
+peres437: mostra [3s 4s] (par de Três)
+Snake800t: esconde a mão
+peres437 recebeu 0.04 € do pote
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [3d Js Kh 6h Ah]
+Lugar 2: peres437 (small blind) mostrou [3s 4s] e ganhou (0.04 €) com par de Três
+Lugar 3: Snake800t (big blind) escondeu as cartas [2d Th]
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 65 **************
+Mão #261878669988 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:59:38 UTC [2026/08/26 17:59:38 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 2: peres437 (2 € em fichas)
+Lugar 3: Snake800t (0.37 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 5: Bidinh0 (2.68 € em fichas)
+Lugar 6: Kyra0908 (2.62 € em fichas)
+Kyra0908: é small blind 0.01 €
+peres437: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 3c]
+Snake800t: desiste
+osorio211: desiste
+Bidinh0: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+peres437: iguala 0.04 €
+*** FLOP *** [Th Kd 4d]
+peres437: passa
+Bidinh0: aposta 0.08 €
+peres437: desiste
+Aposta não-igualada (0.08 €) voltou para Bidinh0
+Bidinh0 recebeu 0.12 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [Th Kd 4d]
+Lugar 2: peres437 (big blind) desistiu no Flop
+Lugar 3: Snake800t desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) recebeu (0.12 €)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 66 **************
+Mão #261878664237 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:58:55 UTC [2026/08/26 17:58:55 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 3: Snake800t (0.30 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 5: Bidinh0 (2.69 € em fichas)
+Lugar 6: Kyra0908 (2.69 € em fichas)
+Bidinh0: é small blind 0.01 €
+peres437 junta-se à mesa no lugar #2
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 2h]
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: passa
+*** FLOP *** [Js 7h Th]
+Kyra0908: passa
+Snake800t: passa
+*** TURN *** [Js 7h Th] [4h]
+Kyra0908: aposta 0.05 €
+Snake800t: sobe 0.23 € para 0.28 € e está all-in
+Kyra0908: desiste
+Aposta não-igualada (0.23 €) voltou para Snake800t
+Snake800t recebeu 0.14 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.15 € | comissão 0.01 €
+Mesa [Js 7h Th 4h]
+Lugar 3: Snake800t recebeu (0.14 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu no Turn
+
+
+*********** # 67 **************
+Mão #261878661889 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:58:38 UTC [2026/08/26 17:58:38 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 3: Snake800t (0.32 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.71 € em fichas)
+Lugar 6: Kyra0908 (2.69 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs Js]
+Kyra0908: desiste
+Snake800t: iguala 0.02 €
+osorio211: sobe 0.08 € para 0.10 €
+Bidinh0: desiste
+Snake800t: desiste
+Aposta não-igualada (0.08 €) voltou para osorio211
+osorio211 recebeu 0.06 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Lugar 3: Snake800t (Botão) desistiu antes Flop
+Lugar 4: osorio211 (small blind) recebeu (0.06 €)
+Lugar 5: Bidinh0 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 68 **************
+Mão #261878659644 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:58:21 UTC [2026/08/26 17:58:21 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 3: Snake800t (0.30 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.71 € em fichas)
+Lugar 6: Kyra0908 (2.69 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s Qh]
+Bidinh0: desiste
+Kyra0908: desiste
+Snake800t: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [8h Ad Kc]
+Snake800t: aposta 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Snake800t
+Snake800t recebeu 0.04 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [8h Ad Kc]
+Lugar 3: Snake800t (small blind) recebeu (0.04 €)
+Lugar 4: osorio211 (big blind) desistiu no Flop
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 69 **************
+Mão #261878658443 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:58:12 UTC [2026/08/26 17:58:12 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 3: Snake800t (0.29 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.71 € em fichas)
+Lugar 6: Kyra0908 (2.70 € em fichas)
+Kyra0908: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d Kh]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para Snake800t
+Snake800t recebeu 0.02 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 3: Snake800t (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 70 **************
+Mão #261878654103 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:57:40 UTC [2026/08/26 17:57:40 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.65 € em fichas)
+Lugar 3: Snake800t (0.31 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.73 € em fichas)
+Lugar 6: Kyra0908 (2.66 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h 2h]
+leunamor7: desiste
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Bidinh0: iguala 0.01 €
+Kyra0908: passa
+*** FLOP *** [8c 5h 7d]
+Bidinh0: passa
+Kyra0908: aposta 0.30 €
+Snake800t: desiste
+Bidinh0: desiste
+Aposta não-igualada (0.30 €) voltou para Kyra0908
+Kyra0908 recebeu 0.06 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.06 € | comissão 0 €
+Mesa [8c 5h 7d]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t desistiu no Flop
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu no Flop
+Lugar 6: Kyra0908 (big blind) recebeu (0.06 €)
+
+
+*********** # 71 **************
+Mão #261878652366 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:57:28 UTC [2026/08/26 17:57:28 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (6.65 € em fichas)
+Lugar 3: Snake800t (0.31 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.72 € em fichas)
+Lugar 6: Kyra0908 (2.66 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 9c]
+Kyra0908: desiste
+leunamor7: desiste
+Snake800t: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Bidinh0
+Bidinh0 recebeu 0.02 € do pote
+Bidinh0: não mostra a mão
+levezinho32 abandona a mesa
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) recebeu (0.02 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 72 **************
+Mão #261878649354 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:57:05 UTC [2026/08/26 17:57:05 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.65 € em fichas)
+Lugar 3: Snake800t (0.31 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.73 € em fichas)
+Lugar 6: Kyra0908 (2.66 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5c Js]
+Bidinh0: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+leunamor7: desiste
+Snake800t: sobe 0.25 € para 0.31 € e está all-in
+osorio211: desiste
+Bidinh0: iguala 0.25 €
+*** FLOP *** [As Qs 5s]
+*** TURN *** [As Qs 5s] [9s]
+*** RIVER *** [As Qs 5s 9s] [4s]
+*** SHOW DOWN ***
+Snake800t: mostra [Qh Jd] (Cor, Ás carta mais alta)
+Bidinh0: mostra [Td Th] (Cor, Ás carta mais alta)
+Snake800t recebeu 0.31 € do pote
+Bidinh0 recebeu 0.30 € do pote
+*** SUMÁRIO ***
+Total pote 0.64 € | comissão 0.03 €
+Mesa [As Qs 5s 9s 4s]
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (small blind) mostrou [Qh Jd] e ganhou (0.31 €) com Cor, Ás carta mais alta
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Bidinh0 mostrou [Td Th] e ganhou (0.30 €) com Cor, Ás carta mais alta
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 73 **************
+Mão #261878648090 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:56:56 UTC [2026/08/26 17:56:56 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.66 € em fichas)
+Lugar 3: Snake800t (0.30 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.73 € em fichas)
+Lugar 6: Kyra0908 (2.66 € em fichas)
+leunamor7: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3s 5h]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Aposta não-igualada (0.01 €) voltou para Snake800t
+Snake800t recebeu 0.02 € do pote
+Snake800t: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) desistiu antes Flop
+Lugar 3: Snake800t (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 74 **************
+Mão #261878643644 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:56:22 UTC [2026/08/26 17:56:22 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: leunamor7 (6.68 € em fichas)
+Lugar 3: Snake800t (0.32 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.68 € em fichas)
+Lugar 6: Kyra0908 (2.67 € em fichas)
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th 2d]
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Bidinh0: iguala 0.02 €
+Kyra0908: desiste
+leunamor7: passa
+*** FLOP *** [8h 9c As]
+leunamor7: passa
+Snake800t: passa
+Bidinh0: aposta 0.07 €
+leunamor7: desiste
+Snake800t: desiste
+Aposta não-igualada (0.07 €) voltou para Bidinh0
+Bidinh0 recebeu 0.07 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.07 € | comissão 0 €
+Mesa [8h 9c As]
+Lugar 1: leunamor7 (big blind) desistiu no Flop
+Lugar 3: Snake800t desistiu no Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (Botão) recebeu (0.07 €)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 75 **************
+Mão #261878637360 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:55:36 UTC [2026/08/26 17:55:36 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.68 € em fichas)
+Lugar 3: Snake800t (0.57 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Bidinh0 (2.70 € em fichas)
+Lugar 6: Kyra0908 (2.43 € em fichas)
+Bidinh0: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c Td]
+leunamor7: desiste
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Bidinh0: iguala 0.01 €
+Kyra0908: passa
+*** FLOP *** [3h 9d 5h]
+Bidinh0: passa
+Kyra0908: aposta 0.06 €
+Snake800t: iguala 0.06 €
+Bidinh0: desiste
+*** TURN *** [3h 9d 5h] [7c]
+Kyra0908: aposta 0.17 €
+Snake800t: iguala 0.17 €
+*** RIVER *** [3h 9d 5h 7c] [5s]
+Kyra0908: passa
+Snake800t: passa
+*** SHOW DOWN ***
+Kyra0908: mostra [Kh 9h] (dois pares, Noves e Cincos)
+Snake800t: esconde a mão
+Kyra0908 recebeu 0.49 € do pote
+*** SUMÁRIO ***
+Total pote 0.52 € | comissão 0.03 €
+Mesa [3h 9d 5h 7c 5s]
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t escondeu as cartas [8d 9s]
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 (small blind) desistiu no Flop
+Lugar 6: Kyra0908 (big blind) mostrou [Kh 9h] e ganhou (0.49 €) com dois pares, Noves e Cincos
+
+
+*********** # 76 **************
+Mão #261878634862 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:55:17 UTC [2026/08/26 17:55:17 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: leunamor7 (6.68 € em fichas)
+Lugar 3: Snake800t (0.57 € em fichas)
+Lugar 4: osorio211 (2.05 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (2.43 € em fichas)
+osorio211: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad Tc]
+Kyra0908: desiste
+leunamor7: desiste
+Snake800t: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Bidinh0: sobe 0.12 € para 0.20 €
+osorio211: desiste
+Aposta não-igualada (0.12 €) voltou para Bidinh0
+Bidinh0 recebeu 0.16 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0 €
+Lugar 1: leunamor7 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Bidinh0 (big blind) recebeu (0.16 €)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 77 **************
+Mão #261878631472 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:54:57 UTC [2026/08/26 17:54:57 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: leunamor7 (6.68 € em fichas)
+Lugar 3: Snake800t (0.59 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (2.43 € em fichas)
+Snake800t: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7h Ad]
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: desiste
+Snake800t: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+Snake800t: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: leunamor7 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: Snake800t (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.04 €)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 78 **************
+Mão #261878628040 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:54:40 UTC [2026/08/26 17:54:40 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: leunamor7 (6.66 € em fichas)
+Lugar 3: Snake800t (0.61 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Bidinh0 (2.62 € em fichas)
+Lugar 6: Kyra0908 (2.43 € em fichas)
+leunamor7: é small blind 0.01 €
+Snake800t: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Th]
+osorio211: desiste
+Bidinh0: desiste
+Kyra0908: desiste
+leunamor7: sobe 0.03 € para 0.05 €
+Snake800t: desiste
+Aposta não-igualada (0.03 €) voltou para leunamor7
+leunamor7 recebeu 0.04 € do pote
+leunamor7: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 1: leunamor7 (small blind) recebeu (0.04 €)
+Lugar 3: Snake800t (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 79 **************
+Mão #261878611525 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:53:15 UTC [2026/08/26 17:53:15 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: leunamor7 (6.71 € em fichas)
+Lugar 2: levezinho32 (1.14 € em fichas)
+Lugar 3: Snake800t (0.80 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.21 € em fichas)
+Bidinh0 poderá jogar depois do botão
+Kyra0908: é small blind 0.01 €
+leunamor7: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 6c]
+levezinho32: desiste
+Snake800t: iguala 0.02 €
+osorio211: desiste
+Kyra0908: iguala 0.01 €
+leunamor7: passa
+*** FLOP *** [3h 7h 2s]
+Kyra0908: passa
+leunamor7: aposta 0.03 €
+Snake800t: iguala 0.03 €
+Kyra0908: iguala 0.03 €
+*** TURN *** [3h 7h 2s] [3d]
+Kyra0908: passa
+leunamor7: passa
+Snake800t: passa
+*** RIVER *** [3h 7h 2s 3d] [Ad]
+Kyra0908: aposta 0.07 €
+leunamor7: desiste
+Snake800t: sobe 0.07 € para 0.14 €
+Kyra0908: iguala 0.07 €
+*** SHOW DOWN ***
+Snake800t: mostra [As Jd] (dois pares, Ases e Três)
+Kyra0908: mostra [3c 5c] (trio, Três)
+Kyra0908 recebeu 0.41 € do pote
+*** SUMÁRIO ***
+Total pote 0.43 € | comissão 0.02 €
+Mesa [3h 7h 2s 3d Ad]
+Lugar 1: leunamor7 (big blind) desistiu no River
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: Snake800t mostrou [As Jd] e perdeu com dois pares, Ases e Três
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) mostrou [3c 5c] e ganhou (0.41 €) com trio, Três
+
+
+*********** # 80 **************
+Mão #261878608299 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:59 UTC [2026/08/26 17:52:59 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.14 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 6: Kyra0908 (2.23 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [As Ah]
+levezinho32: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Kyra0908: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) recebeu (0.04 €)
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 81 **************
+Mão #261878605745 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:46 UTC [2026/08/26 17:52:46 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.15 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.20 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 7h]
+Kyra0908: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 82 **************
+Mão #261878603470 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:35 UTC [2026/08/26 17:52:35 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.17 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.21 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h 9s]
+osorio211: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+levezinho32: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 4: osorio211 (Botão) recebeu (0.05 €)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 83 **************
+Mão #261878601058 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:22 UTC [2026/08/26 17:52:22 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.14 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.23 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kc 8d]
+levezinho32: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.02 €) voltou para levezinho32
+levezinho32 recebeu 0.05 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (Botão) recebeu (0.05 €)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 84 **************
+Mão #261878598971 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:12 UTC [2026/08/26 17:52:12 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.15 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.20 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts 5s]
+Kyra0908: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 85 **************
+Mão #261878596649 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:52:00 UTC [2026/08/26 17:52:00 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.17 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.18 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 4d]
+osorio211: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.04 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) recebeu (0.04 €)
+
+
+*********** # 86 **************
+Mão #261878591496 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:51:33 UTC [2026/08/26 17:51:33 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.17 € em fichas)
+Lugar 4: osorio211 (2.05 € em fichas)
+Lugar 6: Kyra0908 (2.06 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Th Jd]
+levezinho32: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Kyra0908: iguala 0.06 €
+*** FLOP *** [Kh 4h Kc]
+osorio211: aposta 0.05 €
+Kyra0908: sobe 0.25 € para 0.30 €
+osorio211: desiste
+Aposta não-igualada (0.25 €) voltou para Kyra0908
+Kyra0908 recebeu 0.25 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.26 € | comissão 0.01 €
+Mesa [Kh 4h Kc]
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu no Flop
+Lugar 6: Kyra0908 (big blind) recebeu (0.25 €)
+
+
+*********** # 87 **************
+Mão #261878585576 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:51:04 UTC [2026/08/26 17:51:04 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.19 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.06 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d Th]
+Kyra0908: desiste
+levezinho32: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Ac 9h As]
+levezinho32: passa
+osorio211: aposta 0.02 €
+levezinho32: desiste
+Aposta não-igualada (0.02 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Ac 9h As]
+Lugar 2: levezinho32 (small blind) desistiu no Flop
+Lugar 4: osorio211 (big blind) recebeu (0.04 €)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 88 **************
+Mão #261878583546 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:50:53 UTC [2026/08/26 17:50:53 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.07 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s Ts]
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para levezinho32
+levezinho32 recebeu 0.02 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 89 **************
+Mão #261878581179 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:50:41 UTC [2026/08/26 17:50:41 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.15 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 6: Kyra0908 (2.09 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c Jc]
+levezinho32: sobe 0.02 € para 0.04 €
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.02 €) voltou para levezinho32
+levezinho32 recebeu 0.05 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (Botão) recebeu (0.05 €)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 90 **************
+Mão #261878579182 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:50:31 UTC [2026/08/26 17:50:31 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.16 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.09 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 5c]
+Kyra0908: desiste
+levezinho32: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.02 €)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 91 **************
+Mão #261878576612 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:50:19 UTC [2026/08/26 17:50:19 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.10 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd 8c]
+osorio211: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+levezinho32: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 4: osorio211 (Botão) recebeu (0.05 €)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 92 **************
+Mão #261878569679 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:49:44 UTC [2026/08/26 17:49:44 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 6: Kyra0908 (2.03 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qs 7c]
+levezinho32: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Kyra0908: iguala 0.06 €
+*** FLOP *** [5c 3s 3h]
+osorio211: passa
+Kyra0908: passa
+*** TURN *** [5c 3s 3h] [2c]
+osorio211: passa
+Kyra0908: passa
+*** RIVER *** [5c 3s 3h 2c] [Kh]
+osorio211: passa
+Kyra0908: aposta 0.15 €
+osorio211: desiste
+Aposta não-igualada (0.15 €) voltou para Kyra0908
+Kyra0908 recebeu 0.15 € do pote
+Necamarmelo abandona a mesa
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [5c 3s 3h 2c Kh]
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu no River
+Lugar 6: Kyra0908 (big blind) recebeu (0.15 €)
+
+
+*********** # 93 **************
+Mão #261878567809 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:49:35 UTC [2026/08/26 17:49:35 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.19 € em fichas)
+Lugar 4: osorio211 (2.02 € em fichas)
+Lugar 6: Kyra0908 (2.03 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h Kd]
+Kyra0908: desiste
+levezinho32: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.02 €)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 94 **************
+Mão #261878565204 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:49:22 UTC [2026/08/26 17:49:22 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2.02 € em fichas)
+Lugar 6: Kyra0908 (2.04 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h 2s]
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para levezinho32
+levezinho32 recebeu 0.02 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 95 **************
+Mão #261878562402 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:49:08 UTC [2026/08/26 17:49:08 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 6: Kyra0908 (2.06 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td Jh]
+levezinho32: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Kyra0908: desiste
+Aposta não-igualada (0.06 €) voltou para osorio211
+osorio211 recebeu 0.04 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) recebeu (0.04 €)
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 96 **************
+Mão #261878559744 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:48:55 UTC [2026/08/26 17:48:55 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 2: levezinho32 (1.19 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 6: Kyra0908 (2.03 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [8d 4h]
+Kyra0908: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 97 **************
+Mão #261878557847 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:48:45 UTC [2026/08/26 17:48:45 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 6: Kyra0908 (2.04 € em fichas)
+Kyra0908: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d 9c]
+osorio211: desiste
+Kyra0908: desiste
+Aposta não-igualada (0.01 €) voltou para levezinho32
+levezinho32 recebeu 0.02 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 2: levezinho32 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 98 **************
+Mão #261878555694 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:48:35 UTC [2026/08/26 17:48:35 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (9.23 € em fichas)
+Lugar 2: levezinho32 (1.18 € em fichas)
+Lugar 4: osorio211 (2.02 € em fichas)
+Lugar 6: Kyra0908 (2.03 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2c 7d]
+ohlaracorp: desiste
+ohlaracorp abandona a mesa
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Kyra0908
+Kyra0908 recebeu 0.02 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 6: Kyra0908 (big blind) recebeu (0.02 €)
+
+
+*********** # 99 **************
+Mão #261878553384 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:48:23 UTC [2026/08/26 17:48:23 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (9.20 € em fichas)
+Lugar 2: levezinho32 (1.19 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 6: Kyra0908 (2.03 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4c Kd]
+Kyra0908: desiste
+ohlaracorp: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.05 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) recebeu (0.05 €)
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 100 **************
+Mão #261878549604 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:48:05 UTC [2026/08/26 17:48:05 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (9.21 € em fichas)
+Lugar 2: levezinho32 (1.21 € em fichas)
+Lugar 3: GG0025WP (1.39 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9d 5h]
+GG0025WP: desiste
+osorio211: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+GG0025WP abandona a mesa
+levezinho32: desiste
+Aposta não-igualada (0.04 €) voltou para Kyra0908
+Kyra0908 recebeu 0.05 € do pote
+Kyra0908: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 3: GG0025WP desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (Botão) recebeu (0.05 €)
+
+
+*********** # 101 **************
+Mão #261878539530 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:47:15 UTC [2026/08/26 17:47:15 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.83 € em fichas)
+Lugar 2: levezinho32 (1.21 € em fichas)
+Lugar 3: GG0025WP (1.80 € em fichas)
+Lugar 4: osorio211 (2.04 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+Kyra0908: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc 2c]
+levezinho32: desiste
+GG0025WP: iguala 0.02 €
+osorio211: desiste
+Kyra0908: desiste
+ohlaracorp: passa
+*** FLOP *** [Jh Qh 5d]
+ohlaracorp: aposta 0.05 €
+GG0025WP: iguala 0.05 €
+*** TURN *** [Jh Qh 5d] [7d]
+ohlaracorp: aposta 0.14 €
+GG0025WP: iguala 0.14 €
+*** RIVER *** [Jh Qh 5d 7d] [Jc]
+ohlaracorp: passa
+GG0025WP: aposta 0.20 €
+ohlaracorp: iguala 0.20 €
+*** SHOW DOWN ***
+GG0025WP: mostra [4s 3d] (par de Valetes)
+ohlaracorp: mostra [3h Qd] (dois pares, Damas e Valetes)
+ohlaracorp recebeu 0.79 € do pote
+*** SUMÁRIO ***
+Total pote 0.83 € | comissão 0.04 €
+Mesa [Jh Qh 5d 7d Jc]
+Lugar 1: ohlaracorp (big blind) mostrou [3h Qd] e ganhou (0.79 €) com dois pares, Damas e Valetes
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP mostrou [4s 3d] e perdeu com par de Valetes
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 102 **************
+Mão #261878528073 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:46:20 UTC [2026/08/26 17:46:20 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: ohlaracorp (8.83 € em fichas)
+Lugar 2: levezinho32 (1.21 € em fichas)
+Lugar 3: GG0025WP (1.74 € em fichas)
+Lugar 4: osorio211 (2.08 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+osorio211: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c Kc]
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: sobe 0.02 € para 0.04 €
+osorio211: iguala 0.03 €
+Kyra0908: desiste
+*** FLOP *** [Qd Tc 8h]
+osorio211: passa
+GG0025WP: passa
+*** TURN *** [Qd Tc 8h] [2h]
+osorio211: passa
+GG0025WP: passa
+*** RIVER *** [Qd Tc 8h 2h] [4d]
+osorio211: passa
+GG0025WP: aposta 0.04 €
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para GG0025WP
+GG0025WP recebeu 0.10 € do pote
+GG0025WP: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.10 € | comissão 0 €
+Mesa [Qd Tc 8h 2h 4d]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP (Botão) recebeu (0.10 €)
+Lugar 4: osorio211 (small blind) desistiu no River
+Lugar 6: Kyra0908 (big blind) desistiu antes Flop
+
+
+*********** # 103 **************
+Mão #261878519764 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:45:39 UTC [2026/08/26 17:45:39 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (8.83 € em fichas)
+Lugar 2: levezinho32 (1.21 € em fichas)
+Lugar 3: GG0025WP (1.67 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.19 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+GG0025WP: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td 2d]
+Necamarmelo: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: iguala 0.05 €
+osorio211: desiste
+*** FLOP *** [Kc Ts Ac]
+GG0025WP: passa
+Kyra0908: passa
+*** TURN *** [Kc Ts Ac] [As]
+GG0025WP: passa
+Kyra0908: passa
+*** RIVER *** [Kc Ts Ac As] [4h]
+GG0025WP: passa
+Kyra0908: passa
+*** SHOW DOWN ***
+GG0025WP: mostra [Jh 5d] (par de Ases)
+Kyra0908: esconde a mão
+GG0025WP recebeu 0.13 € do pote
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [Kc Ts Ac As 4h]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP (small blind) mostrou [Jh 5d] e ganhou (0.13 €) com par de Ases
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 escondeu as cartas [5s 7s]
+
+
+*********** # 104 **************
+Mão #261878504847 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:44:27 UTC [2026/08/26 17:44:27 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.89 € em fichas)
+Lugar 2: levezinho32 (1.22 € em fichas)
+Lugar 3: GG0025WP (1.48 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.19 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+levezinho32: é small blind 0.01 €
+GG0025WP: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c Qd]
+osorio211: desiste
+Necamarmelo: desiste
+Kyra0908: sobe 0.04 € para 0.06 €
+ohlaracorp: iguala 0.06 €
+levezinho32: desiste
+GG0025WP: iguala 0.04 €
+*** FLOP *** [4c 8d 5h]
+GG0025WP: passa
+Kyra0908: aposta 0.06 €
+ohlaracorp: desiste
+GG0025WP: iguala 0.06 €
+*** TURN *** [4c 8d 5h] [2h]
+GG0025WP: aposta 0.02 €
+Kyra0908: iguala 0.02 €
+*** RIVER *** [4c 8d 5h 2h] [Ad]
+GG0025WP: aposta 0.20 €
+Kyra0908: desiste
+Aposta não-igualada (0.20 €) voltou para GG0025WP
+GG0025WP recebeu 0.33 € do pote
+GG0025WP: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.35 € | comissão 0.02 €
+Mesa [4c 8d 5h 2h Ad]
+Lugar 1: ohlaracorp (Botão) desistiu no Flop
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 3: GG0025WP (big blind) recebeu (0.33 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu no River
+
+
+*********** # 105 **************
+Mão #261878497044 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:43:49 UTC [2026/08/26 17:43:49 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.90 € em fichas)
+Lugar 2: levezinho32 (1.24 € em fichas)
+Lugar 3: GG0025WP (1.62 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.04 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9c 2c]
+GG0025WP: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Necamarmelo: sobe 0.08 € para 0.14 €
+Kyra0908: desiste
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: iguala 0.08 €
+*** FLOP *** [6s 7h 7s]
+GG0025WP: passa
+Necamarmelo: aposta 0.16 €
+GG0025WP: desiste
+Aposta não-igualada (0.16 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.29 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.31 € | comissão 0.02 €
+Mesa [6s 7h 7s]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 3: GG0025WP desistiu no Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo recebeu (0.29 €)
+Lugar 6: Kyra0908 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 106 **************
+Mão #261878487545 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:43:03 UTC [2026/08/26 17:43:03 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.76 € em fichas)
+Lugar 2: levezinho32 (1.24 € em fichas)
+Lugar 3: GG0025WP (1.76 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.04 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+Kyra0908: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3c 6d]
+levezinho32: desiste
+GG0025WP: iguala 0.02 €
+osorio211: desiste
+Necamarmelo: desiste
+Kyra0908: desiste
+ohlaracorp: passa
+*** FLOP *** [7s 6c 7d]
+ohlaracorp: aposta 0.05 €
+GG0025WP: iguala 0.05 €
+*** TURN *** [7s 6c 7d] [9s]
+ohlaracorp: aposta 0.07 €
+GG0025WP: iguala 0.07 €
+*** RIVER *** [7s 6c 7d 9s] [Kc]
+ohlaracorp: passa
+GG0025WP: passa
+*** SHOW DOWN ***
+ohlaracorp: mostra [6h 8c] (dois pares, Setes e Seis)
+GG0025WP: esconde a mão
+ohlaracorp recebeu 0.28 € do pote
+*** SUMÁRIO ***
+Total pote 0.29 € | comissão 0.01 €
+Mesa [7s 6c 7d 9s Kc]
+Lugar 1: ohlaracorp (big blind) mostrou [6h 8c] e ganhou (0.28 €) com dois pares, Setes e Seis
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP escondeu as cartas [Ad 3s]
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 107 **************
+Mão #261878474770 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:42:01 UTC [2026/08/26 17:42:01 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.76 € em fichas)
+Lugar 2: levezinho32 (1.24 € em fichas)
+Lugar 3: GG0025WP (1.92 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.06 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+Necamarmelo: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6s 8h]
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: iguala 0.02 €
+osorio211: desiste
+Necamarmelo: sobe 0.02 € para 0.04 €
+Kyra0908: sobe 0.12 € para 0.16 €
+GG0025WP: iguala 0.14 €
+Necamarmelo: iguala 0.12 €
+*** FLOP *** [Qc 9s 7d]
+Necamarmelo: passa
+Kyra0908: aposta 0.32 €
+GG0025WP: desiste
+Necamarmelo: sobe 1.58 € para 1.90 € e está all-in
+Kyra0908: iguala 1.52 € e está all-in
+Aposta não-igualada (0.06 €) voltou para Necamarmelo
+*** TURN *** [Qc 9s 7d] [8c]
+*** RIVER *** [Qc 9s 7d 8c] [4h]
+*** SHOW DOWN ***
+Necamarmelo: mostra [Th Jh] (Straight, Oito a Dama)
+Kyra0908: mostra [Jc Tc] (Straight, Oito a Dama)
+Necamarmelo recebeu 1.98 € do pote
+Kyra0908 recebeu 1.97 € do pote
+*** SUMÁRIO ***
+Total pote 4.16 € | comissão 0.21 €
+Mesa [Qc 9s 7d 8c 4h]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP desistiu no Flop
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (small blind) mostrou [Th Jh] e ganhou (1.98 €) com Straight, Oito a Dama
+Lugar 6: Kyra0908 (big blind) mostrou [Jc Tc] e ganhou (1.97 €) com Straight, Oito a Dama
+
+
+*********** # 108 **************
+Mão #261878465937 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:41:19 UTC [2026/08/26 17:41:19 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: ohlaracorp (8.76 € em fichas)
+Lugar 2: levezinho32 (1.24 € em fichas)
+Lugar 3: GG0025WP (1.92 € em fichas)
+Lugar 4: osorio211 (2.11 € em fichas)
+Lugar 5: Necamarmelo (2 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh Ts]
+Kyra0908: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.04 €
+*** FLOP *** [Ah 7s 6c]
+Necamarmelo: passa
+Kyra0908: passa
+*** TURN *** [Ah 7s 6c] [7d]
+Necamarmelo: passa
+Kyra0908: passa
+*** RIVER *** [Ah 7s 6c 7d] [9d]
+Necamarmelo: aposta 0.12 €
+Kyra0908: desiste
+Aposta não-igualada (0.12 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.12 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.13 € | comissão 0.01 €
+Mesa [Ah 7s 6c 7d 9d]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Necamarmelo (big blind) recebeu (0.12 €)
+Lugar 6: Kyra0908 desistiu no River
+
+
+*********** # 109 **************
+Mão #261878454814 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:40:25 UTC [2026/08/26 17:40:25 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (8.76 € em fichas)
+Lugar 2: levezinho32 (1.24 € em fichas)
+Lugar 3: GG0025WP (2.04 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+GG0025WP: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jc 9c]
+Necamarmelo: desiste
+Kyra0908: desiste
+ohlaracorp: desiste
+levezinho32: desiste
+GG0025WP: iguala 0.01 €
+osorio211: sobe 0.06 € para 0.08 €
+GG0025WP: iguala 0.06 €
+*** FLOP *** [8d 9s 7d]
+GG0025WP: aposta 0.04 €
+osorio211: iguala 0.04 €
+*** TURN *** [8d 9s 7d] [2h]
+GG0025WP: passa
+osorio211: aposta 0.08 €
+GG0025WP: desiste
+Aposta não-igualada (0.08 €) voltou para osorio211
+osorio211 recebeu 0.23 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [8d 9s 7d 2h]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: GG0025WP (small blind) desistiu no Turn
+Lugar 4: osorio211 (big blind) recebeu (0.23 €)
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 110 **************
+Mão #261878440188 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:39:15 UTC [2026/08/26 17:39:15 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.76 € em fichas)
+Lugar 2: levezinho32 (1.28 € em fichas)
+Lugar 3: GG0025WP (2 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+levezinho32: é small blind 0.01 €
+GG0025WP: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c 3s]
+osorio211: desiste
+Necamarmelo: desiste
+Kyra0908: desiste
+ohlaracorp: desiste
+levezinho32: iguala 0.01 €
+GG0025WP: passa
+*** FLOP *** [8s Qs Td]
+levezinho32: aposta 0.02 €
+GG0025WP: sobe 0.02 € para 0.04 €
+levezinho32: desiste
+Aposta não-igualada (0.02 €) voltou para GG0025WP
+GG0025WP recebeu 0.08 € do pote
+GG0025WP: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.08 € | comissão 0 €
+Mesa [8s Qs Td]
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (small blind) desistiu no Flop
+Lugar 3: GG0025WP (big blind) recebeu (0.08 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: Kyra0908 desistiu antes Flop (não apostou)
+
+
+*********** # 111 **************
+Mão #261878430061 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:38:26 UTC [2026/08/26 17:38:26 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.77 € em fichas)
+Lugar 2: levezinho32 (1.30 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (1.88 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d 9h]
+osorio211: desiste
+Necamarmelo: iguala 0.02 €
+Kyra0908: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+levezinho32: desiste
+Necamarmelo: iguala 0.04 €
+*** FLOP *** [3c 4d Qd]
+Necamarmelo: passa
+Kyra0908: aposta 0.04 €
+Necamarmelo: iguala 0.04 €
+*** TURN *** [3c 4d Qd] [9d]
+Necamarmelo: passa
+Kyra0908: passa
+*** RIVER *** [3c 4d Qd 9d] [5d]
+GG0025WP junta-se à mesa no lugar #3
+Necamarmelo: aposta 0.06 €
+Kyra0908: desiste
+Aposta não-igualada (0.06 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.22 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.23 € | comissão 0.01 €
+Mesa [3c 4d Qd 9d 5d]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo recebeu (0.22 €)
+Lugar 6: Kyra0908 (Botão) desistiu no River
+
+
+*********** # 112 **************
+Mão #261878420984 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:37:43 UTC [2026/08/26 17:37:43 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.51 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.16 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+Kyra0908: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2d 5h]
+osorio211: desiste
+Necamarmelo: sobe 0.04 € para 0.06 €
+Kyra0908: desiste
+ohlaracorp: iguala 0.04 €
+*** FLOP *** [3d Jh 6d]
+ohlaracorp: passa
+Necamarmelo: aposta 0.08 €
+ohlaracorp: sobe 0.14 € para 0.22 €
+Necamarmelo: iguala 0.14 €
+*** TURN *** [3d Jh 6d] [4c]
+ohlaracorp: aposta 0.54 €
+Necamarmelo: desiste
+Aposta não-igualada (0.54 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.54 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.57 € | comissão 0.03 €
+Mesa [3d Jh 6d 4c]
+Lugar 1: ohlaracorp (big blind) recebeu (0.54 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu no Turn
+Lugar 6: Kyra0908 (small blind) desistiu antes Flop
+
+
+*********** # 113 **************
+Mão #261878413156 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:37:05 UTC [2026/08/26 17:37:05 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.51 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.14 € em fichas)
+Lugar 6: Kyra0908 (2 € em fichas)
+Necamarmelo: é small blind 0.01 €
+Kyra0908: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kh 2d]
+ohlaracorp: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.01 €
+Kyra0908: passa
+*** FLOP *** [Qh 2s 8h]
+Necamarmelo: passa
+Kyra0908: passa
+*** TURN *** [Qh 2s 8h] [Tc]
+Necamarmelo: aposta 0.04 €
+Kyra0908: desiste
+Aposta não-igualada (0.04 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.04 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Qh 2s 8h Tc]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (small blind) recebeu (0.04 €)
+Lugar 6: Kyra0908 (big blind) desistiu no Turn
+
+
+*********** # 114 **************
+Mão #261878407322 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:36:37 UTC [2026/08/26 17:36:37 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.38 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.26 € em fichas)
+levezinho32 poderá jogar depois do botão
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d 5s]
+ohlaracorp: sobe 0.04 € para 0.06 €
+osorio211: desiste
+Necamarmelo: sobe 0.06 € para 0.12 €
+ohlaracorp: sobe 8.26 € para 8.38 € e está all-in
+Necamarmelo: desiste
+Aposta não-igualada (8.26 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.25 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.25 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) recebeu (0.25 €)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Necamarmelo (big blind) desistiu antes Flop
+
+
+*********** # 115 **************
+Mão #261878399586 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:36:00 UTC [2026/08/26 17:36:00 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.39 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Necamarmelo (2.12 € em fichas)
+ohlaracorp: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ac 5h]
+Necamarmelo: iguala 0.02 €
+ohlaracorp: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Necamarmelo: iguala 0.06 €
+*** FLOP *** [Jc 5d 4s]
+Kyra0908 junta-se à mesa no lugar #6
+osorio211: aposta 0.06 €
+Necamarmelo: iguala 0.06 €
+*** TURN *** [Jc 5d 4s] [Qh]
+osorio211: passa
+Necamarmelo: aposta 0.06 €
+osorio211: desiste
+Aposta não-igualada (0.06 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.28 € do pote
+NAZAKILLERS abandona a mesa
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.29 € | comissão 0.01 €
+Mesa [Jc 5d 4s Qh]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu no Turn
+Lugar 5: Necamarmelo (Botão) recebeu (0.28 €)
+
+
+*********** # 116 **************
+Mão #261878396448 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:35:45 UTC [2026/08/26 17:35:45 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.41 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Necamarmelo (2.10 € em fichas)
+Necamarmelo: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2s 4h]
+osorio211: desiste
+QQ_Mucks_QQ abandona a mesa
+Necamarmelo: iguala 0.01 €
+ohlaracorp: passa
+*** FLOP *** [Qs 8d 7s]
+Necamarmelo: aposta 0.02 €
+ohlaracorp: desiste
+Aposta não-igualada (0.02 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.04 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Qs 8d 7s]
+Lugar 1: ohlaracorp (big blind) desistiu no Flop
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (small blind) recebeu (0.04 €)
+
+
+*********** # 117 **************
+Mão #261878394801 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:35:37 UTC [2026/08/26 17:35:37 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.41 € em fichas)
+Lugar 4: osorio211 (2.08 € em fichas)
+Lugar 5: Necamarmelo (2.09 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.25 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh 5c]
+QQ_Mucks_QQ: desiste
+ohlaracorp: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.02 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Necamarmelo (big blind) recebeu (0.02 €)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 118 **************
+Mão #261878392319 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:35:26 UTC [2026/08/26 17:35:26 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.42 € em fichas)
+Lugar 4: osorio211 (2.10 € em fichas)
+Lugar 5: Necamarmelo (2.06 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.25 € em fichas)
+ohlaracorp: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d 8s]
+Necamarmelo: sobe 0.04 € para 0.06 €
+QQ_Mucks_QQ: desiste
+ohlaracorp: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.05 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Necamarmelo recebeu (0.05 €)
+Lugar 6: QQ_Mucks_QQ (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 119 **************
+Mão #261878389313 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:35:11 UTC [2026/08/26 17:35:11 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.44 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Necamarmelo (2.06 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.26 € em fichas)
+QQ_Mucks_QQ: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d Ad]
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: desiste
+QQ_Mucks_QQ: desiste
+ohlaracorp: desiste
+Aposta não-igualada (0.04 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (big blind) desistiu antes Flop
+Lugar 4: osorio211 recebeu (0.05 €)
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (small blind) desistiu antes Flop
+
+
+*********** # 120 **************
+Mão #261878383340 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:34:43 UTC [2026/08/26 17:34:43 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.44 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.12 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.28 € em fichas)
+Necamarmelo: é small blind 0.01 €
+QQ_Mucks_QQ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9h Ad]
+ohlaracorp: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: iguala 0.05 €
+QQ_Mucks_QQ: desiste
+*** FLOP *** [2d Jd 8h]
+Necamarmelo: passa
+osorio211: aposta 0.05 €
+Necamarmelo: desiste
+Aposta não-igualada (0.05 €) voltou para osorio211
+osorio211 recebeu 0.13 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [2d Jd 8h]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) recebeu (0.13 €)
+Lugar 5: Necamarmelo (small blind) desistiu no Flop
+Lugar 6: QQ_Mucks_QQ (big blind) desistiu antes Flop
+
+
+*********** # 121 **************
+Mão #261878378765 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:34:22 UTC [2026/08/26 17:34:22 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (8.44 € em fichas)
+Lugar 2: levezinho32 (1.30 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.11 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.28 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4d 7h]
+QQ_Mucks_QQ: desiste
+ohlaracorp: desiste
+levezinho32 gastou o tempo
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.01 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.02 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Necamarmelo (big blind) recebeu (0.02 €)
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 122 **************
+Mão #261878369473 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:33:37 UTC [2026/08/26 17:33:37 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.33 € em fichas)
+Lugar 2: levezinho32 (1.31 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.20 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.28 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [9s Qd]
+Necamarmelo: iguala 0.02 €
+QQ_Mucks_QQ: desiste
+ohlaracorp: sobe 0.07 € para 0.09 €
+levezinho32: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.07 €
+*** FLOP *** [4h 5c Td]
+Necamarmelo: passa
+ohlaracorp: passa
+*** TURN *** [4h 5c Td] [9h]
+Necamarmelo: passa
+ohlaracorp: aposta 0.30 €
+Necamarmelo: desiste
+Aposta não-igualada (0.30 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.20 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.21 € | comissão 0.01 €
+Mesa [4h 5c Td 9h]
+Lugar 1: ohlaracorp (Botão) recebeu (0.20 €)
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Necamarmelo desistiu no Turn
+Lugar 6: QQ_Mucks_QQ desistiu antes Flop (não apostou)
+
+
+*********** # 123 **************
+Mão #261878361034 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:32:56 UTC [2026/08/26 17:32:56 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.21 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.20 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.28 € em fichas)
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js As]
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: desiste
+QQ_Mucks_QQ: desiste
+ohlaracorp: iguala 0.05 €
+levezinho32: desiste
+*** FLOP *** [8c 5s Tc]
+ohlaracorp: passa
+osorio211: aposta 0.05 €
+ohlaracorp: iguala 0.05 €
+*** TURN *** [8c 5s Tc] [5d]
+ohlaracorp: passa
+osorio211: passa
+*** RIVER *** [8c 5s Tc 5d] [Ts]
+ohlaracorp: passa
+osorio211: passa
+*** SHOW DOWN ***
+ohlaracorp: mostra [6c 6s] (dois pares, Dez e Seis)
+osorio211: esconde a mão
+ohlaracorp recebeu 0.23 € do pote
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [8c 5s Tc 5d Ts]
+Lugar 1: ohlaracorp (small blind) mostrou [6c 6s] e ganhou (0.23 €) com dois pares, Dez e Seis
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 4: osorio211 escondeu as cartas [Js As]
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 124 **************
+Mão #261878348147 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:31:56 UTC [2026/08/26 17:31:56 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.05 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Necamarmelo (2.20 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.29 € em fichas)
+QQ_Mucks_QQ: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah 7h]
+levezinho32: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: desiste
+QQ_Mucks_QQ: desiste
+ohlaracorp: iguala 0.04 €
+*** FLOP *** [2s As 4s]
+ohlaracorp: passa
+osorio211: aposta 0.04 €
+ohlaracorp: iguala 0.04 €
+*** TURN *** [2s As 4s] [2c]
+ohlaracorp: passa
+osorio211: aposta 0.07 €
+ohlaracorp: iguala 0.07 €
+*** RIVER *** [2s As 4s 2c] [6d]
+ohlaracorp: passa
+osorio211: passa
+*** SHOW DOWN ***
+ohlaracorp: mostra [Qd Ad] (dois pares, Ases e Dois)
+osorio211: esconde a mão
+ohlaracorp recebeu 0.33 € do pote
+*** SUMÁRIO ***
+Total pote 0.35 € | comissão 0.02 €
+Mesa [2s As 4s 2c 6d]
+Lugar 1: ohlaracorp (big blind) mostrou [Qd Ad] e ganhou (0.33 €) com dois pares, Ases e Dois
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 escondeu as cartas [Ah 7h]
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop (não apostou)
+Lugar 6: QQ_Mucks_QQ (small blind) desistiu antes Flop
+
+
+*********** # 125 **************
+Mão #261878340816 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:31:20 UTC [2026/08/26 17:31:20 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (7.98 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 4: osorio211 (2.07 € em fichas)
+Lugar 5: Necamarmelo (2.26 € em fichas)
+Lugar 6: QQ_Mucks_QQ (1.31 € em fichas)
+Necamarmelo: é small blind 0.01 €
+QQ_Mucks_QQ: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh Tc]
+ohlaracorp: sobe 0.04 € para 0.06 €
+levezinho32: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.05 €
+QQ_Mucks_QQ: desiste
+*** FLOP *** [8d 6d Td]
+Necamarmelo: passa
+ohlaracorp: aposta 0.20 €
+Necamarmelo: desiste
+Aposta não-igualada (0.20 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.13 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.14 € | comissão 0.01 €
+Mesa [8d 6d Td]
+Lugar 1: ohlaracorp recebeu (0.13 €)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (small blind) desistiu no Flop
+Lugar 6: QQ_Mucks_QQ (big blind) desistiu antes Flop
+
+
+*********** # 126 **************
+Mão #261878334654 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:30:51 UTC [2026/08/26 17:30:51 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (7.98 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.34 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Kd 4d]
+ohlaracorp: desiste
+levezinho32: desiste
+osorio211: sobe 0.06 € para 0.08 €
+Necamarmelo: iguala 0.06 €
+*** FLOP *** [9c Ah 7s]
+osorio211: aposta 0.05 €
+Necamarmelo: desiste
+Aposta não-igualada (0.05 €) voltou para osorio211
+osorio211 recebeu 0.15 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.16 € | comissão 0.01 €
+Mesa [9c Ah 7s]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) recebeu (0.15 €)
+Lugar 5: Necamarmelo (big blind) desistiu no Flop
+
+
+*********** # 127 **************
+Mão #261878331750 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:30:38 UTC [2026/08/26 17:30:38 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (7.98 € em fichas)
+Lugar 2: levezinho32 (1.34 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.31 € em fichas)
+levezinho32: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7c 5c]
+Necamarmelo: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+levezinho32: desiste
+osorio211: desiste
+Aposta não-igualada (0.04 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.05 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Necamarmelo recebeu (0.05 €)
+
+
+*********** # 128 **************
+Mão #261878329661 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:30:28 UTC [2026/08/26 17:30:28 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (7.99 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.31 € em fichas)
+QQ_Mucks_QQ poderá jogar depois do botão
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [7s 9d]
+osorio211: desiste
+Necamarmelo: desiste
+ohlaracorp: desiste
+Aposta não-igualada (0.01 €) voltou para levezinho32
+levezinho32 recebeu 0.02 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: levezinho32 (big blind) recebeu (0.02 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 129 **************
+Mão #261878319629 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:29:42 UTC [2026/08/26 17:29:42 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.01 € em fichas)
+Lugar 3: NAZAKILLERS (2.77 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.19 € em fichas)
+Necamarmelo: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qc 9c]
+NAZAKILLERS gastou o tempo
+NAZAKILLERS: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: iguala 0.05 €
+ohlaracorp: desiste
+*** FLOP *** [Ad 4c 5h]
+QQ_Mucks_QQ junta-se à mesa no lugar #6
+Necamarmelo: passa
+osorio211: aposta 0.05 €
+Necamarmelo: sobe 0.05 € para 0.10 €
+osorio211: desiste
+Aposta não-igualada (0.05 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.23 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.24 € | comissão 0.01 €
+Mesa [Ad 4c 5h]
+Lugar 1: ohlaracorp (big blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu no Flop
+Lugar 5: Necamarmelo (small blind) recebeu (0.23 €)
+
+
+*********** # 130 **************
+Mão #261878302455 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:28:21 UTC [2026/08/26 17:28:21 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: ohlaracorp (8.01 € em fichas)
+Lugar 3: NAZAKILLERS (2.74 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 5: Necamarmelo (2.21 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [4h 2h]
+ohlaracorp: desiste
+NAZAKILLERS: iguala 0.02 €
+osorio211: desiste
+Necamarmelo: passa
+*** FLOP *** [9c Qd 6c]
+Necamarmelo: passa
+NAZAKILLERS: passa
+*** TURN *** [9c Qd 6c] [As]
+Necamarmelo: passa
+NAZAKILLERS: passa
+*** RIVER *** [9c Qd 6c As] [6h]
+Necamarmelo: passa
+NAZAKILLERS gastou o tempo
+NAZAKILLERS: passa
+*** SHOW DOWN ***
+Necamarmelo: mostra [4c Ts] (par de Seis)
+NAZAKILLERS: mostra [Kh 5h] (par de Seis - Ás+Rei kicker)
+NAZAKILLERS recebeu 0.05 € do pote
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [9c Qd 6c As 6h]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (Botão) mostrou [Kh 5h] e ganhou (0.05 €) com par de Seis
+Lugar 4: osorio211 (small blind) desistiu antes Flop
+Lugar 5: Necamarmelo (big blind) mostrou [4c Ts] e perdeu com par de Seis
+
+
+*********** # 131 **************
+Mão #261878297984 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:28:00 UTC [2026/08/26 17:28:00 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.01 € em fichas)
+Lugar 3: NAZAKILLERS (2.75 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.21 € em fichas)
+NAZAKILLERS: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [3d 2h]
+Necamarmelo: desiste
+ohlaracorp: desiste
+NAZAKILLERS gastou o tempo
+NAZAKILLERS: desiste
+Aposta não-igualada (0.01 €) voltou para osorio211
+osorio211 recebeu 0.02 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.02 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) recebeu (0.02 €)
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+
+
+*********** # 132 **************
+Mão #261878284610 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:26:58 UTC [2026/08/26 17:26:58 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.02 € em fichas)
+Lugar 3: NAZAKILLERS (2.61 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.35 € em fichas)
+ohlaracorp: é small blind 0.01 €
+NAZAKILLERS: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Jh 4d]
+osorio211: desiste
+Necamarmelo: iguala 0.02 €
+ohlaracorp: desiste
+NAZAKILLERS: sobe 0.04 € para 0.06 €
+Necamarmelo: iguala 0.04 €
+*** FLOP *** [Qc Qd 6c]
+NAZAKILLERS: passa
+Necamarmelo: passa
+*** TURN *** [Qc Qd 6c] [2s]
+NAZAKILLERS: passa
+Necamarmelo: aposta 0.08 €
+NAZAKILLERS: sobe 0.14 € para 0.22 €
+Necamarmelo: desiste
+Aposta não-igualada (0.14 €) voltou para NAZAKILLERS
+NAZAKILLERS recebeu 0.28 € do pote
+NAZAKILLERS: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.29 € | comissão 0.01 €
+Mesa [Qc Qd 6c 2s]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS (big blind) recebeu (0.28 €)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu no Turn
+
+
+*********** # 133 **************
+Mão #261878272723 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:26:02 UTC [2026/08/26 17:26:02 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (7.93 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 3: NAZAKILLERS (2.61 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.45 € em fichas)
+Necamarmelo: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [2h 9s]
+JacNor81 abandona a mesa
+levezinho32: desiste
+NAZAKILLERS: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.01 €
+ohlaracorp: passa
+*** FLOP *** [9d 7h 4h]
+Necamarmelo: aposta 0.04 €
+ohlaracorp: iguala 0.04 €
+*** TURN *** [9d 7h 4h] [5s]
+Necamarmelo: aposta 0.04 €
+ohlaracorp: sobe 0.10 € para 0.14 €
+Necamarmelo: desiste
+Aposta não-igualada (0.10 €) voltou para ohlaracorp
+ohlaracorp recebeu 0.19 € do pote
+ohlaracorp: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.20 € | comissão 0.01 €
+Mesa [9d 7h 4h 5s]
+Lugar 1: ohlaracorp (big blind) recebeu (0.19 €)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (small blind) desistiu no Turn
+
+
+*********** # 134 **************
+Mão #261878259071 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:24:59 UTC [2026/08/26 17:24:59 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: ohlaracorp (7.93 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 3: NAZAKILLERS (2.61 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.62 € em fichas)
+Lugar 6: JacNor81 (2.73 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c 6d]
+JacNor81: sobe 0.04 € para 0.06 €
+ohlaracorp: desiste
+levezinho32: desiste
+NAZAKILLERS: desiste
+osorio211: iguala 0.05 €
+Necamarmelo: iguala 0.04 €
+*** FLOP *** [4c Qh 8s]
+osorio211: passa
+Necamarmelo: passa
+JacNor81: aposta 0.11 €
+osorio211: desiste
+Necamarmelo: iguala 0.11 €
+*** TURN *** [4c Qh 8s] [5c]
+Necamarmelo: passa
+JacNor81: passa
+*** RIVER *** [4c Qh 8s 5c] [Jh]
+Necamarmelo: passa
+JacNor81: passa
+*** SHOW DOWN ***
+Necamarmelo: mostra [7c 8c] (par de Oitos)
+JacNor81: mostra [Qs Ts] (par de Damas)
+JacNor81 recebeu 0.38 € do pote
+*** SUMÁRIO ***
+Total pote 0.40 € | comissão 0.02 €
+Mesa [4c Qh 8s 5c Jh]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (Botão) desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (small blind) desistiu no Flop
+Lugar 5: Necamarmelo (big blind) mostrou [7c 8c] e perdeu com par de Oitos
+Lugar 6: JacNor81 mostrou [Qs Ts] e ganhou (0.38 €) com par de Damas
+
+
+*********** # 135 **************
+Mão #261878249043 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:24:11 UTC [2026/08/26 17:24:11 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (8.02 € em fichas)
+Lugar 2: levezinho32 (1.33 € em fichas)
+Lugar 3: NAZAKILLERS (2.62 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.51 € em fichas)
+Lugar 6: JacNor81 (2.73 € em fichas)
+NAZAKILLERS: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Qh 5h]
+Necamarmelo: iguala 0.02 €
+JacNor81: desiste
+ohlaracorp: sobe 0.07 € para 0.09 €
+levezinho32: desiste
+NAZAKILLERS: desiste
+osorio211: desiste
+Necamarmelo: iguala 0.07 €
+*** FLOP *** [7h Tc Jc]
+Necamarmelo: passa
+ohlaracorp: passa
+*** TURN *** [7h Tc Jc] [9d]
+Necamarmelo: passa
+ohlaracorp: passa
+*** RIVER *** [7h Tc Jc 9d] [2s]
+Necamarmelo: aposta 0.20 €
+ohlaracorp: desiste
+Aposta não-igualada (0.20 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.20 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.21 € | comissão 0.01 €
+Mesa [7h Tc Jc 9d 2s]
+Lugar 1: ohlaracorp desistiu no River
+Lugar 2: levezinho32 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (small blind) desistiu antes Flop
+Lugar 4: osorio211 (big blind) desistiu antes Flop
+Lugar 5: Necamarmelo recebeu (0.20 €)
+Lugar 6: JacNor81 desistiu antes Flop (não apostou)
+
+
+*********** # 136 **************
+Mão #261878242688 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:23:41 UTC [2026/08/26 17:23:41 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.02 € em fichas)
+Lugar 2: levezinho32 (1.23 € em fichas)
+Lugar 3: NAZAKILLERS (2.64 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.59 € em fichas)
+Lugar 6: JacNor81 (2.73 € em fichas)
+levezinho32: é small blind 0.01 €
+NAZAKILLERS: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6h 4h]
+osorio211: desiste
+Necamarmelo: sobe 0.06 € para 0.08 €
+JacNor81: desiste
+ohlaracorp: desiste
+levezinho32: sobe 1.15 € para 1.23 € e está all-in
+NAZAKILLERS: desiste
+Necamarmelo: desiste
+Aposta não-igualada (1.15 €) voltou para levezinho32
+levezinho32 recebeu 0.18 € do pote
+levezinho32: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.18 € | comissão 0 €
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 2: levezinho32 (small blind) recebeu (0.18 €)
+Lugar 3: NAZAKILLERS (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo desistiu antes Flop
+Lugar 6: JacNor81 desistiu antes Flop (não apostou)
+
+
+*********** # 137 **************
+Mão #261878233808 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:22:59 UTC [2026/08/26 17:22:59 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.03 € em fichas)
+Lugar 2: levezinho32 (1.25 € em fichas)
+Lugar 3: NAZAKILLERS (2.72 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.49 € em fichas)
+Lugar 6: JacNor81 (2.73 € em fichas)
+ohlaracorp: é small blind 0.01 €
+levezinho32: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ts 2s]
+NAZAKILLERS: iguala 0.02 €
+osorio211: desiste
+Necamarmelo: sobe 0.06 € para 0.08 €
+JacNor81: desiste
+ohlaracorp: desiste
+levezinho32: desiste
+NAZAKILLERS: iguala 0.06 €
+*** FLOP *** [3c 7h 5s]
+NAZAKILLERS: passa
+Necamarmelo: aposta 0.10 €
+NAZAKILLERS: desiste
+Aposta não-igualada (0.10 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.18 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.19 € | comissão 0.01 €
+Mesa [3c 7h 5s]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: levezinho32 (big blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS desistiu no Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo recebeu (0.18 €)
+Lugar 6: JacNor81 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 138 **************
+Mão #261878229277 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:22:38 UTC [2026/08/26 17:22:38 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.05 € em fichas)
+Lugar 3: NAZAKILLERS (2.72 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.51 € em fichas)
+Lugar 6: JacNor81 (2.66 € em fichas)
+JacNor81: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+osorio211: é small & big blinds 0.03 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d As]
+NAZAKILLERS: desiste
+osorio211: passa
+Necamarmelo: iguala 0.02 €
+JacNor81: sobe 0.10 € para 0.12 €
+ohlaracorp: desiste
+osorio211: desiste
+Necamarmelo: desiste
+Aposta não-igualada (0.10 €) voltou para JacNor81
+JacNor81 recebeu 0.09 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Lugar 1: ohlaracorp (big blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop
+Lugar 6: JacNor81 (small blind) recebeu (0.09 €)
+
+
+*********** # 139 **************
+Mão #261878211733 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:21:16 UTC [2026/08/26 17:21:16 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.12 € em fichas)
+Lugar 3: NAZAKILLERS (2.75 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.40 € em fichas)
+Lugar 6: JacNor81 (2.68 € em fichas)
+ohlaracorp: é small blind 0.01 €
+NAZAKILLERS: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ah Td]
+Bidinh0 abandona a mesa
+osorio211: desiste
+Necamarmelo: sobe 0.06 € para 0.08 €
+JacNor81: desiste
+ohlaracorp: desiste
+NAZAKILLERS: desiste
+Aposta não-igualada (0.06 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.05 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS (big blind) desistiu antes Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo recebeu (0.05 €)
+Lugar 6: JacNor81 (Botão) desistiu antes Flop (não apostou)
+
+
+*********** # 140 **************
+Mão #261878203371 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:20:37 UTC [2026/08/26 17:20:37 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.14 € em fichas)
+Lugar 2: Bidinh0 (5.46 € em fichas)
+Lugar 3: NAZAKILLERS (2.75 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.40 € em fichas)
+Lugar 6: JacNor81 (2.69 € em fichas)
+JacNor81: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Js Qs]
+Bidinh0: sobe 0.04 € para 0.06 €
+NAZAKILLERS: desiste
+osorio211: iguala 0.06 €
+Necamarmelo: desiste
+JacNor81: desiste
+ohlaracorp: desiste
+*** FLOP *** [As Qc 6h]
+Bidinh0: aposta 0.08 €
+osorio211: iguala 0.08 €
+*** TURN *** [As Qc 6h] [4c]
+Bidinh0: aposta 0.16 €
+osorio211: desiste
+Aposta não-igualada (0.16 €) voltou para Bidinh0
+Bidinh0 recebeu 0.29 € do pote
+Bidinh0: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.31 € | comissão 0.02 €
+Mesa [As Qc 6h 4c]
+Lugar 1: ohlaracorp (big blind) desistiu antes Flop
+Lugar 2: Bidinh0 recebeu (0.29 €)
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu no Turn
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop (não apostou)
+Lugar 6: JacNor81 (small blind) desistiu antes Flop
+
+
+*********** # 141 **************
+Mão #261878190760 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:19:37 UTC [2026/08/26 17:19:37 ET]
+Mesa 'Velleda V' 6-max Lugar #4 é o botão
+Lugar 1: ohlaracorp (8.14 € em fichas)
+Lugar 2: Bidinh0 (5.46 € em fichas)
+Lugar 3: NAZAKILLERS (2.75 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.24 € em fichas)
+Lugar 6: JacNor81 (2.71 € em fichas)
+Necamarmelo: é small blind 0.01 €
+JacNor81: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [5s 5c]
+ohlaracorp: desiste
+Bidinh0: desiste
+NAZAKILLERS gastou o tempo
+NAZAKILLERS: desiste
+osorio211: sobe 0.04 € para 0.06 €
+Necamarmelo: sobe 0.10 € para 0.16 €
+JacNor81: desiste
+osorio211: iguala 0.10 €
+*** FLOP *** [Qs 8d Kc]
+Necamarmelo: aposta 0.32 €
+osorio211: desiste
+Aposta não-igualada (0.32 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.32 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.34 € | comissão 0.02 €
+Mesa [Qs 8d Kc]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 (Botão) desistiu no Flop
+Lugar 5: Necamarmelo (small blind) recebeu (0.32 €)
+Lugar 6: JacNor81 (big blind) desistiu antes Flop
+
+
+*********** # 142 **************
+Mão #261878173856 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:18:19 UTC [2026/08/26 17:18:19 ET]
+Mesa 'Velleda V' 6-max Lugar #3 é o botão
+Lugar 1: ohlaracorp (8.14 € em fichas)
+Lugar 2: Bidinh0 (5.46 € em fichas)
+Lugar 3: NAZAKILLERS (2.53 € em fichas)
+Lugar 4: osorio211 (2.01 € em fichas)
+Lugar 5: Necamarmelo (2.41 € em fichas)
+Lugar 6: JacNor81 (2.71 € em fichas)
+osorio211: é small blind 0.01 €
+Necamarmelo: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Ad Td]
+JacNor81: desiste
+ohlaracorp: desiste
+Bidinh0: desiste
+NAZAKILLERS: sobe 0.05 € para 0.07 €
+osorio211: iguala 0.06 €
+Necamarmelo: iguala 0.05 €
+*** FLOP *** [6c Ts Ks]
+osorio211: passa
+Necamarmelo: passa
+NAZAKILLERS: aposta 0.10 €
+osorio211: desiste
+Necamarmelo: iguala 0.10 €
+*** TURN *** [6c Ts Ks] [3d]
+Necamarmelo: passa
+NAZAKILLERS: aposta 0.20 €
+Necamarmelo: desiste
+Aposta não-igualada (0.20 €) voltou para NAZAKILLERS
+NAZAKILLERS recebeu 0.39 € do pote
+NAZAKILLERS: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.41 € | comissão 0.02 €
+Mesa [6c Ts Ks 3d]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: Bidinh0 desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (Botão) recebeu (0.39 €)
+Lugar 4: osorio211 (small blind) desistiu no Flop
+Lugar 5: Necamarmelo (big blind) desistiu no Turn
+Lugar 6: JacNor81 desistiu antes Flop (não apostou)
+
+
+*********** # 143 **************
+Mão #261878166366 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:17:44 UTC [2026/08/26 17:17:44 ET]
+Mesa 'Velleda V' 6-max Lugar #2 é o botão
+Lugar 1: ohlaracorp (8.14 € em fichas)
+Lugar 2: Bidinh0 (5.46 € em fichas)
+Lugar 3: NAZAKILLERS (2.51 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Necamarmelo (2.41 € em fichas)
+Lugar 6: JacNor81 (2.71 € em fichas)
+NAZAKILLERS: é small blind 0.01 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6c Qh]
+Necamarmelo: desiste
+JacNor81: desiste
+ohlaracorp: desiste
+Bidinh0: desiste
+NAZAKILLERS: iguala 0.01 €
+osorio211: passa
+*** FLOP *** [Js 4s Ah]
+NAZAKILLERS: passa
+osorio211: passa
+*** TURN *** [Js 4s Ah] [Jh]
+NAZAKILLERS: passa
+osorio211: passa
+*** RIVER *** [Js 4s Ah Jh] [As]
+NAZAKILLERS: aposta 0.02 €
+osorio211: desiste
+Aposta não-igualada (0.02 €) voltou para NAZAKILLERS
+NAZAKILLERS recebeu 0.04 € do pote
+NAZAKILLERS: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.04 € | comissão 0 €
+Mesa [Js 4s Ah Jh As]
+Lugar 1: ohlaracorp desistiu antes Flop (não apostou)
+Lugar 2: Bidinh0 (Botão) desistiu antes Flop (não apostou)
+Lugar 3: NAZAKILLERS (small blind) recebeu (0.04 €)
+Lugar 4: osorio211 (big blind) desistiu no River
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: JacNor81 desistiu antes Flop (não apostou)
+
+
+*********** # 144 **************
+Mão #261878159533 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:17:12 UTC [2026/08/26 17:17:12 ET]
+Mesa 'Velleda V' 6-max Lugar #1 é o botão
+Lugar 1: ohlaracorp (8.14 € em fichas)
+Lugar 2: Bidinh0 (5.47 € em fichas)
+Lugar 3: NAZAKILLERS (2.53 € em fichas)
+Lugar 4: osorio211 (2.03 € em fichas)
+Lugar 5: Necamarmelo (2.38 € em fichas)
+Lugar 6: JacNor81 (2.71 € em fichas)
+Bidinh0: é small blind 0.01 €
+NAZAKILLERS: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [6d 5s]
+osorio211: desiste
+Necamarmelo: iguala 0.02 €
+JacNor81: desiste
+ohlaracorp: desiste
+Bidinh0: desiste
+NAZAKILLERS: passa
+*** FLOP *** [9c 6c Ts]
+NAZAKILLERS: passa
+Necamarmelo: aposta 0.06 €
+NAZAKILLERS: desiste
+Aposta não-igualada (0.06 €) voltou para Necamarmelo
+Necamarmelo recebeu 0.05 € do pote
+Necamarmelo: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [9c 6c Ts]
+Lugar 1: ohlaracorp (Botão) desistiu antes Flop (não apostou)
+Lugar 2: Bidinh0 (small blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS (big blind) desistiu no Flop
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo recebeu (0.05 €)
+Lugar 6: JacNor81 desistiu antes Flop (não apostou)
+
+
+*********** # 145 **************
+Mão #261878148120 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:16:18 UTC [2026/08/26 17:16:18 ET]
+Mesa 'Velleda V' 6-max Lugar #6 é o botão
+Lugar 1: ohlaracorp (8.15 € em fichas)
+Lugar 2: Bidinh0 (5.49 € em fichas)
+Lugar 3: NAZAKILLERS (2.53 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.38 € em fichas)
+Lugar 6: JacNor81 (2.71 € em fichas)
+ohlaracorp: é small blind 0.01 €
+Bidinh0: é big blind 0.02 €
+osorio211: é big blind 0.02 €
+*** CARTAS HOLE ***
+osorio211 recebe [Td 2h]
+NAZAKILLERS: desiste
+osorio211: passa
+Necamarmelo: desiste
+JacNor81: desiste
+ohlaracorp: desiste
+Bidinh0: passa
+*** FLOP *** [9h 4d 7s]
+Bidinh0: passa
+osorio211: passa
+*** TURN *** [9h 4d 7s] [Jh]
+Bidinh0: passa
+osorio211: passa
+*** RIVER *** [9h 4d 7s Jh] [8c]
+Bidinh0: passa
+osorio211: aposta 0.05 €
+Bidinh0: desiste
+Aposta não-igualada (0.05 €) voltou para osorio211
+osorio211 recebeu 0.05 € do pote
+osorio211: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.05 € | comissão 0 €
+Mesa [9h 4d 7s Jh 8c]
+Lugar 1: ohlaracorp (small blind) desistiu antes Flop
+Lugar 2: Bidinh0 (big blind) desistiu no River
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 recebeu (0.05 €)
+Lugar 5: Necamarmelo desistiu antes Flop (não apostou)
+Lugar 6: JacNor81 (Botão) desistiu antes Flop (não apostou)
+
+
+
+
+Está a receber este email porque inclui informações importantes sobre a sua conta da Stars.
+
+Atenção: este email foi enviado a partir de um endereço dedicado apenas a notificações que não recebe emails. Não responda a esta mensagem. Caso deseje contactar-nos, visite o nosso Centro de Ajuda no endereço http://www.pokerstars.pt/help para saber como o pode fazer.
+
+Se tiver interesse em saber de que forma tratamos os seus dados, consulte a nossa Política de Privacidade em http://www.pokerstars.pt/privacy.
+
+REEL Europe Ltd, Spinola Terraces, Mikiel Ang Borg Street, St. Julian's, SPK 1000, Malta.
+
+Copyright © 2001-2026, Rational Intellectual Holdings Limited. Todos os direitos reservados.

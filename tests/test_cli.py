@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pytest
 
-from solver import cli, store
+from solver import cli, preflop, store
 from solver.parser.pokerstars import split_into_hands
 
 SAMPLE_HANDS_DIR = Path(__file__).parent.parent / "data" / "sample_hands"
@@ -174,3 +174,122 @@ def test_python_dash_m_entry_point(db: Path) -> None:
 
     assert completed.returncode == 0
     assert "total hands: 75" in completed.stdout
+
+
+# --- preflop -----------------------------------------------------------------------
+
+PLAYBOOK_MIN = Path(__file__).parent / "fixtures" / "playbook_min.md"
+
+
+@pytest.fixture
+def ingested_db(db: Path, folder: Path) -> Path:
+    (folder / SESSION_FILE).write_text(
+        (SAMPLE_HANDS_DIR / SESSION_FILE).read_text(encoding="utf-8"),
+        encoding="utf-8",
+    )
+    assert cli.main(_ingest_args(folder, db, "--hero", HERO_NAME)) == 0
+    return db
+
+
+def _preflop_args(db: Path, *extra: str, playbook: Path = PLAYBOOK_MIN) -> list[str]:
+    return ["preflop", "--db", str(db), "--playbook", str(playbook), *extra]
+
+
+def test_preflop_happy_path(ingested_db: Path, capsys: pytest.CaptureFixture[str]):
+    capsys.readouterr()
+
+    assert cli.main(_preflop_args(ingested_db)) == 0
+
+    out = capsys.readouterr().out
+    assert "Adherence" in out
+    assert "scope: all hands" in out
+    assert "Hands: 75" in out
+    with closing(store.connect(ingested_db)) as conn:
+        assert len(store.load_preflop_checks(conn)) == 75
+        assert store.preflop_playbook_hash(conn) is not None
+
+
+def test_preflop_twice_gives_the_same_table(ingested_db: Path):
+    def snapshot() -> list[tuple]:
+        with closing(store.connect(ingested_db)) as conn:
+            rows = conn.execute(
+                "SELECT * FROM preflop_checks ORDER BY hand_id"
+            ).fetchall()
+        return [tuple(row)[:-1] for row in rows]  # drop checked_at
+
+    assert cli.main(_preflop_args(ingested_db)) == 0
+    first = snapshot()
+    assert cli.main(_preflop_args(ingested_db)) == 0
+
+    assert snapshot() == first
+
+
+def test_preflop_session_filter_scopes_the_report(
+    ingested_db: Path, capsys: pytest.CaptureFixture[str]
+):
+    capsys.readouterr()
+
+    assert cli.main(_preflop_args(ingested_db, "--session", SESSION_FILE)) == 0
+
+    assert f"scope: {SESSION_FILE}" in capsys.readouterr().out
+
+
+def test_preflop_date_filter_scopes_the_report_but_not_the_table(
+    ingested_db: Path, capsys: pytest.CaptureFixture[str]
+):
+    capsys.readouterr()
+
+    code = cli.main(_preflop_args(ingested_db, "--since", "2030-01-01"))
+
+    out = capsys.readouterr().out
+    assert code == 0
+    assert "Hands: 0" in out
+    assert "Adherence: n/a" in out
+    with closing(store.connect(ingested_db)) as conn:
+        assert len(store.load_preflop_checks(conn)) == 75
+
+
+def test_preflop_invalid_playbook_is_fatal(
+    ingested_db: Path, tmp_path: Path, capsys: pytest.CaptureFixture[str]
+):
+    bad = tmp_path / "bad.md"
+    bad.write_text("```toml\n[extra]\nx = 1\n```\n", encoding="utf-8")
+
+    assert cli.main(_preflop_args(ingested_db, playbook=bad)) == 1
+
+    assert "unknown top-level key" in capsys.readouterr().err
+
+
+def test_preflop_missing_playbook_is_fatal(ingested_db: Path, tmp_path: Path):
+    assert cli.main(_preflop_args(ingested_db, playbook=tmp_path / "none.md")) == 1
+
+
+def test_preflop_empty_db_is_fatal(db: Path):
+    assert cli.main(_preflop_args(db)) == 1
+
+
+def test_preflop_unknown_session_is_fatal(ingested_db: Path):
+    assert cli.main(_preflop_args(ingested_db, "--session", "nope.txt")) == 1
+
+
+def test_preflop_unexpected_exception_is_isolated(
+    ingested_db: Path, monkeypatch: pytest.MonkeyPatch
+):
+    real = preflop.check_preflop
+    with closing(store.connect(ingested_db)) as conn:
+        victim = store.load_hands(conn)[3].hand_id
+
+    def flaky(hand, book):
+        if hand.hand_id == victim:
+            raise RuntimeError("boom")
+        return real(hand, book)
+
+    monkeypatch.setattr(preflop, "check_preflop", flaky)
+
+    assert cli.main(_preflop_args(ingested_db)) == 2
+
+    with closing(store.connect(ingested_db)) as conn:
+        checks = {c.hand_id: c for c in store.load_preflop_checks(conn)}
+    assert len(checks) == 75
+    assert checks[victim].reason is not None
+    assert checks[victim].reason.startswith("error:")

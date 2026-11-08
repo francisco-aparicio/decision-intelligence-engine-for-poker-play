@@ -1,12 +1,14 @@
-"""Command-line interface: `solver ingest FOLDER [--hero NAME] [--db PATH]`."""
+"""Command-line interface: `solver ingest` and `solver preflop`."""
 
 import argparse
 import contextlib
 import os
 import sys
+from datetime import UTC, datetime
 from pathlib import Path
 
-from solver import ingest, store
+from solver import ingest, playbook, preflop, report, store
+from solver.models import CheckStatus, DecisionCheck
 
 HERO_ENV_VAR = "SOLVER_HERO"
 
@@ -17,7 +19,8 @@ EXIT_PARTIAL = 2  # finished, but a hand failed to parse or a file was unreadabl
 
 def main(argv: list[str] | None = None) -> int:
     args = _build_parser().parse_args(argv)
-    # Only "ingest" exists so far; dispatch here as commands are added.
+    if args.command == "preflop":
+        return _run_preflop(args)
     return _run_ingest(args)
 
 
@@ -38,7 +41,38 @@ def _build_parser() -> argparse.ArgumentParser:
         default=store.DEFAULT_DB_PATH,
         help="SQLite database path (default: %(default)s)",
     )
+
+    preflop_parser = subparsers.add_parser(
+        "preflop", help="check hero's first preflop decision against the playbook"
+    )
+    preflop_parser.add_argument(
+        "--playbook",
+        type=Path,
+        default=playbook.DEFAULT_PLAYBOOK_PATH,
+        help="playbook file (default: %(default)s)",
+    )
+    preflop_parser.add_argument(
+        "--db",
+        type=Path,
+        default=store.DEFAULT_DB_PATH,
+        help="SQLite database path (default: %(default)s)",
+    )
+    preflop_parser.add_argument("--session", help="exact session file basename")
+    preflop_parser.add_argument(
+        "--since", type=_parse_date, help="YYYY-MM-DD, inclusive"
+    )
+    preflop_parser.add_argument(
+        "--until", type=_parse_date, help="YYYY-MM-DD, exclusive"
+    )
     return parser
+
+
+def _parse_date(text: str) -> datetime:
+    try:
+        # Midnight UTC: stored Hand.timestamp_utc values are tz-aware UTC.
+        return datetime.strptime(text, "%Y-%m-%d").replace(tzinfo=UTC)
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"expected YYYY-MM-DD, got {text!r}") from None
 
 
 def _run_ingest(args: argparse.Namespace) -> int:
@@ -98,3 +132,58 @@ def _print_report(
         f"Failed: {sum(len(r.failed) for r in results)}"
     )
     print(f"DB: {db_path} (total hands: {total_hands})")
+
+
+def _run_preflop(args: argparse.Namespace) -> int:
+    try:
+        book = playbook.load_playbook(args.playbook)
+    except playbook.PlaybookError as exc:
+        return _fatal(f"invalid playbook {args.playbook}: {exc}")
+    except (OSError, UnicodeDecodeError) as exc:
+        return _fatal(f"cannot read playbook {args.playbook}: {exc}")
+
+    with contextlib.closing(store.connect(args.db)) as conn:
+        hands = store.load_hands(conn)
+        if not hands:
+            return _fatal(f"no hands in {args.db}; run `solver ingest` first")
+
+        checks = []
+        had_errors = False
+        for hand in hands:
+            try:
+                checks.append(preflop.check_preflop(hand, book))
+            except Exception as exc:  # noqa: BLE001 - one bad hand must not stop the run
+                had_errors = True
+                checks.append(
+                    DecisionCheck(
+                        hand_id=hand.hand_id,
+                        status=CheckStatus.UNSUPPORTED,
+                        reason=f"error: {exc!r}",
+                    )
+                )
+        store.replace_preflop_checks(conn, checks, book.hash)
+        selected = store.load_preflop_checks(
+            conn, source_file=args.session, since=args.since, until=args.until
+        )
+
+    if args.session and not selected:
+        return _fatal(f"no hands in session {args.session!r}")
+
+    print(
+        report.format_report(
+            report.summarize(selected),
+            scope=_scope(args),
+            playbook_hash=book.hash,
+            db_path=str(args.db),
+        )
+    )
+    return EXIT_PARTIAL if had_errors else EXIT_OK
+
+
+def _scope(args: argparse.Namespace) -> str:
+    parts = [args.session] if args.session else []
+    if args.since:
+        parts.append(f"since {args.since:%Y-%m-%d}")
+    if args.until:
+        parts.append(f"until {args.until:%Y-%m-%d}")
+    return " ".join(parts) or "all hands"
