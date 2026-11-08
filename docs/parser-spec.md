@@ -187,8 +187,8 @@ testable function:
   (stack em fichas)" block, before blind posts. Takes the merged
   hole-cards dict (preflop + summary reveals, see below) and builds each
   `Seat` fully validated the first time — no post-construction patching.
-- `_parse_blind_posts(lines) -> list[Action]` — "X: é small/big blind Y €"
-  (street=PREFLOP)
+- `_parse_blind_posts(lines, stakes) -> list[Action]` — "X: é small/big
+  blind Y €" and combined posts (street=PREFLOP, see quirk 8)
 - `_split_by_street(lines) -> dict[Street, list[str]]` — split the hand body
   on the `*** X ***` markers
 - `_parse_street_actions(lines, street) -> list[Action]`
@@ -280,6 +280,12 @@ export, add it here.
 7. **Split pots are just multiple `PotResult` entries on one hand** —
    confirmed in hand #24, two players both `mostrou [...] e ganhou (...)`.
    No special-casing needed; the list already supports it.
+8. **Combined blind posts** — `X: é small & big blinds 0.03 €` is a player
+   posting out of position to play straight away: 0.02 € is live and 0.01 €
+   is dead. Emit a `POST_SB` for the small blind and a `POST_BB` for the big
+   blind, both for that player. Any other `X: é ...` line before the hole
+   cards, or a combined amount other than SB + BB, fails the hand: these
+   lines sit outside every street, so an unhandled one would vanish silently.
 
 ## Implementation order — keep populated fields symmetric
 Extend one street at a time, and populate both `actions` and

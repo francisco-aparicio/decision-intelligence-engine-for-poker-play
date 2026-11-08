@@ -47,6 +47,12 @@ _BLIND_RE = re.compile(
     r"^(?P<player>.+?): é (?P<kind>small|big) blind (?P<amount>[\d.]+)\s*€"
 )
 
+_COMBINED_BLIND_RE = re.compile(
+    r"^(?P<player>.+?): é small & big blinds (?P<amount>[\d.]+)\s*€"
+)
+
+_POST_LINE_RE = re.compile(r"^.+?: é ")
+
 _HOLE_CARDS_RE = re.compile(r"^(?P<player>\S+) recebe \[(?P<c1>\w+) (?P<c2>\w+)\]")
 
 _STREET_MARKER_RE = re.compile(r"^\*\*\* (?P<marker>[^*]+?) \*\*\*")
@@ -110,7 +116,7 @@ def parse_hand(raw_hand_text: str, hero_name: str) -> Hand:
 
         header = _parse_header(lines[0])
         table = _parse_table_line(lines[1])
-        blind_actions = _parse_blind_posts(lines)
+        blind_actions = _parse_blind_posts(lines, header["stakes"])
 
         streets = _split_by_street(lines)
         preflop_lines = streets.get(Street.PREFLOP, [])
@@ -218,23 +224,46 @@ def _parse_seats(
     return seats
 
 
-def _parse_blind_posts(lines: list[str]) -> list[Action]:
-    """Parse blind-post lines. May return more than one SB or BB (quirk: reentries)."""
+def _blind_post(player: str, action_type: ActionType, amount: float) -> Action:
+    return Action(
+        player=player, street=Street.PREFLOP, action=action_type, amount=amount
+    )
+
+
+def _parse_blind_posts(lines: list[str], stakes: tuple[float, float]) -> list[Action]:
+    """Parse the blind posts that precede the hole cards.
+
+    May return more than one SB or BB (quirk: reentries). A combined post
+    becomes a dead POST_SB plus a live POST_BB for the same player.
+
+    Raises:
+        ValueError: A post line has an unknown shape or an unexpected combined
+            amount. These lines sit outside every street, so anything not
+            handled here would otherwise vanish without an error.
+    """
+    small_blind, big_blind = stakes
     actions = []
     for line in lines:
-        match = _BLIND_RE.match(line)
-        if match:
+        if _STREET_MARKER_RE.match(line):
+            break
+        if _SEAT_RE.match(line):  # a player's name may itself start with "é "
+            continue
+        if match := _COMBINED_BLIND_RE.match(line):
+            if float(match["amount"]) != round(small_blind + big_blind, 2):
+                raise ValueError(f"unexpected combined blind amount: {line!r}")
+            actions.append(
+                _blind_post(match["player"], ActionType.POST_SB, small_blind)
+            )
+            actions.append(_blind_post(match["player"], ActionType.POST_BB, big_blind))
+        elif match := _BLIND_RE.match(line):
             action_type = (
                 ActionType.POST_SB if match["kind"] == "small" else ActionType.POST_BB
             )
             actions.append(
-                Action(
-                    player=match["player"],
-                    street=Street.PREFLOP,
-                    action=action_type,
-                    amount=float(match["amount"]),
-                )
+                _blind_post(match["player"], action_type, float(match["amount"]))
             )
+        elif _POST_LINE_RE.match(line):
+            raise ValueError(f"unrecognized blind post: {line!r}")
     return actions
 
 

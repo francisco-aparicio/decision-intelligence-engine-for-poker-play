@@ -222,7 +222,7 @@ All amounts in bb are `amount / hand.stakes[1]`. `Action.amount` for raises is t
    - **SB** = the active player immediately before the true BB in clockwise order, if they posted `POST_SB`.
    - **Non-blind players** = everyone else, in clockwise order starting after the BB. Label them from the end backwards: `BTN, CO, HJ, UTG`.
    - With more than 4 non-blind players, or if the player labelled `BTN` is not on `button_seat`, the result is `position_ambiguous`.
-5. **Extra posters** are any `POST_BB` other than the true BB's. They keep their non-blind label, and their post counts as a **limp**. A `POST_SB` by a non-SB player is dead money and is ignored.
+5. **Extra posters** are any `POST_BB` other than the true BB's. They keep their non-blind label, and their post counts as a **limp**. A `POST_SB` by a non-SB player is dead money and is ignored. A combined "small & big blinds" post reaches this module as one `POST_SB` plus one `POST_BB` for that player, so these rules cover it.
 
 ### Node classification
 - **Prior actions** are the preflop actions before hero's first voluntary action, excluding all `POST_SB` actions and the true BB's `POST_BB`.
@@ -481,7 +481,6 @@ New subcommand `preflop`:
 - Postflop analysis, metrics (bb/100, VPIP, ...), the LLM and the coach.
 - Mixed frequencies, ranges that depend on the opener's size, stack-depth adjustments beyond the hero threshold.
 - CSV export, incremental assessment, keeping history of earlier checks.
-- Parser support for combined "small & big blind" dead posts. Such hands already fail at parse time and never reach this module.
 
 ## Downstream contract (informational, no code here)
 The coach will select hands with:

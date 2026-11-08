@@ -319,6 +319,51 @@ def test_parse_session_no_hands() -> None:
     assert result == ParseResult(hands=[], failed=[])
 
 
+def _combined_blind_hand() -> str:
+    blocks = split_into_hands(_read_sample(SESSION_FILE))
+    return next(b for b in blocks if "é small & big blinds" in b)
+
+
+def test_combined_blind_post_splits_into_dead_sb_and_live_bb() -> None:
+    hand = parse_hand(_combined_blind_hand(), hero_name=HERO_NAME)
+
+    posts = [
+        (a.player, a.action, a.amount)
+        for a in hand.actions
+        if a.action in (ActionType.POST_SB, ActionType.POST_BB)
+    ]
+    assert posts == [
+        ("jffbarros", ActionType.POST_SB, 0.01),
+        ("artur012344", ActionType.POST_BB, 0.02),
+        ("RealHurley101", ActionType.POST_SB, 0.01),
+        ("RealHurley101", ActionType.POST_BB, 0.02),
+    ]
+
+
+def test_combined_blind_with_unexpected_amount_fails_loudly() -> None:
+    raw_hand = _combined_blind_hand()
+    bad_amount = raw_hand.replace("small & big blinds 0.03", "small & big blinds 0.04")
+    assert bad_amount != raw_hand
+
+    with pytest.raises(HandParseError, match="unexpected combined blind amount"):
+        parse_hand(bad_amount, hero_name=HERO_NAME)
+
+
+def test_unrecognized_blind_post_fails_loudly() -> None:
+    raw_hand = split_into_hands(_read_sample("hand_001.txt"))[0]
+    unknown_post = raw_hand.replace(
+        "Armas1989: é small blind 0.01 €", "Armas1989: é straddle 0.04 €"
+    )
+    assert unknown_post != raw_hand
+
+    with pytest.raises(HandParseError, match="unrecognized blind post"):
+        parse_hand(unknown_post, hero_name=HERO_NAME)
+
+    result = parse_session(unknown_post, hero_name=HERO_NAME)
+    assert result.hands == []
+    assert [failed.raw_text for failed in result.failed] == [unknown_post]
+
+
 def test_side_pot_summary_fails_loudly() -> None:
     raw_hand = split_into_hands(_read_sample("hand_001.txt"))[0]
     # No real side-pot hand exists in the fixtures, so this pt wording is a guess.

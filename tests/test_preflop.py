@@ -469,6 +469,53 @@ def test_extra_bb_poster_checking_is_ok(min_playbook):
     assert result.expected_action is Move.CHECK
 
 
+HERO_COMBINED_BLIND_HAND = """\
+Mão #261878229277 da PokerStars:  Hold'em No Limit (0.01 €/0.02 € EUR) - 2026/08/26 21:22:38 UTC [2026/08/26 17:22:38 ET]
+Mesa 'Velleda V' 6-max Lugar #5 é o botão
+Lugar 1: ohlaracorp (8.05 € em fichas)
+Lugar 3: NAZAKILLERS (2.72 € em fichas)
+Lugar 4: osorio211 (2 € em fichas)
+Lugar 5: Necamarmelo (2.51 € em fichas)
+Lugar 6: JacNor81 (2.66 € em fichas)
+JacNor81: é small blind 0.01 €
+ohlaracorp: é big blind 0.02 €
+osorio211: é small & big blinds 0.03 €
+*** CARTAS HOLE ***
+osorio211 recebe [7d As]
+NAZAKILLERS: desiste
+osorio211: passa
+Necamarmelo: iguala 0.02 €
+JacNor81: sobe 0.10 € para 0.12 €
+ohlaracorp: desiste
+osorio211: desiste
+Necamarmelo: desiste
+Aposta não-igualada (0.10 €) voltou para JacNor81
+JacNor81 recebeu 0.09 € do pote
+JacNor81: não mostra a mão
+*** SUMÁRIO ***
+Total pote 0.09 € | comissão 0 €
+Lugar 1: ohlaracorp (big blind) desistiu antes Flop
+Lugar 3: NAZAKILLERS desistiu antes Flop (não apostou)
+Lugar 4: osorio211 desistiu antes Flop (não apostou)
+Lugar 5: Necamarmelo (Botão) desistiu antes Flop
+Lugar 6: JacNor81 (small blind) recebeu (0.09 €)
+"""
+
+
+def test_hero_combined_blind_post_gets_a_free_check(min_playbook):
+    parsed = parse_session(HERO_COMBINED_BLIND_HAND, "osorio211")
+    assert parsed.failed == []
+
+    result = preflop.check_preflop(parsed.hands[0], min_playbook)
+
+    assert result.status is CheckStatus.OK
+    assert result.hero_pos is Position.CO
+    assert result.node is Node.RFI
+    assert result.n_limpers == 0  # hero's own post is not a limper
+    assert result.expected_action is Move.CHECK
+    assert result.actual_action is Move.CHECK
+
+
 def test_folding_when_a_check_was_free_is_unsupported_not_guessed(min_playbook):
     result = check(
         min_playbook,
